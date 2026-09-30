@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Career Tracker — Rui's Job Search</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f8fb; --card:#ffffff; --ink:#0f1b2d; --muted:#5b6b82; --line:#e4e9f1;
+    --outreach:#64748b; --connected:#0284c7; --engaged:#d97706; --interviewing:#7c3aed;
+    --scheduling:#0891b2; --offer:#16a34a; --paused:#9ca3af;
+    --radius:14px; --shadow:0 1px 2px rgba(15,27,45,.05),0 8px 24px rgba(15,27,45,.06);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+  header.top{position:sticky;top:0;z-index:10;background:rgba(246,248,251,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .top-inner{display:flex;align-items:center;gap:18px;height:62px}
+  .brand{font-weight:800;font-size:17px;letter-spacing:-.02em;display:flex;align-items:center;gap:10px;text-decoration:none}
+  .brand-mark{width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,#4f46e5,#0ea5e9);display:inline-flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800}
+  nav{display:flex;gap:4px;margin-left:auto}
+  nav a{text-decoration:none;font-size:14px;font-weight:600;color:var(--muted);padding:8px 14px;border-radius:9px}
+  nav a.active,nav a:hover{background:#e8eef7;color:var(--ink)}
+  main{padding:28px 0 60px}
+  h1{font-size:26px;letter-spacing:-.03em;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:14px;margin:0 0 22px}
+  /* stat cards */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin-bottom:26px}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow)}
+  .stat .n{font-size:26px;font-weight:800;letter-spacing:-.02em}
+  .stat .l{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-top:2px;display:flex;align-items:center;gap:6px}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+  /* section titles */
+  .sec-title{font-size:15px;font-weight:700;letter-spacing:-.01em;margin:26px 0 12px;display:flex;align-items:center;gap:8px}
+  .sec-title .count{font-size:12px;font-weight:600;color:var(--muted);background:#eef2f8;border-radius:20px;padding:2px 10px}
+  /* interview list */
+  .iv-list{display:grid;gap:10px}
+  .iv{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 18px;display:flex;gap:16px;align-items:center;box-shadow:var(--shadow);text-decoration:none}
+  .iv:hover{border-color:#c6d3e6}
+  .iv-date{background:#eef2ff;border-radius:10px;min-width:64px;text-align:center;padding:8px 6px}
+  .iv-date .d{font-size:20px;font-weight:800;line-height:1}
+  .iv-date .m{font-size:11px;font-weight:700;color:#4f46e5;text-transform:uppercase}
+  .iv-body{flex:1;min-width:0}
+  .iv-company{font-weight:700;font-size:14px}
+  .iv-detail{font-size:13px;color:var(--muted);margin-top:2px}
+  .iv-when{font-size:12px;font-weight:600;color:var(--muted);white-space:nowrap}
+  .pill{font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;text-transform:uppercase;letter-spacing:.05em}
+  .pill.up{background:#dcfce7;color:#166534}
+  .pill.done{background:#f1f5f9;color:#64748b}
+  /* toolbar */
+  .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:6px 0 16px}
+  .search{flex:1;min-width:200px;position:relative}
+  .search input{width:100%;padding:11px 14px 11px 38px;border:1px solid var(--line);border-radius:11px;font-size:14px;font-family:inherit;background:#fff}
+  .search input:focus{outline:2px solid #bfdbfe;border-color:#93c5fd}
+  .search .icon{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:#94a3b8;font-size:15px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{border:1px solid var(--line);background:#fff;border-radius:20px;padding:7px 13px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer;font-family:inherit}
+  .chip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+  /* company grid */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow);text-decoration:none;display:block;transition:transform .08s ease,border-color .08s ease}
+  .card:hover{transform:translateY(-2px);border-color:#c6d3e6}
+  .card-top{display:flex;gap:12px;align-items:center;margin-bottom:10px}
+  .avatar{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:15px;flex:none;letter-spacing:.02em}
+  .card-name{font-weight:700;font-size:15px;letter-spacing:-.01em}
+  .card-tag{font-size:12.5px;color:var(--muted);margin-top:1px;line-height:1.35}
+  .badge{font-size:11px;font-weight:700;padding:4px 10px;border-radius:20px;color:#fff;text-transform:uppercase;letter-spacing:.05em;white-space:nowrap}
+  .card-meta{display:flex;justify-content:space-between;align-items:center;margin-top:12px;padding-top:12px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted)}
+  .card-meta b{color:var(--ink);font-weight:700}
+  .empty{background:#fff;border:1px dashed var(--line);border-radius:var(--radius);padding:40px;text-align:center;color:var(--muted);font-size:14px}
+  /* summary table */
+  .table-wrap{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow-x:auto}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;min-width:760px}
+  th{text-align:left;padding:12px 14px;font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border-bottom:1px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap;background:#fafbfe}
+  th:hover{color:var(--ink)}
+  td{padding:12px 14px;border-bottom:1px solid #f0f3f8;vertical-align:middle}
+  tr:last-child td{border-bottom:none}
+  tbody tr:hover{background:#f8fafd}
+  td .tname{font-weight:700}
+  td .tname a{text-decoration:none}
+  td .tname a:hover{text-decoration:underline}
+  /* profile */
+  .back{display:inline-flex;align-items:center;gap:6px;font-size:13.5px;font-weight:600;color:var(--muted);text-decoration:none;margin-bottom:16px}
+  .back:hover{color:var(--ink)}
+  .profile-head{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:26px;display:flex;gap:20px;align-items:center;flex-wrap:wrap;margin-bottom:18px}
+  .profile-head .avatar{width:64px;height:64px;font-size:22px;border-radius:16px}
+  .profile-head h1{margin:0}
+  .profile-head .tagline{color:var(--muted);font-size:14px;margin-top:4px}
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:18px}
+  .fact{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow)}
+  .fact .k{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-bottom:4px}
+  .fact .v{font-size:14.5px;font-weight:600}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px 22px;margin-bottom:18px}
+  .panel h3{margin:0 0 12px;font-size:14px;font-weight:700;letter-spacing:-.01em}
+  .intel-comp{background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:12px 14px;font-size:14px;font-weight:600;margin-bottom:10px}
+  .intel-notes{margin:0;padding-left:18px;font-size:14px;color:#334155}
+  .intel-notes li{margin:6px 0}
+  .contact{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid #f0f3f8}
+  .contact:last-child{border-bottom:none}
+  .contact .who{flex:1;min-width:0}
+  .contact .nm{font-weight:600;font-size:14px}
+  .contact .rl{font-size:12.5px;color:var(--muted)}
+  .cstat{font-size:11px;font-weight:700;padding:3px 10px;border-radius:20px;white-space:nowrap}
+  .cstat.invited{background:#e0f2fe;color:#075985}
+  .cstat.connected{background:#dcfce7;color:#166534}
+  .cstat.inbound_pending{background:#fef3c7;color:#92400e}
+  .cstat.existing{background:#f1f5f9;color:#475569}
+  .lnk{font-size:12.5px;font-weight:600;color:#2563eb;text-decoration:none;white-space:nowrap}
+  .lnk:hover{text-decoration:underline}
+  .tl{position:relative;margin:0;padding:0;list-style:none}
+  .tl li{position:relative;padding:0 0 16px 26px;font-size:14px}
+  .tl li:last-child{padding-bottom:0}
+  .tl li::before{content:'';position:absolute;left:7px;top:6px;width:9px;height:9px;border-radius:50%;background:#cbd5e1;border:2px solid #fff;box-shadow:0 0 0 2px #e2e8f0}
+  .tl li::after{content:'';position:absolute;left:11px;top:20px;bottom:-2px;width:2px;background:#eef2f7}
+  .tl li:last-child::after{display:none}
+  .tl .dt{font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .tl .tx{margin-top:2px;color:#1e293b}
+  footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  @media(max-width:640px){.iv{flex-wrap:wrap}.iv-when{width:100%}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap top-inner">
+  <a class="brand" href="#/"><span class="brand-mark">◈</span> Career Tracker</a>
+  <nav><a href="#/" data-nav="">Dashboard</a><a href="#/summary" data-nav="summary">Summary</a></nav>
+</div></header>
+<main><div class="wrap" id="app"></div></main>
+<script src="data.js"></script>
+<script>
+'use strict';
+/* ---------- helpers ---------- */
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function fmtDate(iso){
+  if(!iso) return '—';
+  const [y,m,d] = iso.split('-').map(Number);
+  return `${MONTHS[m-1]} ${d}, ${y}`;
+}
+function todayISO(){
+  const t = new Date();
+  return `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
+}
+const STATUS_META = {
+  outreach:    {label:'Outreach',    color:'var(--outreach)'},
+  connected:   {label:'Connected',   color:'var(--connected)'},
+  engaged:     {label:'Engaged',      color:'var(--engaged)'},
+  interviewing:{label:'Interviewing',color:'var(--interviewing)'},
+  scheduling:  {label:'Scheduling',  color:'var(--scheduling)'},
+  offer:       {label:'Offer',       color:'var(--offer)'},
+  paused:      {label:'Paused',      color:'var(--paused)'}
+};
+const CONTACT_META = {
+  invited:        {label:'Invited',        cls:'invited'},
+  connected:      {label:'Connected',      cls:'connected'},
+  inbound_pending:{label:'Inbound invite', cls:'inbound_pending'},
+  existing:       {label:'Contact',        cls:'existing'}
+};
+function initials(name){
+  return name.split(/\s+/).slice(0,2).map(w=>w[0]).join('').toUpperCase();
+}
+function hue(slug){
+  let h=0; for(const ch of slug) h=(h*31+ch.charCodeAt(0))%360; return h;
+}
+function avatarHTML(c, size){
+  return `<span class="avatar" style="background:linear-gradient(135deg,hsl(${hue(c.slug)},62%,52%),hsl(${(hue(c.slug)+40)%360},62%,42%))">${esc(initials(c.name))}</span>`;
+}
+function statusBadge(st){
+  const m = STATUS_META[st] || {label:st, color:'#999'};
+  return `<span class="badge" style="background:${m.color}">${esc(m.label)}</span>`;
+}
+function lastActivity(c){
+  if(!c.timeline.length) return null;
+  return c.timeline[c.timeline.length-1].date;
+}
+function allInterviews(){
+  const out=[];
+  for(const c of COMPANIES) for(const iv of c.interviews) out.push({company:c, ...iv});
+  out.sort((a,b)=> a.date===b.date ? a.time.localeCompare(b.time) : b.date.localeCompare(a.date));
+  return out;
+}
+/* valuation sort key: billions, non-numeric last */
+function valKey(v){
+  if(!v) return -1;
+  const m = String(v).replace(/,/g,'').match(/([\d.]+)/);
+  if(!m) return -1;
+  let n = parseFloat(m[1]);
+  if(/\$[\d.]*\s*[–-]\s*\$?[\d.]+\s*M\b/i.test(v) || /\bM\b/.test(v) && !/\bB\b/.test(v)) n = n/1000;
+  return n;
+}
+
+/* ---------- dashboard ---------- */
+let dashState = {q:'', status:'all'};
+function renderDashboard(){
+  const counts = {};
+  for(const c of COMPANIES) counts[c.status]=(counts[c.status]||0)+1;
+  const order = ['interviewing','engaged','scheduling','connected','outreach','offer','paused'];
+  const statCards = order.filter(s=>counts[s]).map(s=>
+    `<div class="stat"><div class="n">${counts[s]}</div><div class="l"><span class="dot" style="background:${STATUS_META[s].color}"></span>${STATUS_META[s].label}</div></div>`
+  ).join('');
+  const totalInvites = COMPANIES.reduce((n,c)=>n+c.contacts.filter(x=>x.contact_status==='invited').length,0);
+  const totalConnected = COMPANIES.reduce((n,c)=>n+c.contacts.filter(x=>x.contact_status==='connected'||x.contact_status==='existing').length,0);
+
+  const today = todayISO();
+  const ivs = allInterviews();
+  const upcoming = ivs.filter(i=>i.date>=today).reverse();
+  const past = ivs.filter(i=>i.date<today);
+  const ivHTML = [...upcoming, ...past].map(i=>{
+    const isUp = i.date>=today;
+    const [y,m,d]=i.date.split('-').map(Number);
+    return `<a class="iv" href="#/company/${i.company.slug}">
+      <div class="iv-date"><div class="d">${d}</div><div class="m">${MONTHS[m-1]}</div></div>
+      <div class="iv-body"><div class="iv-company">${esc(i.company.name)} — ${esc(i.title)}</div>
+      <div class="iv-detail">${esc(i.time)} · ${esc(i.people)}${i.notes?` · ${esc(i.notes)}`:''}</div></div>
+      <span class="iv-when">${fmtDate(i.date)}</span>
+      <span class="pill ${isUp?'up':'done'}">${isUp?'Upcoming':'Done'}</span></a>`;
+  }).join('');
+
+  const chips = ['all',...order.filter(s=>counts[s])].map(s=>
+    `<button class="chip ${dashState.status===s?'active':''}" data-status="${s}">${s==='all'?'All':STATUS_META[s].label}</button>`
+  ).join('');
+
+  $('#app').innerHTML = `
+    <h1>Job search dashboard</h1>
+    <p class="sub">${COMPANIES.length} companies · ${totalInvites} invites sent · ${totalConnected} recruiter connections · updated ${BUILD_DATE}</p>
+    <div class="stats">
+      <div class="stat"><div class="n">${COMPANIES.length}</div><div class="l">Companies</div></div>
+      ${statCards}
+    </div>
+    <div class="sec-title">Interviews <span class="count">${ivs.length}</span></div>
+    <div class="iv-list">${ivHTML || '<div class="empty">No interviews tracked yet.</div>'}</div>
+    <div class="sec-title">Companies <span class="count" id="gridCount"></span></div>
+    <div class="toolbar">
+      <div class="search"><span class="icon">⌕</span><input id="q" type="search" placeholder="Search companies…" value="${esc(dashState.q)}"></div>
+      <div class="chips">${chips}</div>
+    </div>
+    <div class="grid" id="grid"></div>
+    <footer><span>Career tracker — update <b>data/companies.json</b> and run <b>build.py</b> to refresh.</span><span>Built for GitHub Pages · no build step</span></footer>`;
+
+  document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('active', (a.dataset.nav||'')===''));
+  const renderGrid = ()=>{
+    const q = dashState.q.trim().toLowerCase();
+    const list = COMPANIES.filter(c =>
+      (dashState.status==='all' || c.status===dashState.status) &&
+      (!q || c.name.toLowerCase().includes(q) || (c.tagline||'').toLowerCase().includes(q)));
+    $('#gridCount').textContent = list.length;
+    $('#grid').innerHTML = list.length ? list.map(c=>{
+      const la = lastActivity(c);
+      return `<a class="card" href="#/company/${c.slug}">
+        <div class="card-top">${avatarHTML(c)}
+          <div style="flex:1;min-width:0"><div class="card-name">${esc(c.name)}</div><div class="card-tag">${esc(c.tagline||'')}</div></div>
+          ${statusBadge(c.status)}
+        </div>
+        <div class="card-meta"><span>Valuation <b>${esc(c.valuation||'—')}</b></span><span>Last activity <b>${la?fmtDate(la):'—'}</b></span></div>
+      </a>`;
+    }).join('') : '<div class="empty">No companies match.</div>';
+  };
+  $('#q').addEventListener('input', e=>{dashState.q=e.target.value; renderGrid();});
+  document.querySelectorAll('.chip').forEach(ch=>ch.addEventListener('click', ()=>{
+    dashState.status = ch.dataset.status;
+    document.querySelectorAll('.chip').forEach(x=>x.classList.toggle('active', x===ch));
+    renderGrid();
+  }));
+  renderGrid();
+}
+
+/* ---------- summary table ---------- */
+let sumState = {key:'status', dir:1};
+function renderSummary(){
+  const statusRank = {interviewing:0, engaged:1, scheduling:2, connected:3, outreach:4, offer:5, paused:6};
+  const rows = COMPANIES.map(c=>({
+    c,
+    contacts: c.contacts.length,
+    connectedCount: c.contacts.filter(x=>x.contact_status==='connected').length,
+    last: lastActivity(c) || ''
+  }));
+  const k = sumState.key, dir = sumState.dir;
+  rows.sort((a,b)=>{
+    let va, vb;
+    if(k==='name'){va=a.c.name.toLowerCase();vb=b.c.name.toLowerCase();}
+    else if(k==='valuation'){va=valKey(a.c.valuation);vb=valKey(b.c.valuation);}
+    else if(k==='size'){va=(a.c.size||'').toLowerCase();vb=(b.c.size||'').toLowerCase();}
+    else if(k==='status'){va=statusRank[a.c.status]??9;vb=statusRank[b.c.status]??9;}
+    else if(k==='contacts'){va=a.contacts;vb=b.contacts;}
+    else if(k==='last'){va=a.last;vb=b.last;}
+    return (va<vb?-1:va>vb?1:0)*dir;
+  });
+  const arrow = key => sumState.key===key ? (sumState.dir===1?' ▲':' ▼') : '';
+  const th = (key,label)=>`<th data-sort="${key}">${label}${arrow(key)}</th>`;
+  $('#app').innerHTML = `
+    <h1>Company summary</h1>
+    <p class="sub">All ${COMPANIES.length} companies at a glance — click a column to sort.</p>
+    <div class="table-wrap"><table>
+      <thead><tr>${th('name','Company')}${th('valuation','Valuation')}${th('size','Size')}${th('status','Status')}${th('contacts','Recruiters')}${th('last','Last activity')}</tr></thead>
+      <tbody>${rows.map(r=>`<tr>
+        <td><span class="tname"><a href="#/company/${r.c.slug}">${esc(r.c.name)}</a></span><div style="font-size:12px;color:var(--muted)">${esc(r.c.tagline||'')}</div></td>
+        <td><b>${esc(r.c.valuation||'—')}</b>${r.c.valuation_detail?`<div style="font-size:12px;color:var(--muted)">${esc(r.c.valuation_detail)}</div>`:''}</td>
+        <td>${esc(r.c.size||'—')}</td>
+        <td>${statusBadge(r.c.status)}</td>
+        <td>${r.contacts} <span style="color:var(--muted)">(${r.connectedCount} connected)</span></td>
+        <td>${r.last?fmtDate(r.last):'—'}</td>
+      </tr>`).join('')}</tbody>
+    </table></div>
+    <footer><span>Career tracker — update <b>data/companies.json</b> and run <b>build.py</b> to refresh.</span></footer>`;
+  document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('active', a.dataset.nav==='summary'));
+  document.querySelectorAll('th[data-sort]').forEach(el=>el.addEventListener('click', ()=>{
+    const key = el.dataset.sort;
+    if(sumState.key===key) sumState.dir*=-1; else {sumState.key=key; sumState.dir=1;}
+    renderSummary();
+  }));
+}
+
+/* ---------- company profile ---------- */
+function renderCompany(slug){
+  const c = COMPANIES.find(x=>x.slug===slug);
+  if(!c){ $('#app').innerHTML = `<a class="back" href="#/">← Dashboard</a><div class="empty">Company not found.</div>`; return; }
+  const facts = [
+    ['Valuation', c.valuation ? `${c.valuation}${c.valuation_detail?` <span style="color:var(--muted);font-weight:400">· ${esc(c.valuation_detail)}</span>`:''}` : '—'],
+    ['Size', c.size || '—'],
+    ['Location', c.location || '—'],
+    ['RTO policy', c.rto || '—']
+  ].map(([k,v])=>`<div class="fact"><div class="k">${k}</div><div class="v">${v}</div></div>`).join('');
+
+  const intelNotes = (c.intel.notes||[]).map(n=>`<li>${esc(n)}</li>`).join('');
+  const intelHTML = (c.intel.comp || intelNotes) ? `<div class="panel"><h3>Intel</h3>
+    ${c.intel.comp?`<div class="intel-comp">💰 ${esc(c.intel.comp)}</div>`:''}
+    ${intelNotes?`<ul class="intel-notes">${intelNotes}</ul>`:''}</div>` : '';
+
+  const ivHTML = c.interviews.length ? `<div class="panel"><h3>Interviews</h3><div class="iv-list">${c.interviews.map(iv=>{
+    const [y,m,d]=iv.date.split('-').map(Number); const isUp = iv.date>=todayISO();
+    return `<div class="iv"><div class="iv-date"><div class="d">${d}</div><div class="m">${MONTHS[m-1]}</div></div>
+      <div class="iv-body"><div class="iv-company">${esc(iv.title)}</div>
+      <div class="iv-detail">${esc(iv.time)} · ${esc(iv.people)}${iv.notes?` · ${esc(iv.notes)}`:''}</div></div>
+      <span class="pill ${isUp?'up':'done'}">${isUp?'Upcoming':'Done'}</span></div>`;
+  }).join('')}</div></div>` : '';
+
+  const contactsHTML = `<div class="panel"><h3>Recruiter contacts <span style="color:var(--muted);font-weight:500">(${c.contacts.length})</span></h3>
+    ${c.contacts.length ? c.contacts.map(ct=>{
+      const m = CONTACT_META[ct.contact_status] || {label:ct.contact_status, cls:'existing'};
+      return `<div class="contact"><div class="who"><div class="nm">${esc(ct.name)}</div><div class="rl">${esc(ct.role||'')}${ct.date?` · ${fmtDate(ct.date)}`:''}</div></div>
+        <span class="cstat ${m.cls}">${m.label}</span>
+        ${ct.linkedin?`<a class="lnk" href="${esc(ct.linkedin)}" target="_blank" rel="noopener">LinkedIn ↗</a>`:''}</div>`;
+    }).join('') : '<div style="color:var(--muted);font-size:14px">No recruiter contacts tracked.</div>'}</div>`;
+
+  const tlHTML = `<div class="panel"><h3>Timeline</h3>
+    ${c.timeline.length ? `<ul class="tl">${c.timeline.map(t=>`<li><div class="dt">${fmtDate(t.date)}</div><div class="tx">${esc(t.text)}</div></li>`).join('')}</ul>`
+    : '<div style="color:var(--muted);font-size:14px">Nothing recorded yet.</div>'}</div>`;
+
+  $('#app').innerHTML = `
+    <a class="back" href="#/">← Back to dashboard</a>
+    <div class="profile-head">${avatarHTML(c)}
+      <div style="flex:1;min-width:220px"><h1>${esc(c.name)}</h1><div class="tagline">${esc(c.tagline||'')}</div></div>
+      ${statusBadge(c.status)}
+    </div>
+    <div class="facts">${facts}</div>
+    ${intelHTML}${ivHTML}${contactsHTML}${tlHTML}
+    <footer><span>Career tracker — update <b>data/companies.json</b> and run <b>build.py</b> to refresh.</span></footer>`;
+  document.querySelectorAll('nav a').forEach(a=>a.classList.remove('active'));
+}
+
+/* ---------- router ---------- */
+function route(){
+  const h = location.hash || '#/';
+  if(h.startsWith('#/company/')) renderCompany(h.slice('#/company/'.length));
+  else if(h === '#/summary') renderSummary();
+  else renderDashboard();
+  window.scrollTo(0,0);
+}
+window.addEventListener('hashchange', route);
+route();
+</script>
+</body>
+</html>
