@@ -167,13 +167,18 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Still pending — Rui hasn't selected a slot yet"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Comp/team intel synced from Simplenote notes"
       }
     ],
     "intel": {
-      "comp": null,
+      "comp": "Base $250–280k (up to ~$300k?), 17.5% bonus, 1.6M RSU (per Simplenote recruiter notes, 2026-09-30)",
       "notes": [
         "Role: Staff Software Engineer, AI Model Lifecycle",
-        "Booking link: https://you.ashbyhq.com/meeting/41105d7e-cdc3-4fcc-ab09-2e7b62c0208c/"
+        "Booking link: https://you.ashbyhq.com/meeting/41105d7e-cdc3-4fcc-ab09-2e7b62c0208c/",
+        "Team: Managed AI service (model training, inference, AI platform); led by Yiwei; team growing 108 → 205"
       ]
     },
     "interviews": []
@@ -254,13 +259,18 @@ const COMPANIES = [
       {
         "date": "2026-09-29",
         "text": "Calendar event created; NDA to complete before the interview"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Role intel synced from Simplenote notes"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Coordinator: Noe Perez (noe.perez@doordash.com)",
-        "Zoom details in Noe's calendar invitation"
+        "Zoom details in Noe's calendar invitation",
+        "Role scope: home page personalization; ranking foundation model & gen tech; tuning transformer models, consumer-facing (video ranking for restaurants)"
       ]
     },
     "interviews": [
@@ -369,13 +379,18 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Recruiter intel: ~200 people total / ~40 on team; offer ~$1M in stock options; RTO 5 days/week, SFO office ~4 min walk from Caltrain"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Recruiter intel synced from Simplenote: interview loop includes debug round + AI coding round"
       }
     ],
     "intel": {
       "comp": "Offer would be roughly $1M in stock options (per recruiter, 2026-09-30)",
       "notes": [
         "~200 people total; ~40 on the hiring team/org (Rui's phrasing '40pp / 200pp' — team-vs-company interpretation unconfirmed)",
-        "RTO 5 days/week; SFO office ~4 min walk from Caltrain"
+        "RTO 5 days/week; SFO office ~4 min walk from Caltrain",
+        "Interview rounds include a debug round and an AI coding round (work with native AI; expect 'where is the code for this/that feature' questions)"
       ]
     },
     "interviews": [
@@ -1103,6 +1118,10 @@ const COMPANIES = [
         "text": "Rui confirmed interview schedule with coordinator Tyler Wong"
       },
       {
+        "date": "2026-09-30",
+        "text": "Team intel synced from Simplenote notes"
+      },
+      {
         "date": "2026-10-02",
         "text": "Round 1: Eric Chen (Technical Architecture), 11:00 AM–12:00 PM PT"
       },
@@ -1115,7 +1134,8 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Role: Senior Staff Machine Learning Engineer — Core Services Engineering",
-        "Shared Zoom link in both calendar events"
+        "Shared Zoom link in both calendar events",
+        "Risk team: fraud detection, viral posts, biometrics; Trust experience; Risk identity team ~40–100 people"
       ]
     },
     "interviews": [

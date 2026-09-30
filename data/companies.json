@@ -10,17 +10,49 @@
     "rto": null,
     "status": "engaged",
     "contacts": [
-      {"name": "Nina Mametsuka", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/nina-mametsuka-6765ab40/", "contact_status": "connected", "date": "2026-09-30"},
-      {"name": "Marisa Chin", "role": "Technical Recruiter", "linkedin": "https://www.linkedin.com/in/marisachin/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Nina Mametsuka",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/nina-mametsuka-6765ab40/",
+        "contact_status": "connected",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Marisa Chin",
+        "role": "Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/marisachin/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Nina Mametsuka (pilot invite #1; note mentioned mutual ex-Pinterest colleague Weiwei Guo)"},
-      {"date": "2026-09-28", "text": "Invite sent to Marisa Chin (wave 1)"},
-      {"date": "2026-09-30", "text": "Nina Mametsuka accepted the invitation"},
-      {"date": "2026-09-30", "text": "Nina asked for Rui's résumé (to Nina.mametsuka@glean.com) to connect him with Glean teams"},
-      {"date": "2026-09-30", "text": "Résumé sent to Nina via LinkedIn message with fit note (12:15 PM PT)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Nina Mametsuka (pilot invite #1; note mentioned mutual ex-Pinterest colleague Weiwei Guo)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Marisa Chin (wave 1)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Nina Mametsuka accepted the invitation"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Nina asked for Rui's résumé (to Nina.mametsuka@glean.com) to connect him with Glean teams"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Résumé sent to Nina via LinkedIn message with fit note (12:15 PM PT)"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval"
+      ]
+    },
     "interviews": []
   },
   {
@@ -34,14 +66,35 @@
     "rto": null,
     "status": "connected",
     "contacts": [
-      {"name": "Ravi B.", "role": "Senior Technical Recruiter, AI/ML", "linkedin": "https://www.linkedin.com/in/ravi-b-68277a171/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "TOBY X.", "role": "Talent Partner (Training & Evals & Research)", "linkedin": "https://www.linkedin.com/in/tobyxxy/", "contact_status": "existing", "date": null}
+      {
+        "name": "Ravi B.",
+        "role": "Senior Technical Recruiter, AI/ML",
+        "linkedin": "https://www.linkedin.com/in/ravi-b-68277a171/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "TOBY X.",
+        "role": "Talent Partner (Training & Evals & Research)",
+        "linkedin": "https://www.linkedin.com/in/tobyxxy/",
+        "contact_status": "existing",
+        "date": null
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "TOBY X. confirmed as existing 1st-degree connection — no invite needed"},
-      {"date": "2026-09-28", "text": "Invite sent to Ravi B. (wave 1; note w/ mutual Omkar Patinge)"}
+      {
+        "date": "2026-09-28",
+        "text": "TOBY X. confirmed as existing 1st-degree connection — no invite needed"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Ravi B. (wave 1; note w/ mutual Omkar Patinge)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -55,14 +108,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Sydney H.", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/sydney-h-7247a61a3/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Mikey Vigil", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/mikey-vigil/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Sydney H.",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/sydney-h-7247a61a3/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Mikey Vigil",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/mikey-vigil/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Sydney H. (wave 1)"},
-      {"date": "2026-09-28", "text": "Invite sent to Mikey Vigil (wave 1; note w/ mutual Rahul Voorugonda)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Sydney H. (wave 1)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Mikey Vigil (wave 1; note w/ mutual Rahul Voorugonda)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -76,14 +150,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Corin Aguilar", "role": "Talent Partner", "linkedin": "https://www.linkedin.com/in/corin-aguilar-624ba323/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Tom Callahan", "role": "Talent Partner", "linkedin": "https://www.linkedin.com/in/tom-callahan/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Corin Aguilar",
+        "role": "Talent Partner",
+        "linkedin": "https://www.linkedin.com/in/corin-aguilar-624ba323/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Tom Callahan",
+        "role": "Talent Partner",
+        "linkedin": "https://www.linkedin.com/in/tom-callahan/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Corin Aguilar (wave 1; note w/ mutual Ding Zhou)"},
-      {"date": "2026-09-28", "text": "Invite sent to Tom Callahan (wave 1; note w/ mutual Renfei Chen)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Corin Aguilar (wave 1; note w/ mutual Ding Zhou)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Tom Callahan (wave 1; note w/ mutual Renfei Chen)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -97,15 +192,39 @@
     "rto": null,
     "status": "connected",
     "contacts": [
-      {"name": "Markus Edmunds", "role": "Technical Recruiter (ML hiring)", "linkedin": "https://www.linkedin.com/in/markus-edmunds/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Tarun Diwan", "role": "Recruiter", "linkedin": "https://www.linkedin.com/in/tarundiwan/", "contact_status": "connected", "date": "2026-09-29"}
+      {
+        "name": "Markus Edmunds",
+        "role": "Technical Recruiter (ML hiring)",
+        "linkedin": "https://www.linkedin.com/in/markus-edmunds/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Tarun Diwan",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/tarundiwan/",
+        "contact_status": "connected",
+        "date": "2026-09-29"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Markus Edmunds (wave 1; note w/ mutual Ziwen Ning)"},
-      {"date": "2026-09-28", "text": "Invite sent to Tarun Diwan (wave 1; note w/ mutual Yan Cui)"},
-      {"date": "2026-09-29", "text": "Tarun Diwan accepted the invitation"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Markus Edmunds (wave 1; note w/ mutual Ziwen Ning)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Tarun Diwan (wave 1; note w/ mutual Yan Cui)"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Tarun Diwan accepted the invitation"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -119,14 +238,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Mitchell Sanedrin", "role": "Technical Recruiter (Contract)", "linkedin": "https://www.linkedin.com/in/mitchell-sanedrin/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Taylor Kientzel", "role": "Senior Technical Recruiter, Research", "linkedin": "https://www.linkedin.com/in/tkientzel/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Mitchell Sanedrin",
+        "role": "Technical Recruiter (Contract)",
+        "linkedin": "https://www.linkedin.com/in/mitchell-sanedrin/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Taylor Kientzel",
+        "role": "Senior Technical Recruiter, Research",
+        "linkedin": "https://www.linkedin.com/in/tkientzel/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Mitchell Sanedrin (wave 1)"},
-      {"date": "2026-09-28", "text": "Invite sent to Taylor Kientzel (wave 1)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Mitchell Sanedrin (wave 1)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Taylor Kientzel (wave 1)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -140,21 +280,71 @@
     "rto": "5 days/week in office",
     "status": "interviewing",
     "contacts": [
-      {"name": "Gabe Remar", "role": "Technical Recruiter", "linkedin": "https://www.linkedin.com/in/gabe-remar-87508968/", "contact_status": "connected", "date": "2026-09-29"},
-      {"name": "Angely Zheng", "role": "Talent", "linkedin": "https://www.linkedin.com/in/angelyzheng/", "contact_status": "connected", "date": "2026-09-28"}
+      {
+        "name": "Gabe Remar",
+        "role": "Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/gabe-remar-87508968/",
+        "contact_status": "connected",
+        "date": "2026-09-29"
+      },
+      {
+        "name": "Angely Zheng",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/angelyzheng/",
+        "contact_status": "connected",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Gabe Remar (wave 1; note w/ mutual Devesh Yadav)"},
-      {"date": "2026-09-28", "text": "Invite sent to Angely Zheng (wave 1; note w/ mutual Ruofei Shen)"},
-      {"date": "2026-09-28", "text": "Angely Zheng accepted; shared booking link for intro call with Gabe Remar"},
-      {"date": "2026-09-29", "text": "Gabe Remar accepted the invitation"},
-      {"date": "2026-09-29", "text": "Intro call booked: Wed 2026-09-30, 1:30–2:00 PM PT (Google Meet)"},
-      {"date": "2026-09-30", "text": "Intro call with Gabe Remar completed (1:30–2:00 PM PT)"},
-      {"date": "2026-09-30", "text": "Recruiter intel: ~200 people total / ~40 on team; offer ~$1M in stock options; RTO 5 days/week, SFO office ~4 min walk from Caltrain"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Gabe Remar (wave 1; note w/ mutual Devesh Yadav)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Angely Zheng (wave 1; note w/ mutual Ruofei Shen)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Angely Zheng accepted; shared booking link for intro call with Gabe Remar"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Gabe Remar accepted the invitation"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Intro call booked: Wed 2026-09-30, 1:30–2:00 PM PT (Google Meet)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Intro call with Gabe Remar completed (1:30–2:00 PM PT)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Recruiter intel: ~200 people total / ~40 on team; offer ~$1M in stock options; RTO 5 days/week, SFO office ~4 min walk from Caltrain"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Recruiter intel synced from Simplenote: interview loop includes debug round + AI coding round"
+      }
     ],
-    "intel": {"comp": "Offer would be roughly $1M in stock options (per recruiter, 2026-09-30)", "notes": ["~200 people total; ~40 on the hiring team/org (Rui's phrasing '40pp / 200pp' — team-vs-company interpretation unconfirmed)", "RTO 5 days/week; SFO office ~4 min walk from Caltrain"]},
+    "intel": {
+      "comp": "Offer would be roughly $1M in stock options (per recruiter, 2026-09-30)",
+      "notes": [
+        "~200 people total; ~40 on the hiring team/org (Rui's phrasing '40pp / 200pp' — team-vs-company interpretation unconfirmed)",
+        "RTO 5 days/week; SFO office ~4 min walk from Caltrain",
+        "Interview rounds include a debug round and an AI coding round (work with native AI; expect 'where is the code for this/that feature' questions)"
+      ]
+    },
     "interviews": [
-      {"date": "2026-09-30", "time": "1:30–2:00 PM PT", "title": "Intro call", "people": "Gabe Remar (Technical Recruiter)", "notes": "Google Meet — completed"}
+      {
+        "date": "2026-09-30",
+        "time": "1:30–2:00 PM PT",
+        "title": "Intro call",
+        "people": "Gabe Remar (Technical Recruiter)",
+        "notes": "Google Meet — completed"
+      }
     ]
   },
   {
@@ -168,16 +358,45 @@
     "rto": null,
     "status": "engaged",
     "contacts": [
-      {"name": "Tyler Wilson", "role": "Recruiter", "linkedin": "https://www.linkedin.com/in/tylergwilson/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Harry Kang", "role": "Tech Recruiter", "linkedin": "https://www.linkedin.com/in/harry-kang-3592921b/", "contact_status": "connected", "date": "2026-09-29"}
+      {
+        "name": "Tyler Wilson",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/tylergwilson/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Harry Kang",
+        "role": "Tech Recruiter",
+        "linkedin": "https://www.linkedin.com/in/harry-kang-3592921b/",
+        "contact_status": "connected",
+        "date": "2026-09-29"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Tyler Wilson (wave 1; note w/ mutual Yafei Zheng)"},
-      {"date": "2026-09-28", "text": "Invite sent to Harry Kang (wave 1)"},
-      {"date": "2026-09-29", "text": "Harry Kang accepted; asked for CV to share with core engineering managers"},
-      {"date": "2026-09-29", "text": "Résumé sent to Harry Kang via LinkedIn (9:50 AM PT) with fit note"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Tyler Wilson (wave 1; note w/ mutual Yafei Zheng)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Harry Kang (wave 1)"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Harry Kang accepted; asked for CV to share with core engineering managers"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Résumé sent to Harry Kang via LinkedIn (9:50 AM PT) with fit note"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Harry Kang leads hiring for DB internals, query engine, K8s, SRE"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Harry Kang leads hiring for DB internals, query engine, K8s, SRE"
+      ]
+    },
     "interviews": []
   },
   {
@@ -191,15 +410,41 @@
     "rto": null,
     "status": "connected",
     "contacts": [
-      {"name": "Joshua Poore", "role": "Technical Recruiting Leader (AI/ML/Data)", "linkedin": "https://www.linkedin.com/in/dataandairecruiter/", "contact_status": "connected", "date": "2026-09-30"},
-      {"name": "Lydia Cuarezma-Cobette", "role": "Recruiter", "linkedin": "https://www.linkedin.com/in/lydiacuarezma/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Joshua Poore",
+        "role": "Technical Recruiting Leader (AI/ML/Data)",
+        "linkedin": "https://www.linkedin.com/in/dataandairecruiter/",
+        "contact_status": "connected",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Lydia Cuarezma-Cobette",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/lydiacuarezma/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Joshua Poore (wave 1; note w/ mutual Dan Begley-Groth)"},
-      {"date": "2026-09-28", "text": "Invite sent to Lydia Cuarezma-Cobette (wave 1)"},
-      {"date": "2026-09-30", "text": "Joshua Poore accepted the invitation (owns Data, AI & Eng hiring)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Joshua Poore (wave 1; note w/ mutual Dan Begley-Groth)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Lydia Cuarezma-Cobette (wave 1)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Joshua Poore accepted the invitation (owns Data, AI & Eng hiring)"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Lydia Cuarezma-Cobette's focus appears to be Product Design/Design Eng, not ML"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Lydia Cuarezma-Cobette's focus appears to be Product Design/Design Eng, not ML"
+      ]
+    },
     "interviews": []
   },
   {
@@ -213,14 +458,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Matt McMahon", "role": "Recruiter (Research and Infra eng)", "linkedin": "https://www.linkedin.com/in/mattmcmahon90/", "contact_status": "invited", "date": "2026-09-28"},
-      {"name": "Alex Dalton", "role": "Recruiter (ex-Salesforce AI research-lab/PhD recruiting)", "linkedin": "https://www.linkedin.com/in/maye-dalton/", "contact_status": "invited", "date": "2026-09-28"}
+      {
+        "name": "Matt McMahon",
+        "role": "Recruiter (Research and Infra eng)",
+        "linkedin": "https://www.linkedin.com/in/mattmcmahon90/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      },
+      {
+        "name": "Alex Dalton",
+        "role": "Recruiter (ex-Salesforce AI research-lab/PhD recruiting)",
+        "linkedin": "https://www.linkedin.com/in/maye-dalton/",
+        "contact_status": "invited",
+        "date": "2026-09-28"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-28", "text": "Invite sent to Matt McMahon (wave 1; note w/ mutual Celeste Waverly)"},
-      {"date": "2026-09-28", "text": "Invite sent to Alex Dalton (wave 1)"}
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Matt McMahon (wave 1; note w/ mutual Celeste Waverly)"
+      },
+      {
+        "date": "2026-09-28",
+        "text": "Invite sent to Alex Dalton (wave 1)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -234,14 +500,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Natalya Rodriguez", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/natalya-rodriguez/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Jeraline Villegas", "role": "Talent", "linkedin": "https://www.linkedin.com/in/jeraline-villegas-51235a61/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Natalya Rodriguez",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/natalya-rodriguez/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Jeraline Villegas",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/jeraline-villegas-51235a61/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Natalya Rodriguez (wave 2; note w/ mutual Ben Nagrani)"},
-      {"date": "2026-09-30", "text": "Invite sent to Jeraline Villegas (wave 2; note w/ mutual Ben Nagrani)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Natalya Rodriguez (wave 2; note w/ mutual Ben Nagrani)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Jeraline Villegas (wave 2; note w/ mutual Ben Nagrani)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -255,14 +542,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Erik Forslund", "role": "Senior Recruiter (contract), Data Center/Infrastructure/AI", "linkedin": "https://www.linkedin.com/in/erikforslund/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Jared Tryon", "role": "Senior Recruiter", "linkedin": "https://www.linkedin.com/in/jared-tryon/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Erik Forslund",
+        "role": "Senior Recruiter (contract), Data Center/Infrastructure/AI",
+        "linkedin": "https://www.linkedin.com/in/erikforslund/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Jared Tryon",
+        "role": "Senior Recruiter",
+        "linkedin": "https://www.linkedin.com/in/jared-tryon/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Erik Forslund (wave 2)"},
-      {"date": "2026-09-30", "text": "Invite sent to Jared Tryon (wave 2; note w/ mutual Basil Barnswell)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Erik Forslund (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Jared Tryon (wave 2; note w/ mutual Basil Barnswell)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -276,14 +584,37 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Chris Middlemass", "role": "Talent Acquisition Lead – G&A, Commercial & Customer", "linkedin": "https://www.linkedin.com/in/britbythebay/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Michelle Saunders", "role": "Engineering Talent Leader, AI Infrastructure", "linkedin": "https://www.linkedin.com/in/michelle-saunders-pmp-4350094/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Chris Middlemass",
+        "role": "Talent Acquisition Lead – G&A, Commercial & Customer",
+        "linkedin": "https://www.linkedin.com/in/britbythebay/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Michelle Saunders",
+        "role": "Engineering Talent Leader, AI Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/michelle-saunders-pmp-4350094/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Chris Middlemass (wave 2; note w/ mutual Ben Nagrani)"},
-      {"date": "2026-09-30", "text": "Invite sent to Michelle Saunders (wave 2; note w/ mutual Bill Boujdi)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Chris Middlemass (wave 2; note w/ mutual Ben Nagrani)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Michelle Saunders (wave 2; note w/ mutual Bill Boujdi)"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Rebuild story: inference chips → inference cloud"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Rebuild story: inference chips → inference cloud"
+      ]
+    },
     "interviews": []
   },
   {
@@ -297,14 +628,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Calvin C.", "role": "Tech Recruiter", "linkedin": "https://www.linkedin.com/in/ccxcv23/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Kacey Harris", "role": "Recruiting, AI Talent", "linkedin": "https://www.linkedin.com/in/kaceyharris/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Calvin C.",
+        "role": "Tech Recruiter",
+        "linkedin": "https://www.linkedin.com/in/ccxcv23/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Kacey Harris",
+        "role": "Recruiting, AI Talent",
+        "linkedin": "https://www.linkedin.com/in/kaceyharris/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Calvin C. (wave 2; note w/ mutual Amer Raza)"},
-      {"date": "2026-09-30", "text": "Invite sent to Kacey Harris (wave 2; note w/ mutual Todd Patrick)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Calvin C. (wave 2; note w/ mutual Amer Raza)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Kacey Harris (wave 2; note w/ mutual Todd Patrick)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -318,14 +670,37 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Taylor Owens", "role": "Hiring Product & Engineering Talent, GPU Cloud Infra", "linkedin": "https://www.linkedin.com/in/taylormowens/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Paige Wilhelm", "role": "Sr Global GTM Recruiter", "linkedin": "https://www.linkedin.com/in/paige-wilhelm/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Taylor Owens",
+        "role": "Hiring Product & Engineering Talent, GPU Cloud Infra",
+        "linkedin": "https://www.linkedin.com/in/taylormowens/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Paige Wilhelm",
+        "role": "Sr Global GTM Recruiter",
+        "linkedin": "https://www.linkedin.com/in/paige-wilhelm/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Taylor Owens (wave 2; note w/ mutual Jimmie Wehmeyer)"},
-      {"date": "2026-09-30", "text": "Invite sent to Paige Wilhelm (wave 2; note w/ mutual Michael Miles)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Taylor Owens (wave 2; note w/ mutual Jimmie Wehmeyer)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Paige Wilhelm (wave 2; note w/ mutual Michael Miles)"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Paige Wilhelm is GTM/sales-focused — weak for MLE routing; Taylor Owens is the stronger target"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Paige Wilhelm is GTM/sales-focused — weak for MLE routing; Taylor Owens is the stronger target"
+      ]
+    },
     "interviews": []
   },
   {
@@ -339,14 +714,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Juan Carlos Troncoso", "role": "Technical Recruiter, AI Teams", "linkedin": "https://www.linkedin.com/in/jctron/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Stephanie Pavlov", "role": "Senior Technical Recruiter, SWE hiring", "linkedin": "https://www.linkedin.com/in/stephanie-pavlov-047479ab/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Juan Carlos Troncoso",
+        "role": "Technical Recruiter, AI Teams",
+        "linkedin": "https://www.linkedin.com/in/jctron/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Stephanie Pavlov",
+        "role": "Senior Technical Recruiter, SWE hiring",
+        "linkedin": "https://www.linkedin.com/in/stephanie-pavlov-047479ab/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Juan Carlos Troncoso (wave 2)"},
-      {"date": "2026-09-30", "text": "Invite sent to Stephanie Pavlov (wave 2)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Juan Carlos Troncoso (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Stephanie Pavlov (wave 2)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -360,14 +756,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Andrew Kim", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/ahjkim/", "contact_status": "inbound_pending", "date": "2026-09-30"},
-      {"name": "Elise Sun", "role": "Senior Technical Recruiter", "linkedin": "https://www.linkedin.com/in/elise-sun-35649834/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Andrew Kim",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/ahjkim/",
+        "contact_status": "inbound_pending",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Elise Sun",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/elise-sun-35649834/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Andrew Kim sent Rui an inbound invitation — accept from LinkedIn invitation manager (no outbound invite sent)"},
-      {"date": "2026-09-30", "text": "Invite sent to Elise Sun (wave 2)"}
+      {
+        "date": "2026-09-30",
+        "text": "Andrew Kim sent Rui an inbound invitation — accept from LinkedIn invitation manager (no outbound invite sent)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Elise Sun (wave 2)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -381,14 +798,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "James O'Brien", "role": "Engineering Recruiting", "linkedin": "https://www.linkedin.com/in/jobrien/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Dean Bubar", "role": "Technical Talent, Product Eng/AI/Platform/Cloud", "linkedin": "https://www.linkedin.com/in/deanbubar/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "James O'Brien",
+        "role": "Engineering Recruiting",
+        "linkedin": "https://www.linkedin.com/in/jobrien/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Dean Bubar",
+        "role": "Technical Talent, Product Eng/AI/Platform/Cloud",
+        "linkedin": "https://www.linkedin.com/in/deanbubar/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to James O'Brien (wave 2)"},
-      {"date": "2026-09-30", "text": "Invite sent to Dean Bubar (wave 2)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to James O'Brien (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Dean Bubar (wave 2)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -402,14 +840,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Matt Allen", "role": "Technical Recruiter, Engineering", "linkedin": "https://www.linkedin.com/in/mattallenatx/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Joanna Michniewicz", "role": "Technical Recruiter", "linkedin": "https://www.linkedin.com/in/joanna-michniewicz/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Matt Allen",
+        "role": "Technical Recruiter, Engineering",
+        "linkedin": "https://www.linkedin.com/in/mattallenatx/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Joanna Michniewicz",
+        "role": "Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/joanna-michniewicz/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Matt Allen (wave 2)"},
-      {"date": "2026-09-30", "text": "Invite sent to Joanna Michniewicz (wave 2; note w/ mutual Steven Nagle)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Matt Allen (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Joanna Michniewicz (wave 2; note w/ mutual Steven Nagle)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -423,14 +882,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Ashley Chou", "role": "Senior Recruiter", "linkedin": "https://www.linkedin.com/in/ashleymchou/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Rajat Sharma", "role": "Talent Acquisition Lead, Eng/ML/Product for Agentic AI", "linkedin": "https://www.linkedin.com/in/rajat-sharma-7561b9107/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Ashley Chou",
+        "role": "Senior Recruiter",
+        "linkedin": "https://www.linkedin.com/in/ashleymchou/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Rajat Sharma",
+        "role": "Talent Acquisition Lead, Eng/ML/Product for Agentic AI",
+        "linkedin": "https://www.linkedin.com/in/rajat-sharma-7561b9107/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Ashley Chou (wave 2)"},
-      {"date": "2026-09-30", "text": "Invite sent to Rajat Sharma (wave 2)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Ashley Chou (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Rajat Sharma (wave 2)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -444,14 +924,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Michael Bond", "role": "Senior Recruiter", "linkedin": "https://www.linkedin.com/in/michael-bond-50078012a/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Raif Rahal", "role": "Talent Acquisition", "linkedin": "https://www.linkedin.com/in/raifrahal/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Michael Bond",
+        "role": "Senior Recruiter",
+        "linkedin": "https://www.linkedin.com/in/michael-bond-50078012a/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Raif Rahal",
+        "role": "Talent Acquisition",
+        "linkedin": "https://www.linkedin.com/in/raifrahal/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Michael Bond (wave 2; note w/ mutual Ravneet Singh)"},
-      {"date": "2026-09-30", "text": "Invite sent to Raif Rahal (wave 2; note w/ mutual Jan Johannes)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Michael Bond (wave 2; note w/ mutual Ravneet Singh)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Raif Rahal (wave 2; note w/ mutual Jan Johannes)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -465,14 +966,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Melina Chervone", "role": "VP of Recruitment", "linkedin": "https://www.linkedin.com/in/melina-chervone/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Aaron Lopez", "role": "Core Recruitment Lead (Technical Recruiter)", "linkedin": "https://www.linkedin.com/in/aaronlpzg/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Melina Chervone",
+        "role": "VP of Recruitment",
+        "linkedin": "https://www.linkedin.com/in/melina-chervone/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Aaron Lopez",
+        "role": "Core Recruitment Lead (Technical Recruiter)",
+        "linkedin": "https://www.linkedin.com/in/aaronlpzg/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Melina Chervone (wave 2; note w/ mutual Qaiser Malik)"},
-      {"date": "2026-09-30", "text": "Invite sent to Aaron Lopez (wave 2; note w/ mutual Marietta Cordido)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Melina Chervone (wave 2; note w/ mutual Qaiser Malik)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Aaron Lopez (wave 2; note w/ mutual Marietta Cordido)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -486,14 +1008,35 @@
     "rto": null,
     "status": "outreach",
     "contacts": [
-      {"name": "Michelle Austreich", "role": "Talent", "linkedin": "https://www.linkedin.com/in/michelle-austreich/", "contact_status": "invited", "date": "2026-09-30"},
-      {"name": "Greg Schultz", "role": "Recruiting", "linkedin": "https://www.linkedin.com/in/greg-schultz-046a7b37/", "contact_status": "invited", "date": "2026-09-30"}
+      {
+        "name": "Michelle Austreich",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/michelle-austreich/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      },
+      {
+        "name": "Greg Schultz",
+        "role": "Recruiting",
+        "linkedin": "https://www.linkedin.com/in/greg-schultz-046a7b37/",
+        "contact_status": "invited",
+        "date": "2026-09-30"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-30", "text": "Invite sent to Michelle Austreich (wave 2; note w/ mutual Robert Dunne)"},
-      {"date": "2026-09-30", "text": "Invite sent to Greg Schultz (wave 2; note w/ mutual Srihari Venkatesan)"}
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Michelle Austreich (wave 2; note w/ mutual Robert Dunne)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Invite sent to Greg Schultz (wave 2; note w/ mutual Srihari Venkatesan)"
+      }
     ],
-    "intel": {"comp": null, "notes": []},
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
     "interviews": []
   },
   {
@@ -507,17 +1050,55 @@
     "rto": null,
     "status": "interviewing",
     "contacts": [
-      {"name": "Tyler Wong", "role": "Interview coordinator", "linkedin": null, "contact_status": "existing", "date": "2026-09-25"}
+      {
+        "name": "Tyler Wong",
+        "role": "Interview coordinator",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-09-25"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-25", "text": "Rui confirmed interview schedule with coordinator Tyler Wong"},
-      {"date": "2026-10-02", "text": "Round 1: Eric Chen (Technical Architecture), 11:00 AM–12:00 PM PT"},
-      {"date": "2026-10-02", "text": "Round 2: Bharat Kalyanpur (Scope & Impact), 1:30–2:30 PM PT"}
+      {
+        "date": "2026-09-25",
+        "text": "Rui confirmed interview schedule with coordinator Tyler Wong"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Round 1: Eric Chen (Technical Architecture), 11:00 AM–12:00 PM PT"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Round 2: Bharat Kalyanpur (Scope & Impact), 1:30–2:30 PM PT"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Team intel synced from Simplenote notes"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Role: Senior Staff Machine Learning Engineer — Core Services Engineering", "Shared Zoom link in both calendar events"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Role: Senior Staff Machine Learning Engineer — Core Services Engineering",
+        "Shared Zoom link in both calendar events",
+        "Risk team: fraud detection, viral posts, biometrics; Trust experience; Risk identity team ~40–100 people"
+      ]
+    },
     "interviews": [
-      {"date": "2026-10-02", "time": "11:00 AM–12:00 PM PT", "title": "Round 1 — Technical Architecture", "people": "Eric Chen", "notes": "HackerRank: https://hr.gs/0adf763"},
-      {"date": "2026-10-02", "time": "1:30–2:30 PM PT", "title": "Round 2 — Scope & Impact", "people": "Bharat Kalyanpur", "notes": "HackerRank: https://hr.gs/ca6f622"}
+      {
+        "date": "2026-10-02",
+        "time": "11:00 AM–12:00 PM PT",
+        "title": "Round 1 — Technical Architecture",
+        "people": "Eric Chen",
+        "notes": "HackerRank: https://hr.gs/0adf763"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "1:30–2:30 PM PT",
+        "title": "Round 2 — Scope & Impact",
+        "people": "Bharat Kalyanpur",
+        "notes": "HackerRank: https://hr.gs/ca6f622"
+      }
     ]
   },
   {
@@ -531,16 +1112,51 @@
     "rto": null,
     "status": "interviewing",
     "contacts": [
-      {"name": "Noe Perez", "role": "Scheduling coordinator", "linkedin": null, "contact_status": "existing", "date": "2026-09-29"},
-      {"name": "Xiaochang Miao", "role": "Interviewer — ML Domain Knowledge", "linkedin": null, "contact_status": "existing", "date": "2026-09-29"}
+      {
+        "name": "Noe Perez",
+        "role": "Scheduling coordinator",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-09-29"
+      },
+      {
+        "name": "Xiaochang Miao",
+        "role": "Interviewer — ML Domain Knowledge",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-09-29"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-29", "text": "Noe Perez sent rescheduled invite: Wed 2026-10-07, 1:00–2:00 PM PT (moved from Sep 30)"},
-      {"date": "2026-09-29", "text": "Calendar event created; NDA to complete before the interview"}
+      {
+        "date": "2026-09-29",
+        "text": "Noe Perez sent rescheduled invite: Wed 2026-10-07, 1:00–2:00 PM PT (moved from Sep 30)"
+      },
+      {
+        "date": "2026-09-29",
+        "text": "Calendar event created; NDA to complete before the interview"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Role intel synced from Simplenote notes"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Coordinator: Noe Perez (noe.perez@doordash.com)", "Zoom details in Noe's calendar invitation"]},
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Coordinator: Noe Perez (noe.perez@doordash.com)",
+        "Zoom details in Noe's calendar invitation",
+        "Role scope: home page personalization; ranking foundation model & gen tech; tuning transformer models, consumer-facing (video ranking for restaurants)"
+      ]
+    },
     "interviews": [
-      {"date": "2026-10-07", "time": "1:00–2:00 PM PT", "title": "Round 1 — ML Domain Knowledge (Zoom)", "people": "Xiaochang Miao", "notes": "Complete the NDA beforehand; camera on"}
+      {
+        "date": "2026-10-07",
+        "time": "1:00–2:00 PM PT",
+        "title": "Round 1 — ML Domain Knowledge (Zoom)",
+        "people": "Xiaochang Miao",
+        "notes": "Complete the NDA beforehand; camera on"
+      }
     ]
   },
   {
@@ -554,13 +1170,36 @@
     "rto": null,
     "status": "scheduling",
     "contacts": [
-      {"name": "Sid Sukhwani", "role": "Hiring contact", "linkedin": null, "contact_status": "existing", "date": "2026-09-29"}
+      {
+        "name": "Sid Sukhwani",
+        "role": "Hiring contact",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-09-29"
+      }
     ],
     "timeline": [
-      {"date": "2026-09-29", "text": "Sid Sukhwani sent Ashby booking link for Staff SWE, AI Model Lifecycle interview"},
-      {"date": "2026-09-30", "text": "Still pending — Rui hasn't selected a slot yet"}
+      {
+        "date": "2026-09-29",
+        "text": "Sid Sukhwani sent Ashby booking link for Staff SWE, AI Model Lifecycle interview"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Still pending — Rui hasn't selected a slot yet"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Comp/team intel synced from Simplenote notes"
+      }
     ],
-    "intel": {"comp": null, "notes": ["Role: Staff Software Engineer, AI Model Lifecycle", "Booking link: https://you.ashbyhq.com/meeting/41105d7e-cdc3-4fcc-ab09-2e7b62c0208c/"]},
+    "intel": {
+      "comp": "Base $250–280k (up to ~$300k?), 17.5% bonus, 1.6M RSU (per Simplenote recruiter notes, 2026-09-30)",
+      "notes": [
+        "Role: Staff Software Engineer, AI Model Lifecycle",
+        "Booking link: https://you.ashbyhq.com/meeting/41105d7e-cdc3-4fcc-ab09-2e7b62c0208c/",
+        "Team: Managed AI service (model training, inference, AI platform); led by Yiwei; team growing 108 → 205"
+      ]
+    },
     "interviews": []
   }
 ]
