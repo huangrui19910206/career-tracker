@@ -120,7 +120,8 @@
   .tl .dt{font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
   .tl .tx{margin-top:2px;color:#1e293b}
   footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
-  @media(max-width:640px){.iv{flex-wrap:wrap}.iv-when{width:100%}}
+  @media(max-width:640px){.iv{flex-wrap:wrap}.iv-when{width:100%}
+    .top-inner{gap:10px}.brand{font-size:15px}nav a{padding:8px 10px;font-size:13px}}
 </style>
 </head>
 <body>
@@ -183,13 +184,13 @@ function allInterviews(){
   out.sort((a,b)=> a.date===b.date ? a.time.localeCompare(b.time) : b.date.localeCompare(a.date));
   return out;
 }
-/* valuation sort key: billions, non-numeric last */
+/* valuation sort key: billions; non-numeric -> -1 (sorted last by comparator) */
 function valKey(v){
   if(!v) return -1;
-  const m = String(v).replace(/,/g,'').match(/([\d.]+)/);
+  const m = String(v).match(/\$?\s*([\d,]+(?:\.\d+)?)\s*([BM])\b/i);
   if(!m) return -1;
-  let n = parseFloat(m[1]);
-  if(/\$[\d.]*\s*[–-]\s*\$?[\d.]+\s*M\b/i.test(v) || /\bM\b/.test(v) && !/\bB\b/.test(v)) n = n/1000;
+  let n = parseFloat(m[1].replace(/,/g,''));
+  if(m[2].toUpperCase()==='M') n = n/1000;
   return n;
 }
 
@@ -282,7 +283,11 @@ function renderSummary(){
   rows.sort((a,b)=>{
     let va, vb;
     if(k==='name'){va=a.c.name.toLowerCase();vb=b.c.name.toLowerCase();}
-    else if(k==='valuation'){va=valKey(a.c.valuation);vb=valKey(b.c.valuation);}
+    else if(k==='valuation'){
+      va=valKey(a.c.valuation); vb=valKey(b.c.valuation);
+      if(va<0) va = dir===1 ? Infinity : -Infinity;   /* non-numeric last either way */
+      if(vb<0) vb = dir===1 ? Infinity : -Infinity;
+    }
     else if(k==='size'){va=(a.c.size||'').toLowerCase();vb=(b.c.size||'').toLowerCase();}
     else if(k==='status'){va=statusRank[a.c.status]??9;vb=statusRank[b.c.status]??9;}
     else if(k==='contacts'){va=a.contacts;vb=b.contacts;}
