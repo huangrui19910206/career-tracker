@@ -860,31 +860,6 @@ const COMPANIES = [
     "interviews": []
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "tagline": "Social platform / recommendation",
-    "size": "600 engineers (per recruiter note)",
-    "valuation": null,
-    "valuation_detail": null,
-    "location": null,
-    "rto": null,
-    "status": "researching",
-    "contacts": [],
-    "interviews": [],
-    "intel": {
-      "comp": null,
-      "notes": [
-        "Recruiter note (Rui's Simplenote, observed 2026-09-30): end-to-end personalization work, LLM on recommendation; team noted as 20–30 senior staff within ~600 engineers"
-      ]
-    },
-    "timeline": [
-      {
-        "date": "2026-09-30",
-        "text": "Reddit recruiter note spotted in Simplenote; full note not yet synced (Simplenote sign-in blocked on this run)"
-      }
-    ]
-  },
-  {
     "slug": "replit",
     "name": "Replit",
     "tagline": "Agentic software-creation platform",
