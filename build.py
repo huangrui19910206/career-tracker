@@ -18,7 +18,7 @@ REQUIRED_KEYS = {
 }
 VALID_STATUSES = {
     "outreach", "connected", "engaged", "interviewing", "scheduling",
-    "offer", "paused",
+    "offer", "paused", "researching",
 }
 VALID_CONTACT_STATUSES = {"invited", "connected", "inbound_pending", "existing"}
 

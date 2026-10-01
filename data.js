@@ -1,4 +1,4 @@
-const BUILD_DATE = "Sep 30, 2026";
+const BUILD_DATE = "Oct 01, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -23,7 +23,10 @@ const COMPANIES = [
         "role": "Recruiter",
         "linkedin": "https://www.linkedin.com/in/tarundiwan/",
         "contact_status": "connected",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "history": [
+          "2026-09-30 4:23 PM — sent intel-gathering DM (role scope, openings, comp range); no reply yet"
+        ]
       }
     ],
     "timeline": [
@@ -426,7 +429,10 @@ const COMPANIES = [
         "role": "Talent Partner (Training & Evals & Research)",
         "linkedin": "https://www.linkedin.com/in/tobyxxy/",
         "contact_status": "existing",
-        "date": null
+        "date": null,
+        "history": [
+          "2026-09-30 4:25 PM — sent intel-gathering DM (MLE hiring, role scope, comp range); no reply yet"
+        ]
       }
     ],
     "timeline": [
@@ -596,14 +602,17 @@ const COMPANIES = [
     "size": "~1,340+ (Sep 2026)",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Andrew Kim",
         "role": "Senior Technical Recruiter",
         "linkedin": "https://www.linkedin.com/in/ahjkim/",
-        "contact_status": "inbound_pending",
-        "date": "2026-09-30"
+        "contact_status": "connected",
+        "date": "2026-09-30",
+        "history": [
+          "2026-09-30 — accepted: his earlier inbound invitation is now resolved; sent new-connection hello DM (role scope, comp range); awaiting reply"
+        ]
       },
       {
         "name": "Elise Sun",
@@ -621,6 +630,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Elise Sun (wave 2)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Andrew Kim connected (inbound invite resolved); sent standing new-connection hello (role scope, comp range) per recruiter-chat rule"
       }
     ],
     "intel": {
@@ -806,7 +819,7 @@ const COMPANIES = [
     "size": null,
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Erik Forslund",
@@ -819,8 +832,11 @@ const COMPANIES = [
         "name": "Jared Tryon",
         "role": "Senior Recruiter",
         "linkedin": "https://www.linkedin.com/in/jared-tryon/",
-        "contact_status": "invited",
-        "date": "2026-09-30"
+        "contact_status": "connected",
+        "date": "2026-09-30",
+        "history": [
+          "2026-09-30 — connected; sent intel-gathering DM (role scope, comp range) per recruiter-chat rule; awaiting reply"
+        ]
       }
     ],
     "timeline": [
@@ -831,6 +847,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Jared Tryon (wave 2; note w/ mutual Basil Barnswell)"
+      },
+      {
+        "date": "2026-09-30",
+        "text": "Jared Tryon (Senior Recruiter) connected; sent intel-gathering DM (role scope, comp range)"
       }
     ],
     "intel": {
@@ -838,6 +858,31 @@ const COMPANIES = [
       "notes": []
     },
     "interviews": []
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "tagline": "Social platform / recommendation",
+    "size": "600 engineers (per recruiter note)",
+    "valuation": null,
+    "valuation_detail": null,
+    "location": null,
+    "rto": null,
+    "status": "researching",
+    "contacts": [],
+    "interviews": [],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Recruiter note (Rui's Simplenote, observed 2026-09-30): end-to-end personalization work, LLM on recommendation; team noted as 20–30 senior staff within ~600 engineers"
+      ]
+    },
+    "timeline": [
+      {
+        "date": "2026-09-30",
+        "text": "Reddit recruiter note spotted in Simplenote; full note not yet synced (Simplenote sign-in blocked on this run)"
+      }
+    ]
   },
   {
     "slug": "replit",
@@ -1052,6 +1097,32 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "name": "Thinking Machines",
+    "slug": "thinking-machines",
+    "tagline": "Frontier AI lab (Mira Murati)",
+    "size": null,
+    "valuation": null,
+    "valuation_detail": null,
+    "location": "SF",
+    "rto": null,
+    "status": "researching",
+    "contacts": [],
+    "interviews": [],
+    "intel": {
+      "comp": "$350k–$475k base (both postings, verified live 2026-09-30); visa sponsorship offered",
+      "notes": [
+        "Two live postings verified 2026-09-30: (1) Research Software Engineer, Post Training — SF, RL training systems/sandboxing/data pipelines/agent scaffolding (stronger fit); (2) Research, General Agents — SF, evergreen expression-of-interest, synthetic data/agentic RL (weaker fit, no reapply within 6 months)",
+        "No application submitted; awaiting Rui’s decision (apply to Post Training only / both / skip)"
+      ]
+    },
+    "timeline": [
+      {
+        "date": "2026-09-30",
+        "text": "Rui flagged Thinking Machines postings; fit assessment done, submit decision pending"
+      }
+    ]
+  },
+  {
     "slug": "together-ai",
     "name": "Together AI",
     "tagline": "AI neocloud (inference + compute infrastructure)",
@@ -1171,7 +1242,10 @@ const COMPANIES = [
         "role": "Technical Recruiting Leader (AI/ML/Data)",
         "linkedin": "https://www.linkedin.com/in/dataandairecruiter/",
         "contact_status": "connected",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "history": [
+          "2026-09-30 4:24 PM — sent intel-gathering DM (openings, team scope, comp range); no reply yet"
+        ]
       },
       {
         "name": "Lydia Cuarezma-Cobette",
