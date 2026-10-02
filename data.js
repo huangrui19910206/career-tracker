@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 01, 2026";
+const BUILD_DATE = "Oct 02, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -517,6 +517,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/marisachin/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Kim Catalano",
+        "role": "ML Tech Recruiter (via Nina intro)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-01"
       }
     ],
     "timeline": [
@@ -539,12 +546,22 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Résumé sent to Nina via LinkedIn message with fit note (12:15 PM PT)"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Kim Catalano emailed: invited Rui to a 30-min video chat; asked to review/sign Glean's NDA before the call"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Booking attempt for Mon 2026-10-05 1:00–2:00 PM PT via ModernLoop blocked (access-code fill failed on approval wall). Rui given the manual booking link; nothing booked, no calendar event"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval"
+        "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval",
+        "Glean 30-min chat: DocuSign NDA must be reviewed/signed by Rui himself before the call (2026-10-01)",
+        "Chat booking (target Mon Oct 5, 1–2 PM PT) blocked by ModernLoop email-code wall — manual booking link handed to Rui (2026-10-01)"
       ]
     },
     "interviews": []
@@ -602,7 +619,7 @@ const COMPANIES = [
     "size": "~1,340+ (Sep 2026)",
     "location": null,
     "rto": null,
-    "status": "connected",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Andrew Kim",
@@ -611,7 +628,9 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-09-30",
         "history": [
-          "2026-09-30 — accepted: his earlier inbound invitation is now resolved; sent new-connection hello DM (role scope, comp range); awaiting reply"
+          "2026-09-30 — accepted: his earlier inbound invitation is now resolved; sent new-connection hello DM (role scope, comp range); awaiting reply",
+          "2026-09-30 5:47 PM — replied: hiring Staff SWE, AI Platform (harvey.ai careers link); offered intro call; answered 10/1 9:50 AM (fit, résumé, asked for a good time)",
+          "2026-10-01 11:24 AM — asked for résumé copy + shared Ashby scheduling link; answered 4:50 PM (background summary, asked best email for résumé). Nothing booked — awaiting Rui's go"
         ]
       },
       {
@@ -634,11 +653,21 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Andrew Kim connected (inbound invite resolved); sent standing new-connection hello (role scope, comp range) per recruiter-chat rule"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Andrew Kim replied (9/30 5:47 PM): hiring Staff Software Engineer, AI Platform; offered an intro call. Replied 9:50 AM: thanked, stated fit, offered résumé + call, asked for a good time"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Andrew Kim replied (11:24 AM): asked for résumé copy + shared Ashby scheduling link for Staff SWE AI Platform intro. Replied 4:50 PM with background summary, asked for best email to send résumé. NOT booked — awaiting Rui's go"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform; shared Ashby scheduling link — résumé send + call booking await Rui's go (2026-10-01)"
+      ]
     },
     "interviews": []
   },
@@ -693,7 +722,7 @@ const COMPANIES = [
     "size": "201–500 core",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Michael Bond",
@@ -706,8 +735,11 @@ const COMPANIES = [
         "name": "Raif Rahal",
         "role": "Talent Acquisition",
         "linkedin": "https://www.linkedin.com/in/raifrahal/",
-        "contact_status": "invited",
-        "date": "2026-09-30"
+        "contact_status": "connected",
+        "date": "2026-10-01",
+        "history": [
+          "2026-10-01 — accepted connection; replied 9:56 AM ('actively looking to hire'); sent standard intro/call-offer reply 4:49 PM; awaiting response"
+        ]
       }
     ],
     "timeline": [
@@ -718,6 +750,14 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Raif Rahal (wave 2; note w/ mutual Jan Johannes)"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Raif Rahal (Talent Acquisition) accepted the invitation"
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Raif Rahal replied (9:56 AM): actively hiring — asked if Rui is interested. Replied 4:49 PM with standard intro/call offer"
       }
     ],
     "intel": {
@@ -1168,6 +1208,10 @@ const COMPANIES = [
         "text": "Team intel synced from Simplenote notes"
       },
       {
+        "date": "2026-10-01",
+        "text": "Reschedule email sent to Tyler Wong: proposed moving both Oct 2 rounds to Fri Oct 9 back-to-back (10 AM–12 PM or 1–3 PM PT), citing a family matter. Rui's later '11–12' correction was unresolved and the sent email can't be recalled — awaiting confirmation"
+      },
+      {
         "date": "2026-10-02",
         "text": "Round 1: Eric Chen (Technical Architecture), 11:00 AM–12:00 PM PT"
       },
@@ -1181,7 +1225,8 @@ const COMPANIES = [
       "notes": [
         "Role: Senior Staff Machine Learning Engineer — Core Services Engineering",
         "Shared Zoom link in both calendar events",
-        "Risk team: fraud detection, viral posts, biometrics; Trust experience; Risk identity team ~40–100 people"
+        "Risk team: fraud detection, viral posts, biometrics; Trust experience; Risk identity team ~40–100 people",
+        "Reschedule to Fri Oct 9 proposed (email sent 2026-10-01 ~4:58 PM PT); Rui's wording correction unresolved; awaiting Tyler's confirmation before moving calendar events"
       ]
     },
     "interviews": [
