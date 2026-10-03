@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 02, 2026";
+const BUILD_DATE = "Oct 03, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -27,6 +27,13 @@ const COMPANIES = [
         "history": [
           "2026-09-30 4:23 PM — sent intel-gathering DM (role scope, openings, comp range); no reply yet"
         ]
+      },
+      {
+        "name": "Ellie Woodfield",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/ellie-woodfield/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -41,6 +48,10 @@ const COMPANIES = [
       {
         "date": "2026-09-29",
         "text": "Tarun Diwan accepted the invitation"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Ellie Woodfield (expansion batch 1; note w/ mutual Todd Patrick)"
       }
     ],
     "intel": {
@@ -115,6 +126,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/harry-kang-3592921b/",
         "contact_status": "connected",
         "date": "2026-09-29"
+      },
+      {
+        "name": "Justin Thompson-Jenkins",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/justin-thompson-jenkins-9b7602143/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -133,6 +151,10 @@ const COMPANIES = [
       {
         "date": "2026-09-29",
         "text": "Résumé sent to Harry Kang via LinkedIn (9:50 AM PT) with fit note"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Justin Thompson-Jenkins (expansion batch 1; note w/ mutual Junda Yang)"
       }
     ],
     "intel": {
@@ -422,7 +444,10 @@ const COMPANIES = [
         "role": "Senior Technical Recruiter, AI/ML",
         "linkedin": "https://www.linkedin.com/in/ravi-b-68277a171/",
         "contact_status": "invited",
-        "date": "2026-09-28"
+        "date": "2026-09-28",
+        "history": [
+          "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar"
+        ]
       },
       {
         "name": "TOBY X.",
@@ -431,8 +456,18 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": null,
         "history": [
-          "2026-09-30 4:25 PM — sent intel-gathering DM (MLE hiring, role scope, comp range); no reply yet"
+          "2026-09-30 4:25 PM — sent intel-gathering DM (MLE hiring, role scope, comp range); no reply yet",
+          "2026-10-02 — TOBY replied: Rui would be a great fit for the AMLE team; referred him to Ravi B. (AI/ML recruiter) for freshest details",
+          "2026-10-02 2:51 PM — replied: thanked TOBY for the Ravi B. pointer, said Rui would ping Ravi, asked about the AMLE team's scope/focus",
+          "2026-10-02 4:32 PM — second message: asked TOBY for a direct intro to Ravi B. so they can schedule an intro call and kick off the process (Rui's stated end goal)"
         ]
+      },
+      {
+        "name": "Lesley Chen",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/lesleyychen/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -443,6 +478,26 @@ const COMPANIES = [
       {
         "date": "2026-09-28",
         "text": "Invite sent to Ravi B. (wave 1; note w/ mutual Omkar Patinge)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "TOBY X. replied: said Rui would be a great fit for the AMLE team; pointed him to Ravi B. (AI/ML recruiter) for freshest details"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Follow-up sent to TOBY X. (2:51 PM): thanked him for the Ravi B. pointer, said Rui would ping Ravi, asked about AMLE team scope/focus"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Second message sent to TOBY X. (4:32 PM): asked for a direct intro to Ravi B. so they can schedule an intro call and kick off the process (Rui's stated end goal)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Ravi B.'s wave-1 invite re-verified still pending; withdrawal cancelled (3-week re-invite block); TOBY's intro is the active path"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Lesley Chen (expansion batch 1; note w/ mutual Rex Z.)"
       }
     ],
     "intel": {
@@ -524,6 +579,13 @@ const COMPANIES = [
         "linkedin": null,
         "contact_status": "existing",
         "date": "2026-10-01"
+      },
+      {
+        "name": "Scott Perez",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/scott-perez-37185075/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -554,6 +616,10 @@ const COMPANIES = [
       {
         "date": "2026-10-01",
         "text": "Booking attempt for Mon 2026-10-05 1:00–2:00 PM PT via ModernLoop blocked (access-code fill failed on approval wall). Rui given the manual booking link; nothing booked, no calendar event"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Scott Perez (expansion batch 1; note w/ mutual Danish Asif)"
       }
     ],
     "intel": {
@@ -639,6 +705,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/elise-sun-35649834/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Arti Patel",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/arti-patel-22641960/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -661,6 +734,10 @@ const COMPANIES = [
       {
         "date": "2026-10-01",
         "text": "Andrew Kim replied (11:24 AM): asked for résumé copy + shared Ashby scheduling link for Staff SWE AI Platform intro. Replied 4:50 PM with background summary, asked for best email to send résumé. NOT booked — awaiting Rui's go"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Arti Patel (expansion batch 1; note: both ex-Meta)"
       }
     ],
     "intel": {
@@ -722,7 +799,7 @@ const COMPANIES = [
     "size": "201–500 core",
     "location": null,
     "rto": null,
-    "status": "connected",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Michael Bond",
@@ -738,7 +815,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-01",
         "history": [
-          "2026-10-01 — accepted connection; replied 9:56 AM ('actively looking to hire'); sent standard intro/call-offer reply 4:49 PM; awaiting response"
+          "2026-10-01 — accepted connection; replied 9:56 AM ('actively looking to hire'); sent standard intro/call-offer reply 4:49 PM; awaiting response",
+          "2026-10-02 — read his Oct 1 follow-up DM (shared his Google Calendar booking link for a chat about Mercor's MLE role). Intro call BOOKED Tue 2026-10-06, 1:30–1:45 PM PT via his link (Google Meet); confirmation sent to Raif in the LinkedIn thread; calendar event created"
         ]
       }
     ],
@@ -758,13 +836,29 @@ const COMPANIES = [
       {
         "date": "2026-10-01",
         "text": "Raif Rahal replied (9:56 AM): actively hiring — asked if Rui is interested. Replied 4:49 PM with standard intro/call offer"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Read Raif Rahal's Oct 1 follow-up DM: shared his Google Calendar booking link to connect about Mercor's MLE role"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Intro call BOOKED: Tue 2026-10-06, 1:30–1:45 PM PT via Raif's Google Calendar link (Google Meet; invite emailed to rui.huang.career@gmail.com). Confirmation sent to Raif in the LinkedIn thread; event added to Google Calendar"
       }
     ],
     "intel": {
       "comp": null,
       "notes": []
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-10-06",
+        "time": "1:30–1:45 PM PT",
+        "title": "Intro call",
+        "people": "Raif Rahal (Talent Acquisition)",
+        "notes": "Booked via his Google Calendar link — Google Meet"
+      }
+    ]
   },
   {
     "slug": "micro1",
@@ -851,6 +945,58 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "motional",
+    "name": "Motional",
+    "tagline": "Autonomous driving — Principal MLE, Omnitag multimodal data mining",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Joel Ferdinand Malala",
+        "role": "Talent Recruiter",
+        "linkedin": "https://www.linkedin.com/in/joel-ferdinand-malala/",
+        "contact_status": "existing",
+        "date": "2026-10-02",
+        "history": [
+          "2026-10-02 — inbound InMail: Principal MLE, Omnitag team (ML-powered multimodal data mining for autonomous driving: foundation models, vision/LiDAR, representation learning, large-scale retrieval)",
+          "2026-10-02 2:51 PM — replied: expressed interest + fit summary (Coupang Search Ranking, Meta Feed Recommendation, Pinterest Search & Discover, Python/PyTorch, production ML lifecycle); offered weekday 1:00–2:00 PM PT intro call",
+          "2026-10-02 5:43 PM — Joel asked for resume + a short foundational-models note to coordinate a team call",
+          "2026-10-02 ~6:10 PM — resume sent with LLM/fine-tuning note (pre-authorized); no call booked yet"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-02",
+        "text": "Inbound InMail from Joel Ferdinand Malala (Talent Recruiter): Principal MLE, Omnitag team — multimodal autonomous-driving data mining (foundation models, vision/LiDAR, representation learning, large-scale retrieval)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Replied (2:51 PM): expressed interest, fit summary (Coupang Search Ranking, Meta Feed Recommendation, Pinterest Search & Discover, Python/PyTorch, production ML lifecycle); offered weekday 1:00–2:00 PM PT intro call"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Joel replied (5:43 PM): asked for resume + a short note on foundational-models experience to coordinate a team call"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Resume sent (~6:10 PM PT) with LLM/fine-tuning note (pre-authorized); no call booked yet"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Omnitag team: ML-powered multimodal data mining for autonomous driving",
+        "Motional is outside Rui's stated target profile (AI platform/infra, Series C–F); Rui hasn't decided whether to pursue"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "nscale",
     "name": "Nscale",
     "tagline": "AI infrastructure hyperscaler",
@@ -877,6 +1023,13 @@ const COMPANIES = [
         "history": [
           "2026-09-30 — connected; sent intel-gathering DM (role scope, comp range) per recruiter-chat rule; awaiting reply"
         ]
+      },
+      {
+        "name": "Albert Kim",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/albert-kim-1a260b20/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -891,6 +1044,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Jared Tryon (Senior Recruiter) connected; sent intel-gathering DM (role scope, comp range)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Albert Kim (expansion batch 1; note w/ mutual Tigran Shahbazian)"
       }
     ],
     "intel": {
@@ -1273,6 +1430,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/lydiacuarezma/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Kelly Wu",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/kelly-wu-/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1287,6 +1451,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Joshua Poore accepted the invitation (owns Data, AI & Eng hiring)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Kelly Wu (expansion batch 1; note w/ mutual Leonora Gecaj)"
       }
     ],
     "intel": {
