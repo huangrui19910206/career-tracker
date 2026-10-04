@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 03, 2026";
+const BUILD_DATE = "Oct 04, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -217,7 +217,7 @@ const COMPANIES = [
     "size": "434 (mid-2026)",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Matt McMahon",
@@ -232,6 +232,16 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/maye-dalton/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Jacob Arnall",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/jacobarnall/",
+        "contact_status": "connected",
+        "date": "2026-10-03",
+        "history": [
+          "2026-10-03 — accepted the invitation (first Decagon connection; needs a 2nd direct connection per expansion rule)"
+        ]
       }
     ],
     "timeline": [
@@ -242,6 +252,14 @@ const COMPANIES = [
       {
         "date": "2026-09-28",
         "text": "Invite sent to Alex Dalton (wave 1)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Jacob Arnall (expansion batch 2; note w/ mutual Ding Zhou)"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Jacob Arnall accepted the invitation — first Decagon connection (needs a 2nd direct connection per expansion rule)"
       }
     ],
     "intel": {
@@ -317,7 +335,7 @@ const COMPANIES = [
     "size": "~200",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Ashley Chou",
@@ -332,6 +350,23 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/rajat-sharma-7561b9107/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Rashmi G",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/rashg/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
+      },
+      {
+        "name": "Saghar Adler",
+        "role": "Co-founder",
+        "linkedin": null,
+        "contact_status": "connected",
+        "date": "2026-10-03",
+        "history": [
+          "2026-10-03 — accepted the inbound invitation; thank-you + Ema interest note sent (awaiting reply)"
+        ]
       }
     ],
     "timeline": [
@@ -342,6 +377,14 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Rajat Sharma (wave 2)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Rashmi G (expansion batch 2)"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Saghar Adler (co-founder) accepted the inbound invitation; thank-you + Ema interest note sent"
       }
     ],
     "intel": {
@@ -656,6 +699,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/michelle-saunders-pmp-4350094/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Charles DeLano",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/charles-delano-5a877417/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -666,6 +716,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Michelle Saunders (wave 2; note w/ mutual Bill Boujdi)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Charles DeLano (expansion batch 2; note w/ Michael Miles mutual)"
       }
     ],
     "intel": {
@@ -685,7 +739,7 @@ const COMPANIES = [
     "size": "~1,340+ (Sep 2026)",
     "location": null,
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Andrew Kim",
@@ -696,7 +750,8 @@ const COMPANIES = [
         "history": [
           "2026-09-30 — accepted: his earlier inbound invitation is now resolved; sent new-connection hello DM (role scope, comp range); awaiting reply",
           "2026-09-30 5:47 PM — replied: hiring Staff SWE, AI Platform (harvey.ai careers link); offered intro call; answered 10/1 9:50 AM (fit, résumé, asked for a good time)",
-          "2026-10-01 11:24 AM — asked for résumé copy + shared Ashby scheduling link; answered 4:50 PM (background summary, asked best email for résumé). Nothing booked — awaiting Rui's go"
+          "2026-10-01 11:24 AM — asked for résumé copy + shared Ashby scheduling link; answered 4:50 PM (background summary, asked best email for résumé). Nothing booked — awaiting Rui's go",
+          "2026-10-03 — résumé sent via LinkedIn; intro call BOOKED Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings); calendar event created with full context"
         ]
       },
       {
@@ -738,15 +793,31 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Arti Patel (expansion batch 1; note: both ex-Meta)"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Résumé sent to Andrew Kim via LinkedIn"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Intro call BOOKED: Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings; Zoom link in calendar event)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform; shared Ashby scheduling link — résumé send + call booking await Rui's go (2026-10-01)"
+        "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform — résumé sent via LinkedIn 2026-10-03; intro call booked Fri Oct 9, 1:00–1:30 PM PT via his Ashby link; calendar event created with full context"
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-10-09",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call",
+        "people": "Andrew Kim (Senior Technical Recruiter)",
+        "notes": "Staff SWE, AI Platform — booked via his Ashby link"
+      }
+    ]
   },
   {
     "slug": "lambda",
@@ -772,6 +843,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/jeraline-villegas-51235a61/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Sanjana Sukhdev",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/sanjana-sukhdev-5bb40718/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -782,6 +860,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Jeraline Villegas (wave 2; note w/ mutual Ben Nagrani)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Sanjana Sukhdev (expansion batch 2; note: both ex-Meta)"
       }
     ],
     "intel": {
@@ -844,6 +926,10 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Intro call BOOKED: Tue 2026-10-06, 1:30–1:45 PM PT via Raif's Google Calendar link (Google Meet; invite emailed to rui.huang.career@gmail.com). Confirmation sent to Raif in the LinkedIn thread; event added to Google Calendar"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Calendar-invite email from Raif Rahal confirmed the Tue Oct 6, 1:30–1:45 PM PT intro call"
       }
     ],
     "intel": {
@@ -926,6 +1012,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/tom-callahan/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Audrey Koh",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/audreykoh/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -936,6 +1029,10 @@ const COMPANIES = [
       {
         "date": "2026-09-28",
         "text": "Invite sent to Tom Callahan (wave 1; note w/ mutual Renfei Chen)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Audrey Koh (expansion batch 2)"
       }
     ],
     "intel": {
@@ -1057,6 +1154,43 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "primer-ai",
+    "name": "Primer.ai",
+    "tagline": "AI platform for intelligence orgs (knowledge/decision-making software)",
+    "valuation": "Undisclosed",
+    "valuation_detail": null,
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Natalia Chatelain Fanjul",
+        "role": "Recruiter",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-02",
+        "history": [
+          "2026-10-02 — cold inbound email (12:04 PM PT to the jobs Gmail): Staff MLE role at Primer.ai (AI/NLP for intelligence orgs). Logged, NOT replied — gov/intel vertical is off-target-ish for the AI platform/infra target; bring to Rui"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-02",
+        "text": "Cold inbound email from Natalia Chatelain Fanjul (Primer.ai recruiter, 12:04 PM PT): Staff MLE role — AI/NLP for intelligence orgs. Logged, not replied; brought to Rui"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Builds knowledge/decision-making software for intelligence orgs (source: inbound email, 2026-10-02)",
+        "Gov/intel vertical is off-target-ish for Rui's AI platform/infra target — reply needs Rui's go (logged 2026-10-02)"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "replit",
     "name": "Replit",
     "tagline": "Agentic software-creation platform",
@@ -1080,6 +1214,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/deanbubar/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Patricia “Trisha” Mangione",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/patriciamangione/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1090,6 +1231,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Dean Bubar (wave 2)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Patricia “Trisha” Mangione (expansion batch 2; note w/ Ben Nagrani mutual)"
       }
     ],
     "intel": {
@@ -1143,6 +1288,46 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "short-video-co-undisclosed",
+    "name": "Short-video company (SF Bay Area)",
+    "tagline": "Senior Staff ML Engineer (E-commerce, Recommendations) — inbound; company name undisclosed",
+    "valuation": "Undisclosed",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF Bay Area",
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Yuyang Cheng",
+        "role": "Recruiter",
+        "linkedin": null,
+        "contact_status": "connected",
+        "date": "2026-10-03",
+        "history": [
+          "2026-10-03 — accepted the inbound invitation; he messaged right after accepting. Replied the same afternoon with fit summary (search ranking + recommendations at scale) and offered the résumé; no intro call booked yet"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-03",
+        "text": "Yuyang Cheng (recruiter) accepted the inbound invitation; hiring for a Senior Staff ML Engineer (E-commerce, Recommendations) role at a Bay Area short-video company"
+      },
+      {
+        "date": "2026-10-03",
+        "text": "Replied with fit summary (search ranking + recommendations at scale); résumé offered. No intro call booked yet"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Company name undisclosed (per recruiter, 2026-10-03)"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "sierra",
     "name": "Sierra",
     "tagline": "Enterprise AI agent platform (Agent OS)",
@@ -1166,6 +1351,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/stephanie-pavlov-047479ab/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Chloe Sutton",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/chloebelangiasutton/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1176,11 +1368,51 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Stephanie Pavlov (wave 2)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Chloe Sutton (expansion batch 2; note w/ Eamon Alvarez mutual)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "skool",
+    "name": "Skool",
+    "tagline": "Creator-community platform — “Principal First-ever DS” inbound",
+    "valuation": "Undisclosed",
+    "valuation_detail": null,
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Spenser Levien",
+        "role": "Recruiter",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-02",
+        "history": [
+          "2026-10-02 — cold inbound LinkedIn InMail (3:53 PM PT): 'Principal First-ever DS' role at Skool (100% remote). Logged, NOT replied — creator-community platform + DS role is off-target; mention to Rui"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-02",
+        "text": "Cold inbound LinkedIn InMail from Spenser Levien (3:53 PM PT): 'Principal First-ever DS' role at Skool, 100% remote. Off-target (DS role, creator-community platform); logged, not replied — mentioned to Rui"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "100% remote; DS role is off-target for Rui's MLE platform/infra target — reply needs Rui's go (logged 2026-10-02)"
+      ]
     },
     "interviews": []
   },
@@ -1208,6 +1440,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/tkientzel/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Huzail Ssemakula",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/huzail-ssemakula-4a913686/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1218,6 +1457,10 @@ const COMPANIES = [
       {
         "date": "2026-09-28",
         "text": "Invite sent to Taylor Kientzel (wave 1)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Huzail Ssemakula (expansion batch 2; note: both ex-Meta)"
       }
     ],
     "intel": {
@@ -1250,6 +1493,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/joanna-michniewicz/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Aziz Q.",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/azizquadri13/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1260,6 +1510,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Joanna Michniewicz (wave 2; note w/ mutual Steven Nagle)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Aziz Q. (expansion batch 2; note: both ex-Meta)"
       }
     ],
     "intel": {
@@ -1318,6 +1572,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/mikey-vigil/",
         "contact_status": "invited",
         "date": "2026-09-28"
+      },
+      {
+        "name": "Boris Fowler",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/borisfowler/",
+        "contact_status": "invited",
+        "date": "2026-10-02"
       }
     ],
     "timeline": [
@@ -1328,6 +1589,10 @@ const COMPANIES = [
       {
         "date": "2026-09-28",
         "text": "Invite sent to Mikey Vigil (wave 1; note w/ mutual Rahul Voorugonda)"
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Invite sent to Boris Fowler (expansion batch 2)"
       }
     ],
     "intel": {
