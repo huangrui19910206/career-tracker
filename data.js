@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 04, 2026";
+const BUILD_DATE = "Oct 05, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -502,7 +502,8 @@ const COMPANIES = [
           "2026-09-30 4:25 PM — sent intel-gathering DM (MLE hiring, role scope, comp range); no reply yet",
           "2026-10-02 — TOBY replied: Rui would be a great fit for the AMLE team; referred him to Ravi B. (AI/ML recruiter) for freshest details",
           "2026-10-02 2:51 PM — replied: thanked TOBY for the Ravi B. pointer, said Rui would ping Ravi, asked about the AMLE team's scope/focus",
-          "2026-10-02 4:32 PM — second message: asked TOBY for a direct intro to Ravi B. so they can schedule an intro call and kick off the process (Rui's stated end goal)"
+          "2026-10-02 4:32 PM — second message: asked TOBY for a direct intro to Ravi B. so they can schedule an intro call and kick off the process (Rui's stated end goal)",
+          "2026-10-04 — TOBY has seen the Oct 2 direct-intro request (read 6:24 PM) but hasn't replied; direct intro via TOBY remains the active path"
         ]
       },
       {
@@ -511,6 +512,34 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/lesleyychen/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Sherry Zhang",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/sherry-zhang-2947b367/",
+        "contact_status": "invited",
+        "date": "2026-10-04"
+      },
+      {
+        "name": "Sean Kelley",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/sean-kelley-9222a041/",
+        "contact_status": "invited",
+        "date": "2026-10-04"
+      },
+      {
+        "name": "Shashank Verma",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/shashankv/",
+        "contact_status": "invited",
+        "date": "2026-10-04"
+      },
+      {
+        "name": "Reed Putnam",
+        "role": null,
+        "linkedin": "https://www.linkedin.com/in/reedputnam/",
+        "contact_status": "invited",
+        "date": "2026-10-04"
       }
     ],
     "timeline": [
@@ -541,6 +570,26 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Lesley Chen (expansion batch 1; note w/ mutual Rex Z.)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Invite sent to Sherry Zhang (expansion batch 3; note w/ TOBY X. AMLE-team referral)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Invite sent to Sean Kelley (expansion batch 3; note w/ TOBY X. AMLE-team referral)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Invite sent to Shashank Verma (expansion batch 3; note w/ TOBY X. AMLE-team referral)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Invite sent to Reed Putnam (expansion batch 3; note w/ TOBY X. AMLE-team referral)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Ravi B. and Lesley Chen invites re-verified still pending; TOBY X. has seen the Oct 2 direct-intro request (read 6:24 PM) but hasn't replied"
       }
     ],
     "intel": {
@@ -600,7 +649,7 @@ const COMPANIES = [
     "size": "1,000+ across 25+ countries",
     "location": null,
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Nina Mametsuka",
@@ -663,17 +712,33 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Scott Perez (expansion batch 1; note w/ mutual Danish Asif)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Intro call BOOKED: Thu 2026-10-08, 1:00–1:30 PM PT with Kim Catalano (Google Meet; confirmation email received; reschedulable via ModernLoop portal)"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Kim Catalano's confirmation email asked Rui to reply confirming receipt — acknowledgment NOT sent (Gmail send blocked); booking and calendar event confirmed"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval",
-        "Glean 30-min chat: DocuSign NDA must be reviewed/signed by Rui himself before the call (2026-10-01)",
-        "Chat booking (target Mon Oct 5, 1–2 PM PT) blocked by ModernLoop email-code wall — manual booking link handed to Rui (2026-10-01)"
+        "Glean 30-min chat: DocuSign NDA still UNSIGNED as of 2026-10-04 — Rui must sign it himself before the call",
+        "Chat booked for Thu Oct 8, 1:00–1:30 PM PT (2026-10-04); the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)"
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-10-08",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call",
+        "people": "Kim Catalano (ML Tech Recruiter)",
+        "notes": "Google Meet — booked via ModernLoop; 30-min recruiter screen"
+      }
+    ]
   },
   {
     "slug": "groq",
@@ -1305,7 +1370,9 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-03",
         "history": [
-          "2026-10-03 — accepted the inbound invitation; he messaged right after accepting. Replied the same afternoon with fit summary (search ranking + recommendations at scale) and offered the résumé; no intro call booked yet"
+          "2026-10-03 — accepted the inbound invitation; he messaged right after accepting. Replied the same afternoon with fit summary (search ranking + recommendations at scale) and offered the résumé; no intro call booked yet",
+          "2026-10-04 — read his two LinkedIn messages: PDF JD ('E-commerce Senior Staff MLE.pdf'); Chinese message asking for résumé + phone + detailed chat; his availability: weekdays 9–11 AM or after 5 PM PT; appears to be an external recruiter at Global Technology Talent Hiring Inc.; hiring company still undisclosed",
+          "2026-10-04 4:53 PM — Rui's choice: résumé sent via LinkedIn (Resume.pdf) + asked for the company name first (in Chinese); no phone number shared; awaiting reply"
         ]
       }
     ],
@@ -1317,12 +1384,21 @@ const COMPANIES = [
       {
         "date": "2026-10-03",
         "text": "Replied with fit summary (search ranking + recommendations at scale); résumé offered. No intro call booked yet"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Yuyang Cheng sent the role PDF (E-commerce Senior Staff MLE.pdf) and asked for résumé + phone + detailed chat (in Chinese); his availability: weekdays 9–11 AM or after 5 PM PT; appears to be an external recruiter at Global Technology Talent Hiring Inc.; hiring company still undisclosed"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Résumé sent to Yuyang Cheng via LinkedIn with the company-name question (in Chinese); no phone shared; awaiting reply"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Company name undisclosed (per recruiter, 2026-10-03)"
+        "Company name undisclosed (per recruiter, 2026-10-03)",
+        "External agency: Global Technology Talent Hiring Inc. (per Yuyang's messages, 2026-10-04)"
       ]
     },
     "interviews": []
@@ -1389,7 +1465,7 @@ const COMPANIES = [
     "size": null,
     "location": null,
     "rto": null,
-    "status": "engaged",
+    "status": "paused",
     "contacts": [
       {
         "name": "Spenser Levien",
@@ -1398,7 +1474,8 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": "2026-10-02",
         "history": [
-          "2026-10-02 — cold inbound LinkedIn InMail (3:53 PM PT): 'Principal First-ever DS' role at Skool (100% remote). Logged, NOT replied — creator-community platform + DS role is off-target; mention to Rui"
+          "2026-10-02 — cold inbound LinkedIn InMail (3:53 PM PT): 'Principal First-ever DS' role at Skool (100% remote). Logged, NOT replied — creator-community platform + DS role is off-target; mention to Rui",
+          "2026-10-04 — polite decline sent (off-target: 'Principal First-ever DS' role, creator-community platform); thread closed"
         ]
       }
     ],
@@ -1406,12 +1483,16 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Cold inbound LinkedIn InMail from Spenser Levien (3:53 PM PT): 'Principal First-ever DS' role at Skool, 100% remote. Off-target (DS role, creator-community platform); logged, not replied — mentioned to Rui"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Polite decline sent to Spenser Levien (off-target 'Principal First-ever DS' role, 100% remote); thread closed"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "100% remote; DS role is off-target for Rui's MLE platform/infra target — reply needs Rui's go (logged 2026-10-02)"
+        "100% remote; DS role is off-target for Rui's MLE platform/infra target — declined 2026-10-04"
       ]
     },
     "interviews": []
@@ -1640,6 +1721,10 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Round 2: Bharat Kalyanpur (Scope & Impact), 1:30–2:30 PM PT"
+      },
+      {
+        "date": "2026-10-04",
+        "text": "Both Oct 2 rounds lapsed with outcome unknown — Tyler Wong never confirmed the proposed Oct 9 reschedule"
       }
     ],
     "intel": {
