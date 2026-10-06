@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 05, 2026";
+const BUILD_DATE = "Oct 06, 2026";
 const COMPANIES = [
   {
     "slug": "baseten",
@@ -269,6 +269,43 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "depthfirst",
+    "name": "depthfirst",
+    "tagline": "Applied-AI lab for software security (~$580M Series B, Mar 2026) — below Rui's preferred valuation band; early-stage watchlist",
+    "valuation": "~$580M",
+    "valuation_detail": "Series B, Mar 2026",
+    "size": null,
+    "location": "San Francisco Bay Area",
+    "rto": null,
+    "status": "paused",
+    "contacts": [
+      {
+        "name": "Lauren Clark",
+        "role": "Founding Recruiting Lead @ depthfirst",
+        "linkedin": "https://www.linkedin.com/in/laurenjaclark/",
+        "contact_status": "invited",
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-05 ~4:50 PM — invite sent (agent-initiated at Rui's go) before Rui called off outreach minutes later ('Skip', 'Too early'); landing unconfirmed",
+          "Warm path if outreach resumes: Fengnan Yue (ex-Meta, now at depthfirst, 1st-degree connection)"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-05",
+        "text": "Added to job-search target lists; Rui said 'Skip / Too early' minutes after approving outreach — one invite (Lauren Clark) went out before the stop; no further outreach"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Early-stage discovery candidate: high LLM-infra/applied-RL fit, low search/recsys fit; below Rui's preferred valuation/stage band"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "doordash",
     "name": "DoorDash",
     "tagline": "Round 1 interview — ML Domain Knowledge",
@@ -517,8 +554,12 @@ const COMPANIES = [
         "name": "Sherry Zhang",
         "role": "Recruiter",
         "linkedin": "https://www.linkedin.com/in/sherry-zhang-2947b367/",
-        "contact_status": "invited",
-        "date": "2026-10-04"
+        "contact_status": "connected",
+        "date": "2026-10-04",
+        "history": [
+          "2026-10-05 — ACCEPTED the LinkedIn invite and messaged the same day: offered a direct intro to Ravi B. (Senior Technical Recruiter, AI/ML) and asked for Rui's résumé",
+          "2026-10-05 1:27 PM — sent Resume.pdf + fit summary via LinkedIn; accepted the direct intro to Ravi B. (direct path to the AMLE hiring manager alongside TOBY X.'s pending intro request)"
+        ]
       },
       {
         "name": "Sean Kelley",
@@ -590,6 +631,14 @@ const COMPANIES = [
       {
         "date": "2026-10-04",
         "text": "Ravi B. and Lesley Chen invites re-verified still pending; TOBY X. has seen the Oct 2 direct-intro request (read 6:24 PM) but hasn't replied"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Sherry Zhang accepted the invite and messaged: offered a direct intro to Ravi B. and asked for the résumé"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Résumé + fit summary sent to Sherry Zhang via LinkedIn; accepted the direct intro to Ravi B."
       }
     ],
     "intel": {
@@ -1372,7 +1421,8 @@ const COMPANIES = [
         "history": [
           "2026-10-03 — accepted the inbound invitation; he messaged right after accepting. Replied the same afternoon with fit summary (search ranking + recommendations at scale) and offered the résumé; no intro call booked yet",
           "2026-10-04 — read his two LinkedIn messages: PDF JD ('E-commerce Senior Staff MLE.pdf'); Chinese message asking for résumé + phone + detailed chat; his availability: weekdays 9–11 AM or after 5 PM PT; appears to be an external recruiter at Global Technology Talent Hiring Inc.; hiring company still undisclosed",
-          "2026-10-04 4:53 PM — Rui's choice: résumé sent via LinkedIn (Resume.pdf) + asked for the company name first (in Chinese); no phone number shared; awaiting reply"
+          "2026-10-04 4:53 PM — Rui's choice: résumé sent via LinkedIn (Resume.pdf) + asked for the company name first (in Chinese); no phone number shared; awaiting reply",
+          "2026-10-05 1:15 PM — CONFIRMED intro call Thu 2026-10-08, 9:45–10:15 AM PT; said comp/stock/hiring-manager details will be shared on the call; agent asked for call details. Calendar event created."
         ]
       }
     ],
@@ -1392,6 +1442,10 @@ const COMPANIES = [
       {
         "date": "2026-10-04",
         "text": "Résumé sent to Yuyang Cheng via LinkedIn with the company-name question (in Chinese); no phone shared; awaiting reply"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Yuyang Cheng confirmed an intro call for Thu 2026-10-08, 9:45–10:15 AM PT (comp/stock/hiring-manager details on the call)"
       }
     ],
     "intel": {
@@ -1401,7 +1455,13 @@ const COMPANIES = [
         "External agency: Global Technology Talent Hiring Inc. (per Yuyang's messages, 2026-10-04)"
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-10-08",
+        "time": "9:45 AM PT",
+        "text": "Intro call with Yuyang Cheng (external recruiter, Senior Staff MLE — E-commerce Recommendations, short-video co); comp/stock/hiring-manager details on the call"
+      }
+    ]
   },
   {
     "slug": "sierra",
@@ -1604,6 +1664,64 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "surge-ai",
+    "name": "Surge AI",
+    "tagline": "Training-data platform (RLHF/RL data pipelines) — added 2026-10-05 per Rui's request",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "San Francisco Bay Area",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Ann Fritzky",
+        "role": "Talent @ Surge AI (Product & Operations hiring)",
+        "linkedin": "https://www.linkedin.com/in/annfritzky/",
+        "contact_status": "invited",
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-05 — invite sent (personalized note: Coupang search-ranking + training-data-quality angle, ≤300 chars); pending"
+        ]
+      },
+      {
+        "name": "Jessica Kim",
+        "role": "Recruiting at Surge AI",
+        "linkedin": "https://www.linkedin.com/in/jessjinkim/",
+        "contact_status": "invited",
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-05 — invite sent (personalized note: Coupang search-ranking + training-data-quality angle, ≤300 chars); pending"
+        ]
+      },
+      {
+        "name": "Cynthia Sandoval",
+        "role": "Recruiting @ SurgeAI (ex-Google, ex-Uber)",
+        "linkedin": "https://www.linkedin.com/in/cynthiamsandoval/",
+        "contact_status": "invited",
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-05 — invite sent (personalized note: Coupang search-ranking + training-data-quality angle, ≤300 chars); pending (~100 mutual connections)"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-05",
+        "text": "Added to job-search target lists at Rui's request; recruiter outreach approved ('Please start the conversation')"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "3 LinkedIn invites sent: Ann Fritzky, Jessica Kim, Cynthia Sandoval (Coupang search-ranking + training-data-quality angle); all pending"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": []
+    },
+    "interviews": []
+  },
+  {
     "name": "Thinking Machines",
     "slug": "thinking-machines",
     "tagline": "Frontier AI lab (Mira Murati)",
@@ -1679,6 +1797,46 @@ const COMPANIES = [
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "typesafe-ai",
+    "name": "TypeSafe AI",
+    "tagline": "AI startup by Diogo Almeida (ex-OpenAI, RLHF/ChatGPT co-inventor); 'Jev' decision model (Sept 2026); $40M seed (DCVC)",
+    "valuation": "~$40M+",
+    "valuation_detail": "$40M seed, DCVC (Sept 2026)",
+    "size": null,
+    "location": "San Francisco Bay Area",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Mia Smithson",
+        "role": "Founding Head of Recruiting @ TypeSafe AI",
+        "linkedin": "https://www.linkedin.com/in/miasmithson/",
+        "contact_status": "invited",
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-05 5:52 PM — LinkedIn invite sent at Rui's explicit approval ('sure can you reach out'), reversing the earlier 'too early' call for her specifically; pending"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-05",
+        "text": "Added to job-search target lists (talent-flow: Diogo Almeida, ex-OpenAI); initial outreach paused as 'too early', then Rui reversed for Mia Smithson specifically"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "LinkedIn invite sent to Mia Smithson (Founding Head of Recruiting) at Rui's go; pending"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Early-stage discovery/watchlist candidate; Rui's bar: high-reputation AI startups raising fast with real 2025–2026 frontier-lab talent inflow"
+      ]
     },
     "interviews": []
   },
@@ -1771,7 +1929,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-09-30",
         "history": [
-          "2026-09-30 4:24 PM — sent intel-gathering DM (openings, team scope, comp range); no reply yet"
+          "2026-09-30 4:24 PM — sent intel-gathering DM (openings, team scope, comp range); no reply yet",
+          "2026-10-05 — replied: 'Thanks for sharing! Strong resume. Keep in touch.' (their only current ML role is financial forecasting — not a fit). Agent sent a keep-in-touch note; résumé on file for future staff-level ML/AI roles"
         ]
       },
       {
@@ -1805,6 +1964,10 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Kelly Wu (expansion batch 1; note w/ mutual Leonora Gecaj)"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Joshua Poore replied ('Thanks for sharing! Strong resume. Keep in touch.'); keep-in-touch note sent; résumé on file for future staff-level ML/AI roles"
       }
     ],
     "intel": {
