@@ -79,14 +79,18 @@
       {
         "date": "2026-10-04",
         "text": "Kim Catalano's confirmation email asked Rui to reply confirming receipt — acknowledgment NOT sent (Gmail send blocked); booking and calendar event confirmed"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Rui signed the DocuSign NDA himself and sent the booking-confirmation reply to Kim Catalano; call remains Thu Oct 8, 1:00–1:30 PM PT (Google Meet https://meet.google.com/diq-jztq-fnq)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval",
-        "Glean 30-min chat: DocuSign NDA still UNSIGNED as of 2026-10-04 — Rui must sign it himself before the call",
-        "Chat booked for Thu Oct 8, 1:00–1:30 PM PT (2026-10-04); the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)"
+        "Glean 30-min chat: DocuSign NDA SIGNED by Rui 2026-10-06 (he signed it himself via the DocuSign PowerForm link); booking-confirmation reply sent to Kim Catalano 2026-10-06",
+        "Chat booked for Thu Oct 8, 1:00–1:30 PM PT; the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)"
       ]
     },
     "interviews": [
@@ -108,16 +112,17 @@
     "size": "~200 (mid-2026), plan 600 by end-2026",
     "location": null,
     "rto": null,
-    "status": "connected",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Ravi B.",
         "role": "Senior Technical Recruiter, AI/ML",
         "linkedin": "https://www.linkedin.com/in/ravi-b-68277a171/",
-        "contact_status": "invited",
-        "date": "2026-09-28",
+        "contact_status": "connected",
+        "date": "2026-10-05",
         "history": [
-          "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar"
+          "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar",
+          "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation"
         ]
       },
       {
@@ -149,7 +154,8 @@
         "date": "2026-10-04",
         "history": [
           "2026-10-05 — ACCEPTED the LinkedIn invite and messaged the same day: offered a direct intro to Ravi B. (Senior Technical Recruiter, AI/ML) and asked for Rui's résumé",
-          "2026-10-05 1:27 PM — sent Resume.pdf + fit summary via LinkedIn; accepted the direct intro to Ravi B. (direct path to the AMLE hiring manager alongside TOBY X.'s pending intro request)"
+          "2026-10-05 1:27 PM — sent Resume.pdf + fit summary via LinkedIn; accepted the direct intro to Ravi B. (direct path to the AMLE hiring manager alongside TOBY X.'s pending intro request)",
+          "2026-10-05 8:03 PM — confirmed on LinkedIn she received Rui's résumé and would share it with Ravi"
         ]
       },
       {
@@ -230,6 +236,18 @@
       {
         "date": "2026-10-05",
         "text": "Résumé + fit summary sent to Sherry Zhang via LinkedIn; accepted the direct intro to Ravi B."
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Ravi B. accepted the LinkedIn invite (9:53 PM) — now a direct connection"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Sherry Zhang confirmed she received the résumé and would share it with Ravi"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Intro-call availability proposed via Ravi's Ashby page: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9, Mon Oct 12/Tue Oct 13 fallbacks; tentative hold on Thu; awaiting Ravi's confirmation"
       }
     ],
     "intel": {
@@ -902,14 +920,17 @@
     "size": "Small, scaling fast (10 FTE in 2024 → hundreds)",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Calvin C.",
         "role": "Tech Recruiter",
         "linkedin": "https://www.linkedin.com/in/ccxcv23/",
-        "contact_status": "invited",
-        "date": "2026-09-30"
+        "contact_status": "connected",
+        "date": "2026-10-06",
+        "history": [
+          "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply"
+        ]
       },
       {
         "name": "Kacey Harris",
@@ -927,6 +948,14 @@
       {
         "date": "2026-09-30",
         "text": "Invite sent to Kacey Harris (wave 2; note w/ mutual Todd Patrick)"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Calvin C. (Tech Recruiter, ex-TikTok/ex-ByteDance) accepted the invite; his first message was just a greeting"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "First-touch reply sent to Calvin C. (thank-you + asked whether Fluidstack is hiring senior/staff MLE folks); awaiting reply"
       }
     ],
     "intel": {
@@ -1320,7 +1349,8 @@
         "date": "2026-10-01",
         "history": [
           "2026-10-01 — accepted connection; replied 9:56 AM ('actively looking to hire'); sent standard intro/call-offer reply 4:49 PM; awaiting response",
-          "2026-10-02 — read his Oct 1 follow-up DM (shared his Google Calendar booking link for a chat about Mercor's MLE role). Intro call BOOKED Tue 2026-10-06, 1:30–1:45 PM PT via his link (Google Meet); confirmation sent to Raif in the LinkedIn thread; calendar event created"
+          "2026-10-02 — read his Oct 1 follow-up DM (shared his Google Calendar booking link for a chat about Mercor's MLE role). Intro call BOOKED Tue 2026-10-06, 1:30–1:45 PM PT via his link (Google Meet); confirmation sent to Raif in the LinkedIn thread; calendar event created",
+          "2026-10-06 — Raif CANCELLED the Tue Oct 6, 1:30–1:45 PM PT call (last-minute conflict). Rui countered Wed Oct 7 at 10:00 AM or 2:00 PM PT (12:00 PM fallback): two scheduling emails sent from the career Gmail (first proposed 2:15–2:30 PM, then redirected to 10:00 AM / 2:00 PM); awaiting Raif's confirmation; no replacement calendar event yet"
         ]
       }
     ],
@@ -1352,6 +1382,14 @@
       {
         "date": "2026-10-03",
         "text": "Calendar-invite email from Raif Rahal confirmed the Tue Oct 6, 1:30–1:45 PM PT intro call"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Raif Rahal cancelled the Tue 1:30–1:45 PM PT intro call (last-minute conflict)"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Rui countered with Wed Oct 7, 10:00 AM or 2:00 PM PT (12:00 PM fallback); awaiting Raif's confirmation"
       }
     ],
     "intel": {
@@ -1362,9 +1400,9 @@
       {
         "date": "2026-10-06",
         "time": "1:30–1:45 PM PT",
-        "title": "Intro call",
+        "title": "Intro call (CANCELLED)",
         "people": "Raif Rahal (Talent Acquisition)",
-        "notes": "Booked via his Google Calendar link — Google Meet"
+        "notes": "Cancelled by Raif 2026-10-06 (last-minute conflict); Rui countered Wed Oct 7 10:00 AM or 2:00 PM PT (12:00 fallback) — awaiting confirmation"
       }
     ]
   },
@@ -1495,6 +1533,14 @@
       {
         "date": "2026-10-04",
         "text": "Both Oct 2 rounds lapsed with outcome unknown — Tyler Wong never confirmed the proposed Oct 9 reschedule"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Correction: both Oct 2 rounds went ahead as scheduled and Rui completed them (Eric Chen — Technical Architecture; Bharat Kalyanpur — Scope & Impact)"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Rui-approved feedback-request email sent to coordinator Tyler Wong; awaiting reply"
       }
     ],
     "intel": {
@@ -1512,14 +1558,14 @@
         "time": "11:00 AM–12:00 PM PT",
         "title": "Round 1 — Technical Architecture",
         "people": "Eric Chen",
-        "notes": "HackerRank: https://hr.gs/0adf763"
+        "notes": "Completed Fri Oct 2 — HackerRank: https://hr.gs/0adf763"
       },
       {
         "date": "2026-10-02",
         "time": "1:30–2:30 PM PT",
         "title": "Round 2 — Scope & Impact",
         "people": "Bharat Kalyanpur",
-        "notes": "HackerRank: https://hr.gs/ca6f622"
+        "notes": "Completed Fri Oct 2 — HackerRank: https://hr.gs/ca6f622"
       }
     ]
   },
@@ -1801,7 +1847,8 @@
           "2026-10-03 — accepted the inbound invitation; he messaged right after accepting. Replied the same afternoon with fit summary (search ranking + recommendations at scale) and offered the résumé; no intro call booked yet",
           "2026-10-04 — read his two LinkedIn messages: PDF JD ('E-commerce Senior Staff MLE.pdf'); Chinese message asking for résumé + phone + detailed chat; his availability: weekdays 9–11 AM or after 5 PM PT; appears to be an external recruiter at Global Technology Talent Hiring Inc.; hiring company still undisclosed",
           "2026-10-04 4:53 PM — Rui's choice: résumé sent via LinkedIn (Resume.pdf) + asked for the company name first (in Chinese); no phone number shared; awaiting reply",
-          "2026-10-05 1:15 PM — CONFIRMED intro call Thu 2026-10-08, 9:45–10:15 AM PT; said comp/stock/hiring-manager details will be shared on the call; agent asked for call details. Calendar event created."
+          "2026-10-05 1:15 PM — CONFIRMED intro call Thu 2026-10-08, 9:45–10:15 AM PT; said comp/stock/hiring-manager details will be shared on the call; agent asked for call details. Calendar event created.",
+          "2026-10-06 — confirmed the Thu Oct 8, 9:45 AM PT call is a PHONE call: Yuyang will call Rui at +1 917-244-6633. Planned discussion: comp range, stock/buyback liquidity, hiring manager, office location; calendar event updated"
         ]
       }
     ],
@@ -1825,6 +1872,10 @@
       {
         "date": "2026-10-05",
         "text": "Yuyang Cheng confirmed an intro call for Thu 2026-10-08, 9:45–10:15 AM PT (comp/stock/hiring-manager details on the call)"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Thu Oct 8 call confirmed as a phone call — Yuyang will call Rui at +1 917-244-6633 (topics: comp range, stock/buyback liquidity, hiring manager, office location)"
       }
     ],
     "intel": {
@@ -1838,7 +1889,8 @@
       {
         "date": "2026-10-08",
         "time": "9:45 AM PT",
-        "text": "Intro call with Yuyang Cheng (external recruiter, Senior Staff MLE — E-commerce Recommendations, short-video co); comp/stock/hiring-manager details on the call"
+        "text": "Intro call with Yuyang Cheng (external recruiter, Senior Staff MLE — E-commerce Recommendations, short-video co); comp/stock/hiring-manager details on the call",
+        "notes": "PHONE CALL — Yuyang will call Rui at +1 917-244-6633; topics: comp range, stock/buyback liquidity, hiring manager, office location"
       }
     ]
   },
@@ -1946,16 +1998,17 @@
     "size": null,
     "location": "San Francisco Bay Area",
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Mia Smithson",
         "role": "Founding Head of Recruiting @ TypeSafe AI",
         "linkedin": "https://www.linkedin.com/in/miasmithson/",
-        "contact_status": "invited",
+        "contact_status": "connected",
         "date": "2026-10-05",
         "history": [
-          "2026-10-05 5:52 PM — LinkedIn invite sent at Rui's explicit approval ('sure can you reach out'), reversing the earlier 'too early' call for her specifically; pending"
+          "2026-10-05 5:52 PM — LinkedIn invite sent at Rui's explicit approval ('sure can you reach out'), reversing the earlier 'too early' call for her specifically; pending",
+          "2026-10-05 ~5:53 PM — ACCEPTED the invite (sent at Rui's go ~5:52 PM). 2026-10-06 — first-touch LinkedIn message sent: thanked her for connecting, referenced the Jev decision-model interest from the invite note, asked to learn more about TypeSafe and where an MLE leader could fit, offered a brief chat; awaiting reply"
         ]
       }
     ],
@@ -1967,6 +2020,14 @@
       {
         "date": "2026-10-05",
         "text": "LinkedIn invite sent to Mia Smithson (Founding Head of Recruiting) at Rui's go; pending"
+      },
+      {
+        "date": "2026-10-05",
+        "text": "Mia Smithson (Founding Head of Recruiting) accepted the LinkedIn invite"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "First-touch note sent to Mia Smithson (thank-you + Jev decision-model interest + offered a brief chat); awaiting reply"
       }
     ],
     "intel": {
@@ -1976,5 +2037,60 @@
       ]
     },
     "interviews": []
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "tagline": "Frontier AI lab — Staff Software Engineer, Search",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "San Francisco Bay Area",
+    "rto": null,
+    "status": "interviewing",
+    "contacts": [
+      {
+        "name": "Yulia Serhiyenia",
+        "role": "Recruiter",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-05"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-05",
+        "text": "Intro email from Yulia Serhiyenia (yulia@anthropic.com): recruiter screen for Staff SWE, Search; ModernLoop booking + candidate portal access code (portal access codes go to the jobs Gmail)"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "CodeSignal pre-screen COMPLETED — finished 2026-10-06, a day ahead of the Oct 7, 2:11 PM PDT deadline"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Recruiter screen MOVED at Rui's request: Wed Oct 7, 11:00–11:20 AM PT → Thu Oct 8, 11:30–11:50 AM PT (Google Meet); NDA signed"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Candidate portal explored (read-only): only the recruiter screen is listed; no future rounds and no dedicated fit/values rubric. Values prep grounded in Anthropic's 7 official guiding principles; candidate AI-use policy: no AI assistance in live interviews unless discussed as an accommodation"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Role: Staff Software Engineer, Search",
+        "Reported 2026 post-OA process: recruiter call → tech phone (often system design for senior+) → 4–5-round virtual onsite (coding, SD, HM/project deep-dive, values/culture); live interviews are AI-assistance-free unless allowed",
+        "Why-Anthropic + AI-safety depth is the hard values gate — shallow answers reportedly fail the recruiter/values round"
+      ]
+    },
+    "interviews": [
+      {
+        "date": "2026-10-08",
+        "time": "11:30–11:50 AM PT",
+        "title": "Recruiter screen",
+        "people": "Yulia Serhiyenia (Recruiter)",
+        "notes": "Google Meet — moved from Wed Oct 7 at Rui's request; CodeSignal completed Oct 6; NDA signed"
+      }
+    ]
   }
 ]
