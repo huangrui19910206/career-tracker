@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 07, 2026";
+const BUILD_DATE = "Oct 08, 2026";
 const COMPANIES = [
   {
     "slug": "anthropic",
@@ -384,6 +384,13 @@ const COMPANIES = [
         "linkedin": null,
         "contact_status": "existing",
         "date": "2026-09-29"
+      },
+      {
+        "name": "Liqun Yu",
+        "role": "Interviewer — ML Domain Knowledge",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-06"
       }
     ],
     "timeline": [
@@ -398,6 +405,18 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Role intel synced from Simplenote notes"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Noe Perez's reminder confirmed two interviewers for Round 1: Xiaochang Miao + Liqun Yu (ML Domain Knowledge)"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Round 1 took place: Wed 2026-10-07, 1:00–2:00 PM PT (Zoom, Xiaochang Miao + Liqun Yu, ML Domain Knowledge); outcome pending"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "No DoorDash NDA signature found in the three job-search Gmails (~12:22 PM PT check); Rui told to sign it before the call"
       }
     ],
     "intel": {
@@ -413,8 +432,8 @@ const COMPANIES = [
         "date": "2026-10-07",
         "time": "1:00–2:00 PM PT",
         "title": "Round 1 — ML Domain Knowledge (Zoom)",
-        "people": "Xiaochang Miao",
-        "notes": "Complete the NDA beforehand; camera on"
+        "people": "Xiaochang Miao, Liqun Yu",
+        "notes": "Round 1 held Wed Oct 7 — outcome pending"
       }
     ]
   },
@@ -457,7 +476,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-03",
         "history": [
-          "2026-10-03 — accepted the inbound invitation; thank-you + Ema interest note sent (awaiting reply)"
+          "2026-10-03 — accepted the inbound invitation; thank-you + Ema interest note sent (awaiting reply)",
+          "2026-10-07 — follow-up DM sent at Rui's request (Oct 3 note was seen but went unanswered for 4 days): expressed interest in Ema's agent work, summarized Rui's search-ranking/LLM-infra background, proposed a 20-min conversation; LinkedIn confirmed send; awaiting reply"
         ]
       }
     ],
@@ -477,6 +497,10 @@ const COMPANIES = [
       {
         "date": "2026-10-03",
         "text": "Saghar Adler (co-founder) accepted the inbound invitation; thank-you + Ema interest note sent"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Follow-up DM sent to Saghar Adler (Ema co-founder) at Rui's request (20-min chat proposal); LinkedIn confirmed send; awaiting reply"
       }
     ],
     "intel": {
@@ -582,7 +606,8 @@ const COMPANIES = [
         "date": "2026-10-05",
         "history": [
           "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar",
-          "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation"
+          "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation",
+          "2026-10-07 — Intro call CONFIRMED: Fri Oct 9, 1:30–2:00 PM PT (Ashby confirmation email Oct 6 10:59 AM PT; tentative Thu hold deleted; calendar event marked [CONFIRMED])"
         ]
       },
       {
@@ -615,7 +640,8 @@ const COMPANIES = [
         "history": [
           "2026-10-05 — ACCEPTED the LinkedIn invite and messaged the same day: offered a direct intro to Ravi B. (Senior Technical Recruiter, AI/ML) and asked for Rui's résumé",
           "2026-10-05 1:27 PM — sent Resume.pdf + fit summary via LinkedIn; accepted the direct intro to Ravi B. (direct path to the AMLE hiring manager alongside TOBY X.'s pending intro request)",
-          "2026-10-05 8:03 PM — confirmed on LinkedIn she received Rui's résumé and would share it with Ravi"
+          "2026-10-05 8:03 PM — confirmed on LinkedIn she received Rui's résumé and would share it with Ravi",
+          "2026-10-07 — Sherry confirmed on LinkedIn she forwarded Rui's résumé to Ravi B. (verified in a live LinkedIn session)"
         ]
       },
       {
@@ -708,13 +734,29 @@ const COMPANIES = [
       {
         "date": "2026-10-05",
         "text": "Intro-call availability proposed via Ravi's Ashby page: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9, Mon Oct 12/Tue Oct 13 fallbacks; tentative hold on Thu; awaiting Ravi's confirmation"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Sherry Zhang confirmed she forwarded Rui's résumé to Ravi B."
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Intro call CONFIRMED: Fri 2026-10-09, 1:30–2:00 PM PT with Ravi B. (recruiter screen; tentative Thu hold deleted)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": []
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-10-09",
+        "time": "1:30–2:00 PM PT",
+        "title": "Intro call (CONFIRMED)",
+        "people": "Ravi B. (Senior Technical Recruiter, AI/ML)",
+        "notes": "Recruiter screen — booked via his Ashby scheduling page; Meet vic-kzyt-bda"
+      }
+    ]
   },
   {
     "slug": "fluidstack",
@@ -734,7 +776,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-06",
         "history": [
-          "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply"
+          "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply",
+          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet"
         ]
       },
       {
@@ -853,6 +896,14 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "Rui signed the DocuSign NDA himself and sent the booking-confirmation reply to Kim Catalano; call remains Thu Oct 8, 1:00–1:30 PM PT (Google Meet https://meet.google.com/diq-jztq-fnq)"
+      },
+      {
+        "date": "2026-10-06",
+        "text": "Kim Catalano asked to move the Thu Oct 8 call (she is OOO Thursday); Rui replied himself (2:44 PM PT) with Friday options"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Follow-up sent offering Fri 10:30 AM–12:00 PM PT only (1:30 PM conflicts with the Fireworks call); awaiting Kim's pick. Thu Oct 8 calendar event intentionally left unchanged until she confirms"
       }
     ],
     "intel": {
@@ -860,7 +911,8 @@ const COMPANIES = [
       "notes": [
         "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval",
         "Glean 30-min chat: DocuSign NDA SIGNED by Rui 2026-10-06 (he signed it himself via the DocuSign PowerForm link); booking-confirmation reply sent to Kim Catalano 2026-10-06",
-        "Chat booked for Thu Oct 8, 1:00–1:30 PM PT; the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)"
+        "Chat booked for Thu Oct 8, 1:00–1:30 PM PT; the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)",
+        "Kim Catalano is OOO Thu Oct 8 — Rui offered Fri 10:30 AM–12:00 PM PT only (follow-up sent 2026-10-07); Thu event unchanged until her pick"
       ]
     },
     "interviews": [
@@ -869,7 +921,7 @@ const COMPANIES = [
         "time": "1:00–1:30 PM PT",
         "title": "Intro call",
         "people": "Kim Catalano (ML Tech Recruiter)",
-        "notes": "Google Meet — booked via ModernLoop; 30-min recruiter screen"
+        "notes": "Google Meet — booked via ModernLoop; 30-min recruiter screen. Kim may move to Fri Oct 9 (10:30 AM–12:00 PM PT options offered); awaiting her pick"
       }
     ]
   },
@@ -1097,7 +1149,8 @@ const COMPANIES = [
         "history": [
           "2026-10-01 — accepted connection; replied 9:56 AM ('actively looking to hire'); sent standard intro/call-offer reply 4:49 PM; awaiting response",
           "2026-10-02 — read his Oct 1 follow-up DM (shared his Google Calendar booking link for a chat about Mercor's MLE role). Intro call BOOKED Tue 2026-10-06, 1:30–1:45 PM PT via his link (Google Meet); confirmation sent to Raif in the LinkedIn thread; calendar event created",
-          "2026-10-06 — Raif CANCELLED the Tue Oct 6, 1:30–1:45 PM PT call (last-minute conflict). Rui countered Wed Oct 7 at 10:00 AM or 2:00 PM PT (12:00 PM fallback): two scheduling emails sent from the career Gmail (first proposed 2:15–2:30 PM, then redirected to 10:00 AM / 2:00 PM); awaiting Raif's confirmation; no replacement calendar event yet"
+          "2026-10-06 — Raif CANCELLED the Tue Oct 6, 1:30–1:45 PM PT call (last-minute conflict). Rui countered Wed Oct 7 at 10:00 AM or 2:00 PM PT (12:00 PM fallback): two scheduling emails sent from the career Gmail (first proposed 2:15–2:30 PM, then redirected to 10:00 AM / 2:00 PM); awaiting Raif's confirmation; no replacement calendar event yet",
+          "2026-10-07 — Raif's 'Updated invitation' email (Oct 6) re-confirmed Wed Oct 7, 12:00–12:15 PM PT. Raif NEVER JOINED — Rui waited alone in the Meet from 12:05 PM PT. Rui asked the agent to ping Raif on LinkedIn + email (send status unverified)"
         ]
       }
     ],
@@ -1137,6 +1190,14 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "Rui countered with Wed Oct 7, 10:00 AM or 2:00 PM PT (12:00 PM fallback); awaiting Raif's confirmation"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Intro call re-confirmed for Wed Oct 7, 12:00–12:15 PM PT (Raif's 'Updated invitation' email)"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "NO-SHOW: Raif Rahal never joined the 12:00–12:15 PM PT intro call; Rui waited alone in the Meet from 12:05 PM PT. Rui asked the agent to ping Raif on LinkedIn + email"
       }
     ],
     "intel": {
@@ -1150,6 +1211,13 @@ const COMPANIES = [
         "title": "Intro call (CANCELLED)",
         "people": "Raif Rahal (Talent Acquisition)",
         "notes": "Cancelled by Raif 2026-10-06 (last-minute conflict); Rui countered Wed Oct 7 10:00 AM or 2:00 PM PT (12:00 fallback) — awaiting confirmation"
+      },
+      {
+        "date": "2026-10-07",
+        "time": "12:00–12:15 PM PT",
+        "title": "Intro call (NO-SHOW)",
+        "people": "Raif Rahal (Talent Acquisition)",
+        "notes": "Raif never joined; Rui waited alone in the Meet. Follow-up pings requested by Rui"
       }
     ]
   },
@@ -1836,13 +1904,18 @@ const COMPANIES = [
       "comp": "$350k–$475k base (both postings, verified live 2026-09-30); visa sponsorship offered",
       "notes": [
         "Two live postings verified 2026-09-30: (1) Research Software Engineer, Post Training — SF, RL training systems/sandboxing/data pipelines/agent scaffolding (stronger fit); (2) Research, General Agents — SF, evergreen expression-of-interest, synthetic data/agentic RL (weaker fit, no reapply within 6 months)",
-        "No application submitted; awaiting Rui’s decision (apply to Post Training only / both / skip)"
+        "No application submitted; awaiting Rui’s decision (apply to Post Training only / both / skip)",
+        "Frontier-lab wave 2026-10-07: DeepMind 2 + OpenAI 2 + xAI 5 + Periodic Labs 3 applications submitted; Thinking Machines / Meta MSL / Reflection AI remain second wave"
       ]
     },
     "timeline": [
       {
         "date": "2026-09-30",
         "text": "Rui flagged Thinking Machines postings; fit assessment done, submit decision pending"
+      },
+      {
+        "date": "2026-10-07",
+        "text": "Role research completed under the frontier-lab application push; application planned as second wave (SSI has no public postings — network-only)"
       }
     ]
   },
@@ -1918,7 +1991,8 @@ const COMPANIES = [
         "date": "2026-10-05",
         "history": [
           "2026-10-05 5:52 PM — LinkedIn invite sent at Rui's explicit approval ('sure can you reach out'), reversing the earlier 'too early' call for her specifically; pending",
-          "2026-10-05 ~5:53 PM — ACCEPTED the invite (sent at Rui's go ~5:52 PM). 2026-10-06 — first-touch LinkedIn message sent: thanked her for connecting, referenced the Jev decision-model interest from the invite note, asked to learn more about TypeSafe and where an MLE leader could fit, offered a brief chat; awaiting reply"
+          "2026-10-05 ~5:53 PM — ACCEPTED the invite (sent at Rui's go ~5:52 PM). 2026-10-06 — first-touch LinkedIn message sent: thanked her for connecting, referenced the Jev decision-model interest from the invite note, asked to learn more about TypeSafe and where an MLE leader could fit, offered a brief chat; awaiting reply",
+          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet"
         ]
       }
     ],
