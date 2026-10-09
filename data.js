@@ -1,5 +1,45 @@
-const BUILD_DATE = "Oct 08, 2026";
+const BUILD_DATE = "Oct 09, 2026";
 const COMPANIES = [
+  {
+    "slug": "airbyte",
+    "name": "Airbyte",
+    "tagline": "Open-source data integration (ELT)",
+    "valuation": "Series B $150M+ @ $1.5B (Dec 2021)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Abby R.",
+        "role": "Recruiting — Technical & AI Hiring",
+        "linkedin": "https://www.linkedin.com/in/abby-r-b1a312193/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Isabelle Cruz",
+        "role": "Sr. Recruiter",
+        "linkedin": "https://www.linkedin.com/in/isabellecruz/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Abby R. and Isabelle Cruz — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Open-source ELT at scale; limited ML overlap"
+      ]
+    },
+    "interviews": []
+  },
   {
     "slug": "anthropic",
     "name": "Anthropic",
@@ -35,6 +75,14 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "Candidate portal explored (read-only): only the recruiter screen is listed; no future rounds and no dedicated fit/values rubric. Values prep grounded in Anthropic's 7 official guiding principles; candidate AI-use policy: no AI assistance in live interviews unless discussed as an accommodation"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Recruiter screen MOVED again: Thu Oct 8 → Fri Oct 9, 11:30–11:50 AM PT (Yulia Serhiyenia confirmed Oct 7, 10:05 PM PT; new Google Meet cky-nhtf-cvq)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Rui re-signed the NDA himself (~11:49 AM PT) at Yulia's request (required ≥24h before the call)"
       }
     ],
     "intel": {
@@ -54,6 +102,80 @@ const COMPANIES = [
         "notes": "Google Meet — moved from Wed Oct 7 at Rui's request; CodeSignal completed Oct 6; NDA signed"
       }
     ]
+  },
+  {
+    "slug": "anyscale",
+    "name": "Anyscale",
+    "tagline": "Ray distributed-compute platform for AI training/serving",
+    "valuation": "Series C $100M @ $1B (2021)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Rich Adao",
+        "role": "Head of Talent",
+        "linkedin": "https://www.linkedin.com/in/richadao/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Rich Adao (Head of Talent) — personal note"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Recruiting may be in flux: being acquired by Nscale ~$1.65B (announced Jul 2026)",
+        "Rich Adao's current profile shows Head of Talent @ Applied Intuition (ex-Anyscale)"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "arize-ai",
+    "name": "Arize AI",
+    "tagline": "ML observability + LLM evals (Phoenix OSS)",
+    "valuation": "Series C $70M (Feb 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Berkeley",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Stefan O.",
+        "role": "Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/stefan-o-769b0b120/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Kristen Wise",
+        "role": "GTM Talent Lead",
+        "linkedin": "https://www.linkedin.com/in/kristen-wise-4b727919/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Stefan O. and Kristen Wise — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Reportedly acquired by Dynatrace ~$915M (Aug 2026); hiring may be in flux"
+      ]
+    },
+    "interviews": []
   },
   {
     "slug": "baseten",
@@ -89,6 +211,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/ellie-woodfield/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Brian Hartrick",
+        "role": "Talent @ Baseten (ex-Principal Recruiter, AI Systems & Performance)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Olivia Jamison",
+        "role": "Talent @ Baseten (ex-Sr Technical Recruiter)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-08"
       }
     ],
     "timeline": [
@@ -107,11 +243,67 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Ellie Woodfield (expansion batch 1; note w/ mutual Todd Patrick)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Follow-up LinkedIn DM sent to Tarun Diwan (1:29 PM PT, confirmed): asked about senior/staff MLE openings; one follow-up max on this thread"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: alternate invites sent to Brian Hartrick and Olivia Jamison (Talent @ Baseten) after Tarun Diwan went cold (8 days)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "bentoml",
+    "name": "BentoML",
+    "tagline": "ML model serving / AI inference platform",
+    "valuation": "$9M seed (2023)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Bay Area",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Bo Jiang",
+        "role": "Founding Engineer — warm-intro path (2nd degree)",
+        "linkedin": "https://www.linkedin.com/in/bo-jiang-6b380296/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Chaoyu Yang",
+        "role": "Former Founder/CEO (now GTM at Modular); 1st-degree connection",
+        "linkedin": "https://www.linkedin.com/in/parano/",
+        "contact_status": "connected",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Bo Jiang (Founding Engineer) — warm-intro path (no identifiable recruiter; BentoML joined Modular/Qualcomm)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "LinkedIn DM sent to Chaoyu Yang (former Founder/CEO, 1st-degree connection, 2:52 PM PT): asked for a BentoML recruiter intro + brief call"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Chaoyu Yang replied 'Happy to chat!' (~2:57 PM PT, ~5 min after the DM); brief-call follow-up draft written, awaiting Rui's approval"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "BentoML joined Modular (Qualcomm); no recruiting staff on LinkedIn — warm-intro path only"
+      ]
     },
     "interviews": []
   },
@@ -154,6 +346,39 @@ const COMPANIES = [
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "browserbase",
+    "name": "Browserbase",
+    "tagline": "Headless browser infra for AI agents",
+    "valuation": "Series B $40M @ ~$300M (Jun 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Catherine Li",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/catherine-li-92460b9b/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Catherine Li — personal note"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Agent infra/devtools; adjacent fit"
+      ]
     },
     "interviews": []
   },
@@ -210,6 +435,10 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Justin Thompson-Jenkins (expansion batch 1; note w/ mutual Junda Yang)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Follow-up LinkedIn DM sent to Harry Kang (1:29 PM PT, confirmed): asked for engineering-manager feedback on the Sep 29 CV; one follow-up max — no more nudges on this thread"
       }
     ],
     "intel": {
@@ -510,6 +739,43 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "etched",
+    "name": "Etched",
+    "tagline": "Sohu transformer-only inference ASIC",
+    "valuation": "~$500M @ ~$5B (Jan 2026)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "San Jose",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Tom Sherry",
+        "role": "Head of Talent",
+        "linkedin": "https://www.linkedin.com/in/tom-sherry/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Tom Sherry — personal note"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Invite to Emily Aurea Jahnke (Recruiter) NOT sent — browser crashed mid-run; retry pending"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Pure-hardware ASIC; weakest SW fit of the wave"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "factory",
     "name": "Factory",
     "tagline": "Autonomous AI agents for enterprise software engineering",
@@ -567,6 +833,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Recruiter intel synced from Simplenote: interview loop includes debug round + AI coding round"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Follow-up LinkedIn DM sent to Gabe Remar (8:14 AM PT, confirmed): asked when the debug + AI coding rounds can be scheduled; thread quiet since the Sep 30 intro call; one follow-up max per the standing rule"
       }
     ],
     "intel": {
@@ -586,6 +856,43 @@ const COMPANIES = [
         "notes": "Google Meet — completed"
       }
     ]
+  },
+  {
+    "slug": "fal",
+    "name": "fal",
+    "tagline": "Generative media inference API (600+ models)",
+    "valuation": "Series D $140M @ $4.5B (Dec 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Jesus Serratos",
+        "role": "ML Recruiting Leader (ex-Reddit)",
+        "linkedin": "https://www.linkedin.com/in/jesussoria/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Jesus Serratos — personal note"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Humeyra Kurtyilmaz (Global Talent Executive) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "AI inference platform"
+      ]
+    },
+    "interviews": []
   },
   {
     "slug": "fireworks-ai",
@@ -813,6 +1120,46 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "galileo",
+    "name": "Galileo",
+    "tagline": "GenAI eval/observability (EFMs)",
+    "valuation": "Series B $45M (Oct 2024)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF / Burlingame",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Taylor Rachor",
+        "role": "Head of People Ops and Talent",
+        "linkedin": "https://www.linkedin.com/in/taylorrachor/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Musthaq Ahamed",
+        "role": "Talent Acquisition Business Partner",
+        "linkedin": "https://www.linkedin.com/in/musthaqahamed-hr/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Taylor Rachor and Musthaq Ahamed — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Now part of Cisco (Burlingame); GenAI eval overlap"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "glean",
     "name": "Glean",
     "tagline": "Enterprise search / Work AI platform",
@@ -904,6 +1251,10 @@ const COMPANIES = [
       {
         "date": "2026-10-07",
         "text": "Follow-up sent offering Fri 10:30 AM–12:00 PM PT only (1:30 PM conflicts with the Fireworks call); awaiting Kim's pick. Thu Oct 8 calendar event intentionally left unchanged until she confirms"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Chat CONFIRMED: Fri 2026-10-09, 11:00–11:30 AM PT with Kim Catalano (ML Engineer, Search Quality; Google Meet jya-fsid-irn); Rui confirmed himself Oct 7; stale Thu Oct 8 1:00 PM hold deleted"
       }
     ],
     "intel": {
@@ -922,6 +1273,13 @@ const COMPANIES = [
         "title": "Intro call",
         "people": "Kim Catalano (ML Tech Recruiter)",
         "notes": "Google Meet — booked via ModernLoop; 30-min recruiter screen. Kim may move to Fri Oct 9 (10:30 AM–12:00 PM PT options offered); awaiting her pick"
+      },
+      {
+        "date": "2026-10-09",
+        "time": "11:00–11:30 AM PT",
+        "title": "Intro chat (CONFIRMED)",
+        "people": "Kim Catalano (ML Engineer, Search Quality)",
+        "notes": "Google Meet — confirmed"
       }
     ]
   },
@@ -1070,6 +1428,43 @@ const COMPANIES = [
     ]
   },
   {
+    "slug": "hex",
+    "name": "Hex",
+    "tagline": "AI-powered data workspace",
+    "valuation": "Series C $70M (May 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Summer E.",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/summereds/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Summer E. — personal note"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Andrew S. (Technical Recruiting) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "AI-native data product with semantic-layer overlap"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "lambda",
     "name": "Lambda",
     "tagline": "GPU cloud (\"The Superintelligence Cloud\")",
@@ -1119,6 +1514,79 @@ const COMPANIES = [
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "langchain",
+    "name": "LangChain",
+    "tagline": "Agent engineering platform (LangGraph/LangSmith)",
+    "valuation": "Series C $300M @ $3.01B (Sep 2026)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Danielle Hedden",
+        "role": "(role unconfirmed — profile shows Head of Commercial Legal)",
+        "linkedin": "https://www.linkedin.com/in/daniellehedden",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Danielle Hedden — personal note"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Danielle Hedden's profile shows Head of Commercial Legal @ LangChain, not recruiting — invite sent anyway; low expected yield"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "tagline": "RAG/data framework (LlamaCloud, LlamaParse)",
+    "valuation": "Series A $19M (Mar 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Ryan Lee",
+        "role": "Head of Talent",
+        "linkedin": "https://www.linkedin.com/in/ryannathanlee/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Liz VanZandt",
+        "role": "GTM Recruiting",
+        "linkedin": "https://www.linkedin.com/in/liz-vanzandt/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Ryan Lee and Liz VanZandt — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Retrieval/RAG = Rui's exact specialty (Series A)"
+      ]
     },
     "interviews": []
   },
@@ -1198,6 +1666,10 @@ const COMPANIES = [
       {
         "date": "2026-10-07",
         "text": "NO-SHOW: Raif Rahal never joined the 12:00–12:15 PM PT intro call; Rui waited alone in the Meet from 12:05 PM PT. Rui asked the agent to ping Raif on LinkedIn + email"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "No-show follow-up SENT: email to raifrahal@mercor.com (1:30 PM PT, in-thread via career Gmail) + LinkedIn DM (1:34 PM PT) — both confirmed; apologized for the missed connection, asked to reschedule (weekday afternoons PT); awaiting reply"
       }
     ],
     "intel": {
@@ -1317,6 +1789,79 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "monte-carlo",
+    "name": "Monte Carlo",
+    "tagline": "Data + AI agent observability",
+    "valuation": "Series D, $236M total",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF (remote-first)",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Dorit Linevych",
+        "role": "Agentic AI Talent Acquisition",
+        "linkedin": "https://www.linkedin.com/in/dorit-linevych/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Megan Rogers",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/megan-rogers-9892221a2/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Dorit Linevych and Megan Rogers — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Data + AI agent observability; data-infra adjacent"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "motherduck",
+    "name": "MotherDuck",
+    "tagline": "Serverless DuckDB analytics",
+    "valuation": "Series B $52.5M @ $400M (2023)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Seattle (HQ)",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Leslie T.",
+        "role": "Head of People (ex-Meta)",
+        "linkedin": "https://www.linkedin.com/in/lthomaa/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Leslie T. — personal note"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "HQ Seattle (not Bay Area); weakest ML overlap of the wave"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "motional",
     "name": "Motional",
     "tagline": "Autonomous driving — Principal MLE, Omnitag multimodal data mining",
@@ -1402,6 +1947,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/albert-kim-1a260b20/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Jay Little",
+        "role": "Senior Recruiter @ Nscale (ex-Meta, Chewy, Microsoft); alternate after Jared Tryon went cold (8d)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-08"
       }
     ],
     "timeline": [
@@ -1420,11 +1972,56 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Albert Kim (expansion batch 1; note w/ mutual Tigran Shahbazian)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Follow-up LinkedIn DM sent to Jared Tryon (1:29 PM PT, confirmed): asked what MLE roles Nscale is hiring for; one follow-up max on this thread"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: alternate invite sent to Jay Little (Senior Recruiter @ Nscale) after Jared Tryon went cold (8 days)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": []
+    },
+    "interviews": []
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "tagline": "AI-native cited answer engine (+ Comet browser)",
+    "valuation": "~$20–22B (Series E-6)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Chad Kunselman",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/chad-kunselman-664947b8/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Chad Kunselman — personal note"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Ling J. (Global Tech Recruiting, Infra) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Search + LLM retrieval = Rui's exact domain; consumer app, not infra"
+      ]
     },
     "interviews": []
   },
@@ -1454,6 +2051,10 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Cold inbound email from Natalia Chatelain Fanjul (Primer.ai recruiter, 12:04 PM PT): Staff MLE role — AI/NLP for intelligence orgs. Logged, not replied; brought to Rui"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Inbound follow-up from Natalia Chatelain Fanjul (Oct 7, 11:13 AM PT, Staff MLE) — off-target (gov/intel NLP); deferral draft saved in career Gmail Drafts (unsent), awaiting Rui's review"
       }
     ],
     "intel": {
@@ -1558,6 +2159,46 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Paige Wilhelm is GTM/sales-focused — weak for MLE routing; Taylor Owens is the stronger target"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "sambanova",
+    "name": "SambaNova",
+    "tagline": "Full-stack AI inference (RDU chips)",
+    "valuation": "Series F $1B @ $11B (Jul 2026)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Palo Alto",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Fiona Kong",
+        "role": "Recruiter",
+        "linkedin": "https://www.linkedin.com/in/fiona-kong-18b67565/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Rachel Birks",
+        "role": "Head of People",
+        "linkedin": "https://www.linkedin.com/in/rachelbirks/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Fiona Kong and Rachel Birks — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Hardware-leaning; SW/ML-systems roles only"
       ]
     },
     "interviews": []
@@ -1778,6 +2419,46 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "sourcegraph",
+    "name": "Sourcegraph",
+    "tagline": "Universal code search / code intelligence",
+    "valuation": "Series D $125M @ $2.625B",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF (remote-first)",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Devon Coords",
+        "role": "Director, Technical Recruiting",
+        "linkedin": "https://www.linkedin.com/in/devonelliscoords",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Marija Petrovic",
+        "role": "Director, Recruiting & People Ops",
+        "linkedin": "https://www.linkedin.com/in/marija-petrovic-sphr-b49b9b38/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Devon Coords and Marija Petrovic — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Code graph = large-scale retrieval over massive corpora; strong domain overlap"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "supabase",
     "name": "Supabase",
     "tagline": "Postgres backend platform",
@@ -1889,6 +2570,79 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "tecton",
+    "name": "Tecton",
+    "tagline": "Managed feature platform for ML (Feast)",
+    "valuation": "Series C $100M (2022)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Meera Lakhani",
+        "role": "Principal Recruiter",
+        "linkedin": "https://www.linkedin.com/in/meera-lakhani-1441a22b7/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Meera Lakhani — personal note"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Acquired by Databricks (team still hires under Tecton); production ML data infra"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "tensordyne",
+    "name": "Tensordyne",
+    "tagline": "AI inference compute (genAI + autonomy); fka Recogni",
+    "valuation": "Series C $102M (Feb 2024)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Sunnyvale / San Jose",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Rhonda Wade",
+        "role": "VP Human Resources",
+        "linkedin": "https://www.linkedin.com/in/rhonda-wade-21074a56/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Deepak C.",
+        "role": "Staffing Partner",
+        "linkedin": "https://www.linkedin.com/in/talent-deepak/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Rhonda Wade and Deepak C. — personal notes (no verification gate observed)"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Recogni rebranded to Tensordyne; AI inference compute"
+      ]
+    },
+    "interviews": []
+  },
+  {
     "name": "Thinking Machines",
     "slug": "thinking-machines",
     "tagline": "Frontier AI lab (Mira Murati)",
@@ -1918,6 +2672,43 @@ const COMPANIES = [
         "text": "Role research completed under the frontier-lab application push; application planned as second wave (SSI has no public postings — network-only)"
       }
     ]
+  },
+  {
+    "slug": "thredup",
+    "name": "ThredUp",
+    "tagline": "Fashion resale marketplace (personalization ML)",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "Remote US",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Michelle Young",
+        "role": "Talent @ ThredUp",
+        "linkedin": "https://www.linkedin.com/in/michelle-young-recruiting",
+        "contact_status": "inbound_pending",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Inbound InMail from Michelle Young, Talent @ ThredUp (1:53 PM PT): 'ML Architect, Personalization & Recommender Systems' (remote US; reports to Director of Data Science)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Off-target (fashion e-commerce personalization vs AI platform/infra); flagged for Rui's decision — no reply sent"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Off-target vs AI platform/infra target"
+      ]
+    },
+    "interviews": []
   },
   {
     "slug": "together-ai",
@@ -2073,6 +2864,10 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "Correction: both Oct 2 rounds went ahead as scheduled and Rui completed them (Eric Chen — Technical Architecture; Bharat Kalyanpur — Scope & Impact)"
+      },
+      {
+        "date": "2026-10-08",
+        "text": "Rui-approved feedback-request email sent to Talent@uber.com (8:15 AM PT, as a NEW email — in-thread reply failed since the automated rejection has no Message-ID header): asked which areas fell short of the Senior Staff bar and what a strong candidate would have demonstrated differently; awaiting reply"
       }
     ],
     "intel": {
@@ -2164,6 +2959,86 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Lydia Cuarezma-Cobette's focus appears to be Product Design/Design Eng, not ML"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "writer",
+    "name": "Writer",
+    "tagline": "Enterprise genAI platform (Palmyra LLMs, RAG)",
+    "valuation": "Series C $200M @ $1.9B",
+    "valuation_detail": null,
+    "size": null,
+    "location": "SF",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Nicholas Flood",
+        "role": "Technical Talent",
+        "linkedin": "https://www.linkedin.com/in/nicholas-flood-recruiter/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Miles Parroco",
+        "role": "Talent Acquisition",
+        "linkedin": "https://www.linkedin.com/in/milesparroco/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Nicholas Flood and Miles Parroco — personal notes (Nicholas Flood was already pending from an earlier attempt; no duplicate sent)"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Enterprise LLM agents + RAG; strong software fit"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "you-com",
+    "name": "You.com",
+    "tagline": "AI search APIs (pivoted B2B)",
+    "valuation": "Series C ~$150M @ $1.5B (Sep 2025)",
+    "valuation_detail": null,
+    "size": null,
+    "location": "Palo Alto",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Justin McQueen",
+        "role": "Talent",
+        "linkedin": "https://www.linkedin.com/in/justin-mcqueen/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      },
+      {
+        "name": "Dani Lindsey",
+        "role": "Head of People & Talent",
+        "linkedin": "https://www.linkedin.com/in/dani-lindsey/",
+        "contact_status": "invited",
+        "date": "2026-10-08"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invites sent to Justin McQueen and Dani Lindsey — personal notes"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Strongest search fit of the wave — AI search ranking/relevance = Rui's domain"
       ]
     },
     "interviews": []
