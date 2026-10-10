@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 09, 2026";
+const BUILD_DATE = "Oct 10, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -133,6 +133,43 @@ const COMPANIES = [
       "notes": [
         "Recruiting may be in flux: being acquired by Nscale ~$1.65B (announced Jul 2026)",
         "Rich Adao's current profile shows Head of Talent @ Applied Intuition (ex-Anyscale)"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "applied-intuition",
+    "name": "Applied Intuition",
+    "tagline": "Vehicle software / autonomy tooling",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "Sunnyvale, CA",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Rich Adao",
+        "role": "Head of Talent (ex-Anyscale)",
+        "linkedin": "https://www.linkedin.com/in/rich-adao-8a5a9b1b2/",
+        "contact_status": "connected",
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-08 — Wave-3 invite sent when Rich was believed to be at Anyscale; live outreach revealed he is now Head of Talent at Applied Intuition",
+          "2026-10-08 8:10 PM — ACCEPTED the LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "text": "Wave 3: invite sent to Rich Adao (thought to be at Anyscale) — turned out to be Head of Talent at Applied Intuition; ACCEPTED the invite Oct 8, 8:10 PM PT; thank-you note pending"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Rich Adao is now Head of Talent at Applied Intuition (ex-Anyscale); Wave-3 invite already accepted"
       ]
     },
     "interviews": []
@@ -282,7 +319,10 @@ const COMPANIES = [
         "role": "Former Founder/CEO (now GTM at Modular); 1st-degree connection",
         "linkedin": "https://www.linkedin.com/in/parano/",
         "contact_status": "connected",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-09 ~1:58 PM — Rui approved the drafted brief-call follow-up DM and it was SENT via LinkedIn (LinkedIn showed delivered); awaiting Chaoyu's reply"
+        ]
       }
     ],
     "timeline": [
@@ -297,6 +337,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Chaoyu Yang replied 'Happy to chat!' (~2:57 PM PT, ~5 min after the DM); brief-call follow-up draft written, awaiting Rui's approval"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Rui-approved brief-call follow-up DM sent to Chaoyu Yang via LinkedIn (~1:58 PM PT, delivered); awaiting reply"
       }
     ],
     "intel": {
@@ -646,6 +690,10 @@ const COMPANIES = [
       {
         "date": "2026-10-07",
         "text": "No DoorDash NDA signature found in the three job-search Gmails (~12:22 PM PT check); Rui told to sign it before the call"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "DoorDash REJECTED the candidacy (Noah Rooney, 7:27 AM PT email): Oct 7 Round 1 (ML domain knowledge) ended in a pass; no specific feedback per company policy. Thank-you/keep-in-touch draft saved in the jobs Gmail Drafts (UNSENT), awaiting Rui's review."
       }
     ],
     "intel": {
@@ -662,7 +710,7 @@ const COMPANIES = [
         "time": "1:00–2:00 PM PT",
         "title": "Round 1 — ML Domain Knowledge (Zoom)",
         "people": "Xiaochang Miao, Liqun Yu",
-        "notes": "Round 1 held Wed Oct 7 — outcome pending"
+        "notes": "Round 1 held Wed Oct 7 — DoorDash REJECTED the candidacy Oct 9 (template letter, no specific feedback)"
       }
     ]
   },
@@ -696,7 +744,10 @@ const COMPANIES = [
         "role": null,
         "linkedin": "https://www.linkedin.com/in/rashg/",
         "contact_status": "invited",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "history": [
+          "2026-10-09 — 10:30 AM follow-up sweep: Rashmi G. eligible for first follow-up (invite sent 2026-10-02, no reply) but NOT sent — LinkedIn blocked at login; pending a working session"
+        ]
       },
       {
         "name": "Saghar Adler",
@@ -914,7 +965,8 @@ const COMPANIES = [
         "history": [
           "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar",
           "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation",
-          "2026-10-07 — Intro call CONFIRMED: Fri Oct 9, 1:30–2:00 PM PT (Ashby confirmation email Oct 6 10:59 AM PT; tentative Thu hold deleted; calendar event marked [CONFIRMED])"
+          "2026-10-07 — Intro call CONFIRMED: Fri Oct 9, 1:30–2:00 PM PT (Ashby confirmation email Oct 6 10:59 AM PT; tentative Thu hold deleted; calendar event marked [CONFIRMED])",
+          "2026-10-09 — Ravi B. rescheduled the intro call: moved from Fri Oct 9, 1:30–2:00 PM PT to Tue Oct 13, 1:00–1:30 PM PT (his new invite carries its own Google Meet link); the Fri hold is to be deleted"
         ]
       },
       {
@@ -1049,6 +1101,10 @@ const COMPANIES = [
       {
         "date": "2026-10-07",
         "text": "Intro call CONFIRMED: Fri 2026-10-09, 1:30–2:00 PM PT with Ravi B. (recruiter screen; tentative Thu hold deleted)"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Ravi B. rescheduled the intro call to Tue 2026-10-13, 1:00–1:30 PM PT (new invite carries its own Google Meet link; Fri Oct 9 1:30–2:00 hold to be deleted)"
       }
     ],
     "intel": {
@@ -1057,11 +1113,11 @@ const COMPANIES = [
     },
     "interviews": [
       {
-        "date": "2026-10-09",
-        "time": "1:30–2:00 PM PT",
-        "title": "Intro call (CONFIRMED)",
+        "date": "2026-10-13",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call (CONFIRMED, rescheduled by Ravi B. 2026-10-09)",
         "people": "Ravi B. (Senior Technical Recruiter, AI/ML)",
-        "notes": "Recruiter screen — booked via his Ashby scheduling page; Meet vic-kzyt-bda"
+        "notes": "Recruiter screen — new Google Meet link in Ravi's reschedule invite; replaces Fri Oct 9 1:30–2:00 hold"
       }
     ]
   },
@@ -1084,7 +1140,8 @@ const COMPANIES = [
         "date": "2026-10-06",
         "history": [
           "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply",
-          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet"
+          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
+          "2026-10-09 — 10:30 AM follow-up sweep: Calvin C. eligible for first follow-up (connected 2026-10-06, first-touch sent, no reply) but NOT sent — LinkedIn blocked at login; pending a working session"
         ]
       },
       {
@@ -1282,6 +1339,42 @@ const COMPANIES = [
         "notes": "Google Meet — confirmed"
       }
     ]
+  },
+  {
+    "slug": "green-tech-recruitment",
+    "name": "Green Tech Recruitment (agency)",
+    "tagline": "Agency inbound — undisclosed client",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "Redwood City, CA (client)",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Edwin Green",
+        "role": "Green Tech Recruitment",
+        "linkedin": null,
+        "contact_status": "inbound_pending",
+        "date": "2026-10-09",
+        "history": [
+          "2026-10-09 — cold inbound email: undisclosed 'heavily funded Agentic/SRE client' in Redwood City, Staff AI Engineer, 5 days on-site — low signal; no reply sent"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-09",
+        "text": "Agency inbound from Edwin Green (Green Tech Recruitment): undisclosed heavily funded Agentic/SRE client, Redwood City, Staff AI Engineer, 5 days on-site — low signal; no reply"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Agency inbound, low signal; undisclosed client, 5 days on-site in Redwood City"
+      ]
+    },
+    "interviews": []
   },
   {
     "slug": "groq",
@@ -2055,6 +2148,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Inbound follow-up from Natalia Chatelain Fanjul (Oct 7, 11:13 AM PT, Staff MLE) — off-target (gov/intel NLP); deferral draft saved in career Gmail Drafts (unsent), awaiting Rui's review"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Natalia Chatelain Fanjul sent an automated 'Just giving this one more try!' bump (9:21 AM PT); Rui already sent the deferral reply Oct 8 — no reply sent"
       }
     ],
     "intel": {
@@ -2440,14 +2537,21 @@ const COMPANIES = [
         "name": "Marija Petrovic",
         "role": "Director, Recruiting & People Ops",
         "linkedin": "https://www.linkedin.com/in/marija-petrovic-sphr-b49b9b38/",
-        "contact_status": "invited",
-        "date": "2026-10-08"
+        "contact_status": "connected",
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-09 7:53 AM — ACCEPTED the Wave-3 LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session"
+        ]
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Devon Coords and Marija Petrovic — personal notes"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Marija Petrovic, SPHR accepted the Wave-3 LinkedIn invite (7:53 AM PT); thank-you note pending"
       }
     ],
     "intel": {
@@ -2686,7 +2790,7 @@ const COMPANIES = [
     "contacts": [
       {
         "name": "Michelle Young",
-        "role": "Talent @ ThredUp",
+        "role": "Talent @ ThredUp (Michelle Young)",
         "linkedin": "https://www.linkedin.com/in/michelle-young-recruiting",
         "contact_status": "inbound_pending",
         "date": "2026-10-08"
@@ -2700,6 +2804,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Off-target (fashion e-commerce personalization vs AI platform/infra); flagged for Rui's decision — no reply sent"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Michelle Young's InMail fully read: ML Architect, Personalization & Recommender Systems, remote US; JD https://careers.thredup.com/us/en/job/1596; scheduling link on file. Off-target (fashion resale-retail, not AI platform/infra); no reply sent — awaiting Rui's decision"
       }
     ],
     "intel": {
@@ -2978,8 +3086,11 @@ const COMPANIES = [
         "name": "Nicholas Flood",
         "role": "Technical Talent",
         "linkedin": "https://www.linkedin.com/in/nicholas-flood-recruiter/",
-        "contact_status": "invited",
-        "date": "2026-10-08"
+        "contact_status": "connected",
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-08 11:53 PM — ACCEPTED the Wave-3 LinkedIn invite; thank-you note drafted (in tracker), pending next successful LinkedIn session"
+        ]
       },
       {
         "name": "Miles Parroco",
@@ -2993,6 +3104,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Nicholas Flood and Miles Parroco — personal notes (Nicholas Flood was already pending from an earlier attempt; no duplicate sent)"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Nicholas Flood accepted the Wave-3 LinkedIn invite (Oct 8, 11:53 PM PT); thank-you note pending"
       }
     ],
     "intel": {
