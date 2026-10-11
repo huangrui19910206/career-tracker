@@ -144,7 +144,8 @@
           "2026-10-02 — invite re-verified still pending; withdrawal deliberately cancelled (re-inviting blocked up to 3 weeks); direct intro via TOBY X. is the active path. Rui's plan: self-intro mentioning TOBY's referral now, resume in the 2nd round, then schedule the call + add to calendar",
           "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation",
           "2026-10-07 — Intro call CONFIRMED: Fri Oct 9, 1:30–2:00 PM PT (Ashby confirmation email Oct 6 10:59 AM PT; tentative Thu hold deleted; calendar event marked [CONFIRMED])",
-          "2026-10-09 — Ravi B. rescheduled the intro call: moved from Fri Oct 9, 1:30–2:00 PM PT to Tue Oct 13, 1:00–1:30 PM PT (his new invite carries its own Google Meet link); the Fri hold is to be deleted"
+          "2026-10-09 — Ravi B. rescheduled the intro call: moved from Fri Oct 9, 1:30–2:00 PM PT to Tue Oct 13, 1:00–1:30 PM PT (his new invite carries its own Google Meet link); the Fri hold is to be deleted",
+          "2026-10-10 ~4:49 PM — the moved intro call (Tue Oct 13, 1:00-1:30 PM PT) was MISSING from the calendar; event now created on Rui's life calendar with the new Google Meet link + Ravi's phone. RSVP on Ravi's invite NOT clicked — left for Rui."
         ]
       },
       {
@@ -283,6 +284,10 @@
       {
         "date": "2026-10-09",
         "text": "Ravi B. rescheduled the intro call to Tue 2026-10-13, 1:00–1:30 PM PT (new invite carries its own Google Meet link; Fri Oct 9 1:30–2:00 hold to be deleted)"
+      },
+      {
+        "date": "2026-10-10",
+        "text": "Moved intro call (Tue Oct 13, 1:00-1:30 PM PT) added to Rui's Google Calendar — it had never been entered; now includes new Meet link + Ravi's phone; RSVP left for Rui"
       }
     ],
     "intel": {
@@ -653,7 +658,10 @@
         "role": "Tech Recruiter",
         "linkedin": "https://www.linkedin.com/in/harry-kang-3592921b/",
         "contact_status": "connected",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "history": [
+          "2026-10-10 — REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); 10-08 follow-up already sent (one-max rule satisfied). Reply CONTENT not yet read — both LinkedIn monitors 2026-10-10 (AM + PM) were blocked at sign-in; reading is queued for the next working session"
+        ]
       },
       {
         "name": "Justin Thompson-Jenkins",
@@ -687,6 +695,10 @@
       {
         "date": "2026-10-08",
         "text": "Follow-up LinkedIn DM sent to Harry Kang (1:29 PM PT, confirmed): asked for engineering-manager feedback on the Sep 29 CV; one follow-up max — no more nudges on this thread"
+      },
+      {
+        "date": "2026-10-10",
+        "text": "Harry Kang REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); content still UNREAD — LinkedIn auto-monitors blocked at sign-in all day; flagged to Rui, read queued for next working session"
       }
     ],
     "intel": {
@@ -1031,7 +1043,8 @@
         "history": [
           "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply",
           "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
-          "2026-10-09 — 10:30 AM follow-up sweep: Calvin C. eligible for first follow-up (connected 2026-10-06, first-touch sent, no reply) but NOT sent — LinkedIn blocked at login; pending a working session"
+          "2026-10-09 — 10:30 AM follow-up sweep: Calvin C. eligible for first follow-up (connected 2026-10-06, first-touch sent, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
+          "2026-10-10 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn monitor blocked AM + PM; 4th consecutive blocked run); pending next working session"
         ]
       },
       {
@@ -1390,7 +1403,8 @@
         "contact_status": "invited",
         "date": "2026-10-02",
         "history": [
-          "2026-10-09 — 10:30 AM follow-up sweep: Rashmi G. eligible for first follow-up (invite sent 2026-10-02, no reply) but NOT sent — LinkedIn blocked at login; pending a working session"
+          "2026-10-09 — 10:30 AM follow-up sweep: Rashmi G. eligible for first follow-up (invite sent 2026-10-02, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
+          "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session"
         ]
       },
       {
@@ -2233,7 +2247,20 @@
         "role": "Recruiter",
         "linkedin": null,
         "contact_status": "existing",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "history": [
+          "2026-10-10 — recruiter screen held Fri Oct 9, 11:30-11:50 AM PT: PASSED; Rui advanced to the technical rounds (NDA signed Oct 8)"
+        ]
+      },
+      {
+        "name": "Biana Reznik",
+        "role": "Anthropic scheduling contact",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-10",
+        "history": [
+          "2026-10-10 — Biana sent the ModernLoop link ('Next Steps with Anthropic', email Fri 10-09 1:00 PM) to book the two 55-min technical rounds (System Design + Coding); booking attempt proposed Mon Oct 19 1:00-3:00 PM PT (first choice), fallbacks Tue Oct 22 then Wed Oct 21, Fri Oct 16 only 2:00-3:00 PM (Office Happy Hour conflict 1-2 PM)"
+        ]
       }
     ],
     "timeline": [
@@ -2260,6 +2287,14 @@
       {
         "date": "2026-10-08",
         "text": "Rui re-signed the NDA himself (~11:49 AM PT) at Yulia's request (required ≥24h before the call)"
+      },
+      {
+        "date": "2026-10-10",
+        "text": "PASSED the recruiter screen (held Fri Oct 9, 11:30-11:50 AM PT with Yulia Serhiyenia; Rui signed the NDA Oct 8). Biana Reznik (Anthropic scheduling, email Fri 10-09 1:00 PM) sent a ModernLoop link to schedule TWO 55-minute technical interviews: System Design + Coding; candidate portal link also provided (no swap requests per email)."
+      },
+      {
+        "date": "2026-10-10",
+        "text": "Booking in progress: availability proposed via ModernLoop — first choice Mon Oct 19, 1:00-3:00 PM PT (System Design + Coding, two 55-min rounds), fallbacks Oct 22 then Oct 21; Oct 16 limited to 2:00-3:00 PM (happy hour conflict). NOT yet submitted/confirmed as of ~09:36 PT — scheduling still pending."
       }
     ],
     "intel": {
@@ -2274,9 +2309,16 @@
       {
         "date": "2026-10-08",
         "time": "11:30–11:50 AM PT",
-        "title": "Recruiter screen",
+        "title": "Recruiter screen (PASSED)",
         "people": "Yulia Serhiyenia (Recruiter)",
-        "notes": "Google Meet — moved from Wed Oct 7 at Rui's request; CodeSignal completed Oct 6; NDA signed"
+        "notes": "Held Fri Oct 9, 11:30-11:50 AM PT with Yulia Serhiyenia — PASSED (confirmed 2026-10-10 via Biana Reznik's 'Next Steps' email); NDA signed Oct 8"
+      },
+      {
+        "date": "2026-10-19",
+        "time": "1:00-3:00 PM PT (first choice, proposed)",
+        "title": "Technical rounds: System Design + Coding (2x55-min) — SCHEDULING PENDING",
+        "people": "Biana Reznik (Anthropic scheduling)",
+        "notes": "Via ModernLoop link; fallbacks Oct 22, then Oct 21; Oct 16 only 2:00-3:00 PM. Not yet submitted/confirmed as of 2026-10-10 ~09:36 PT"
       }
     ]
   },
@@ -3174,6 +3216,40 @@
       "notes": [
         "Agency inbound, low signal; undisclosed client, 5 days on-site in Redwood City"
       ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "chandler-song-hk",
+    "name": "Chandler Song (HK recruiter)",
+    "tagline": "Inbound — off-target China-market roles",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": "Hong Kong",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Chandler Song",
+        "role": "Global Talent Acquisition (LLM/AIGC/Agent/Infra/Robotics/Compiler/Data), HK-based",
+        "linkedin": null,
+        "contact_status": "inbound_pending",
+        "date": "2026-10-10",
+        "history": [
+          "2026-10-10 1:53 AM — LinkedIn InMail pitching China-market roles (北上深/香港); off-target vs Bay Area AI platform/infra target; logged, no reply"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-10",
+        "text": "Inbound InMail from Chandler Song (HK-based recruiter, 1:53 AM PT): pitching China-market roles (北上深, 香港) — off-target; logged, no reply"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": []
     },
     "interviews": []
   }
