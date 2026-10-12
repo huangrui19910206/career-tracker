@@ -565,7 +565,10 @@
         "role": "Technical Recruiter",
         "linkedin": "https://www.linkedin.com/in/gabe-remar-87508968/",
         "contact_status": "connected",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "history": [
+          "2026-10-11 1:59 PM PT — Gabe RE-ENGAGED by email (jobs Gmail, Cc cathy.nghieu@factory.ai): excited to move forward; next step is a 45-min debugging interview with a Factory team member (Python or JavaScript, no AI assistance, HackerRank — interviewer sends the link at the start; evaluated on technical skills + communication + collaboration). Asked Rui to share availability for the next two weeks via his Ashby link; a confirmation email follows. The thread is live again — the 10-10 COLD mark and the fresh-recruiter plan are moot. Awaiting Rui's slot pick."
+        ]
       },
       {
         "name": "Angely Zheng",
@@ -615,6 +618,10 @@
       {
         "date": "2026-10-10",
         "text": "Sweep 2026-10-10: Gabe Remar marked COLD per one-max rule (follow-up 10-08 asking to schedule debug + AI coding rounds, no reply since); no more nudges. Warm path via already-connected Angely Zheng if Factory stays a priority."
+      },
+      {
+        "date": "2026-10-11",
+        "text": "Gabe Remar RE-ENGAGED: emailed 1:59 PM PT (Cc cathy.nghieu@factory.ai) — excited to move forward; next step a 45-min debugging interview with a Factory team member (Python or JS, no AI assistance, HackerRank with the interviewer-sent link at start; graded on technical skills, communication, collaboration). Rui to share next-2-weeks availability via Gabe's Ashby link (https://you.ashbyhq.com/meeting/47edd5bb-525f-4a98-a7da-4ed5274c951e/); confirmation email follows. Thread live again — 10-10 COLD mark is moot; awaiting Rui's slot pick per his 1:00-3:00 PM PT coding-round preference."
       }
     ],
     "intel": {
@@ -632,6 +639,13 @@
         "title": "Intro call",
         "people": "Gabe Remar (Technical Recruiter)",
         "notes": "Google Meet — completed"
+      },
+      {
+        "date": "TBD",
+        "time": "45-min, date TBD",
+        "title": "Debugging interview (45-min) — SCHEDULING PENDING (Rui to pick slots)",
+        "people": "Gabe Remar (recruiter); Factory team member (interviewer TBD)",
+        "notes": "Python or JavaScript, no AI assistance; HackerRank link sent by the interviewer at the start; evaluated on technical skills + communication + collaboration. Gabe emailed 2026-10-11 1:59 PM PT asking Rui to share availability for the next two weeks via Ashby link; confirmation email follows. Rui's pick pending per 1:00-3:00 PM PT coding-round preference."
       }
     ]
   },
@@ -660,7 +674,8 @@
         "contact_status": "connected",
         "date": "2026-09-29",
         "history": [
-          "2026-10-10 — REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); 10-08 follow-up already sent (one-max rule satisfied). Reply CONTENT not yet read — both LinkedIn monitors 2026-10-10 (AM + PM) were blocked at sign-in; reading is queued for the next working session"
+          "2026-10-10 — REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); 10-08 follow-up already sent (one-max rule satisfied). Reply CONTENT not yet read — both LinkedIn monitors 2026-10-10 (AM + PM) were blocked at sign-in; reading is queued for the next working session",
+          "2026-10-11 — reply content STILL unread: both 2026-10-11 LinkedIn monitors (AM + PM) blocked at sign-in (5th + 6th consecutive blocked runs). The protected-code fill does not work on LinkedIn's verification input; read queued for next working session or manual takeover."
         ]
       },
       {
@@ -699,6 +714,10 @@
       {
         "date": "2026-10-10",
         "text": "Harry Kang REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); content still UNREAD — LinkedIn auto-monitors blocked at sign-in all day; flagged to Rui, read queued for next working session"
+      },
+      {
+        "date": "2026-10-11",
+        "text": "Harry Kang's 10-10 reply content STILL unread — LinkedIn monitors blocked at sign-in 2026-10-11 AM (5th) + PM (6th consecutive); thank-you notes (4), inbox reads (5), and 2 follow-up sends all queued for the next working session or Rui's manual takeover"
       }
     ],
     "intel": {
@@ -1044,7 +1063,8 @@
           "2026-10-06 — ACCEPTED the invite (note w/ mutual Amer Raza; Tech Recruiter @ Fluidstack, ex-TikTok/ex-ByteDance). 2026-10-06 7:49 AM — sent a LinkedIn message (digest only — greeting 'Happy to be a part of your network', no role discussed). 2026-10-06 — first-touch reply sent in his thread: thanked him, brief intro (Senior Staff MLE, search ranking, ex-Meta/ex-Pinterest), asked whether Fluidstack is hiring senior/staff MLE folks; awaiting reply",
           "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
           "2026-10-09 — 10:30 AM follow-up sweep: Calvin C. eligible for first follow-up (connected 2026-10-06, first-touch sent, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
-          "2026-10-10 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn monitor blocked AM + PM; 4th consecutive blocked run); pending next working session"
+          "2026-10-10 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn monitor blocked AM + PM; 4th consecutive blocked run); pending next working session",
+          "2026-10-11 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn blocked AM + PM; 10:30 PT sweep also blocked). Pending next working session."
         ]
       },
       {
@@ -1404,7 +1424,8 @@
         "date": "2026-10-02",
         "history": [
           "2026-10-09 — 10:30 AM follow-up sweep: Rashmi G. eligible for first follow-up (invite sent 2026-10-02, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
-          "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session"
+          "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session",
+          "2026-10-11 — first follow-up still NOT sent: LinkedIn session unavailable (10:30 PT sweep blocked at the plain login wall; both monitors also blocked). Thread still eligible per one-max rule; queued for the next working session."
         ]
       },
       {
@@ -1443,6 +1464,10 @@
       {
         "date": "2026-10-10",
         "text": "Sweep 2026-10-10: Saghar Adler (co-founder) marked COLD per one-max rule (follow-up 10-07 20-min chat proposal, no reply since). Rashmi G. thread still active: first follow-up pending LinkedIn session (attempt blocked 10-10 AM)."
+      },
+      {
+        "date": "2026-10-11",
+        "text": "Rashmi G. first follow-up still NOT sent — LinkedIn session unavailable all day (monitors AM + PM blocked; 10:30 PT sweep hit the login wall); thread remains eligible, queued for the next working session"
       }
     ],
     "intel": {
@@ -2259,7 +2284,8 @@
         "contact_status": "existing",
         "date": "2026-10-10",
         "history": [
-          "2026-10-10 — Biana sent the ModernLoop link ('Next Steps with Anthropic', email Fri 10-09 1:00 PM) to book the two 55-min technical rounds (System Design + Coding); booking attempt proposed Mon Oct 19 1:00-3:00 PM PT (first choice), fallbacks Tue Oct 22 then Wed Oct 21, Fri Oct 16 only 2:00-3:00 PM (Office Happy Hour conflict 1-2 PM)"
+          "2026-10-10 — Biana sent the ModernLoop link ('Next Steps with Anthropic', email Fri 10-09 1:00 PM) to book the two 55-min technical rounds (System Design + Coding); booking attempt proposed Mon Oct 19 1:00-3:00 PM PT (first choice), fallbacks Tue Oct 22 then Wed Oct 21, Fri Oct 16 only 2:00-3:00 PM (Office Happy Hour conflict 1-2 PM)",
+          "2026-10-10 — BOOKING PAUSED at Rui's explicit instruction ('先别，我还没准备好'): the ModernLoop availability was NEVER submitted. ModernLoop sent an availability reminder (Sat 10-10 1:00 PM) and a candidate-portal access code (Sat 10-10 8:16 PM, deliberately not opened/used). The booking link is retained; resume only when Rui says he is ready."
         ]
       }
     ],
@@ -2295,6 +2321,10 @@
       {
         "date": "2026-10-10",
         "text": "Booking in progress: availability proposed via ModernLoop — first choice Mon Oct 19, 1:00-3:00 PM PT (System Design + Coding, two 55-min rounds), fallbacks Oct 22 then Oct 21; Oct 16 limited to 2:00-3:00 PM (happy hour conflict). NOT yet submitted/confirmed as of ~09:36 PT — scheduling still pending."
+      },
+      {
+        "date": "2026-10-10",
+        "text": "BOOKING PAUSED at Rui's explicit instruction ('先别，我还没准备好'): the two 55-min technical rounds (System Design + Coding) were NOT booked — the ModernLoop availability was never submitted. ModernLoop sent an availability reminder (10-10 1:00 PM) and a candidate-portal access code (10-10 8:16 PM, deliberately unopened/unused). Link retained; resume only when Rui says ready."
       }
     ],
     "intel": {
@@ -2316,9 +2346,9 @@
       {
         "date": "2026-10-19",
         "time": "1:00-3:00 PM PT (first choice, proposed)",
-        "title": "Technical rounds: System Design + Coding (2x55-min) — SCHEDULING PENDING",
+        "title": "Technical rounds: System Design + Coding (2x55-min) — BOOKING PAUSED at Rui's instruction",
         "people": "Biana Reznik (Anthropic scheduling)",
-        "notes": "Via ModernLoop link; fallbacks Oct 22, then Oct 21; Oct 16 only 2:00-3:00 PM. Not yet submitted/confirmed as of 2026-10-10 ~09:36 PT"
+        "notes": "Proposed via ModernLoop: first choice Mon Oct 19, 1:00-3:00 PM PT; fallbacks Oct 22, then Oct 21; Oct 16 only 2:00-3:00 PM. NEVER submitted — booking paused 2026-10-10 at Rui's explicit instruction ('先别，我还没准备好'); resume only when he says ready."
       }
     ]
   },
