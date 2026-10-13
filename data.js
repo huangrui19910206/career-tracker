@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 12, 2026";
+const BUILD_DATE = "Oct 13, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -24,12 +24,30 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/isabellecruz/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Michel Tricot",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/micheltricot",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Davin Chia",
+        "role": "CTO",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Abby R. and Isabelle Cruz — personal notes"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Michel Tricot (Co-Founder & CEO) and Davin Chia (CTO)"
       }
     ],
     "intel": {
@@ -153,19 +171,38 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/richadao/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Goku Mohandas",
+        "role": "Machine Learning Lead",
+        "linkedin": "https://www.linkedin.com/in/goku/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Philipp Moritz",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/philipp-moritz-61419682",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invite sent to Rich Adao (Head of Talent) — personal note"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Goku Mohandas (Machine Learning Lead) and Philipp Moritz (Co-founder & CTO)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Recruiting may be in flux: being acquired by Nscale ~$1.65B (announced Jul 2026)",
-        "Rich Adao's current profile shows Head of Talent @ Applied Intuition (ex-Anyscale)"
+        "Rich Adao's current profile shows Head of Talent @ Applied Intuition (ex-Anyscale)",
+        "Diligence 2026-10-12: the ~$1.65B Nscale acquisition is only ~20% above Anyscale's 2022 $1.38B mark and every term that matters to a new hire (option/RSU treatment, retention) is undisclosed — treat Anyscale equity as $0 until terms are in writing."
       ]
     },
     "interviews": []
@@ -189,7 +226,8 @@ const COMPANIES = [
         "date": "2026-10-08",
         "history": [
           "2026-10-08 — Wave-3 invite sent when Rich was believed to be at Anyscale; live outreach revealed he is now Head of Talent at Applied Intuition",
-          "2026-10-08 8:10 PM — ACCEPTED the LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session"
+          "2026-10-08 8:10 PM — ACCEPTED the LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session",
+          "2026-10-12 — verified on LinkedIn: Head of Talent at Applied Intuition (ex-Anyscale). The original tracker record is CORRECT; the wave-4 research flag suggesting the Applied Intuition attribution was wrong was itself wrong."
         ]
       }
     ],
@@ -197,6 +235,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invite sent to Rich Adao (thought to be at Anyscale) — turned out to be Head of Talent at Applied Intuition; ACCEPTED the invite Oct 8, 8:10 PM PT; thank-you note pending"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Rich Adao's employer verified on LinkedIn: Head of Talent at Applied Intuition (ex-Anyscale) — original tracker record confirmed correct"
       }
     ],
     "intel": {
@@ -295,6 +337,23 @@ const COMPANIES = [
         "linkedin": null,
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Philip Kiely",
+        "role": "Head of AI Engineering",
+        "linkedin": "https://www.linkedin.com/in/philipkiely",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Ali Taha",
+        "role": "ML systems researcher — ML research & inference",
+        "linkedin": "https://www.linkedin.com/in/aliestaha/",
+        "contact_status": "connected",
+        "date": "2026-10-12",
+        "history": [
+          "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply. (Baseten is a Rui-named priority company; the Tarun Diwan line is cold, so this is a fresh live line.)"
+        ]
       }
     ],
     "timeline": [
@@ -325,11 +384,17 @@ const COMPANIES = [
       {
         "date": "2026-10-10",
         "text": "Sweep 2026-10-10: Tarun Diwan marked COLD per one-max rule (follow-up 10-08 on senior/staff MLE openings, no reply since); wave-3 alternates Brian Hartrick + Olivia Jamison already invited 10-08."
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Philip Kiely (Head of AI Engineering) and Ali Taha (ML systems researcher). Ali Taha ACCEPTED the same day — thank-you sent; fresh live line at a Rui-priority company (Tarun Diwan line is cold)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: cash comp strong (posted base $180–360K), but at a ~$13B entry price the equity is a lottery ticket; ~50% gross-margin inference layer in a labs price war."
+      ]
     },
     "interviews": []
   },
@@ -358,7 +423,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-08",
         "history": [
-          "2026-10-09 ~1:58 PM — Rui approved the drafted brief-call follow-up DM and it was SENT via LinkedIn (LinkedIn showed delivered); awaiting Chaoyu's reply"
+          "2026-10-09 ~1:58 PM — Rui approved the drafted brief-call follow-up DM and it was SENT via LinkedIn (LinkedIn showed delivered); awaiting Chaoyu's reply",
+          "2026-10-12 — the 10:30 AM follow-up sweep initially listed Chaoyu as newly eligible, but that was a log error: his one follow-up was already sent 2026-10-09 (Rui-approved brief-call DM, delivered). No further message sent 2026-10-12; still awaiting his reply."
         ]
       }
     ],
@@ -378,6 +444,10 @@ const COMPANIES = [
       {
         "date": "2026-10-09",
         "text": "Rui-approved brief-call follow-up DM sent to Chaoyu Yang via LinkedIn (~1:58 PM PT, delivered); awaiting reply"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "No new message to Chaoyu Yang: his one allowed follow-up was already sent 2026-10-09 (the 10-12 sweep's 'eligible' listing was corrected); still awaiting his reply to the brief-call ask"
       }
     ],
     "intel": {
@@ -412,6 +482,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/greg-schultz-046a7b37/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Ankur Goyal",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/ankrgyl",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -422,6 +499,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Greg Schultz (wave 2; note w/ mutual Srihari Venkatesan)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Ankur Goyal (Founder & CEO)"
       }
     ],
     "intel": {
@@ -523,7 +604,8 @@ const COMPANIES = [
         "date": "2026-09-29",
         "history": [
           "2026-10-10 — REPLIED overnight (LinkedIn digest 2:52 AM PT, '1 new message awaits your response'); 10-08 follow-up already sent (one-max rule satisfied). Reply CONTENT not yet read — both LinkedIn monitors 2026-10-10 (AM + PM) were blocked at sign-in; reading is queued for the next working session",
-          "2026-10-11 — reply content STILL unread: both 2026-10-11 LinkedIn monitors (AM + PM) blocked at sign-in (5th + 6th consecutive blocked runs). The protected-code fill does not work on LinkedIn's verification input; read queued for next working session or manual takeover."
+          "2026-10-11 — reply content STILL unread: both 2026-10-11 LinkedIn monitors (AM + PM) blocked at sign-in (5th + 6th consecutive blocked runs). The protected-code fill does not work on LinkedIn's verification input; read queued for next working session or manual takeover.",
+          "2026-10-12 — reply finally READ after the LinkedIn session was restored (11:58 AM PT, saved session signed in directly, no verification challenge): he thanked Rui for the reminder, asked to confirm that C++ is not Rui's background, and said he has a few teams he could introduce Rui to. Rui-approved reply SENT 12:41 PM PT correcting the C++ misunderstanding (Senior Staff MLE in search/ML platforms — query rewriting, retrieval, multi-stage ranking, LLM-powered discovery at Coupang; previously Pinterest Search & Discovery and Meta Feed Ranking; Python/ML stack throughout), asking about the teams (especially ML/AI platform ones) and pushing for an intro call. Awaiting Harry's response."
         ]
       },
       {
@@ -566,12 +648,17 @@ const COMPANIES = [
       {
         "date": "2026-10-11",
         "text": "Harry Kang's 10-10 reply content STILL unread — LinkedIn monitors blocked at sign-in 2026-10-11 AM (5th) + PM (6th consecutive); thank-you notes (4), inbox reads (5), and 2 follow-up sends all queued for the next working session or Rui's manual takeover"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Harry Kang's 10-10 reply READ (LinkedIn session restored 11:58 AM PT): he thanked Rui for the reminder, asked to confirm C++ is not his background, and said he has a few teams he could introduce Rui to. Rui-approved reply sent 12:41 PM PT correcting the C++ point (Senior Staff MLE, search/ML platforms, Python/ML stack) and asking about the teams, especially ML/AI platform ones; awaiting his response"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Harry Kang leads hiring for DB internals, query engine, K8s, SRE"
+        "Harry Kang leads hiring for DB internals, query engine, K8s, SRE",
+        "Diligence 2026-10-12: clearest IPO line in the set (co-founder statements; ex-Snowflake CFO joined the board as audit chair Sep 2026); weakest documented cash of the strong names — negotiate on base; entry multiple ~60x run-rate at the Jan 2026 raise; options, not RSUs."
       ]
     },
     "interviews": []
@@ -614,7 +701,8 @@ const COMPANIES = [
       "notes": [
         "Role: Staff Software Engineer, AI Model Lifecycle",
         "Booking link: https://you.ashbyhq.com/meeting/41105d7e-cdc3-4fcc-ab09-2e7b62c0208c/",
-        "Team: Managed AI service (model training, inference, AI platform); led by Yiwei; team growing 108 → 205"
+        "Team: Managed AI service (model training, inference, AI platform); led by Yiwei; team growing 108 → 205",
+        "Diligence 2026-10-12: highest verified cash certainty in the set (official Senior Staff posting band $245–290K base cross-checks the recruiter intel); but the 1.6M RSU figure is ~2.4x the Levels.fyi Staff stock median — must confirm whether the share count is priced off the $10B Series E or the $30.9B Series F, and the liquidity trigger."
       ]
     },
     "interviews": []
@@ -826,12 +914,14 @@ const COMPANIES = [
         "name": "Rashmi G",
         "role": null,
         "linkedin": "https://www.linkedin.com/in/rashg/",
-        "contact_status": "invited",
-        "date": "2026-10-02",
+        "contact_status": "connected",
+        "date": "2026-10-04",
         "history": [
           "2026-10-09 — 10:30 AM follow-up sweep: Rashmi G. eligible for first follow-up (invite sent 2026-10-02, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
           "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session",
-          "2026-10-11 — first follow-up still NOT sent: LinkedIn session unavailable (10:30 PT sweep blocked at the plain login wall; both monitors also blocked). Thread still eligible per one-max rule; queued for the next working session."
+          "2026-10-11 — first follow-up still NOT sent: LinkedIn session unavailable (10:30 PT sweep blocked at the plain login wall; both monitors also blocked). Thread still eligible per one-max rule; queued for the next working session.",
+          "2026-10-04 — ACCEPTED the LinkedIn invite (per recruiters tracker; the tracker contact status had lagged as 'invited', corrected 2026-10-12). Intro note was sent with the invite; no reply since.",
+          "2026-10-12 12:45 PM PT — first (and only) follow-up SENT after the LinkedIn session was restored. Angle: senior/staff MLE, search ranking / LLM discovery. One-max rule now satisfied — no further nudges."
         ]
       },
       {
@@ -874,6 +964,10 @@ const COMPANIES = [
       {
         "date": "2026-10-11",
         "text": "Rashmi G. first follow-up still NOT sent — LinkedIn session unavailable all day (monitors AM + PM blocked; 10:30 PT sweep hit the login wall); thread remains eligible, queued for the next working session"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Rashmi G. first follow-up SENT 12:45 PM PT (LinkedIn session restored; thread had only the 10-04 outreach and no reply). One follow-up max on this thread — no more nudges"
       }
     ],
     "intel": {
@@ -899,6 +993,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/tom-sherry/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "David Munday",
+        "role": "VP of Software",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Mark Ross",
+        "role": "CTO",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -909,6 +1017,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Invite to Emily Aurea Jahnke (Recruiter) NOT sent — browser crashed mid-run; retry pending"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to David Munday (VP of Software; built the TPU software team) and Mark Ross (CTO)"
       }
     ],
     "intel": {
@@ -937,7 +1049,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-09-29",
         "history": [
-          "2026-10-11 1:59 PM PT — Gabe RE-ENGAGED by email (jobs Gmail, Cc cathy.nghieu@factory.ai): excited to move forward; next step is a 45-min debugging interview with a Factory team member (Python or JavaScript, no AI assistance, HackerRank — interviewer sends the link at the start; evaluated on technical skills + communication + collaboration). Asked Rui to share availability for the next two weeks via his Ashby link; a confirmation email follows. The thread is live again — the 10-10 COLD mark and the fresh-recruiter plan are moot. Awaiting Rui's slot pick."
+          "2026-10-11 1:59 PM PT — Gabe RE-ENGAGED by email (jobs Gmail, Cc cathy.nghieu@factory.ai): excited to move forward; next step is a 45-min debugging interview with a Factory team member (Python or JavaScript, no AI assistance, HackerRank — interviewer sends the link at the start; evaluated on technical skills + communication + collaboration). Asked Rui to share availability for the next two weeks via his Ashby link; a confirmation email follows. The thread is live again — the 10-10 COLD mark and the fresh-recruiter plan are moot. Awaiting Rui's slot pick.",
+          "2026-10-11 evening — Rui-approved clarification SENT to Gabe (and the Ashby availability form submitted): Rui is available at 10:00 AM PT on Thu Oct 15, Fri Oct 16, Mon Oct 19, or Fri Oct 23 for the 45-min debugging interview, superseding the earlier form windows. Awaiting Gabe's confirmation of one slot plus the meeting link; no calendar event until he confirms."
         ]
       },
       {
@@ -992,6 +1105,10 @@ const COMPANIES = [
       {
         "date": "2026-10-11",
         "text": "Gabe Remar RE-ENGAGED: emailed 1:59 PM PT (Cc cathy.nghieu@factory.ai) — excited to move forward; next step a 45-min debugging interview with a Factory team member (Python or JS, no AI assistance, HackerRank with the interviewer-sent link at start; graded on technical skills, communication, collaboration). Rui to share next-2-weeks availability via Gabe's Ashby link (https://you.ashbyhq.com/meeting/47edd5bb-525f-4a98-a7da-4ed5274c951e/); confirmation email follows. Thread live again — 10-10 COLD mark is moot; awaiting Rui's slot pick per his 1:00-3:00 PM PT coding-round preference."
+      },
+      {
+        "date": "2026-10-11",
+        "text": "Availability submitted: Rui-approved clarification sent to Gabe Remar offering 10:00 AM PT on Thu Oct 15, Fri Oct 16, Mon Oct 19, or Fri Oct 23 for the 45-min debugging interview (Ashby form also submitted); awaiting Gabe's confirmation of one slot + meeting link — no calendar event yet"
       }
     ],
     "intel": {
@@ -999,7 +1116,8 @@ const COMPANIES = [
       "notes": [
         "~200 people total; ~40 on the hiring team/org (Rui's phrasing '40pp / 200pp' — team-vs-company interpretation unconfirmed)",
         "RTO 5 days/week; SFO office ~4 min walk from Caltrain",
-        "Interview rounds include a debug round and an AI coding round (work with native AI; expect 'where is the code for this/that feature' questions)"
+        "Interview rounds include a debug round and an AI coding round (work with native AI; expect 'where is the code for this/that feature' questions)",
+        "Diligence 2026-10-12: red flag — Sep 30, 2026 board drama (CEO publicly accused board adviser Chris Degnan of undisclosed talks with rival Cognition; Degnan became Cognition's CRO); revenue has never been disclosed; the category is consolidating around Factory, so acquisition is the modal exit — the worst outcome for a late joiner."
       ]
     },
     "interviews": [
@@ -1013,9 +1131,9 @@ const COMPANIES = [
       {
         "date": "TBD",
         "time": "45-min, date TBD",
-        "title": "Debugging interview (45-min) — SCHEDULING PENDING (Rui to pick slots)",
+        "title": "Debugging interview (45-min) — SCHEDULING PENDING (availability submitted 2026-10-11; awaiting Gabe's confirmation)",
         "people": "Gabe Remar (recruiter); Factory team member (interviewer TBD)",
-        "notes": "Python or JavaScript, no AI assistance; HackerRank link sent by the interviewer at the start; evaluated on technical skills + communication + collaboration. Gabe emailed 2026-10-11 1:59 PM PT asking Rui to share availability for the next two weeks via Ashby link; confirmation email follows. Rui's pick pending per 1:00-3:00 PM PT coding-round preference."
+        "notes": "Python or JavaScript, no AI assistance; HackerRank link sent by the interviewer at the start; evaluated on technical skills + communication + collaboration. Rui-approved availability sent 2026-10-11 evening: 10:00 AM PT on Thu Oct 15, Fri Oct 16, Mon Oct 19, or Fri Oct 23. Awaiting Gabe Remar's confirmation of one slot + meeting link; no calendar event until confirmed."
       }
     ]
   },
@@ -1036,6 +1154,27 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/jesussoria/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Batuhan Taskaya",
+        "role": "Head of Engineering",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Gorkem Yurtseven",
+        "role": "Co-founder & CTO",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Burkay Gur",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/burkaygur/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1046,6 +1185,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Humeyra Kurtyilmaz (Global Talent Executive) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Batuhan Taskaya (Head of Engineering), Gorkem Yurtseven (Co-founder & CTO), and Burkay Gur (Co-founder & CEO)"
       }
     ],
     "intel": {
@@ -1078,7 +1221,8 @@ const COMPANIES = [
           "2026-10-05 9:53 PM — ACCEPTED the LinkedIn invite (notification email); now a direct connection. Availability proposals submitted via his Ashby scheduling page 2026-10-05: Thu Oct 8, 1:30–2:00 PM PT first (back-to-back with Glean call), Fri Oct 9 second, Mon Oct 12/Tue Oct 13 fallbacks; tentative calendar hold on Thu; awaiting his confirmation",
           "2026-10-07 — Intro call CONFIRMED: Fri Oct 9, 1:30–2:00 PM PT (Ashby confirmation email Oct 6 10:59 AM PT; tentative Thu hold deleted; calendar event marked [CONFIRMED])",
           "2026-10-09 — Ravi B. rescheduled the intro call: moved from Fri Oct 9, 1:30–2:00 PM PT to Tue Oct 13, 1:00–1:30 PM PT (his new invite carries its own Google Meet link); the Fri hold is to be deleted",
-          "2026-10-10 ~4:49 PM — the moved intro call (Tue Oct 13, 1:00-1:30 PM PT) was MISSING from the calendar; event now created on Rui's life calendar with the new Google Meet link + Ravi's phone. RSVP on Ravi's invite NOT clicked — left for Rui."
+          "2026-10-10 ~4:49 PM — the moved intro call (Tue Oct 13, 1:00-1:30 PM PT) was MISSING from the calendar; event now created on Rui's life calendar with the new Google Meet link + Ravi's phone. RSVP on Ravi's invite NOT clicked — left for Rui.",
+          "2026-10-12 — precall verification: Ravi's full name is Ravi Buddharaju; the Google Meet link for the Tue Oct 13 intro call was verified present via Ashby (an earlier precall brief had wrongly reported it missing). Precall brief scheduled for Tue 10/13 12:45 PM PT."
         ]
       },
       {
@@ -1221,11 +1365,17 @@ const COMPANIES = [
       {
         "date": "2026-10-10",
         "text": "Moved intro call (Tue Oct 13, 1:00-1:30 PM PT) added to Rui's Google Calendar — it had never been entered; now includes new Meet link + Ravi's phone; RSVP left for Rui"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Intro call tomorrow (Tue Oct 13, 1:00–1:30 PM PT) verified ready: Ravi B.'s full name confirmed as Ravi Buddharaju and the Google Meet link verified via Ashby; precall prep includes diligence questions on comp structure, tender/liquidity, and differentiation"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: biggest absolute upside and shortest credible IPO path in the set, but cash comp is unknown and the preferred stack exceeds $1.8B — probe comp structure, tender/liquidity, and differentiation on the Oct 13 intro call with Ravi Buddharaju."
+      ]
     },
     "interviews": [
       {
@@ -1259,7 +1409,8 @@ const COMPANIES = [
           "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
           "2026-10-09 — 10:30 AM follow-up sweep: Calvin C. eligible for first follow-up (connected 2026-10-06, first-touch sent, no reply) but NOT sent — LinkedIn blocked at login; pending a working session",
           "2026-10-10 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn monitor blocked AM + PM; 4th consecutive blocked run); pending next working session",
-          "2026-10-11 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn blocked AM + PM; 10:30 PT sweep also blocked). Pending next working session."
+          "2026-10-11 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn blocked AM + PM; 10:30 PT sweep also blocked). Pending next working session.",
+          "2026-10-12 12:45 PM PT — follow-up SENT after the LinkedIn session was restored. Angle: ML infra roles, referencing last week's exchange. One-max rule now satisfied on this thread."
         ]
       },
       {
@@ -1286,6 +1437,10 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "First-touch reply sent to Calvin C. (thank-you + asked whether Fluidstack is hiring senior/staff MLE folks); awaiting reply"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Calvin C. follow-up SENT 12:45 PM PT (LinkedIn, session restored): ML infra roles, referencing last week's exchange; awaiting reply"
       }
     ],
     "intel": {
@@ -1438,7 +1593,8 @@ const COMPANIES = [
         "Email copy of résumé to Nina.mametsuka@glean.com drafted 2026-09-30; awaiting Rui's send approval",
         "Glean 30-min chat: DocuSign NDA SIGNED by Rui 2026-10-06 (he signed it himself via the DocuSign PowerForm link); booking-confirmation reply sent to Kim Catalano 2026-10-06",
         "Chat booked for Thu Oct 8, 1:00–1:30 PM PT; the earlier Mon Oct 5 attempt failed (no availability + ModernLoop email-code wall)",
-        "Kim Catalano is OOO Thu Oct 8 — Rui offered Fri 10:30 AM–12:00 PM PT only (follow-up sent 2026-10-07); Thu event unchanged until her pick"
+        "Kim Catalano is OOO Thu Oct 8 — Rui offered Fri 10:30 AM–12:00 PM PT only (follow-up sent 2026-10-07); Thu event unchanged until her pick",
+        "Diligence 2026-10-12: no fresh distress found; ~$190K median base documented; the main squeeze is Microsoft Copilot bundling, and the Jun 2025 valuation mark is stale."
       ]
     },
     "interviews": [
@@ -1525,6 +1681,27 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/charles-delano-5a877417/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Mike Lazarin",
+        "role": "Senior Technical Recruiter/Sourcer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Alan Rice",
+        "role": "Chief Operating Officer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Sinclair Schuller",
+        "role": "Chief Technology Officer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1539,12 +1716,21 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Charles DeLano (expansion batch 2; note w/ Michael Miles mutual)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Mike Lazarin (Senior Technical Recruiter/Sourcer; current employment verified before sending)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Alan Rice (COO, ex-Meta) and Sinclair Schuller (CTO) — both verified current post-Nvidia-deal hires. NOTE: the 2026-10-12 diligence flags Groq AVOID; do not pursue if they accept"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Rebuild story: inference chips → inference cloud"
+        "Rebuild story: inference chips → inference cloud",
+        "Diligence 2026-10-12 (company background check): AVOID — the Dec 2025 Nvidia licensing/talent deal took the founder/CEO and ~90% of staff; the rump company did an Aug 2026 down round at $3.5B, faces an Oct 5, 2026 shareholder class action alleging a preferred-vs-common squeeze, and a reported DOJ probe. Do not pursue the wave-5 lines if they accept."
       ]
     },
     "interviews": []
@@ -1625,7 +1811,8 @@ const COMPANIES = [
     "intel": {
       "comp": null,
       "notes": [
-        "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform — résumé sent via LinkedIn 2026-10-03; intro call booked Fri Oct 9, 1:00–1:30 PM PT via his Ashby link; calendar event created with full context"
+        "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform — résumé sent via LinkedIn 2026-10-03; intro call booked Fri Oct 9, 1:00–1:30 PM PT via his Ashby link; calendar event created with full context",
+        "Diligence 2026-10-12: highest cash certainty in the set (Staff base $255K / TC $427K documented); equity is a lottery ticket at $15.5B (~39x ARR)."
       ]
     },
     "interviews": [
@@ -1655,6 +1842,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/summereds/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Lili Jain",
+        "role": "Head of People",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Caitlin Colgrove",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/colgrove",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1665,6 +1866,10 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Andrew S. (Technical Recruiting) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Lili Jain (Head of People) and Caitlin Colgrove (Co-Founder & CTO)"
       }
     ],
     "intel": {
@@ -1706,6 +1911,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/sanjana-sukhdev-5bb40718/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Herman Pabla",
+        "role": "Director, Applied AI Engineering",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1720,11 +1932,17 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Sanjana Sukhdev (expansion batch 2; note: both ex-Meta)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Herman Pabla (Director, Applied AI Engineering)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: Anthropic's reported $35B deal is ~70% of Lambda's $50B backlog (commitments, not revenue); ~$2.9B of debt facilities; IPO already slipped 2026 → 2027."
+      ]
     },
     "interviews": []
   },
@@ -1745,18 +1963,41 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/daniellehedden",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Ankush Gola",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ankush-gola-77255866",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Sydney Runkle",
+        "role": "Software Engineer — LangGraph / LangChain engineering",
+        "linkedin": "https://www.linkedin.com/in/sydney-runkle-105a35190/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invite sent to Danielle Hedden — personal note"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Ankush Gola (Co-Founder & CTO, ex-Meta)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Sydney Runkle (Software Engineer, LangGraph)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Danielle Hedden's profile shows Head of Commercial Legal @ LangChain, not recruiting — invite sent anyway; low expected yield"
+        "Danielle Hedden's profile shows Head of Commercial Legal @ LangChain, not recruiting — invite sent anyway; low expected yield",
+        "Diligence 2026-10-12: modal exit is a small acquisition — treat as a career move, not an equity move ($1.25B entry on $12–16M last-reported ARR; framework layer being squeezed by the labs' native SDKs)."
       ]
     },
     "interviews": []
@@ -1785,12 +2026,30 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/liz-vanzandt/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Jerry Liu",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jerry-liu-64390071/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Logan Markewich",
+        "role": "Head of Open Source",
+        "linkedin": "https://www.linkedin.com/in/logan-markewich/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Ryan Lee and Liz VanZandt — personal notes"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Jerry Liu (Co-founder & CEO) and Logan Markewich (Head of Open Source)"
       }
     ],
     "intel": {
@@ -1932,6 +2191,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/aaronlpzg/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Sina Moshfeghi",
+        "role": "Member of Technical Staff",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1942,6 +2208,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Aaron Lopez (wave 2; note w/ mutual Marietta Cordido)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Sina Moshfeghi (Member of Technical Staff)"
       }
     ],
     "intel": {
@@ -1981,6 +2251,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/audreykoh/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Erik Bernhardsson",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/erikbern/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -1995,11 +2272,17 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Audrey Koh (expansion batch 2)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Erik Bernhardsson (Founder & CEO; built Spotify's music recommendation system — strong search/rec pedigree match)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: the reported $15.75B valuation is a talks-stage number, not a closed round (3x step-up in 4 months); cash comp unverified — highest-beta entry in the set."
+      ]
     },
     "interviews": []
   },
@@ -2060,12 +2343,23 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/lthomaa/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Jordan Tigani",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jordantigani/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invite sent to Leslie T. — personal note"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Jordan Tigani (Co-Founder & CEO)"
       }
     ],
     "intel": {
@@ -2224,6 +2518,27 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/chad-kunselman-664947b8/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Denis Yarats",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/denisyarats/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Ahna Thorstenson",
+        "role": "Technical Talent",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Nadine Sihota",
+        "role": "Senior GTM Recruiter",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2234,12 +2549,21 @@ const COMPANIES = [
       {
         "date": "2026-10-08",
         "text": "Ling J. (Global Tech Recruiting, Infra) skipped — gated at LinkedIn's email-verification gate (2026-10-08)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invites sent to Denis Yarats (Co-Founder & CTO, ex-Meta FAIR) and Ahna Thorstenson (Technical Talent)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Nadine Sihota (Senior GTM Recruiter, ex-Meta — routing/referral line to technical hiring)"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Search + LLM retrieval = Rui's exact domain; consumer app, not infra"
+        "Search + LLM retrieval = Rui's exact domain; consumer app, not infra",
+        "Diligence 2026-10-12: 6–7 active publisher copyright suits plus a Sep 2026 trade-secret suit — the flag is legal/distribution, not distress. CEO states IPO 2028; best documented cash bands in the set (MTS base $220–405K)."
       ]
     },
     "interviews": []
@@ -2320,6 +2644,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/patriciamangione/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Michele Catasta",
+        "role": "President & Head of AI",
+        "linkedin": "https://www.linkedin.com/in/pirroh/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Rob Patterson",
+        "role": "Senior Technical Recruiter",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2334,11 +2672,17 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Patricia “Trisha” Mangione (expansion batch 2; note w/ Ben Nagrani mutual)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invites sent to Michele Catasta (President & Head of AI) and Rob Patterson (Senior Technical Recruiter)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: unreconciled gross-margin conflict (Sacra reported 36% → −14% during 2025 on inference costs; the founder claims gross-margin-positive) — the #1 question to probe in process. Comp reputation is high for a startup (median SWE TC $369K)."
+      ]
     },
     "interviews": []
   },
@@ -2366,6 +2710,13 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/paige-wilhelm/",
         "contact_status": "invited",
         "date": "2026-09-30"
+      },
+      {
+        "name": "Emmi Jensen",
+        "role": "Head of Talent Acquisition",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2376,6 +2727,10 @@ const COMPANIES = [
       {
         "date": "2026-09-30",
         "text": "Invite sent to Paige Wilhelm (wave 2; note w/ mutual Michael Miles)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Emmi Jensen (Head of Talent Acquisition)"
       }
     ],
     "intel": {
@@ -2408,14 +2763,21 @@ const COMPANIES = [
         "name": "Rachel Birks",
         "role": "Head of People",
         "linkedin": "https://www.linkedin.com/in/rachelbirks/",
-        "contact_status": "invited",
-        "date": "2026-10-08"
+        "contact_status": "connected",
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply."
+        ]
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Fiona Kong and Rachel Birks — personal notes"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Rachel Birks accepted the LinkedIn invite; thank-you sent the same day"
       }
     ],
     "intel": {
@@ -2525,6 +2887,27 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/chloebelangiasutton/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Eleni Angelidis",
+        "role": "Recruiter — Platform Engineering roles",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Alice Alvarez",
+        "role": "Recruiter — Agent Engineering roles",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Alishan Hopping",
+        "role": "Recruiter — Solutions / Sales Engineering roles",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2539,11 +2922,21 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Chloe Sutton (expansion batch 2; note w/ Eamon Alvarez mutual)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Eleni Angelidis (Recruiter for Platform Engineering roles)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Alice Alvarez (Recruiter, Agent Engineering) and Alishan Hopping (Recruiter, Solutions/Sales Engineering)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: ~75–100x ARR at the $15.8B mark — priced for perfection; no IPO before ~2028 on current signals; Salesforce Agentforce is bundling the category."
+      ]
     },
     "interviews": []
   },
@@ -2597,7 +2990,7 @@ const COMPANIES = [
     "size": "201–500",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Mitchell Sanedrin",
@@ -2619,6 +3012,37 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/huzail-ssemakula-4a913686/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Phil Franco",
+        "role": "Senior Recruiter (ex-Meta)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Joe Rufino",
+        "role": "Senior Technical Recruiter",
+        "linkedin": "https://www.linkedin.com/in/joerufino",
+        "contact_status": "connected",
+        "date": "2026-10-12",
+        "history": [
+          "2026-10-12 — wave-4 invite sent ~12:46 PM PT. ACCEPTED the same day (accept notification 3:53 PM PT) and messaged Rui: 'Happy to chat. Let me know a few days and times that work for you to connect this week.' Rui-approved reply sent 5:19 PM PT proposing Wed/Thu 1:00 PM PT for a 30-min call; supplemental message sent 5:41 PM PT expanding the options to five: Tue Oct 13 2:00 PM, Wed Oct 14 1:00 PM, Thu Oct 15 1:00 PM, Fri Oct 16 2:00 PM, Mon Oct 19 1:00 PM PT. Awaiting his pick; book on the calendar once he confirms."
+        ]
+      },
+      {
+        "name": "Gerald Kanapathy",
+        "role": "Head of Infrastructure and Security Engineering",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Kazuhiro Omatsu",
+        "role": "Staff Software Engineer — UX/Frontend",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2633,11 +3057,25 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Huzail Ssemakula (expansion batch 2; note: both ex-Meta)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invites sent to Phil Franco (Senior Recruiter, ex-Meta) and Joe Rufino (Senior Technical Recruiter). Wave 5: invites sent to Gerald Kanapathy (Head of Infrastructure and Security Engineering) and Kazuhiro Omatsu (Staff SWE, UX/Frontend) — Snorkel is a Rui-named priority company, now with multiple live lines"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Joe Rufino ACCEPTED the wave-4 invite the same day and replied 'Happy to chat', asking for times. Rui-approved replies sent (5:19 PM + 5:41 PM PT) proposing five options for a 30-min call: Tue Oct 13 2:00 PM, Wed Oct 14 1:00 PM, Thu Oct 15 1:00 PM, Fri Oct 16 2:00 PM, Mon Oct 19 1:00 PM PT — awaiting his pick"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave-4/5 totals for 2026-10-12 across all companies: 49 new invites sent (18 wave-4 + 31 wave-5) after current-employer verification; 19 candidates skipped because they had moved on or could not be verified"
       }
     ],
     "intel": {
-      "comp": null,
-      "notes": []
+      "comp": "Verified base bands from Snorkel's own public postings (diligence 2026-10-12): Senior AI/ML Engineer $192–240K base; Senior/Staff Research Scientist $200–275K base (base only; TC/equity not disclosed)",
+      "notes": [
+        "Diligence 2026-10-12: least frothy entry in the priority set ($3.5B, ~9x the claimed $350–375M run-rate) and top-5 risk/return for a late joiner; caveats — Sep 2025 ~13% pivot layoff (31 of ~240, software engineering hit hardest) and the current growth story is only ~12 months old."
+      ]
     },
     "interviews": []
   },
@@ -2666,7 +3104,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-08",
         "history": [
-          "2026-10-09 7:53 AM — ACCEPTED the Wave-3 LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session"
+          "2026-10-09 7:53 AM — ACCEPTED the Wave-3 LinkedIn invite; thank-you + interest note drafted (in tracker), pending next successful LinkedIn session",
+          "2026-10-12 — the 'thank-you pending' backlog was verified STALE: Rui sent his intro himself on 2026-10-09. No duplicate sent; awaiting her reply."
         ]
       }
     ],
@@ -2678,6 +3117,10 @@ const COMPANIES = [
       {
         "date": "2026-10-09",
         "text": "Marija Petrovic, SPHR accepted the Wave-3 LinkedIn invite (7:53 AM PT); thank-you note pending"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Thank-you backlog cleared as stale — Rui sent his intro to Marija Petrovic himself on 2026-10-09; no duplicate sent; awaiting her reply"
       }
     ],
     "intel": {
@@ -2719,6 +3162,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/azizquadri13/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Sugu Sougoumarane",
+        "role": "Head of Multigres",
+        "linkedin": "https://www.linkedin.com/in/sugu-sougoumarane-b9bb25/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Pekka Enberg",
+        "role": "Co-founder, Turso — joining Supabase",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2733,11 +3190,21 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Aziz Q. (expansion batch 2; note: both ex-Meta)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Sugu Sougoumarane (Head of Multigres; co-creator of Vitess)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Pekka Enberg (Turso co-founder joining Supabase with the Turso team)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: ranked #1 risk/return for a late joiner — steepest verified trajectory ($2B → $5B → $10.5B in 14 months) and a rare late-joiner protection: the founder has let employees sell 25% of vested stock at every funding round. Cash comp still unverified."
+      ]
     },
     "interviews": []
   },
@@ -2781,6 +3248,13 @@ const COMPANIES = [
         "history": [
           "2026-10-05 — invite sent (personalized note: Coupang search-ranking + training-data-quality angle, ≤300 chars); pending (~100 mutual connections)"
         ]
+      },
+      {
+        "name": "Jacky Sio",
+        "role": "Recruiting",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2791,6 +3265,10 @@ const COMPANIES = [
       {
         "date": "2026-10-05",
         "text": "3 LinkedIn invites sent: Ann Fritzky, Jessica Kim, Cynthia Sandoval (Coupang search-ranking + training-data-quality angle); all pending"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Jacky Sio (Recruiting; profile lists Vancouver/remote)"
       }
     ],
     "intel": {
@@ -2841,7 +3319,7 @@ const COMPANIES = [
     "size": null,
     "location": "Sunnyvale / San Jose",
     "rto": null,
-    "status": "outreach",
+    "status": "connected",
     "contacts": [
       {
         "name": "Rhonda Wade",
@@ -2856,12 +3334,33 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/talent-deepak/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Gilles Backhus",
+        "role": "Co-Founder & VP of AI / Head of AI",
+        "linkedin": null,
+        "contact_status": "connected",
+        "date": "2026-10-12",
+        "history": [
+          "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply."
+        ]
+      },
+      {
+        "name": "Marc Bolitho",
+        "role": "Chief Executive Officer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Rhonda Wade and Deepak C. — personal notes (no verification gate observed)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Gilles Backhus (Co-Founder & VP of AI / Head of AI) and Marc Bolitho (CEO). Gilles Backhus ACCEPTED the same day — thank-you sent; awaiting any reply"
       }
     ],
     "intel": {
@@ -2882,7 +3381,22 @@ const COMPANIES = [
     "location": "SF",
     "rto": null,
     "status": "researching",
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Soumith Chintala",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/soumith/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Myle Ott",
+        "role": "ML Infra Lead",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      }
+    ],
     "interviews": [],
     "intel": {
       "comp": "$350k–$475k base (both postings, verified live 2026-09-30); visa sponsorship offered",
@@ -2900,6 +3414,14 @@ const COMPANIES = [
       {
         "date": "2026-10-07",
         "text": "Role research completed under the frontier-lab application push; application planned as second wave (SSI has no public postings — network-only)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invite sent to Soumith Chintala (CTO; ex-Meta, PyTorch co-creator)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invite sent to Myle Ott (ML Infra Lead; ex-Meta Principal Research Engineer, fairseq/FSDP creator)"
       }
     ]
   },
@@ -2975,6 +3497,20 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/borisfowler/",
         "contact_status": "invited",
         "date": "2026-10-02"
+      },
+      {
+        "name": "Ce Zhang",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ce-zhang-6aa37419/",
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Aisha Gataani",
+        "role": "Senior Technical Recruiter",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
@@ -2989,11 +3525,17 @@ const COMPANIES = [
       {
         "date": "2026-10-02",
         "text": "Invite sent to Boris Fowler (expansion batch 2)"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 4: invites sent to Ce Zhang (Co-founder & CTO) and Aisha Gataani (Senior Technical Recruiter)"
       }
     ],
     "intel": {
       "comp": null,
-      "notes": []
+      "notes": [
+        "Diligence 2026-10-12: the headline '$1.15B' figure is bookings, not revenue; capital-intensive GPU build plus a PE investor (Vista) in the Series C cap table raises consolidation-sale risk."
+      ]
     },
     "interviews": []
   },
@@ -3017,7 +3559,8 @@ const COMPANIES = [
         "history": [
           "2026-10-05 5:52 PM — LinkedIn invite sent at Rui's explicit approval ('sure can you reach out'), reversing the earlier 'too early' call for her specifically; pending",
           "2026-10-05 ~5:53 PM — ACCEPTED the invite (sent at Rui's go ~5:52 PM). 2026-10-06 — first-touch LinkedIn message sent: thanked her for connecting, referenced the Jev decision-model interest from the invite note, asked to learn more about TypeSafe and where an MLE leader could fit, offered a brief chat; awaiting reply",
-          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet"
+          "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
+          "2026-10-12 — the standing 'thank-you pending' backlog was verified STALE: Rui himself already sent two messages (10-05 outreach + 10-06 thanks-for-connecting, both read by her). No duplicate sent; the follow-up sweep also skipped her per the one-new-message rule. Still no reply from her."
         ]
       }
     ],
@@ -3037,6 +3580,10 @@ const COMPANIES = [
       {
         "date": "2026-10-06",
         "text": "First-touch note sent to Mia Smithson (thank-you + Jev decision-model interest + offered a brief chat); awaiting reply"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Thank-you backlog cleared as stale — Rui had already sent his outreach (10-05) and thanks-for-connecting (10-06) himself; no duplicate sent 2026-10-12; still awaiting her reply"
       }
     ],
     "intel": {
@@ -3215,7 +3762,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-08",
         "history": [
-          "2026-10-08 11:53 PM — ACCEPTED the Wave-3 LinkedIn invite; thank-you note drafted (in tracker), pending next successful LinkedIn session"
+          "2026-10-08 11:53 PM — ACCEPTED the Wave-3 LinkedIn invite; thank-you note drafted (in tracker), pending next successful LinkedIn session",
+          "2026-10-12 — the 'thank-you pending' backlog was verified STALE: Rui sent his intro himself on 2026-10-08. No duplicate sent; awaiting his reply."
         ]
       },
       {
@@ -3234,6 +3782,10 @@ const COMPANIES = [
       {
         "date": "2026-10-09",
         "text": "Nicholas Flood accepted the Wave-3 LinkedIn invite (Oct 8, 11:53 PM PT); thank-you note pending"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Thank-you backlog cleared as stale — Rui sent his intro to Nicholas Flood himself on 2026-10-08; no duplicate sent; awaiting his reply"
       }
     ],
     "intel": {
@@ -3268,12 +3820,30 @@ const COMPANIES = [
         "linkedin": "https://www.linkedin.com/in/dani-lindsey/",
         "contact_status": "invited",
         "date": "2026-10-08"
+      },
+      {
+        "name": "Abel Lim",
+        "role": "Senior Research Engineer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
+      },
+      {
+        "name": "Eric Schkufza",
+        "role": "Senior Principal Engineer",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-12"
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invites sent to Justin McQueen and Dani Lindsey — personal notes"
+      },
+      {
+        "date": "2026-10-12",
+        "text": "Wave 5: invites sent to Abel Lim (Senior Research Engineer — LLM search-agent retrieval work, closest domain match) and Eric Schkufza (Senior Principal Engineer)"
       }
     ],
     "intel": {
