@@ -66,7 +66,7 @@ const COMPANIES = [
     "valuation_detail": null,
     "size": null,
     "location": "San Francisco Bay Area",
-    "rto": "Hybrid — ~50% in office (SF / NYC / Seattle)",
+    "rto": null,
     "status": "interviewing",
     "contacts": [
       {
@@ -130,7 +130,7 @@ const COMPANIES = [
       },
       {
         "date": "2026-10-11",
-        "text": "Simplenote sync (note edited Oct 11, 2:13 PM PT): Rui's screen notes for Yulia Serhiyenia record the process — ~2 weeks end to end, interviewers at senior/staff level (~6 YOE), hybrid SF/NYC/Seattle at ~50% in-office, relocation package available; the ModernLoop booking remains paused at Rui's instruction"
+        "text": "Simplenote sync (note 'Antropic', edited Oct 11, 2:13 PM PT): Rui's process notes for the Anthropic loop — system-design whiteboarding, practical Python coding, a 4-round virtual onsite (product discussion, project deep-dive, hiring manager, culture/values), and a reference check; the two 55-min technical rounds remain unbooked, paused at Rui's instruction"
       }
     ],
     "intel": {
@@ -139,7 +139,7 @@ const COMPANIES = [
         "Role: Staff Software Engineer, Search",
         "Reported 2026 post-OA process: recruiter call → tech phone (often system design for senior+) → 4–5-round virtual onsite (coding, SD, HM/project deep-dive, values/culture); live interviews are AI-assistance-free unless allowed",
         "Why-Anthropic + AI-safety depth is the hard values gate — shallow answers reportedly fail the recruiter/values round",
-        "Recruiter screen details (Simplenote note 'Antropic', edited 2026-10-11; screen held 2026-10-10 with Yulia Serhiyenia): the two technical rounds are 1x System Design + 1x Coding with senior/staff interviewers (~6 YOE); the full process runs ~2 weeks; roles are hybrid in SF / NYC / Seattle at ~50% in-office; a relocation package is available; booking is via the ModernLoop link (still paused at Rui's instruction)"
+        "Process details (Simplenote note 'Antropic', edited 2026-10-11; verified against the note's 78-word count): backend system-design whiteboarding (any drawing tools; read design docs; classical format); practical coding — Python, debugging, communication, speed (~15 min to solve; no data structures, no AI assistance, code by hand); virtual onsite (4 rounds): product discussion (Search), technical project deep-dive, hiring manager, and a culture interview (values, mission, safety); then a reference check with a former colleague. Note also records: an offer would be valid 2 weeks and non-negotiable; process ~3 weeks to complete"
       ]
     },
     "interviews": [
@@ -1814,7 +1814,7 @@ const COMPANIES = [
       },
       {
         "date": "2026-10-09",
-        "text": "Intro call held with Andrew Kim (1:00–1:30 PM PT). Rui's Simplenote call notes (edited 1:29 PM PT) capture Harvey's scale — ~$150M ARR at end of 2025, clients incl. a majority of top-10 US law firms — and its hiring plans (team to double by end of 2026; many Staff Backend & AI Platform roles). Process: recruiter call evaluates experience + fit for the Staff SWE, AI Platform role"
+        "text": "Intro call held with Andrew Kim (1:00–1:30 PM PT). Rui's Simplenote note (edited 1:29 PM PT) records the next-stage loop — onsite: coding, ML system design, hiring manager — and a comp figure of 800k–900k (basis not specified in the note)"
       }
     ],
     "intel": {
@@ -1822,7 +1822,7 @@ const COMPANIES = [
       "notes": [
         "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform — résumé sent via LinkedIn 2026-10-03; intro call booked Fri Oct 9, 1:00–1:30 PM PT via his Ashby link; calendar event created with full context",
         "Diligence 2026-10-12: highest cash certainty in the set (Staff base $255K / TC $427K documented); equity is a lottery ticket at $15.5B (~39x ARR).",
-        "Business intel (Simplenote note 'Harvey', edited 2026-10-09, from the intro call with Andrew Kim): ~$150M ARR at end of 2025 (up from ~$75M before Jul 2025); $960M total funding raised in 2025; clients include a majority of the top-10 US law firms, incl. an Allen & Overy partnership (~4,000 lawyers); Harvey plans to double its team by end of 2026 and is hiring many Staff Backend & AI Platform engineers"
+        "Next-stage loop (Simplenote note 'Harvey', edited 2026-10-09; the note is only 83 characters): onsite rounds — coding, ML system design, hiring manager; a comp figure of 800k–900k is recorded in the note (basis not specified there)"
       ]
     },
     "interviews": [
