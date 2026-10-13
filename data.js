@@ -66,7 +66,7 @@ const COMPANIES = [
     "valuation_detail": null,
     "size": null,
     "location": "San Francisco Bay Area",
-    "rto": null,
+    "rto": "Hybrid — ~50% in office (SF / NYC / Seattle)",
     "status": "interviewing",
     "contacts": [
       {
@@ -127,6 +127,10 @@ const COMPANIES = [
       {
         "date": "2026-10-10",
         "text": "BOOKING PAUSED at Rui's explicit instruction ('先别，我还没准备好'): the two 55-min technical rounds (System Design + Coding) were NOT booked — the ModernLoop availability was never submitted. ModernLoop sent an availability reminder (10-10 1:00 PM) and a candidate-portal access code (10-10 8:16 PM, deliberately unopened/unused). Link retained; resume only when Rui says ready."
+      },
+      {
+        "date": "2026-10-11",
+        "text": "Simplenote sync (note edited Oct 11, 2:13 PM PT): Rui's screen notes for Yulia Serhiyenia record the process — ~2 weeks end to end, interviewers at senior/staff level (~6 YOE), hybrid SF/NYC/Seattle at ~50% in-office, relocation package available; the ModernLoop booking remains paused at Rui's instruction"
       }
     ],
     "intel": {
@@ -134,7 +138,8 @@ const COMPANIES = [
       "notes": [
         "Role: Staff Software Engineer, Search",
         "Reported 2026 post-OA process: recruiter call → tech phone (often system design for senior+) → 4–5-round virtual onsite (coding, SD, HM/project deep-dive, values/culture); live interviews are AI-assistance-free unless allowed",
-        "Why-Anthropic + AI-safety depth is the hard values gate — shallow answers reportedly fail the recruiter/values round"
+        "Why-Anthropic + AI-safety depth is the hard values gate — shallow answers reportedly fail the recruiter/values round",
+        "Recruiter screen details (Simplenote note 'Antropic', edited 2026-10-11; screen held 2026-10-10 with Yulia Serhiyenia): the two technical rounds are 1x System Design + 1x Coding with senior/staff interviewers (~6 YOE); the full process runs ~2 weeks; roles are hybrid in SF / NYC / Seattle at ~50% in-office; a relocation package is available; booking is via the ModernLoop link (still paused at Rui's instruction)"
       ]
     },
     "interviews": [
@@ -1806,13 +1811,18 @@ const COMPANIES = [
       {
         "date": "2026-10-03",
         "text": "Intro call BOOKED: Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings; Zoom link in calendar event)"
+      },
+      {
+        "date": "2026-10-09",
+        "text": "Intro call held with Andrew Kim (1:00–1:30 PM PT). Rui's Simplenote call notes (edited 1:29 PM PT) capture Harvey's scale — ~$150M ARR at end of 2025, clients incl. a majority of top-10 US law firms — and its hiring plans (team to double by end of 2026; many Staff Backend & AI Platform roles). Process: recruiter call evaluates experience + fit for the Staff SWE, AI Platform role"
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Andrew Kim (Senior Technical Recruiter) offered intro call for Staff SWE, AI Platform — résumé sent via LinkedIn 2026-10-03; intro call booked Fri Oct 9, 1:00–1:30 PM PT via his Ashby link; calendar event created with full context",
-        "Diligence 2026-10-12: highest cash certainty in the set (Staff base $255K / TC $427K documented); equity is a lottery ticket at $15.5B (~39x ARR)."
+        "Diligence 2026-10-12: highest cash certainty in the set (Staff base $255K / TC $427K documented); equity is a lottery ticket at $15.5B (~39x ARR).",
+        "Business intel (Simplenote note 'Harvey', edited 2026-10-09, from the intro call with Andrew Kim): ~$150M ARR at end of 2025 (up from ~$75M before Jul 2025); $960M total funding raised in 2025; clients include a majority of the top-10 US law firms, incl. an Allen & Overy partnership (~4,000 lawyers); Harvey plans to double its team by end of 2026 and is hiring many Staff Backend & AI Platform engineers"
       ]
     },
     "interviews": [
@@ -1821,7 +1831,7 @@ const COMPANIES = [
         "time": "1:00–1:30 PM PT",
         "title": "Intro call",
         "people": "Andrew Kim (Senior Technical Recruiter)",
-        "notes": "Staff SWE, AI Platform — booked via his Ashby link"
+        "notes": "Staff SWE, AI Platform — booked via his Ashby link; call held Fri Oct 9, 1:00–1:30 PM PT"
       }
     ]
   },
