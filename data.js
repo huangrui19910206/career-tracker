@@ -1447,12 +1447,17 @@ const COMPANIES = [
       {
         "date": "2026-10-13",
         "text": "Pre-call brief delivered (12:45 PM PT) for today's 1:00–1:30 PM PT intro call with Ravi Buddharaju; the stale Fri Oct 9, 1:30–2:00 PM PT calendar hold was found and deleted (verified gone). Call outcome not yet recorded"
+      },
+      {
+        "date": "2026-10-14",
+        "text": "Drafted follow-up to Ravi asking about also being considered for the core Research Scientist team (fit-based; no comp mentioned). Awaiting Rui's send approval."
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Diligence 2026-10-12: biggest absolute upside and shortest credible IPO path in the set, but cash comp is unknown and the preferred stack exceeds $1.8B — probe comp structure, tender/liquidity, and differentiation on the Oct 13 intro call with Ravi Buddharaju."
+        "Diligence 2026-10-12: biggest absolute upside and shortest credible IPO path in the set, but cash comp is unknown and the preferred stack exceeds $1.8B — probe comp structure, tender/liquidity, and differentiation on the Oct 13 intro call with Ravi Buddharaju.",
+        "2026-10-14 (via Rui's colleague who is also interviewing, unverified): Fireworks has three team types with different pay bands — customer-facing AMLE band reportedly ~$600K total, well below Rui's expectation; core research team packages reportedly $1M+. Rui is asking Ravi whether he can also be considered for the Research Scientist team; that answer decides whether Fireworks stays a priority."
       ]
     },
     "interviews": [
