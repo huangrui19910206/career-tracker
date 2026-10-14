@@ -213,6 +213,31 @@ const COMPANIES = [
     "interviews": []
   },
   {
+    "slug": "applied-compute",
+    "name": "Applied Compute",
+    "tagline": "Specific Intelligence — custom enterprise AI agents/models trained on proprietary data (RL post-training + Agent Cloud)",
+    "valuation": "~$1.3B",
+    "valuation_detail": "$80M led by Kleiner Perkins, Apr 2026 (closed); reportedly in talks ~$3B, Aug 2026 (unconfirmed)",
+    "size": "Small (founded May 2025); team size not verified",
+    "location": "San Francisco",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [],
+    "timeline": [
+      {
+        "date": "2026-10-14",
+        "text": "Added to target list at Rui's request; diligence done (see intel). No contacts yet — needs 2-3 live lines per playbook."
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Diligence 2026-10-14: founded May 2025 by three ex-OpenAI researchers, all Stanford — Yash Patil (CEO, ex-Codex), Rhythm Garg (CTO, co-built o1), Linden Li (Chief Architect, RL training infra). Backers: Benchmark, Sequoia, Lux, Kleiner Perkins, Elad Gil; total raised ~$160-180M. Customers incl. Cognition, Harvey, DoorDash, Mercor, Microsoft, Nvidia. LENS FLAG: very early stage (~$1.3B last closed; $3B is talks-stage) — below Rui's $3B-$30B sweet spot; for a late joiner this is equity-lottery/high-beta unless cash comp is strong. FDE-embedded model. Fit: RL post-training + agent platform is adjacent to his LLM discovery work; staff-level scope unverified."
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "applied-intuition",
     "name": "Applied Intuition",
     "tagline": "Vehicle software / autonomy tooling",
@@ -1826,7 +1851,9 @@ const COMPANIES = [
           "2026-09-30 5:47 PM — replied: hiring Staff SWE, AI Platform (harvey.ai careers link); offered intro call; answered 10/1 9:50 AM (fit, résumé, asked for a good time)",
           "2026-10-01 11:24 AM — asked for résumé copy + shared Ashby scheduling link; answered 4:50 PM (background summary, asked best email for résumé). Nothing booked — awaiting Rui's go",
           "2026-10-03 — résumé sent via LinkedIn; intro call BOOKED Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings); calendar event created with full context",
-          "2026-10-13 — follow-up sweep: a next-steps follow-up is eligible (intro call held Fri Oct 9, no next steps since) but NOT sent — LinkedIn detached session blocked; also pending Rui's answer to the main-chat re-confirmation question."
+          "2026-10-13 — follow-up sweep: a next-steps follow-up is eligible (intro call held Fri Oct 9, no next steps since) but NOT sent — LinkedIn detached session blocked; also pending Rui's answer to the main-chat re-confirmation question.",
+          "2026-10-13 (later, main chat) — Rui approved the batch and a follow-up send was ATTEMPTED, but LinkedIn twice reported 'message failed to send' / API degraded; two later checks disagreed on whether it landed (one saw it in-thread, one saw the newest message still the Oct 5 confirmation). Delivery UNVERIFIED — do not assume sent, do not resend blindly.",
+          "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session."
         ]
       },
       {
@@ -3682,7 +3709,8 @@ const COMPANIES = [
           "2026-10-05 ~5:53 PM — ACCEPTED the invite (sent at Rui's go ~5:52 PM). 2026-10-06 — first-touch LinkedIn message sent: thanked her for connecting, referenced the Jev decision-model interest from the invite note, asked to learn more about TypeSafe and where an MLE leader could fit, offered a brief chat; awaiting reply",
           "2026-10-07 — thread verified in a live LinkedIn session: Rui's Oct 6 first-touch message is present; no duplicate sent; no reply yet",
           "2026-10-12 — the standing 'thank-you pending' backlog was verified STALE: Rui himself already sent two messages (10-05 outreach + 10-06 thanks-for-connecting, both read by her). No duplicate sent; the follow-up sweep also skipped her per the one-new-message rule. Still no reply from her.",
-          "2026-10-13 — follow-up sweep: her first follow-up is eligible (Rui's 10-05/10-06 messages read, no reply, 7 days) but was NOT sent — the detached LinkedIn session was blocked at the login wall. Queued for the next working session, which must first count unanswered outbound messages in-thread and skip if there are already 2 or more."
+          "2026-10-13 — follow-up sweep: her first follow-up is eligible (Rui's 10-05/10-06 messages read, no reply, 7 days) but was NOT sent — the detached LinkedIn session was blocked at the login wall. Queued for the next working session, which must first count unanswered outbound messages in-thread and skip if there are already 2 or more.",
+          "2026-10-14 — QUEUE VOIDED (correction recorded in the 2026-10-14 daily log): Rui already sent two unanswered outbound messages on this thread (2026-10-05 outreach + 2026-10-06 thanks-for-connecting, both read, no reply). Per the '不要死磕' rule she must NOT be followed up again; removed from the sweep queue. TypeSafe would need a fresh contact if pursued."
         ]
       }
     ],
