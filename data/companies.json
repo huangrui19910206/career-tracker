@@ -1526,7 +1526,8 @@
      "2026-10-03 — résumé sent via LinkedIn; intro call BOOKED Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings); calendar event created with full context",
      "2026-10-13 — follow-up sweep: a next-steps follow-up is eligible (intro call held Fri Oct 9, no next steps since) but NOT sent — LinkedIn detached session blocked; also pending Rui's answer to the main-chat re-confirmation question.",
      "2026-10-13 (later, main chat) — Rui approved the batch and a follow-up send was ATTEMPTED, but LinkedIn twice reported 'message failed to send' / API degraded; two later checks disagreed on whether it landed (one saw it in-thread, one saw the newest message still the Oct 5 confirmation). Delivery UNVERIFIED — do not assume sent, do not resend blindly.",
-     "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session."
+     "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
+     "2026-10-15 — follow-up sweep verification attempt BLOCKED again at STEP 0: linkedin.com/messaging redirected to the plain LinkedIn login page (no active session); no sign-in attempted, thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session."
     ]
    },
    {
@@ -1794,7 +1795,8 @@
      "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session",
      "2026-10-11 — first follow-up still NOT sent: LinkedIn session unavailable (10:30 PT sweep blocked at the plain login wall; both monitors also blocked). Thread still eligible per one-max rule; queued for the next working session.",
      "2026-10-04 — ACCEPTED the LinkedIn invite (per recruiters tracker; the tracker contact status had lagged as 'invited', corrected 2026-10-12). Intro note was sent with the invite; no reply since.",
-     "2026-10-12 12:45 PM PT — first (and only) follow-up SENT after the LinkedIn session was restored. Angle: senior/staff MLE, search ranking / LLM discovery. One-max rule now satisfied — no further nudges."
+     "2026-10-12 12:45 PM PT — first (and only) follow-up SENT after the LinkedIn session was restored. Angle: senior/staff MLE, search ranking / LLM discovery. One-max rule now satisfied — no further nudges.",
+     "2026-10-15 — marked COLD per one-max rule (follow-up sent 2026-10-12, no reply in 3 days; no new recruiter digest in the 2026-10-15 09:41 Gmail triage; the sweep's LinkedIn thread check was blocked at the login wall). No more nudges; Ema needs a fresh contact if pursued."
     ]
    },
    {
@@ -1841,6 +1843,10 @@
    {
     "date": "2026-10-12",
     "text": "Rashmi G. first follow-up SENT 12:45 PM PT (LinkedIn session restored; thread had only the 10-04 outreach and no reply). One follow-up max on this thread — no more nudges"
+   },
+   {
+    "date": "2026-10-15",
+    "text": "Sweep 2026-10-15: Rashmi G. marked COLD per one-max rule (follow-up 10-12, no reply in 3 days; no new digest in the 10-15 Gmail triage). Ema needs a fresh contact if pursued; both Ema threads (Saghar Adler + Rashmi G.) are now cold"
    }
   ],
   "intel": {
@@ -3382,7 +3388,8 @@
     "contact_status": "connected",
     "date": "2026-10-12",
     "history": [
-     "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply."
+     "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply.",
+     "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session."
     ]
    },
    {
@@ -3401,6 +3408,10 @@
    {
     "date": "2026-10-12",
     "text": "Wave 5: invites sent to Gilles Backhus (Co-Founder & VP of AI / Head of AI) and Marc Bolitho (CEO). Gilles Backhus ACCEPTED the same day — thank-you sent; awaiting any reply"
+   },
+   {
+    "date": "2026-10-15",
+    "text": "Sweep 2026-10-15: Gilles Backhus first follow-up eligible (thank-you 10-12, no reply, 3 days) but NOT sent — LinkedIn browser task blocked at STEP 0 (plain login wall); queued for the next working session"
    }
   ],
   "intel": {
@@ -3736,7 +3747,8 @@
     "contact_status": "connected",
     "date": "2026-10-08",
     "history": [
-     "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply."
+     "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply.",
+     "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session. Note: she is Head of People at Quadric per her people page; this companies.json entry files her under SambaNova from the wave-3 invite list — verify company from her profile/thread in the next working session before sending."
     ]
    }
   ],
