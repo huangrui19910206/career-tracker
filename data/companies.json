@@ -31,7 +31,8 @@
     "contact_status": "existing",
     "date": "2026-10-01",
     "history": [
-     "2026-10-13 8:53 AM PT — follow-up email SENT (Rui-approved batch): thanked her for the Oct 9 intro call and asked about next steps after her team sync. Awaiting her reply."
+     "2026-10-13 8:53 AM PT — follow-up email SENT (Rui-approved batch): thanked her for the Oct 9 intro call and asked about next steps after her team sync. Awaiting her reply.",
+     "2026-10-16 — the thread's ONE follow-up email (sent 2026-10-13, next steps after her team sync) is unanswered after 3 days (no new mail in the 2026-10-16 Gmail triage); marked COLD per one-max rule. No more nudges; Glean needs a fresh recruiter line (Marisa Chin / Scott Perez invites still pending)."
     ]
    },
    {
@@ -106,6 +107,10 @@
    {
     "date": "2026-10-13",
     "text": "Follow-up email sent to Kim Catalano (8:53 AM PT, Rui-approved batch): thanked her for the Oct 9 intro call and asked about next steps after her team sync; awaiting reply"
+   },
+   {
+    "date": "2026-10-16",
+    "text": "Sweep 2026-10-16: Kim Catalano marked COLD per one-max rule (follow-up email 2026-10-13 on next steps, no reply in 3 days); no more nudges — Glean needs a fresh recruiter line (Marisa Chin / Scott Perez invites still pending)"
    }
   ],
   "intel": {
@@ -1346,7 +1351,8 @@
      "2026-10-10 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn monitor blocked AM + PM; 4th consecutive blocked run); pending next working session",
      "2026-10-11 — reply to his 10-06 7:49 AM message still NOT sent (LinkedIn blocked AM + PM; 10:30 PT sweep also blocked). Pending next working session.",
      "2026-10-12 12:45 PM PT — follow-up SENT after the LinkedIn session was restored. Angle: ML infra roles, referencing last week's exchange. One-max rule now satisfied on this thread.",
-     "2026-10-13 — Calvin replied asking Rui to send his résumé for further evaluation. Résumé + a short background introduction SENT 8:40 AM PT at Rui's direction (via LinkedIn). Awaiting next steps."
+     "2026-10-13 — Calvin replied asking Rui to send his résumé for further evaluation. Résumé + a short background introduction SENT 8:40 AM PT at Rui's direction (via LinkedIn). Awaiting next steps.",
+     "2026-10-16 — follow-up sweep: a follow-up on the résumé exchange is eligible (résumé + intro sent 2026-10-13 at his request; the earlier 2026-10-12 nudge was answered by that résumé request; no reply since the résumé, 3 days — the 2026-10-16 ~09:20 LinkedIn read check showed no new message from him) but NOT sent — the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall). Queued for the next working LinkedIn session."
     ]
    },
    {
@@ -1381,6 +1387,10 @@
    {
     "date": "2026-10-13",
     "text": "Calvin C. replied asking for Rui's résumé; résumé + short background introduction sent 8:40 AM PT at Rui's direction — awaiting his next steps"
+   },
+   {
+    "date": "2026-10-16",
+    "text": "Sweep 2026-10-16: Calvin C. follow-up eligible (résumé sent 2026-10-13 at his request, no reply in 3 days) but NOT sent — LinkedIn browser task blocked at the login wall; queued for the next working LinkedIn session"
    }
   ],
   "intel": {
@@ -1910,7 +1920,8 @@
      "2026-10-02 — read his Oct 1 follow-up DM (shared his Google Calendar booking link for a chat about Mercor's MLE role). Intro call BOOKED Tue 2026-10-06, 1:30–1:45 PM PT via his link (Google Meet); confirmation sent to Raif in the LinkedIn thread; calendar event created",
      "2026-10-06 — Raif CANCELLED the Tue Oct 6, 1:30–1:45 PM PT call (last-minute conflict). Rui countered Wed Oct 7 at 10:00 AM or 2:00 PM PT (12:00 PM fallback): two scheduling emails sent from the career Gmail (first proposed 2:15–2:30 PM, then redirected to 10:00 AM / 2:00 PM); awaiting Raif's confirmation; no replacement calendar event yet",
      "2026-10-07 — Raif's 'Updated invitation' email (Oct 6) re-confirmed Wed Oct 7, 12:00–12:15 PM PT. Raif NEVER JOINED — Rui waited alone in the Meet from 12:05 PM PT. Rui asked the agent to ping Raif on LinkedIn + email (send status unverified)",
-     "2026-10-13 8:56 AM PT — a SECOND follow-up email SENT in the original career-mailbox thread at Rui's explicit direction (an exception to the one-follow-up-max rule): asked what the next step is and offered weekday afternoons 1:00–2:00 PM PT for a call. Awaiting reply."
+     "2026-10-13 8:56 AM PT — a SECOND follow-up email SENT in the original career-mailbox thread at Rui's explicit direction (an exception to the one-follow-up-max rule): asked what the next step is and offered weekday afternoons 1:00–2:00 PM PT for a call. Awaiting reply.",
+     "2026-10-16 — the SECOND follow-up email (sent 2026-10-13 at Rui's explicit direction, an exception to the one-max rule) is also unanswered after 3 days; marked COLD again. No more nudges; Mercor needs a fresh recruiter (Michael Bond invite still pending)."
     ]
    }
   ],
@@ -1970,6 +1981,10 @@
    {
     "date": "2026-10-13",
     "text": "Second follow-up email sent to Raif Rahal (8:56 AM PT, at Rui's explicit direction — exception to the one-max rule): asked for the next step and offered weekday 1:00–2:00 PM PT call times; awaiting reply"
+   },
+   {
+    "date": "2026-10-16",
+    "text": "Sweep 2026-10-16: Raif Rahal marked COLD again per one-max rule (second follow-up 2026-10-13, Rui-directed exception, no reply in 3 days); Mercor needs a fresh recruiter (Michael Bond invite still pending)"
    }
   ],
   "intel": {
@@ -2535,7 +2550,8 @@
      "2026-10-04 — read his two LinkedIn messages: PDF JD ('E-commerce Senior Staff MLE.pdf'); Chinese message asking for résumé + phone + detailed chat; his availability: weekdays 9–11 AM or after 5 PM PT; appears to be an external recruiter at Global Technology Talent Hiring Inc.; hiring company still undisclosed",
      "2026-10-04 4:53 PM — Rui's choice: résumé sent via LinkedIn (Resume.pdf) + asked for the company name first (in Chinese); no phone number shared; awaiting reply",
      "2026-10-05 1:15 PM — CONFIRMED intro call Thu 2026-10-08, 9:45–10:15 AM PT; said comp/stock/hiring-manager details will be shared on the call; agent asked for call details. Calendar event created.",
-     "2026-10-06 — confirmed the Thu Oct 8, 9:45 AM PT call is a PHONE call: Yuyang will call Rui at +1 917-244-6633. Planned discussion: comp range, stock/buyback liquidity, hiring manager, office location; calendar event updated"
+     "2026-10-06 — confirmed the Thu Oct 8, 9:45 AM PT call is a PHONE call: Yuyang will call Rui at +1 917-244-6633. Planned discussion: comp range, stock/buyback liquidity, hiring manager, office location; calendar event updated",
+     "2026-10-16 — follow-up sweep: a first follow-up is eligible (last progress 2026-10-12, when he advanced Rui to TikTok's Ads Team and said he would sync; 4 days, no follow-up ever sent) but NOT sent — the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session; no sign-in attempted). Queued for the next working LinkedIn session."
     ]
    }
   ],
@@ -2563,6 +2579,10 @@
    {
     "date": "2026-10-06",
     "text": "Thu Oct 8 call confirmed as a phone call — Yuyang will call Rui at +1 917-244-6633 (topics: comp range, stock/buyback liquidity, hiring manager, office location)"
+   },
+   {
+    "date": "2026-10-16",
+    "text": "Sweep 2026-10-16: Yuyang Cheng first follow-up eligible (last progress 2026-10-12 Ads Team update, 4 days) but NOT sent — LinkedIn browser task blocked at the login wall; queued for the next working LinkedIn session"
    }
   ],
   "intel": {
@@ -3940,7 +3960,8 @@
     "date": "2026-10-08",
     "history": [
      "2026-10-12 1:53 PM PT — genuine follow-up InMail (full body read and verified 2026-10-13: follows up her original message, pitches ThredUp's AI search / Time Best Inventions 2024, asks for a quick chat). This corrects the 2026-10-12 afternoon note that called it a mere re-notification.",
-     "2026-10-13 9:57 AM PT — Rui REPLIED (after diligence): expressed interest in the ML Architect, Personalization role, proposed a weekday afternoon 1:00–2:00 PM PT chat, and asked about the role's level and comp range (no number quoted first). Rui declined LinkedIn's prompt to share his contact information with her."
+     "2026-10-13 9:57 AM PT — Rui REPLIED (after diligence): expressed interest in the ML Architect, Personalization role, proposed a weekday afternoon 1:00–2:00 PM PT chat, and asked about the role's level and comp range (no number quoted first). Rui declined LinkedIn's prompt to share his contact information with her.",
+     "2026-10-16 — follow-up sweep: a first follow-up is eligible (Rui replied 2026-10-13 expressing interest in the ML Architect, Personalization role, proposing a weekday 1:00–2:00 PM PT chat and asking level/comp; no reply in 3 days, no follow-up ever sent) but NOT sent — the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall). Queued for the next working LinkedIn session."
     ]
    }
   ],
@@ -3964,6 +3985,10 @@
    {
     "date": "2026-10-13",
     "text": "Rui replied to Michelle Young (9:57 AM PT) after company diligence: interested in the ML Architect, Personalization role, proposed a weekday 1:00–2:00 PM PT chat, asked about level and comp range without quoting a number first; declined to share contact info via LinkedIn's prompt"
+   },
+   {
+    "date": "2026-10-16",
+    "text": "Sweep 2026-10-16: Michelle Young (ThredUp) first follow-up eligible (Rui's reply 2026-10-13, no response in 3 days) but NOT sent — LinkedIn browser task blocked at the login wall; queued for the next working LinkedIn session"
    }
   ],
   "intel": {
