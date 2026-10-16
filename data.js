@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 15, 2026";
+const BUILD_DATE = "Oct 16, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -87,7 +87,8 @@ const COMPANIES = [
         "date": "2026-10-10",
         "history": [
           "2026-10-10 — Biana sent the ModernLoop link ('Next Steps with Anthropic', email Fri 10-09 1:00 PM) to book the two 55-min technical rounds (System Design + Coding); booking attempt proposed Mon Oct 19 1:00-3:00 PM PT (first choice), fallbacks Tue Oct 22 then Wed Oct 21, Fri Oct 16 only 2:00-3:00 PM (Office Happy Hour conflict 1-2 PM)",
-          "2026-10-10 — BOOKING PAUSED at Rui's explicit instruction ('先别，我还没准备好'): the ModernLoop availability was NEVER submitted. ModernLoop sent an availability reminder (Sat 10-10 1:00 PM) and a candidate-portal access code (Sat 10-10 8:16 PM, deliberately not opened/used). The booking link is retained; resume only when Rui says he is ready."
+          "2026-10-10 — BOOKING PAUSED at Rui's explicit instruction ('先别，我还没准备好'): the ModernLoop availability was NEVER submitted. ModernLoop sent an availability reminder (Sat 10-10 1:00 PM) and a candidate-portal access code (Sat 10-10 8:16 PM, deliberately not opened/used). The booking link is retained; resume only when Rui says he is ready.",
+          "2026-10-15 — Rui RE-OPENED the booking (the 2026-10-10 pause is lifted). Under his new rule (technical rounds mornings 10 AM–12 PM PT) he first chose Tue Oct 20, 10:00 AM–12:00 PM PT; ModernLoop login succeeded with the access code Rui supplied, but the portal requires at least 3 days × at least 3 hours per day, so a single window cannot be submitted. Rui then approved submitting Tue Oct 20 + Thu Oct 22 + Fri Oct 23, each 10:00 AM–1:00 PM PT (Tue first choice). As of end of day Oct 15 the submission had NOT yet gone through — the ModernLoop session had expired and a fresh candidate-portal access code from the jobs email was still needed. Nothing booked or confirmed yet."
         ]
       }
     ],
@@ -131,6 +132,10 @@ const COMPANIES = [
       {
         "date": "2026-10-11",
         "text": "Simplenote sync (note 'Antropic', edited Oct 11, 2:13 PM PT): Rui's process notes for the Anthropic loop — system-design whiteboarding, practical Python coding, a 4-round virtual onsite (product discussion, project deep-dive, hiring manager, culture/values), and a reference check; the two 55-min technical rounds remain unbooked, paused at Rui's instruction"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Booking RESUMED at Rui's direction — the 2026-10-10 pause ('先别，我还没准备好') is lifted. Rui approved submitting ModernLoop availability for the two 55-min technical rounds (System Design + Coding) as Tue Oct 20 + Thu Oct 22 + Fri Oct 23, each 10:00 AM–1:00 PM PT (Tue first choice; ModernLoop requires ≥3 days × ≥3 hours, so a single Tue 10–12 window cannot be submitted). As of end of day Oct 15, submission had NOT yet gone through — session expired, fresh access code from jobs email still needed; nothing booked or confirmed"
       }
     ],
     "intel": {
@@ -151,11 +156,11 @@ const COMPANIES = [
         "notes": "Held Fri Oct 9, 11:30-11:50 AM PT with Yulia Serhiyenia — PASSED (confirmed 2026-10-10 via Biana Reznik's 'Next Steps' email); NDA signed Oct 8"
       },
       {
-        "date": "2026-10-19",
-        "time": "1:00-3:00 PM PT (first choice, proposed)",
-        "title": "Technical rounds: System Design + Coding (2x55-min) — BOOKING PAUSED at Rui's instruction",
+        "date": "2026-10-20",
+        "time": "10:00 AM–1:00 PM PT (availability window; Tue first choice)",
+        "title": "Technical rounds: System Design + Coding (2×55-min) — BOOKING RESUMED 2026-10-15, submission pending",
         "people": "Biana Reznik (Anthropic scheduling)",
-        "notes": "Proposed via ModernLoop: first choice Mon Oct 19, 1:00-3:00 PM PT; fallbacks Oct 22, then Oct 21; Oct 16 only 2:00-3:00 PM. NEVER submitted — booking paused 2026-10-10 at Rui's explicit instruction ('先别，我还没准备好'); resume only when he says ready."
+        "notes": "Rui approved submitting Tue Oct 20 + Thu Oct 22 + Fri Oct 23, each 10:00 AM–1:00 PM PT, via ModernLoop. As of end of day 2026-10-15 the submission had not yet gone through (session expired; fresh access code needed). Nothing booked or confirmed yet."
       }
     ]
   },
@@ -995,7 +1000,8 @@ const COMPANIES = [
           "2026-10-10 — first follow-up still NOT sent (LinkedIn monitor blocked AM + PM); pending next working session",
           "2026-10-11 — first follow-up still NOT sent: LinkedIn session unavailable (10:30 PT sweep blocked at the plain login wall; both monitors also blocked). Thread still eligible per one-max rule; queued for the next working session.",
           "2026-10-04 — ACCEPTED the LinkedIn invite (per recruiters tracker; the tracker contact status had lagged as 'invited', corrected 2026-10-12). Intro note was sent with the invite; no reply since.",
-          "2026-10-12 12:45 PM PT — first (and only) follow-up SENT after the LinkedIn session was restored. Angle: senior/staff MLE, search ranking / LLM discovery. One-max rule now satisfied — no further nudges."
+          "2026-10-12 12:45 PM PT — first (and only) follow-up SENT after the LinkedIn session was restored. Angle: senior/staff MLE, search ranking / LLM discovery. One-max rule now satisfied — no further nudges.",
+          "2026-10-15 — marked COLD per one-max rule (follow-up sent 2026-10-12, no reply in 3 days; no new recruiter digest in the 2026-10-15 09:41 Gmail triage; the sweep's LinkedIn thread check was blocked at the login wall). No more nudges; Ema needs a fresh contact if pursued."
         ]
       },
       {
@@ -1042,6 +1048,10 @@ const COMPANIES = [
       {
         "date": "2026-10-12",
         "text": "Rashmi G. first follow-up SENT 12:45 PM PT (LinkedIn session restored; thread had only the 10-04 outreach and no reply). One follow-up max on this thread — no more nudges"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Sweep 2026-10-15: Rashmi G. marked COLD per one-max rule (follow-up 10-12, no reply in 3 days; no new digest in the 10-15 Gmail triage). Ema needs a fresh contact if pursued; both Ema threads (Saghar Adler + Rashmi G.) are now cold"
       }
     ],
     "intel": {
@@ -1126,7 +1136,8 @@ const COMPANIES = [
           "2026-10-11 1:59 PM PT — Gabe RE-ENGAGED by email (jobs Gmail, Cc cathy.nghieu@factory.ai): excited to move forward; next step is a 45-min debugging interview with a Factory team member (Python or JavaScript, no AI assistance, HackerRank — interviewer sends the link at the start; evaluated on technical skills + communication + collaboration). Asked Rui to share availability for the next two weeks via his Ashby link; a confirmation email follows. The thread is live again — the 10-10 COLD mark and the fresh-recruiter plan are moot. Awaiting Rui's slot pick.",
           "2026-10-11 evening — Rui-approved clarification SENT to Gabe (and the Ashby availability form submitted): Rui is available at 10:00 AM PT on Thu Oct 15, Fri Oct 16, Mon Oct 19, or Fri Oct 23 for the 45-min debugging interview, superseding the earlier form windows. Awaiting Gabe's confirmation of one slot plus the meeting link; no calendar event until he confirms.",
           "2026-10-12 1:57 PM PT — coordinator Cathy Nghieu emailed CONFIRMING the debugging interview: Thu Oct 15, 10:00–10:45 AM PT with Eric Fan (Software Engineer, AI), Google Meet meet.google.com/grn-itdu-vnf, HackerRank debugging (Python/JS, no AI assistance). Full-context calendar event created 2026-10-13 (her separate invite had not landed).",
-          "2026-10-13 8:51 AM PT — Rui-approved follow-up email SENT re-offering the four proposed times; it went out before Cathy Nghieu's Oct 12 confirmation was processed in that morning's email monitor. No corrective email sent."
+          "2026-10-13 8:51 AM PT — Rui-approved follow-up email SENT re-offering the four proposed times; it went out before Cathy Nghieu's Oct 12 confirmation was processed in that morning's email monitor. No corrective email sent.",
+          "2026-10-15 — the 45-min debugging interview with Eric Fan was held as scheduled (10:00–10:45 AM PT). Outcome / next step not yet recorded. Post-interview, next-steps scheduling emails arrived in the jobs inbox from Gabe Remar (12:48 PM PT) and Cathy Nghieu (13:11 PM PT), both 'Re: Factory | Interview Availability Request - Software Eng…' — unread at end of day Oct 15, pending processing."
         ]
       },
       {
@@ -1207,6 +1218,14 @@ const COMPANIES = [
       {
         "date": "2026-10-13",
         "text": "Follow-up email sent to Gabe Remar (8:51 AM PT, Rui-approved batch) re-offering the four proposed times — sent before the Oct 12 confirmation was processed; no corrective email sent"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Debugging interview HELD as scheduled (10:00–10:45 AM PT) with Eric Fan (Software Engineer, AI) — HackerRank, Python/JS, no AI assistance. Outcome and next step not yet recorded"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Post-interview next-steps scheduling emails arrived in the jobs inbox from Gabe Remar (12:48 PM PT) and coordinator Cathy Nghieu (13:11 PM PT) — unread at end of day Oct 15, pending processing"
       }
     ],
     "intel": {
@@ -1229,9 +1248,9 @@ const COMPANIES = [
       {
         "date": "2026-10-15",
         "time": "10:00–10:45 AM PT",
-        "title": "Debugging interview (45-min) — CONFIRMED",
+        "title": "Debugging interview (45-min) — HELD",
         "people": "Eric Fan (Software Engineer, AI); coordinator Cathy Nghieu; recruiter Gabe Remar",
-        "notes": "Google Meet https://meet.google.com/grn-itdu-vnf — HackerRank debugging, Python or JavaScript, no AI assistance; evaluated on technical skills + communication + collaboration. Confirmed by Cathy Nghieu's email 2026-10-12 1:57 PM PT; calendar event created 2026-10-13."
+        "notes": "Google Meet https://meet.google.com/grn-itdu-vnf — HackerRank debugging, Python or JavaScript, no AI assistance; evaluated on technical skills + communication + collaboration. Confirmed by Cathy Nghieu's email 2026-10-12 1:57 PM PT; calendar event created 2026-10-13. Held as scheduled; outcome not yet recorded. Next-steps scheduling emails from Gabe Remar / Cathy Nghieu arrived Oct 15 afternoon, unread at end of day."
       }
     ]
   },
@@ -1894,7 +1913,8 @@ const COMPANIES = [
           "2026-10-03 — résumé sent via LinkedIn; intro call BOOKED Fri 2026-10-09, 1:00–1:30 PM PT via his Ashby link (Mon Oct 5 not selectable, Thu Oct 8 only mornings); calendar event created with full context",
           "2026-10-13 — follow-up sweep: a next-steps follow-up is eligible (intro call held Fri Oct 9, no next steps since) but NOT sent — LinkedIn detached session blocked; also pending Rui's answer to the main-chat re-confirmation question.",
           "2026-10-13 (later, main chat) — Rui approved the batch and a follow-up send was ATTEMPTED, but LinkedIn twice reported 'message failed to send' / API degraded; two later checks disagreed on whether it landed (one saw it in-thread, one saw the newest message still the Oct 5 confirmation). Delivery UNVERIFIED — do not assume sent, do not resend blindly.",
-          "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session."
+          "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
+          "2026-10-15 — follow-up sweep verification attempt BLOCKED again at STEP 0: linkedin.com/messaging redirected to the plain LinkedIn login page (no active session); no sign-in attempted, thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session."
         ]
       },
       {
@@ -2959,7 +2979,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-08",
         "history": [
-          "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply."
+          "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply.",
+          "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session. Note: she is Head of People at Quadric per her people page; this companies.json entry files her under SambaNova from the wave-3 invite list — verify company from her profile/thread in the next working session before sending."
         ]
       }
     ],
@@ -2977,6 +2998,47 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Hardware-leaning; SW/ML-systems roles only"
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "sequen",
+    "name": "Sequen",
+    "tagline": "Behavior Design Engine / Large Event Model — real-time personalization & ranking infrastructure (Sequen.AI)",
+    "valuation": "Undisclosed",
+    "valuation_detail": "$22M total raised; $16M Series A, Mar 2026 (White Star / Threshold); reported $90M Series B, Sep 2026 — single source, unverified (diligence 2026-10-15)",
+    "size": "~21",
+    "location": "New York, NY",
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Stephen Armanios",
+        "role": "Head of Talent",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-15",
+        "history": [
+          "2026-10-15 11:53 AM PT — cold inbound LinkedIn InMail ('Sequen.AI <> Engineering Opportunity'): pitched Sequen as 'the first Behavior Design Engine for enterprise', powered by a Large Event Model (LEM) trained on billions of user event sequences; asked when Rui is available for a brief chat about engineering opportunities. No role title/level, location, or comp stated. No reply sent initially — held for backcheck under Rui's 2026-10-14 inbound-diligence rule.",
+          "2026-10-15 4:54 PM PT — after diligence and at Rui's direction ('回一封探口风的'), a probe reply was SENT on LinkedIn asking three questions: (1) is there a Senior Staff-level opening, (2) is the role Bay Area / remote or NYC-only, (3) what is the cash comp range. Awaiting his reply."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-15",
+        "text": "Cold inbound InMail from Stephen Armanios (Head of Talent, 11:53 AM PT): engineering opportunity at Sequen.AI — no level, location, or comp stated. Diligenced the same day under the inbound-diligence rule: founded 2024, NYC, ~21 people, real-time personalization / ranking infrastructure (Large Event Models); founders Zoë Weil (ex-Etsy) and Mo Afshar; $16M Series A Mar 2026 ($22M total raised), reported $90M Series B unverified. Technical fit strong, but early stage + NYC — outside Rui's late-joiner sweet spot"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Probe reply SENT on LinkedIn (4:54 PM PT, at Rui's direction): asked about Senior Staff level, Bay Area/remote vs NYC-only, and cash comp range. Awaiting Stephen Armanios's answers"
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Diligence 2026-10-15: Sequen (Sequen.AI), founded 2024, HQ NYC, ~21 people; 'first Behavior Design Engine for enterprise' built on a Large Event Model trained on billions of user event sequences predicting the next user event. Founders Zoë Weil (ex-Etsy) + Mo Afshar. $16M Series A (Mar 2026, White Star / Threshold; $22M total raised); a reported $90M Series B (Sep 2026) rests on a single source and is unverified. Conclusion given to Rui: technical fit is strong (ranking/personalization is his field), but the stage is early and the NYC base sits outside his late-joiner sweet spot — probe first on level, location, and cash comp before any call."
       ]
     },
     "interviews": []
@@ -3221,13 +3283,15 @@ const COMPANIES = [
       },
       {
         "name": "Joe Rufino",
-        "role": "Senior Technical Recruiter",
+        "role": "Talent Acquisition Specialist",
         "linkedin": "https://www.linkedin.com/in/joerufino",
         "contact_status": "connected",
         "date": "2026-10-12",
         "history": [
           "2026-10-12 — wave-4 invite sent ~12:46 PM PT. ACCEPTED the same day (accept notification 3:53 PM PT) and messaged Rui: 'Happy to chat. Let me know a few days and times that work for you to connect this week.' Rui-approved reply sent 5:19 PM PT proposing Wed/Thu 1:00 PM PT for a 30-min call; supplemental message sent 5:41 PM PT expanding the options to five: Tue Oct 13 2:00 PM, Wed Oct 14 1:00 PM, Thu Oct 15 1:00 PM, Fri Oct 16 2:00 PM, Mon Oct 19 1:00 PM PT. Awaiting his pick; book on the calendar once he confirms.",
-          "2026-10-12 7:06 PM PT — Joe READ the five proposed times but did not pick one. 2026-10-13 1:39 PM PT — he sent his own booking link (https://bit.ly/JR_SnorkelAI_30m) instead. Booked through it the same afternoon: Thu Oct 15, 1:00–1:30 PM PT, '30m Initial Chat via Google Meet' (meet.google.com/bwm-masg-jnk); confirmation email from joe.rufino@snorkel.ai to the jobs Gmail; full-context calendar event created with the prepared call brief. His invite notes the call will be recorded and transcribed via Gemini."
+          "2026-10-12 7:06 PM PT — Joe READ the five proposed times but did not pick one. 2026-10-13 1:39 PM PT — he sent his own booking link (https://bit.ly/JR_SnorkelAI_30m) instead. Booked through it the same afternoon: Thu Oct 15, 1:00–1:30 PM PT, '30m Initial Chat via Google Meet' (meet.google.com/bwm-masg-jnk); confirmation email from joe.rufino@snorkel.ai to the jobs Gmail; full-context calendar event created with the prepared call brief. His invite notes the call will be recorded and transcribed via Gemini.",
+          "2026-10-15 — role confirmed: Talent Acquisition Specialist at Snorkel. The 1:00–1:30 PM PT intro call did not proceed as scheduled — Rui joined ~6 minutes late (13:06 PT); apology sent by email (13:07, jobs Gmail) and on LinkedIn (13:08, confirmed delivered), proposing rescheduling. Joe replied on LinkedIn 13:31 PT: 'No worries. Got the rescheduled time. That works for me. Talk to you then' — but named no specific time and sent no new link.",
+          "2026-10-15 14:20 PT — reschedule BOOKED at Rui's direction via Joe's own booking link (https://bit.ly/JR_SnorkelAI_30m): Wed Oct 21, 1:00–1:30 PM PT (4:00 PM ET on his page), new Google Meet meet.google.com/cxt-fwot-nkr; booking confirmation email in the jobs inbox. Fri Oct 16 had only a 10:30 AM PT slot left, which is why Wed Oct 21 was picked."
         ]
       },
       {
@@ -3273,6 +3337,14 @@ const COMPANIES = [
       {
         "date": "2026-10-13",
         "text": "Joe Rufino did not pick any of the five proposed times (read Oct 12, 7:06 PM PT); on Oct 13 (1:39 PM PT) he sent his own booking link. Intro call BOOKED through it: Thu Oct 15, 1:00–1:30 PM PT (Google Meet bwm-masg-jnk); confirmation email received and calendar event created with the call brief"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Intro call did NOT proceed as scheduled: Rui joined the 1:00–1:30 PM PT call ~6 minutes late (13:06 PT); apology sent by email (13:07) and LinkedIn (13:08, confirmed delivered). Joe Rufino replied on LinkedIn 13:31 PT ('No worries. Got the rescheduled time. That works for me.') but named no specific time — role confirmed as Talent Acquisition Specialist"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Intro call RESCHEDULED at Rui's direction via Joe Rufino's booking link: Wed Oct 21, 1:00–1:30 PM PT, new Google Meet meet.google.com/cxt-fwot-nkr; booking confirmation email received in the jobs inbox (14:20 PT)"
       }
     ],
     "intel": {
@@ -3285,9 +3357,16 @@ const COMPANIES = [
       {
         "date": "2026-10-15",
         "time": "1:00–1:30 PM PT",
-        "title": "Intro call (BOOKED via Joe's booking link)",
-        "people": "Joe Rufino (Senior Technical Recruiter)",
-        "notes": "Google Meet https://meet.google.com/bwm-masg-jnk — booked 2026-10-13 via https://bit.ly/JR_SnorkelAI_30m after Joe sent the link instead of picking one of the five proposed times; his invite notes the call is recorded/transcribed via Gemini."
+        "title": "Intro call — RESCHEDULED (Rui joined late; did not proceed)",
+        "people": "Joe Rufino (Talent Acquisition Specialist)",
+        "notes": "Google Meet https://meet.google.com/bwm-masg-jnk — booked 2026-10-13 via https://bit.ly/JR_SnorkelAI_30m after Joe sent the link instead of picking one of the five proposed times; his invite notes the call is recorded/transcribed via Gemini. Rui joined ~6 min late on Oct 15; apologies sent by email + LinkedIn; rescheduled to Wed Oct 21, 1:00–1:30 PM PT (see that entry)."
+      },
+      {
+        "date": "2026-10-21",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call (RESCHEDULED — booked via Joe's booking link)",
+        "people": "Joe Rufino (Talent Acquisition Specialist)",
+        "notes": "Google Meet https://meet.google.com/cxt-fwot-nkr — booked 2026-10-15 via https://bit.ly/JR_SnorkelAI_30m after the Oct 15 call did not proceed (Rui joined late; Joe accepted the reschedule on LinkedIn 13:31 PT). Confirmation email in jobs inbox."
       }
     ]
   },
@@ -3564,7 +3643,8 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-12",
         "history": [
-          "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply."
+          "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply.",
+          "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session."
         ]
       },
       {
@@ -3583,6 +3663,10 @@ const COMPANIES = [
       {
         "date": "2026-10-12",
         "text": "Wave 5: invites sent to Gilles Backhus (Co-Founder & VP of AI / Head of AI) and Marc Bolitho (CEO). Gilles Backhus ACCEPTED the same day — thank-you sent; awaiting any reply"
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Sweep 2026-10-15: Gilles Backhus first follow-up eligible (thank-you 10-12, no reply, 3 days) but NOT sent — LinkedIn browser task blocked at STEP 0 (plain login wall); queued for the next working session"
       }
     ],
     "intel": {
