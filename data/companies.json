@@ -166,7 +166,8 @@
      "2026-10-12 — precall verification: Ravi's full name is Ravi Buddharaju; the Google Meet link for the Tue Oct 13 intro call was verified present via Ashby (an earlier precall brief had wrongly reported it missing). Precall brief scheduled for Tue 10/13 12:45 PM PT.",
      "2026-10-13 — pre-call brief delivered 12:45 PM PT ahead of today's 1:00–1:30 PM PT intro call; the stale Fri Oct 9, 1:30–2:00 PM PT hold was found still on the calendar and DELETED (verified gone). The call's outcome is not yet recorded.",
      "2026-10-13 — intro call held (1:00–1:30 PM PT) and passed; Ravi sent the AMLE take-home assignment the same afternoon (email ~1:15 PM PT): build a local agentic RAG system over structured financial data (SQLite) plus six 10-K filings (Apple/Microsoft/Google FY24/25), local HTTP API, 10 development questions; est. 4–6 hours, due Tue 2026-10-20, submit as zip via Ashby (no public GitHub link). Deadline added to calendar.",
-     "2026-10-14 12:52 PM PT — Rui-approved follow-up email SENT in the take-home thread asking whether Rui can also be considered for the Core Research Scientist team (fit/scope grounds only; no colleague or pay figures mentioned; take-home continues). A first send glitch produced a blank reply, immediately followed by a corrected full email (verified landed). Awaiting Ravi's answer."
+     "2026-10-14 12:52 PM PT — Rui-approved follow-up email SENT in the take-home thread asking whether Rui can also be considered for the Core Research Scientist team (fit/scope grounds only; no colleague or pay figures mentioned; take-home continues). A first send glitch produced a blank reply, immediately followed by a corrected full email (verified landed). Awaiting Ravi's answer.",
+     "2026-10-17 — follow-up email SENT by the daily sweep (jobs Gmail, in the take-home thread; the thread's one allowed follow-up): confirmed the AMLE take-home is underway and on track for Tue Oct 20, and floated back up the 2026-10-14 question of also being considered for the Core Research Scientist team alongside AMLE. Awaiting Ravi's reply."
     ]
    },
    {
@@ -325,6 +326,10 @@
    {
     "date": "2026-10-14",
     "text": "Follow-up email SENT to Ravi Buddharaju (12:52 PM PT, Rui-approved): asked whether Rui can also be considered for the Core Research Scientist team while the AMLE take-home continues (fit/scope only, no pay figures). A blank first reply from a send glitch was immediately corrected with the full email. Ravi's answer decides whether Fireworks stays a priority"
+   },
+   {
+    "date": "2026-10-17",
+    "text": "Follow-up email sent to Ravi Buddharaju by the daily sweep: AMLE take-home on track for Tue Oct 20; re-surfaced the Oct 14 Core Research Scientist team question so it isn't buried once the take-home lands — awaiting his reply"
    }
   ],
   "intel": {
