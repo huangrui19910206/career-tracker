@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 18, 2026";
+const BUILD_DATE = "Oct 19, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -1523,7 +1523,8 @@ const COMPANIES = [
           "2026-10-13 — pre-call brief delivered 12:45 PM PT ahead of today's 1:00–1:30 PM PT intro call; the stale Fri Oct 9, 1:30–2:00 PM PT hold was found still on the calendar and DELETED (verified gone). The call's outcome is not yet recorded.",
           "2026-10-13 — intro call held (1:00–1:30 PM PT) and passed; Ravi sent the AMLE take-home assignment the same afternoon (email ~1:15 PM PT): build a local agentic RAG system over structured financial data (SQLite) plus six 10-K filings (Apple/Microsoft/Google FY24/25), local HTTP API, 10 development questions; est. 4–6 hours, due Tue 2026-10-20, submit as zip via Ashby (no public GitHub link). Deadline added to calendar.",
           "2026-10-14 12:52 PM PT — Rui-approved follow-up email SENT in the take-home thread asking whether Rui can also be considered for the Core Research Scientist team (fit/scope grounds only; no colleague or pay figures mentioned; take-home continues). A first send glitch produced a blank reply, immediately followed by a corrected full email (verified landed). Awaiting Ravi's answer.",
-          "2026-10-17 — follow-up email SENT by the daily sweep (jobs Gmail, in the take-home thread; the thread's one allowed follow-up): confirmed the AMLE take-home is underway and on track for Tue Oct 20, and floated back up the 2026-10-14 question of also being considered for the Core Research Scientist team alongside AMLE. Awaiting Ravi's reply."
+          "2026-10-17 — follow-up email SENT by the daily sweep (jobs Gmail, in the take-home thread; the thread's one allowed follow-up): confirmed the AMLE take-home is underway and on track for Tue Oct 20, and floated back up the 2026-10-14 question of also being considered for the Core Research Scientist team alongside AMLE. Awaiting Ravi's reply.",
+          "2026-10-17 1:14 PM PT — Ravi REPLIED by email (jobs Gmail, read in full by the 2026-10-18 email monitor): he has reached out to Fireworks' Research team about also considering Rui for the Core Research Scientist role and asked Rui to give him time until Monday for an answer; he also relaxed the AMLE take-home deadline — missing Tue Oct 20 is acceptable and the submission can slip by a few days. Rui replied himself the same evening (7:40 PM PT): thanked Ravi and confirmed Tuesday remains the target. No further action needed."
         ]
       },
       {
@@ -1690,6 +1691,14 @@ const COMPANIES = [
       {
         "date": "2026-10-17",
         "text": "AMLE take-home COMPLETED Oct 17: agentic RAG over the 10-K filings + SQLite financials (planner routing SQL/PDF tools, hybrid retrieval over 1,754 chunks, separate synthesis step). Self-test: 8/10 correct, 10/10 routing (superset scoring); the two misses were q_006 (enumeration retrieval breadth) and q_025 (multi-part question + evidence truncation / 5-step cap). Submission is still due Tue Oct 20 via Ashby zip; pre-submission fixes noted: the submission README's stated model/top-k defaults don't match the actual config"
+      },
+      {
+        "date": "2026-10-17",
+        "text": "Ravi Buddharaju REPLIED (email, Oct 17 1:14 PM PT): he has asked Fireworks' Research team whether Rui can also be considered for the Core Research Scientist role (answer expected Monday) and relaxed the AMLE take-home deadline — a slip of a few days past Tue Oct 20 is acceptable. Rui replied himself that evening (7:40 PM PT) thanking him and keeping Tuesday as the target"
+      },
+      {
+        "date": "2026-10-18",
+        "text": "AMLE take-home submission package READY: the submission zip was built Oct 18 with the submission README's stated defaults corrected to match the actual config (the mismatch flagged on Oct 17 is fixed) and no credential files inside; only the Ashby upload remains ahead of the Tue Oct 20 deadline (which Ravi has said can slip a few days if needed)"
       }
     ],
     "intel": {
@@ -2773,8 +2782,11 @@ const COMPANIES = [
         "name": "Akshat Bubna",
         "role": "Co-founder & CTO",
         "linkedin": "https://www.linkedin.com/in/akshat-bubna-188885103",
-        "contact_status": "invited",
-        "date": "2026-10-16"
+        "contact_status": "connected",
+        "date": "2026-10-18",
+        "history": [
+          "2026-10-18 1:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification + live verification in the afternoon monitor: Sent invitations dropped 144 -> 143 pending, Connections rose 7,923 -> 7,924, and Recently added shows him connected TODAY, Sun Oct 18). The expansion invite was sent 2026-10-16; Modal previously had 0 live lines. He is a founder/CTO contact, not a recruiter. His thread already contains one Rui message dated today 12:37 PM PT (the Modal sub-second GPU cold starts / Sandboxes note; seen by Akshat) — no reply from him yet, and the monitor sent NO thank-you (one would have been a second message in the same thread). A separate pending Modal company-PAGE invitation from him in Received was left untouched."
+        ]
       }
     ],
     "timeline": [
@@ -2797,6 +2809,10 @@ const COMPANIES = [
       {
         "date": "2026-10-16",
         "text": "Expansion invite sent to Akshat Bubna (Co-founder & CTO)"
+      },
+      {
+        "date": "2026-10-18",
+        "text": "Akshat Bubna (Co-founder & CTO) ACCEPTED the Oct 16 expansion invite (Sun Oct 18, 1:53 PM PT accept email; live-verified: pending invitations 144 -> 143, Connections 7,924). Modal's first live line. His thread already holds Rui's cold-starts / Sandboxes note (seen by Akshat); no reply from him yet and no thank-you was sent — it would have duplicated the thread"
       }
     ],
     "intel": {
