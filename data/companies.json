@@ -195,7 +195,10 @@
      "2026-10-13 — intro call held (1:00–1:30 PM PT) and passed; Ravi sent the AMLE take-home assignment the same afternoon (email ~1:15 PM PT): build a local agentic RAG system over structured financial data (SQLite) plus six 10-K filings (Apple/Microsoft/Google FY24/25), local HTTP API, 10 development questions; est. 4–6 hours, due Tue 2026-10-20, submit as zip via Ashby (no public GitHub link). Deadline added to calendar.",
      "2026-10-14 12:52 PM PT — Rui-approved follow-up email SENT in the take-home thread asking whether Rui can also be considered for the Core Research Scientist team (fit/scope grounds only; no colleague or pay figures mentioned; take-home continues). A first send glitch produced a blank reply, immediately followed by a corrected full email (verified landed). Awaiting Ravi's answer.",
      "2026-10-17 — follow-up email SENT by the daily sweep (jobs Gmail, in the take-home thread; the thread's one allowed follow-up): confirmed the AMLE take-home is underway and on track for Tue Oct 20, and floated back up the 2026-10-14 question of also being considered for the Core Research Scientist team alongside AMLE. Awaiting Ravi's reply.",
-     "2026-10-17 1:14 PM PT — Ravi REPLIED by email (jobs Gmail, read in full by the 2026-10-18 email monitor): he has reached out to Fireworks' Research team about also considering Rui for the Core Research Scientist role and asked Rui to give him time until Monday for an answer; he also relaxed the AMLE take-home deadline — missing Tue Oct 20 is acceptable and the submission can slip by a few days. Rui replied himself the same evening (7:40 PM PT): thanked Ravi and confirmed Tuesday remains the target. No further action needed."
+     "2026-10-17 1:14 PM PT — Ravi REPLIED by email (jobs Gmail, read in full by the 2026-10-18 email monitor): he has reached out to Fireworks' Research team about also considering Rui for the Core Research Scientist role and asked Rui to give him time until Monday for an answer; he also relaxed the AMLE take-home deadline — missing Tue Oct 20 is acceptable and the submission can slip by a few days. Rui replied himself the same evening (7:40 PM PT): thanked Ravi and confirmed Tuesday remains the target. No further action needed.",
+     "2026-10-19 09:03 AM PT — Ravi REPLIED by email (jobs Gmail, read in full by the 2026-10-19 email monitor): the Research team decided not to move forward on the parallel Core Research Scientist consideration (that line is CLOSED); the AMLE process continues and the take-home deadline stays flexible past Tue Oct 20. No reply was sent by the monitor (substantive) — a draft thank-you was flagged for Rui's approval.",
+     "2026-10-19 09:44 AM PT — the AMLE take-home was SUBMITTED via Ravi's Ashby link (at Rui's direction; the page showed 'Success — Your assignment was submitted!'; no confirmation number). The submission package was built Oct 18 (README defaults corrected to match the actual config; no credential files inside). Next step is Ravi arranging the walk-the-code round.",
+     "2026-10-19 — Rui-approved reply SENT in the take-home email thread (jobs Gmail): thanked Ravi for checking with the Research team and for the flexible AMLE timeline, confirmed the take-home is submitted via Ashby today, and offered to walk through the code whenever the team is ready. (Two send records for this reply exist in the daily log — no further messages on this; only await Ravi's walk-the-code invite.)"
     ]
    },
    {
@@ -370,6 +373,14 @@
    {
     "date": "2026-10-18",
     "text": "AMLE take-home submission package READY: the submission zip was built Oct 18 with the submission README's stated defaults corrected to match the actual config (the mismatch flagged on Oct 17 is fixed) and no credential files inside; only the Ashby upload remains ahead of the Tue Oct 20 deadline (which Ravi has said can slip a few days if needed)"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Ravi Buddharaju emailed Mon Oct 19, 09:03 AM PT (jobs Gmail): the Research team decided NOT to move forward on the parallel Core Research Scientist consideration — that line is CLOSED. The AMLE process continues with a flexible take-home deadline"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "AMLE take-home SUBMITTED Mon Oct 19, 09:44 AM PT via Ashby (Rui's direction; page showed 'Success — Your assignment was submitted!'; no confirmation number). A Rui-approved thank-you reply was sent in the take-home thread confirming the submission and offering a code walk-through — next step is Ravi scheduling the walk-the-code round"
    }
   ],
   "intel": {
@@ -612,7 +623,8 @@
      "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply. (Baseten is a Rui-named priority company; the Tarun Diwan line is cold, so this is a fresh live line.)",
      "2026-10-12 4:29 PM PT — correction (verified 2026-10-13): Ali DID message on acceptance — a one-line pleasantry, 'Likewise Rui' — which needs no reply; the 2026-10-13 morning report that he had not replied was based on the digest email only and was corrected to Rui.",
      "2026-10-13 8:50 AM PT — substantive message SENT at Rui's direction: background intro (Senior Staff MLE, Coupang Search Ranking), asked whether Baseten has suitable Senior/Staff ML opportunities, and asked Ali to refer him to the hiring team. Ali READ it at 10:42 AM PT; awaiting his reply.",
-     "2026-10-16 — follow-up SENT in Rui's ad-hoc push (none had gone out since Rui's Oct 13 substantive message). Ali SEEN it at 09:54 AM PT; no reply as of end of day Oct 16 (no new digest in the afternoon monitor). Awaiting his reply."
+     "2026-10-16 — follow-up SENT in Rui's ad-hoc push (none had gone out since Rui's Oct 13 substantive message). Ali SEEN it at 09:54 AM PT; no reply as of end of day Oct 16 (no new digest in the afternoon monitor). Awaiting his reply.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up (seen by Ali Oct 16 9:54 AM) is still unanswered after 3 days; verified live in the Oct 19 sweep (no reply in Focused/Unread/Other). No more nudges on this thread; Baseten needs a fresh line."
     ]
    },
    {
@@ -1018,7 +1030,9 @@
     "date": "2026-10-13",
     "history": [
      "2026-10-13 — introduced by Harry Kang (email, Rui's CV attached). 2026-10-14 12:48 AM PT — Louis emailed asking for a quick call about ClickHouse's Senior ML Engineer roles. 2026-10-14 8:38 AM PT — Rui-approved reply-all SENT proposing Wed Oct 14 / Fri Oct 16 / Mon Oct 19 at 1:00 PM PT (offered earlier for his UK timezone); verified in Sent. As of late morning Oct 14 he had not replied — the Oct 14 slot passed with no call; nothing booked yet.",
-     "2026-10-16 — follow-up reply-all SENT (jobs Gmail, Rui's ad-hoc push): offered Fri Oct 16 or Mon Oct 19 at 1:00 PM PT, or asked him to propose a time. No reply as of end of day Oct 16."
+     "2026-10-16 — follow-up reply-all SENT (jobs Gmail, Rui's ad-hoc push): offered Fri Oct 16 or Mon Oct 19 at 1:00 PM PT, or asked him to propose a time. No reply as of end of day Oct 16.",
+     "2026-10-19 04:34 AM PT — Louis REPLIED (jobs Gmail, read in full by the 2026-10-19 email monitor): he will add Rui to the role, can't do a 1:00 PM PT slot due to personal commitments, and said he would share his calendar/availability — but no link was in the message.",
+     "2026-10-19 ~08:28 AM PT — reply SENT from the jobs Gmail in the same thread: thanked him, noted no calendar link had arrived and asked him to resend it, and offered 10:00–11:00 AM PT mornings as an alternative. Awaiting his resend; pick a slot on the calendar once the link arrives."
     ]
    },
    {
@@ -1028,7 +1042,8 @@
     "contact_status": "connected",
     "date": "2026-10-16",
     "history": [
-     "2026-10-16 — expansion-batch invite sent in the morning and ACCEPTED the same day. The invite note became the first message in the thread (09:35), so no duplicate thank-you was sent. ClickHouse now has two live lines: Louis Cross + Kaushik Iska."
+     "2026-10-16 — expansion-batch invite sent in the morning and ACCEPTED the same day. The invite note became the first message in the thread (09:35), so no duplicate thank-you was sent. ClickHouse now has two live lines: Louis Cross + Kaushik Iska.",
+     "2026-10-19 11:56 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; thread verified live first: last sender Rui Oct 16 9:35 AM invite note, no reply): floated the Oct 16 note back up, restated interest in a senior/staff ML or search role at ClickHouse, asked for a brief chat or a pointer to the right hiring team. Awaiting his reply."
     ]
    }
   ],
@@ -1084,6 +1099,10 @@
    {
     "date": "2026-10-16",
     "text": "Expansion invite to Kaushik Iska (Director of Engineering) sent and ACCEPTED the same day — ClickHouse now has two live lines (Louis Cross awaiting a time pick; Kaushik Iska fresh connection)"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Louis Cross replied Mon Oct 19, 04:34 AM PT (jobs Gmail): he will add Rui to the role, can't do 1:00 PM PT, and promised to share his calendar — but no link was included. Reply sent ~08:28 AM PT asking him to resend the link, offering 10:00–11:00 AM PT mornings — awaiting his resend"
    }
   ],
   "intel": {
@@ -1136,8 +1155,11 @@
     "name": "Ryan Hodge",
     "role": "Manager, Solutions Architecture / GTM (employee referral line)",
     "linkedin": null,
-    "contact_status": "invited",
-    "date": "2026-10-16"
+    "contact_status": "connected",
+    "date": "2026-10-19",
+    "history": [
+     "2026-10-19 — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification Mon Oct 19, 3:53 PM PT; live-verified twice in the afternoon monitor: Sent invitations 143 -> 141 pending, Connections 7,924 -> 7,926, and he appears in Recently Added connected TODAY). The expansion invite was sent 2026-10-16; he is an employee/referral line (Manager, Solutions Architecture / GTM), not a recruiter. His thread already contains Rui's message dated today 3:27 PM PT (the Vercel roles / AI Gateway / AI SDK note) — Rui is the last sender, so NO thank-you was sent (it would have been a second message in the same thread)."
+    ]
    }
   ],
   "timeline": [
@@ -1164,6 +1186,10 @@
    {
     "date": "2026-10-16",
     "text": "Expansion invite sent to Ryan Hodge (Manager, Solutions Architecture/GTM — not a recruiter, but posts Vercel hiring roundups and invites referral DMs; used as an employee/referral line)"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Ryan Hodge (Manager, Solutions Architecture / GTM — employee/referral line) ACCEPTED the Oct 16 expansion invite (Mon Oct 19, 3:53 PM PT accept email; live-verified: pending invitations 143 -> 141, Connections 7,926). His thread already holds Rui's roles / AI Gateway / AI SDK note (Rui last sender); no thank-you sent"
    }
   ],
   "intel": {
@@ -1502,7 +1528,8 @@
      "2026-10-13 — Calvin replied asking Rui to send his résumé for further evaluation. Résumé + a short background introduction SENT 8:40 AM PT at Rui's direction (via LinkedIn). Awaiting next steps.",
      "2026-10-16 — follow-up sweep: a follow-up on the résumé exchange is eligible (résumé + intro sent 2026-10-13 at his request; the earlier 2026-10-12 nudge was answered by that résumé request; no reply since the résumé, 3 days — the 2026-10-16 ~09:20 LinkedIn read check showed no new message from him) but NOT sent — the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall). Queued for the next working LinkedIn session.",
      "2026-10-16 ~10:39 AM PT — the follow-up queued by the morning sweep was SENT by the main chat (LinkedIn). Calvin REPLIED the same day (digest 13:05 PT, 3 messages; content read in main chat): Fluidstack circulated the résumé internally and has NO suitable role — the Fluidstack line is closed. He offered to refer Rui to TikTok's Search / Search Rec team (his former team) and asked whether Rui had interviewed at TikTok. A draft accepting the referral was prepared, but Rui decided 17:40 PT to PASS on TikTok — the referral was not accepted; Calvin is kept as a Fluidstack contact.",
-     "2026-10-17 10:10 AM PT — the morning LinkedIn monitor SENT a reply to Calvin ACCEPTING his offered introduction to TikTok's Search / Search Recommendation team. ⚠️ This conflicts with Rui's 2026-10-16 decision to close TikTok entirely (he had declined this same referral) — the acceptance should not have been sent and cannot be unsent. It was reported to Rui the same morning (10:17 PT) with two options (send a retraction, or let it ride and decide if Calvin follows through); awaiting Rui's decision at end of day Oct 17. No further message in the thread as of the afternoon monitor, and Calvin had not followed up."
+     "2026-10-17 10:10 AM PT — the morning LinkedIn monitor SENT a reply to Calvin ACCEPTING his offered introduction to TikTok's Search / Search Recommendation team. ⚠️ This conflicts with Rui's 2026-10-16 decision to close TikTok entirely (he had declined this same referral) — the acceptance should not have been sent and cannot be unsent. It was reported to Rui the same morning (10:17 PT) with two options (send a retraction, or let it ride and decide if Calvin follows through); awaiting Rui's decision at end of day Oct 17. No further message in the thread as of the afternoon monitor, and Calvin had not followed up.",
+     "2026-10-19 1:49 PM PT — Calvin MESSAGED (LinkedIn, verified in Focused and the opened thread by the afternoon monitor): 'Could you share your resume with me to forward to their team?' — 'their team' = TikTok's Search / Search Recommendation team, per his Oct 16 offer of that intro. READ ONLY per the hard constraint added mid-run: NO reply sent and NO resume forwarded. TikTok is closed by Rui; whether to retract the Oct 17 mistaken patrol acceptance remains Rui's pending decision — Calvin is now actively following through on it."
     ]
    },
    {
@@ -1549,6 +1576,10 @@
    {
     "date": "2026-10-17",
     "text": "⚠️ Monitor error: the Oct 17 morning LinkedIn monitor replied to Calvin C. ACCEPTING his TikTok Search intro offer — directly against Rui's Oct 16 decision to close TikTok entirely (he had declined this referral). The acceptance cannot be unsent; it was flagged to Rui the same morning to decide whether to retract if Calvin follows through. The Fluidstack line itself remains closed (no suitable role)"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Calvin C. messaged Mon Oct 19, 1:49 PM PT (LinkedIn) asking for Rui's resume to forward to TikTok's Search team — read only, NO reply and NO resume sent (TikTok closed; Rui's retraction decision on the Oct 17 mistaken acceptance still pending; Calvin is actively following through)"
    }
   ],
   "intel": {
@@ -1722,7 +1753,8 @@
      "2026-10-13 (later, main chat) — Rui approved the batch and a follow-up send was ATTEMPTED, but LinkedIn twice reported 'message failed to send' / API degraded; two later checks disagreed on whether it landed (one saw it in-thread, one saw the newest message still the Oct 5 confirmation). Delivery UNVERIFIED — do not assume sent, do not resend blindly.",
      "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
      "2026-10-15 — follow-up sweep verification attempt BLOCKED again at STEP 0: linkedin.com/messaging redirected to the plain LinkedIn login page (no active session); no sign-in attempted, thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
-     "2026-10-16 — follow-up SENT in Rui's ad-hoc push after verification in a working LinkedIn session: it is the first follow-up since the Oct 9 intro call (resolving the Oct 13–15 unverified/blocked saga — no earlier follow-up had landed). Awaiting his reply."
+     "2026-10-16 — follow-up SENT in Rui's ad-hoc push after verification in a working LinkedIn session: it is the first follow-up since the Oct 9 intro call (resolving the Oct 13–15 unverified/blocked saga — no earlier follow-up had landed). Awaiting his reply.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:15 AM, no reply in Focused/Unread/Other). No more nudges; Harvey needs a fresh recruiter line (Claire Kaiser invite still pending)."
     ]
    },
    {
@@ -3188,7 +3220,8 @@
      "2026-10-12 — the 'thank-you pending' backlog was verified STALE: Rui sent his intro himself on 2026-10-09. No duplicate sent; awaiting her reply.",
      "2026-10-13 — follow-up sweep: first follow-up eligible (Rui's 2026-10-09 intro, no reply) but NOT sent — LinkedIn detached session blocked; the same follow-up is also in Rui's approved main-chat batch awaiting his answer to a re-confirmation question. Unsent on both paths.",
      "2026-10-13 — Rui approved the follow-up batch (9:13 AM PT) and the follow-up to Marija was SENT and confirmed delivered the same day (corrects the Oct 13 sweep note that it was unsent — the detached-session sweep could not see the main-chat send). Awaiting her reply.",
-     "2026-10-16 — follow-up SENT in Rui's ad-hoc push, topping up Rui's Oct 9 intro. Awaiting her reply."
+     "2026-10-16 — follow-up SENT in Rui's ad-hoc push, topping up Rui's Oct 9 intro. Awaiting her reply.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:21 AM, no reply in Focused/Unread/Other). No more nudges; Sourcegraph needs a fresh contact (Beyang Liu invite still pending)."
     ]
    },
    {
@@ -3695,7 +3728,8 @@
     "history": [
      "2026-10-12 — wave-5 invite sent and ACCEPTED the same day; thank-you sent the same day. Awaiting any reply.",
      "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session.",
-     "2026-10-16 — the follow-up queued on 2026-10-15 was SENT in Rui's ad-hoc push (topping up the Oct 12 thank-you). Awaiting his reply; this was the thread's one allowed follow-up."
+     "2026-10-16 — the follow-up queued on 2026-10-15 was SENT in Rui's ad-hoc push (topping up the Oct 12 thank-you). Awaiting his reply; this was the thread's one allowed follow-up.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:15 AM; no Gilles message in the thread at all). No more nudges; Tensordyne needs a fresh contact."
     ]
    },
    {
@@ -3951,7 +3985,8 @@
     "contact_status": "connected",
     "date": "2026-10-12",
     "history": [
-     "2026-10-15 19:53 PT — ACCEPTED the wave-5 invite. Thank-you + interest note SENT 2026-10-16. Awaiting any reply."
+     "2026-10-15 19:53 PT — ACCEPTED the wave-5 invite. Thank-you + interest note SENT 2026-10-16. Awaiting any reply.",
+     "2026-10-19 12:00 PM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; thread verified live first: last sender Rui Oct 16 9:16 AM thank-you note, no reply): floated the Oct 16 note back up, restated the data/retrieval-framework fit, asked about senior/staff ML openings on the platform side and for a brief chat or a pointer to the right hiring team. Awaiting his reply."
     ]
    }
   ],
@@ -3992,8 +4027,11 @@
     "name": "Jesus Serratos",
     "role": "ML Recruiting Leader (ex-Reddit)",
     "linkedin": "https://www.linkedin.com/in/jesussoria/",
-    "contact_status": "invited",
-    "date": "2026-10-08"
+    "contact_status": "connected",
+    "date": "2026-10-19",
+    "history": [
+     "2026-10-19 — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification Mon Oct 19, 11:53 AM PT; live-verified twice in the afternoon monitor: Sent invitations 143 -> 141 pending, Connections 7,924 -> 7,926, and he appears in Recently Added connected TODAY). The invite was sent 2026-10-08; he is an ML Recruiting Leader (built ML teams at Reddit & Postmates). His thread already contains Rui's message dated today 11:30 AM PT (the fal generative-media inference note) — Rui is the last sender, so NO thank-you was sent (it would have been a second message in the same thread)."
+    ]
    },
    {
     "name": "Batuhan Taskaya",
@@ -4029,6 +4067,10 @@
    {
     "date": "2026-10-12",
     "text": "Wave 5: invites sent to Batuhan Taskaya (Head of Engineering), Gorkem Yurtseven (Co-founder & CTO), and Burkay Gur (Co-founder & CEO)"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Jesus Serratos (ML Recruiting Leader) ACCEPTED the invite (Mon Oct 19, 11:53 AM PT accept email; live-verified: pending invitations 143 -> 141, Connections 7,926). His thread already holds Rui's generative-media inference note (Rui last sender); no thank-you sent"
    }
   ],
   "intel": {
@@ -4221,7 +4263,8 @@
      "2026-10-12 1:53 PM PT — genuine follow-up InMail (full body read and verified 2026-10-13: follows up her original message, pitches ThredUp's AI search / Time Best Inventions 2024, asks for a quick chat). This corrects the 2026-10-12 afternoon note that called it a mere re-notification.",
      "2026-10-13 9:57 AM PT — Rui REPLIED (after diligence): expressed interest in the ML Architect, Personalization role, proposed a weekday afternoon 1:00–2:00 PM PT chat, and asked about the role's level and comp range (no number quoted first). Rui declined LinkedIn's prompt to share his contact information with her.",
      "2026-10-16 — follow-up sweep: a first follow-up is eligible (Rui replied 2026-10-13 expressing interest in the ML Architect, Personalization role, proposing a weekday 1:00–2:00 PM PT chat and asking level/comp; no reply in 3 days, no follow-up ever sent) but NOT sent — the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall). Queued for the next working LinkedIn session.",
-     "2026-10-16 10:41 AM PT — the first follow-up queued by the morning sweep was SENT by the main chat (LinkedIn), circling back on Rui's Oct 13 reply (interest in ML Architect, Personalization; 1:00–2:00 PM PT chat proposed). Awaiting her reply."
+     "2026-10-16 10:41 AM PT — the first follow-up queued by the morning sweep was SENT by the main chat (LinkedIn), circling back on Rui's Oct 13 reply (interest in ML Architect, Personalization; 1:00–2:00 PM PT chat proposed). Awaiting her reply.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 10:41 AM, no reply in Focused/Unread/Other). No more nudges on this thread."
     ]
    }
   ],
@@ -4460,7 +4503,8 @@
     "date": "2026-10-14",
     "history": [
      "2026-10-14 6:18 AM PT — inbound email via Jobright about Qualified Health's Staff Applied AI Engineer role (agentic workflows for health systems; no location/comp in the email; asked Rui to send his profile via a Jobright link to hiring manager Kristianna). Read in full, flagged to Rui, not replied.",
-     "2026-10-14 — diligenced under Rui's inbound-diligence rule (person, pitch, company); Rui decided 'pass' the same day — no reply, no follow-up; thread closed."
+     "2026-10-14 — diligenced under Rui's inbound-diligence rule (person, pitch, company); Rui decided 'pass' the same day — no reply, no follow-up; thread closed.",
+     "2026-10-19 6:26 AM PT — Eric Cheng (Jobright) sent a FOLLOW-UP pitch by email for Staff Applied AI Engineer at Qualified Health. Backcheck (2026-10-19 email monitor): Qualified Health is real ($125M Series B per MobiHealthNews; the email subject '$155M' is inconsistent with the body), but the sender is Jobright platform mass-outreach, Staff is below Rui's Senior Staff level, and healthcare is a narrow vertical. Recommendation: skip. No reply sent per the inbound-backcheck rule (Rui already passed on this inbound 2026-10-14)."
     ]
    }
   ],
@@ -4468,6 +4512,10 @@
    {
     "date": "2026-10-14",
     "text": "Cold inbound via Jobright (Eric Cheng, 6:18 AM PT): Staff Applied AI Engineer at Qualified Health. Diligenced the same day (company and role real; outreach is Jobright platform bulk, not Qualified Health's own recruiting team; healthcare vertical, below Rui's sweet spot). Rui decided PASS — no reply, thread closed"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Follow-up pitch Mon Oct 19, 6:26 AM PT via Jobright (Eric Cheng) for Staff Applied AI Engineer — re-diligenced, recommendation skip (platform mass-outreach, level below Rui's, narrow vertical). No reply; thread stays closed per Rui's Oct 14 pass"
    }
   ],
   "intel": {
@@ -4500,7 +4548,8 @@
      "2026-10-15 4:54 PM PT — after diligence and at Rui's direction ('回一封探口风的'), a probe reply was SENT on LinkedIn asking three questions: (1) is there a Senior Staff-level opening, (2) is the role Bay Area / remote or NYC-only, (3) what is the cash comp range. Awaiting his reply.",
      "2026-10-15 17:20 PT — Stephen REPLIED to the probe, answering all three questions positively: Sequen hires Staff+ only; the role is fully remote (team mostly NYC, highly distributed; Bay Area fine); comp is 'very competitive (cash + equity)'. He shared the careers page and an Axios funding story, proposed a short Google Meet, and asked for Rui's email.",
      "2026-10-16 — Rui's side replied with the jobs email and Fri Oct 16 / Mon / Tue 1:00 PM PT options and accepted Stephen's LinkedIn connection invitation. Stephen confirmed 09:33 PT for today 1:00 PM; the actual invite was 1:00–1:20 PM PT and the Google Meet link arrived before the call. Intro call HELD 1:00–1:20 PM PT; during the call Stephen sent the Axios story and careers links.",
-     "2026-10-16 13:11 PT — at Rui's direction, résumé SENT from the jobs Gmail (Resume.pdf; Coupang Search & Discovery / Meta / Pinterest summary), followed in the same thread by five next-step call slots (all 1:00–2:00 PM PT, calendar-checked): Thu Oct 22, Fri Oct 23, Mon Oct 26, Tue Oct 27, Thu Oct 29, with 10:00–11:00 AM as backup. Awaiting his pick — and which specific Staff+ req he is matching Rui to."
+     "2026-10-16 13:11 PT — at Rui's direction, résumé SENT from the jobs Gmail (Resume.pdf; Coupang Search & Discovery / Meta / Pinterest summary), followed in the same thread by five next-step call slots (all 1:00–2:00 PM PT, calendar-checked): Thu Oct 22, Fri Oct 23, Mon Oct 26, Tue Oct 27, Thu Oct 29, with 10:00–11:00 AM as backup. Awaiting his pick — and which specific Staff+ req he is matching Rui to.",
+     "2026-10-19 ~11:07 AM PT — follow-up email SENT by the daily sweep (jobs Gmail, the thread's one allowed follow-up): floated up the Oct 16 résumé send, asked for next steps on the Staff+ role, and re-offered the five slots (Oct 22 / 23 / 26 / 27 / 29, 1:00–2:00 PM PT; 10:00–11:00 AM backup). Pre-send check: no reply from Stephen since Oct 16. Awaiting his reply."
     ]
    }
   ],
@@ -4520,6 +4569,10 @@
    {
     "date": "2026-10-16",
     "text": "Résumé sent to Stephen Armanios (13:11 PT, jobs Gmail, at Rui's direction) with five proposed next-step slots (Oct 22 / 23 / 26 / 27 / 29 at 1:00–2:00 PM PT; 10:00–11:00 AM backup) — awaiting his pick and the specific Staff+ req"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Follow-up email sent to Stephen Armanios by the daily sweep (jobs Gmail, the thread's one allowed follow-up): floated up the Oct 16 résumé send, asked for next steps on the Staff+ role, and re-offered the five slots — awaiting his reply"
    }
   ],
   "intel": {
@@ -4559,7 +4612,8 @@
     "history": [
      "2026-10-12 — ACCEPTED the LinkedIn invite; thank-you sent the same day. Awaiting any reply.",
      "2026-10-15 — first follow-up became eligible (thank-you 2026-10-12, no reply, 3 days) but NOT sent: the sweep's LinkedIn browser task was blocked at STEP 0 (plain login wall, no active session). Queued for the next working LinkedIn session. Note: she is Head of People at Quadric per her people page; this companies.json entry files her under SambaNova from the wave-3 invite list — verify company from her profile/thread in the next working session before sending.",
-     "2026-10-16 — follow-up SENT (via the full message page) in Rui's ad-hoc push, with her company verified as Quadric beforehand. Awaiting her reply; this was the thread's one allowed follow-up."
+     "2026-10-16 — follow-up SENT (via the full message page) in Rui's ad-hoc push, with her company verified as Quadric beforehand. Awaiting her reply; this was the thread's one allowed follow-up.",
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:18 AM, no reply in Focused/Unread/Other). No more nudges; Quadric needs a fresh contact (Ravi Chakaravarthy invite still pending)."
     ]
    },
    {
@@ -4694,12 +4748,15 @@
    },
    {
     "name": "Janelle Saavedra",
-    "role": "Recruiter (existing connection)",
+    "role": "Senior Sourcing Recruiter, Siri AI / AIML",
     "linkedin": null,
     "contact_status": "connected",
     "date": null,
     "history": [
-     "2026-10-16 — message SENT naming Siri / Information Intelligence / Search interest (existing connection; no invite needed)."
+     "2026-10-16 — message SENT naming Siri / Information Intelligence / Search interest (existing connection; no invite needed).",
+     "2026-10-19 11:58 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; thread verified live first: last sender Rui Oct 16 2:45 PM, no reply): floated the Oct 16 note back up, restated interest in Apple's ML org (Siri / Information Intelligence / Search), asked for a brief chat about senior/staff openings or a pointer to the right hiring team. Awaiting her reply.",
+     "2026-10-19 1:09 PM PT — Janelle REPLIED (LinkedIn, to the morning sweep's follow-up; verified in Focused and the opened thread by the afternoon monitor). She asked for: an updated resume; a brief description of Rui's current team/projects/contributions; areas of expertise; GenAI tooling experience and how he uses it; current location; openness to Cupertino and/or Seattle; prior Apple interviews (when/which teams); whether he is currently interviewing with other Apple teams; whether he is actively interviewing with other companies; US work authorization; and future visa sponsorship need.",
+     "2026-10-19 5:26 PM PT — reply SENT in the afternoon monitor (exactly one message, with Resume.pdf attached): thanks, fit summary (Senior Staff MLE, tech lead for Search Ranking at Coupang 2023–present — query rewriting, retrieval, multi-stage ranking incl. LLM-powered product discovery; previously Meta Staff MLE on Feed Recommendation and Pinterest Senior MLE / Tech Lead on Search & Discovery; GenAI work centered on LLM-powered discovery), based in Cupertino and open to hybrid/onsite Bay Area opportunities, offered to chat about roles that could fit. NOT answered (flagged for Rui): work authorization + sponsorship, prior/other Apple interviews, actively interviewing elsewhere, and Seattle openness."
     ]
    }
   ],
@@ -4711,6 +4768,10 @@
    {
     "date": "2026-10-17",
     "text": "Status check Oct 17 (morning): the Oct 16 AIML invites (Hieu Do, Long Phung, Vivian Nguyen) were all still pending, unaccepted, and Janelle Saavedra had not replied — nobody to follow up with yet"
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Janelle Saavedra (Senior Sourcing Recruiter, Siri AI / AIML) REPLIED Mon Oct 19, 1:09 PM PT (LinkedIn): asked for Rui's resume, current-team summary, GenAI experience, location / Cupertino-Seattle openness, prior Apple interviews, other Apple teams, other interviews, and work auth/sponsorship. Resume + fit summary SENT 5:26 PM PT (Resume.pdf attached; Cupertino/Bay Area stated) — work auth/sponsorship, prior/other Apple interviews and Seattle were NOT answered and are flagged for Rui"
    }
   ],
   "intel": {
