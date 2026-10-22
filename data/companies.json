@@ -524,7 +524,8 @@
     "contact_status": "connected",
     "date": "2026-10-18",
     "history": [
-     "2026-10-18 1:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification + live verification in the afternoon monitor: Sent invitations dropped 144 -> 143 pending, Connections rose 7,923 -> 7,924, and Recently added shows him connected TODAY, Sun Oct 18). The expansion invite was sent 2026-10-16; Modal previously had 0 live lines. He is a founder/CTO contact, not a recruiter. His thread already contains one Rui message dated today 12:37 PM PT (the Modal sub-second GPU cold starts / Sandboxes note; seen by Akshat) — no reply from him yet, and the monitor sent NO thank-you (one would have been a second message in the same thread). A separate pending Modal company-PAGE invitation from him in Received was left untouched."
+     "2026-10-18 1:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification + live verification in the afternoon monitor: Sent invitations dropped 144 -> 143 pending, Connections rose 7,923 -> 7,924, and Recently added shows him connected TODAY, Sun Oct 18). The expansion invite was sent 2026-10-16; Modal previously had 0 live lines. He is a founder/CTO contact, not a recruiter. His thread already contains one Rui message dated today 12:37 PM PT (the Modal sub-second GPU cold starts / Sandboxes note; seen by Akshat) — no reply from him yet, and the monitor sent NO thank-you (one would have been a second message in the same thread). A separate pending Modal company-PAGE invitation from him in Received was left untouched.",
+     "2026-10-21 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Co-Founder & CTO, Modal, Aug 2021–present (5 yrs 3 mos). Thread verified live first: only Rui's Oct 18 12:37 PM cold-starts/Sandboxes note, seen by Akshat, no reply; Focused/Unread/Other checked. Gist: floated the Oct 18 note back up, Senior Staff MLE Search Ranking & Discovery at Coupang, asked for a brief chat about a senior/staff ML or platform role or a pointer to the right person."
     ]
    }
   ],
@@ -552,6 +553,10 @@
    {
     "date": "2026-10-18",
     "text": "Akshat Bubna (Co-founder & CTO) ACCEPTED the Oct 16 expansion invite (Sun Oct 18, 1:53 PM PT accept email; live-verified: pending invitations 144 -> 143, Connections 7,924). Modal's first live line. His thread already holds Rui's cold-starts / Sandboxes note (seen by Akshat); no reply from him yet and no thank-you was sent — it would have duplicated the thread"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Follow-up sent to Akshat Bubna (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first — Co-Founder & CTO since Aug 2021; Oct 18 note seen, no reply). Awaiting his reply."
    }
   ],
   "intel": {
@@ -1037,7 +1042,9 @@
      "2026-10-13 — introduced by Harry Kang (email, Rui's CV attached). 2026-10-14 12:48 AM PT — Louis emailed asking for a quick call about ClickHouse's Senior ML Engineer roles. 2026-10-14 8:38 AM PT — Rui-approved reply-all SENT proposing Wed Oct 14 / Fri Oct 16 / Mon Oct 19 at 1:00 PM PT (offered earlier for his UK timezone); verified in Sent. As of late morning Oct 14 he had not replied — the Oct 14 slot passed with no call; nothing booked yet.",
      "2026-10-16 — follow-up reply-all SENT (jobs Gmail, Rui's ad-hoc push): offered Fri Oct 16 or Mon Oct 19 at 1:00 PM PT, or asked him to propose a time. No reply as of end of day Oct 16.",
      "2026-10-19 04:34 AM PT — Louis REPLIED (jobs Gmail, read in full by the 2026-10-19 email monitor): he will add Rui to the role, can't do a 1:00 PM PT slot due to personal commitments, and said he would share his calendar/availability — but no link was in the message.",
-     "2026-10-19 ~08:28 AM PT — reply SENT from the jobs Gmail in the same thread: thanked him, noted no calendar link had arrived and asked him to resend it, and offered 10:00–11:00 AM PT mornings as an alternative. Awaiting his resend; pick a slot on the calendar once the link arrives."
+     "2026-10-19 ~08:28 AM PT — reply SENT from the jobs Gmail in the same thread: thanked him, noted no calendar link had arrived and asked him to resend it, and offered 10:00–11:00 AM PT mornings as an alternative. Awaiting his resend; pick a slot on the calendar once the link arrives.",
+     "2026-10-21 03:33 AM PT — Louis EMAILED (jobs Gmail, read in full by the 2026-10-21 email monitor): apologized for missing Rui's previous reply and sent his Ashby scheduling link for a 1-hour video conversation, asking for availability on Fri Oct 23 or in the week commencing Nov 1 (he is in Berlin the following week with limited predictability).",
+     "2026-10-21 — availability SUBMITTED via Louis's Ashby link (corrected record): primary Mon Nov 2, 2026, 10:00–11:00 AM PT; backup Wed Nov 4, 2026, 10:00–11:00 AM PT (Ashby required at least 2 days; Thu Nov 5 and Fri Nov 6 showed not available on his calendar). Ashby status: 'Waiting for Louis Cross to confirm' — this is an availability/interview request, NOT a confirmed booking, and no confirmation or invitation email had arrived as of ~10:15 AM PT. Fri Oct 23 was skipped (Anthropic double-header that day). A primary-calendar HOLD event was created with the corrected status. Awaiting Louis's confirmation."
     ]
    },
    {
@@ -1108,6 +1115,10 @@
    {
     "date": "2026-10-19",
     "text": "Louis Cross replied Mon Oct 19, 04:34 AM PT (jobs Gmail): he will add Rui to the role, can't do 1:00 PM PT, and promised to share his calendar — but no link was included. Reply sent ~08:28 AM PT asking him to resend the link, offering 10:00–11:00 AM PT mornings — awaiting his resend"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Louis Cross emailed Tue Oct 21, 03:33 AM PT with his Ashby link for a 1-hour video conversation (Fri Oct 23 or week of Nov 1). Availability submitted the same day: Mon Nov 2, 10:00–11:00 AM PT primary, Wed Nov 4, 10:00–11:00 AM PT backup — Ashby status 'Waiting for Louis Cross to confirm' (an availability request, not a confirmed booking; calendar HOLD created). Fri Oct 23 skipped for the Anthropic rounds"
    }
   ],
   "intel": {
@@ -1764,7 +1775,8 @@
      "2026-10-14 — follow-up sweep verification attempt BLOCKED at the LinkedIn login wall in the detached browser profile (same as today's 09:41 monitor); thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
      "2026-10-15 — follow-up sweep verification attempt BLOCKED again at STEP 0: linkedin.com/messaging redirected to the plain LinkedIn login page (no active session); no sign-in attempted, thread not read, Case A/B still undetermined, nothing sent. Verification remains first in queue for the next working LinkedIn session.",
      "2026-10-16 — follow-up SENT in Rui's ad-hoc push after verification in a working LinkedIn session: it is the first follow-up since the Oct 9 intro call (resolving the Oct 13–15 unverified/blocked saga — no earlier follow-up had landed). Awaiting his reply.",
-     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:15 AM, no reply in Focused/Unread/Other). No more nudges; Harvey needs a fresh recruiter line (Claire Kaiser invite still pending)."
+     "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:15 AM, no reply in Focused/Unread/Other). No more nudges; Harvey needs a fresh recruiter line (Claire Kaiser invite still pending).",
+     "2026-10-20 2:39 PM PT — Andrew REPLIED by email (career Gmail): advanced Rui to a coding interview (data structures & algorithms) for Staff SWE, AI Platform, replacing the system-design tech screen, with a ModernLoop booking link. This SUPERSEDES the 2026-10-19 sweep's COLD mark — the thread is active again. Booking attempted 2026-10-21 was NOT completed (ModernLoop candidate-portal access-code fill failure); needs Rui to paste a fresh code or book himself."
     ]
    },
    {
@@ -1785,8 +1797,12 @@
     "name": "Claire Kaiser",
     "role": "Director of Global Tech Recruiting",
     "linkedin": null,
-    "contact_status": "invited",
-    "date": "2026-10-16"
+    "contact_status": "connected",
+    "date": "2026-10-20",
+    "history": [
+     "2026-10-20 — ACCEPTED Rui's LinkedIn invitation (Gmail accept email Oct 20, 11:53 PM PT; live-verified in the 2026-10-21 morning monitor: Sent invitations 141 -> 140, Recently Added shows her connected Tue Oct 20). The expansion invite was sent Fri Oct 16, 2026 as the fresh Harvey line after Andrew Kim went cold. She sent no message on acceptance.",
+     "2026-10-21 09:54 AM PT — thank-you SENT by the morning monitor (LinkedIn DM, verified in-thread by a read-only verification task): thanked her for connecting, noted Harvey's work applying AI to legal services, gave Rui's background (Senior Staff MLE, tech lead for Search Ranking at Coupang, ex-Meta, ex-Pinterest, Cupertino), and asked whether she would be open to a brief chat about senior/staff ML opportunities. No resume attached (not asked); no booking. Exactly ONE thank-you was sent today — earlier interim claims of a second 10:19 AM send were phantom reports, withdrawn in the monitor's definitive final log; the follow-up task sent nothing. Rui is last sender — nothing further unless she replies."
+    ]
    }
   ],
   "timeline": [
@@ -1837,6 +1853,18 @@
    {
     "date": "2026-10-16",
     "text": "Follow-up sent to Andrew Kim (LinkedIn) — verified as the first since the Oct 9 intro call; awaiting reply. Expansion invite sent to Claire Kaiser (Director of Global Tech Recruiting)"
+   },
+   {
+    "date": "2026-10-20",
+    "text": "Andrew Kim replied: advanced Rui to a coding interview (DS&A) for Staff SWE, AI Platform via ModernLoop — the Oct 19 COLD mark is superseded, thread active. Booking not completed Oct 21 (ModernLoop code step failed); awaiting Rui's code/book action."
+   },
+   {
+    "date": "2026-10-20",
+    "text": "Claire Kaiser (Director of Global Tech Recruiting) ACCEPTED the Oct 16 expansion invite (Tue Oct 20; accept email 11:53 PM PT) — a fresh live Harvey line alongside Andrew Kim. She sent no message on acceptance"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Thank-you sent to Claire Kaiser (LinkedIn DM, Wed Oct 21, 09:54 AM PT, verified in-thread): Harvey legal-AI angle, Rui's Coupang/Meta/Pinterest search-ranking background, brief-chat ask on senior/staff ML roles. Exactly one thank-you sent (an interim duplicate claim was withdrawn); no resume, no booking — awaiting her reply"
    }
   ],
   "intel": {
@@ -2628,7 +2656,8 @@
     "date": "2026-10-15",
     "history": [
      "2026-10-15 12:08 PM PT — Ali emailed (via Guide) about Rui's application for Principal Machine Learning Engineer, Data Mining: impressed by the background, invited Rui to a 30-min recruiter screen via the Guide scheduling button. No reply was sent initially — held for backcheck under the inbound-diligence rule and flagged to Rui.",
-     "2026-10-16 — Rui first leaned pass, then decided to probe first: an email was SENT to Ali asking for the role's comp range and location (Boston vs Bay Area/remote) before deciding whether to book the screen. Awaiting his reply."
+     "2026-10-16 — Rui first leaned pass, then decided to probe first: an email was SENT to Ali asking for the role's comp range and location (Boston vs Bay Area/remote) before deciding whether to book the screen. Awaiting his reply.",
+     "2026-10-20 02:07 PM PT — Ali REPLIED by email (jobs Gmail, via Guide; read in full by the 2026-10-21 email monitor), answering the comp/location questions Rui sent Oct 16: the Principal MLE (Data Mining) role is open to REMOTE; base salary $240,000–$330,000 plus annual bonus, equity, and refreshers; he invited Rui to schedule if interested. No reply or booking was made — the decision is back with Rui."
     ]
    }
   ],
@@ -2656,10 +2685,14 @@
    {
     "date": "2026-10-16",
     "text": "Rui decided to probe before committing: email sent to Ali Edalatpour asking the comp range + location for the Principal MLE, Data Mining role; the screen will be booked only if the numbers work. JD research: the Data Mining group's Omnitag product mines rare edge cases from PB/EB-scale driving data for the continuous-learning loop (retrieval + representation learning — close to Rui's search-ranking background); same-group postings list Boston / Pittsburgh / Las Vegas hybrid or fully remote, with a lower-level MLE band of $144–192K as the only public comp anchor"
+   },
+   {
+    "date": "2026-10-20",
+    "text": "Ali Edalatpour replied (email, Oct 20, 2:07 PM PT) with the comp/location answer Rui asked for Oct 16: Principal MLE (Data Mining) is remote, base $240K–$330K + annual bonus, equity, refreshers; he invited Rui to schedule. No reply/booking — decision back with Rui"
    }
   ],
   "intel": {
-   "comp": null,
+   "comp": "Principal MLE, Data Mining (per Ali Edalatpour email, 2026-10-20): base $240K–$330K + annual bonus, equity, refreshers; role open to remote",
    "notes": [
     "Omnitag team: ML-powered multimodal data mining for autonomous driving",
     "Motional is outside Rui's stated target profile (AI platform/infra, Series C–F); Rui hasn't decided whether to pursue",
@@ -3049,7 +3082,9 @@
      "2026-10-15 — Rui RE-OPENED the booking (the 2026-10-10 pause is lifted). Under his new rule (technical rounds mornings 10 AM–12 PM PT) he first chose Tue Oct 20, 10:00 AM–12:00 PM PT; ModernLoop login succeeded with the access code Rui supplied, but the portal requires at least 3 days × at least 3 hours per day, so a single window cannot be submitted. Rui then approved submitting Tue Oct 20 + Thu Oct 22 + Fri Oct 23, each 10:00 AM–1:00 PM PT (Tue first choice). As of end of day Oct 15 the submission had NOT yet gone through — the ModernLoop session had expired and a fresh candidate-portal access code from the jobs email was still needed. Nothing booked or confirmed yet.",
      "2026-10-16 ~10:49 AM PT — ModernLoop availability SUBMITTED successfully ('Availability sent!'; confirmation email to the jobs inbox): Tue Oct 20 + Thu Oct 22 + Fri Oct 23, each 10:00 AM–1:00 PM PT. The portal noted Anthropic's recruiting team runs no interviews Oct 26–30. An intermediate Oct 23/27/29 plan was staged earlier that morning but its access code expired before entry — nothing was submitted under it.",
      "2026-10-16 — the system scheduled Tue Oct 20: Coding 10:30–11:25 AM PT with Peter Mocarski (CodeSignal) and System Design 12:00–12:55 PM PT with Primus Lam. Rui rejected the noon System Design slot (12:00–1:00 PM is his lunch hour; nothing may be scheduled then) and directed that the change be made in the portal, not by emailing Biana (her notices are system-sent). A 'Request a change' reschedule request was SUBMITTED via the ModernLoop portal the same day ('Your request has been sent to Anthropic'; confirmation email to jobs inbox): System Design to any day Mon Oct 19–Fri Oct 23 at 10:00–11:00 AM only, Coding unchanged. Awaiting Anthropic's new time.",
-     "2026-10-16 11:19 AM PT — Biana CONFIRMED the final schedule by email (read in full by the 2026-10-17 email monitor): Coding Tue Oct 20, 10:30–11:25 AM PT with Peter Mocarski (CodeSignal) and System Design Thu Oct 22, 10:00–10:55 AM PT with Shu Wu (Google Meet) — NOT Primus Lam. The original Tue Oct 20 12:00 PM System Design invite was cancelled the same minute: the ModernLoop 'Request a change' SUCCEEDED. Neither round was on Rui's primary calendar, so the 2026-10-17 email monitor created both full-context calendar events."
+     "2026-10-16 11:19 AM PT — Biana CONFIRMED the final schedule by email (read in full by the 2026-10-17 email monitor): Coding Tue Oct 20, 10:30–11:25 AM PT with Peter Mocarski (CodeSignal) and System Design Thu Oct 22, 10:00–10:55 AM PT with Shu Wu (Google Meet) — NOT Primus Lam. The original Tue Oct 20 12:00 PM System Design invite was cancelled the same minute: the ModernLoop 'Request a change' SUCCEEDED. Neither round was on Rui's primary calendar, so the 2026-10-17 email monitor created both full-context calendar events.",
+     "2026-10-20 01:33 PM PT — Biana EMAILED (jobs Gmail, read in full by the 2026-10-21 email monitor): both technical rounds are MOVED to Fri Oct 23 — Coding 10:00–10:55 AM PT with Yufei Hu via CodeSignal (replacing the Tue Oct 20, 10:30 AM slot with Peter Mocarski) and System Design 12:00–12:55 PM PT with Shu Wu via Google Meet (replacing the Thu Oct 22, 10:00 AM slot). She said Anthropic will not schedule interviews the following week and asked Rui to confirm the new times work.",
+     "2026-10-21 — Rui's reply to Biana was SENT (jobs Gmail; approved by Rui — '发，就这么写' — after two earlier send-approval rejections left it in draft, a retry passed and the send succeeded). The sent email: confirms Coding on Fri Oct 23 at 10:00 AM PT with Yufei Hu; asks whether System Design can return to its original time, Thu Oct 22 at 10:00 AM PT with Shu Wu (first preference — Rui questioned why the Thursday slot was moved at all); offers Fri Oct 23 after 1:00 PM PT as the second preference (the noon slot cuts into his lunch hour); and accepts Fri Oct 23, 12:00 PM PT only if neither works. This supersedes Rui's Oct 20 decision to accept both Friday times as-is (paused with '等下') and his first Oct 21 revision (Friday-after-1 PM as the primary ask). Awaiting Biana's reply; the calendar is to be corrected once she answers."
     ]
    }
   ],
@@ -3117,6 +3152,14 @@
    {
     "date": "2026-10-17",
     "text": "Yulia Serhiyenia replied Oct 16 (7:39 PM PT) on the ML parallel track: she has pinged both hiring teams (Knowledge Team Research Engineer; Safeguards ML/Research Engineer) and awaits their response"
+   },
+   {
+    "date": "2026-10-20",
+    "text": "Biana Reznik moved BOTH technical rounds to Fri Oct 23 (email Oct 20, 1:33 PM PT): Coding 10:00–10:55 AM PT with Yufei Hu (CodeSignal; replaces Tue Oct 20 with Peter Mocarski) and System Design 12:00–12:55 PM PT with Shu Wu (Google Meet; replaces Thu Oct 22, 10:00 AM). No interviews the following week; she asked Rui to confirm"
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Reply SENT to Biana Reznik (Rui-approved, sent Oct 21 after earlier approval-card rejections): Coding Fri Oct 23, 10:00 AM PT with Yufei Hu confirmed; System Design — first preference restore Thu Oct 22, 10:00 AM PT with Shu Wu, second preference Fri Oct 23 after 1:00 PM PT, Fri Oct 23, 12:00 PM PT only as a last resort. Awaiting her reply"
    }
   ],
   "intel": {
@@ -3138,18 +3181,18 @@
     "notes": "Held Fri Oct 9, 11:30-11:50 AM PT with Yulia Serhiyenia — PASSED (confirmed 2026-10-10 via Biana Reznik's 'Next Steps' email); NDA signed Oct 8"
    },
    {
-    "date": "2026-10-20",
-    "time": "10:30–11:25 AM PT",
-    "title": "Coding round (55-min) — BOOKED",
-    "people": "Peter Mocarski; CodeSignal; scheduling via Biana Reznik / ModernLoop",
-    "notes": "Booked by the system 2026-10-16 after Rui's availability submission; CONFIRMED by Biana Reznik's email Oct 16, 11:19 AM PT. Added to the primary calendar Oct 17 (it was missing)."
+    "date": "2026-10-23",
+    "time": "10:00–10:55 AM PT",
+    "title": "Coding round (55-min) — MOVED to Fri Oct 23 (Rui confirmed)",
+    "people": "Yufei Hu; CodeSignal; scheduling via Biana Reznik / ModernLoop",
+    "notes": "Moved by Biana Reznik on Oct 20 from the original Tue Oct 20, 10:30–11:25 AM PT slot with Peter Mocarski. Rui confirmed this Friday 10:00 AM slot in his reply sent Oct 21."
    },
    {
-    "date": "2026-10-22",
-    "time": "10:00–10:55 AM PT",
-    "title": "System Design round (55-min) — BOOKED (rescheduled)",
+    "date": "2026-10-23",
+    "time": "12:00–12:55 PM PT",
+    "title": "System Design round (55-min) — MOVED to Fri Oct 23 noon by Biana; Rui asked to restore Thu Oct 22, 10:00 AM (awaiting reply)",
     "people": "Shu Wu; Google Meet; scheduling via Biana Reznik / ModernLoop",
-    "notes": "Reschedule CONFIRMED by Biana Reznik Oct 16, 11:19 AM PT: moved off the original Tue Oct 20, 12:00–12:55 PM slot (Primus Lam), which was cancelled the same minute — the ModernLoop 'Request a change' succeeded and the round now sits at Rui's preferred 10:00 AM technical-round start. Added to the primary calendar Oct 17 (it was missing)."
+    "notes": "Biana Reznik moved this round on Oct 20 from Thu Oct 22, 10:00–10:55 AM PT to Fri Oct 23, 12:00–12:55 PM PT. In his reply sent Oct 21, Rui asked to restore Thu Oct 22, 10:00 AM PT (first preference), offered Fri Oct 23 after 1:00 PM PT (second), and accepted Fri noon only as a last resort. Awaiting Biana's reply — final slot not yet settled."
    }
   ]
  },
@@ -4808,6 +4851,57 @@
    "comp": null,
    "notes": [
     "Rui's rule 2026-10-16: Apple = AIML-first (the pay is higher there); other orgs are not excluded outright — an exceptionally fitting role elsewhere can still be considered."
+   ]
+  },
+  "interviews": []
+ },
+ {
+  "slug": "radixark",
+  "name": "RadixArk (SGLang)",
+  "tagline": "Company behind SGLang (open-source LLM inference engine) and Miles (RL framework); managed frontier-AI infrastructure platform. Rui flagged 2026-10-21: '这个公司不错' — aggressive recruiter/employee referral outreach ordered.",
+  "valuation": "$400M post-money (seed, May 2026)",
+  "valuation_detail": "$100M seed closed May 2026, led by Accel, co-led by Spark Capital; NVentures, AMD, MediaTek among participants; angels incl. John Schulman, Soumith Chintala, Igor Babuschkin. NOTE vs Rui's usual lens: seed stage, far below his Series C-F / $3B-$30B sweet spot — equity is lottery-ticket class; he wants in anyway.",
+  "size": null,
+  "location": null,
+  "rto": null,
+  "status": "outreach",
+  "contacts": [
+   {
+    "name": "Camille Conrotto (Smith)",
+    "role": "Head of People & Talent, RadixArk (SF Bay Area; prior Head of Talent Acquisition @ Hedra, 7.5y recruiting @ Niantic, Greylock, Plaid)",
+    "linkedin": "https://www.linkedin.com/in/camilleconrotto",
+    "contact_status": "invited",
+    "date": "2026-10-21"
+   },
+   {
+    "name": "Ying Sheng",
+    "role": "Co-Founder & CEO, RadixArk (SGLang co-creator; Stanford PhD CS; ex-xAI MTS; SJTU alum — same school as Rui)",
+    "linkedin": "https://www.linkedin.com/in/yingsheng1123",
+    "contact_status": "invited",
+    "date": "2026-10-21"
+   },
+   {
+    "name": "Banghua Zhu",
+    "role": "Co-Founder & CTO, RadixArk (ex-UW Assistant Professor, ex-NVIDIA Principal Research Scientist; UC Berkeley PhD EECS; Seattle area)",
+    "linkedin": "https://www.linkedin.com/in/banghua-zhu-171902aa",
+    "contact_status": "invited",
+    "date": "2026-10-21"
+   }
+  ],
+  "timeline": [
+   {
+    "date": "2026-10-21",
+    "text": "Added to target list at Rui's direction ('sglang 这个公司不错，加到我的list里' + '帮我疯狂找recruiter或里面的员工内推'). Company: RadixArk, founded 2025 by Ying Sheng (ex-xAI, SGLang co-creator) and Banghua Zhu (ex-NVIDIA). LinkedIn outreach launched same day under the verify-profile-first rule (seniority + tenure checked before any invite; recruiters and Staff+ employees only)."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "LinkedIn outreach executed same day (3 invites, cap reached): Camille Conrotto (Head of People & Talent — the recruiter line), Ying Sheng (CEO), Banghua Zhu (CTO). All three profile-verified first (employer, seniority, tenure) per the 2026-10-20 hard rule. Skipped: MTS engineers with unverifiable seniority, an AI Infra Resident (junior-adjacent), Recruiting Operations / Head of Product & BD (slots filled), and investors/advisors wrongly associated with the company page."
+   }
+  ],
+  "intel": {
+   "comp": null,
+   "notes": [
+    "SGLang runs on hundreds of thousands of GPUs generating trillions of tokens/day (Google, Microsoft, NVIDIA, xAI among users). Fit angle for Rui: LLM inference/serving infrastructure adjacent to his Coupang search-ranking + LLM discovery stack."
    ]
   },
   "interviews": []
