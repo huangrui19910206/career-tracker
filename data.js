@@ -3993,12 +3993,17 @@ const COMPANIES = [
       {
         "date": "2026-10-16",
         "text": "Expansion invites sent to Liz Sweet (Chief People Officer) and Henry Ehrenberg (Co-founder & Head of Engineering) — Snorkel is a Rui-named priority company; Joe Rufino remains the live line (call booked Wed Oct 21)"
+      },
+      {
+        "date": "2026-10-21",
+        "text": "Simplenote sync: new note 'snorkel ai' created Oct 21, 2026 (2:34 PM PT; 9 words) records the data labeling / eval focus and a comp figure of 390k described as 'pretty good comp' (basis unspecified in the note)"
       }
     ],
     "intel": {
       "comp": "Verified base bands from Snorkel's own public postings (diligence 2026-10-12): Senior AI/ML Engineer $192–240K base; Senior/Staff Research Scientist $200–275K base (base only; TC/equity not disclosed)",
       "notes": [
-        "Diligence 2026-10-12: least frothy entry in the priority set ($3.5B, ~9x the claimed $350–375M run-rate) and top-5 risk/return for a late joiner; caveats — Sep 2025 ~13% pivot layoff (31 of ~240, software engineering hit hardest) and the current growth story is only ~12 months old."
+        "Diligence 2026-10-12: least frothy entry in the priority set ($3.5B, ~9x the claimed $350–375M run-rate) and top-5 risk/return for a late joiner; caveats — Sep 2025 ~13% pivot layoff (31 of ~240, software engineering hit hardest) and the current growth story is only ~12 months old.",
+        "Simplenote note 'snorkel ai' (created 2026-10-21, 9 words / 53 chars): records the focus as data labeling / eval and a comp figure of 390k described as 'pretty good comp' (basis not specified in the note; not verified against postings — the verified public base bands above remain the documented figures)"
       ]
     },
     "interviews": [
