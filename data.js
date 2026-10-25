@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 24, 2026";
+const BUILD_DATE = "Oct 25, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -2138,11 +2138,11 @@ const COMPANIES = [
         "notes": "Google Meet — booked via Kim Catalano's ModernLoop link Oct 17; portal showed 'Interview booked!' and a confirmation email went to the career inbox. Format per Kim's Oct 16 email: deep dive on past experience (problem/context/role/design/impact; ownership, collaboration, learning from mistakes) + questions for Glean; Past Work Prep Guide PDF attached to her email."
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-10-27",
         "time": "10:00–11:00 AM PT",
-        "title": "ML Design interview (1-hour) — PROPOSED, ModernLoop booking pending verification code",
-        "people": "Glean engineer (TBC); coordinator Kim Catalano",
-        "notes": "Target slot Mon Oct 26, 10:00–11:00 AM PT proposed after Kim's Oct 21 advancement email. STILL UNBOOKED as of Fri Oct 23 afternoon: Kim no-showed the Oct 23 prep call, her 2:58 PM PT reply did not confirm Monday, and ModernLoop was still sending schedule reminders. A fresh booking attempt (backup Wed Oct 28, 10:00 AM PT) was in progress late Oct 23 with Rui relaying email codes in chat; submission success unconfirmed — do not treat as booked."
+        "title": "ML Design interview (1-hour) — BOOKED",
+        "people": "Haowei Zhang (Software Engineer); coordinator Kim Catalano",
+        "notes": "Google Meet (meet.google.com/ovc-iffw-ttg) — BOOKED via ModernLoop Fri Oct 23, 4:22 PM PT; portal showed 'Interview booked!' and a confirmation email went to the career inbox. Mon Oct 26 had NO slots in the portal and Wed Oct 28 was afternoon-only, so the slot moved to Tue Oct 27 per Rui's 10:00 AM technical-round rule. Supersedes the earlier Mon Oct 26 proposed/unbooked entry. Calendar event created."
       }
     ]
   },
@@ -2404,12 +2404,13 @@ const COMPANIES = [
       {
         "name": "Claire Kaiser",
         "role": "Director of Global Tech Recruiting",
-        "linkedin": null,
+        "linkedin": "https://www.linkedin.com/in/claire-berkley/",
         "contact_status": "connected",
         "date": "2026-10-20",
         "history": [
           "2026-10-20 — ACCEPTED Rui's LinkedIn invitation (Gmail accept email Oct 20, 11:53 PM PT; live-verified in the 2026-10-21 morning monitor: Sent invitations 141 -> 140, Recently Added shows her connected Tue Oct 20). The expansion invite was sent Fri Oct 16, 2026 as the fresh Harvey line after Andrew Kim went cold. She sent no message on acceptance.",
-          "2026-10-21 09:54 AM PT — thank-you SENT by the morning monitor (LinkedIn DM, verified in-thread by a read-only verification task): thanked her for connecting, noted Harvey's work applying AI to legal services, gave Rui's background (Senior Staff MLE, tech lead for Search Ranking at Coupang, ex-Meta, ex-Pinterest, Cupertino), and asked whether she would be open to a brief chat about senior/staff ML opportunities. No resume attached (not asked); no booking. Exactly ONE thank-you was sent today — earlier interim claims of a second 10:19 AM send were phantom reports, withdrawn in the monitor's definitive final log; the follow-up task sent nothing. Rui is last sender — nothing further unless she replies."
+          "2026-10-21 09:54 AM PT — thank-you SENT by the morning monitor (LinkedIn DM, verified in-thread by a read-only verification task): thanked her for connecting, noted Harvey's work applying AI to legal services, gave Rui's background (Senior Staff MLE, tech lead for Search Ranking at Coupang, ex-Meta, ex-Pinterest, Cupertino), and asked whether she would be open to a brief chat about senior/staff ML opportunities. No resume attached (not asked); no booking. Exactly ONE thank-you was sent today — earlier interim claims of a second 10:19 AM send were phantom reports, withdrawn in the monitor's definitive final log; the follow-up task sent nothing. Rui is last sender — nothing further unless she replies.",
+          "2026-10-24 10:32 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; formal final browser report). Profile verified live FIRST (linkedin.com/in/claire-berkley/): headline 'Director of Global Tech Recruiting @ Harvey'; Experience: Director of Global Tech Recruiting, Harvey, Nov 2025–Present (~1 yr); prior Poshmark 7 yrs 4 mos — Senior Technical Recruiter Aug 2018–Jul 2020, Head of Technical Recruiting Jul 2020–Nov 2021, Head of Talent Nov 2021–Nov 2025 — substantial recruiting tenure, PASSES Rui's verify-first rule. Thread verified live first: Oct 20 invite note + Oct 21 09:54 AM thank-you, no reply, Rui last sender. Sent text floated the Oct 21 note back up (Harvey AI platform angle; Senior Staff MLE, Coupang Search Ranking & Discovery, ex-Meta/ex-Pinterest, Bay Area; brief chat or pointer ask) — confirmed in-thread once under TODAY at 10:32 AM, 'Message sent successfully'. CORRECTION: an earlier same-day sweep entry claiming this follow-up was HELD because her profile showed '<1 yr, first recruiting role, prior TV/media' was based on a phantom interim browser summary and is WITHDRAWN — those profile claims were false and no hold ever applied."
         ]
       }
     ],
@@ -2473,6 +2474,10 @@ const COMPANIES = [
       {
         "date": "2026-10-21",
         "text": "Thank-you sent to Claire Kaiser (LinkedIn DM, Wed Oct 21, 09:54 AM PT, verified in-thread): Harvey legal-AI angle, Rui's Coupang/Meta/Pinterest search-ranking background, brief-chat ask on senior/staff ML roles. Exactly one thank-you sent (an interim duplicate claim was withdrawn); no resume, no booking — awaiting her reply"
+      },
+      {
+        "date": "2026-10-24",
+        "text": "Follow-up sent to Claire Kaiser (LinkedIn DM, the thread's one allowed follow-up; profile verified live first — Director of Global Tech Recruiting at Harvey, prior Poshmark recruiting 2018–2025, 7 yrs 4 mos). Awaiting her reply. (Supersedes a same-day interim-based entry that wrongly recorded a hold.)"
       }
     ],
     "intel": {
@@ -2958,7 +2963,8 @@ const COMPANIES = [
         "date": "2026-10-18",
         "history": [
           "2026-10-18 1:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification + live verification in the afternoon monitor: Sent invitations dropped 144 -> 143 pending, Connections rose 7,923 -> 7,924, and Recently added shows him connected TODAY, Sun Oct 18). The expansion invite was sent 2026-10-16; Modal previously had 0 live lines. He is a founder/CTO contact, not a recruiter. His thread already contains one Rui message dated today 12:37 PM PT (the Modal sub-second GPU cold starts / Sandboxes note; seen by Akshat) — no reply from him yet, and the monitor sent NO thank-you (one would have been a second message in the same thread). A separate pending Modal company-PAGE invitation from him in Received was left untouched.",
-          "2026-10-21 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Co-Founder & CTO, Modal, Aug 2021–present (5 yrs 3 mos). Thread verified live first: only Rui's Oct 18 12:37 PM cold-starts/Sandboxes note, seen by Akshat, no reply; Focused/Unread/Other checked. Gist: floated the Oct 18 note back up, Senior Staff MLE Search Ranking & Discovery at Coupang, asked for a brief chat about a senior/staff ML or platform role or a pointer to the right person."
+          "2026-10-21 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Co-Founder & CTO, Modal, Aug 2021–present (5 yrs 3 mos). Thread verified live first: only Rui's Oct 18 12:37 PM cold-starts/Sandboxes note, seen by Akshat, no reply; Focused/Unread/Other checked. Gist: floated the Oct 18 note back up, Senior Staff MLE Search Ranking & Discovery at Coupang, asked for a brief chat about a senior/staff ML or platform role or a pointer to the right person.",
+          "2026-10-24 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-10-21 10:36 AM PT) is unanswered after 3 days; verified still last with no reply (Oct 23 sweep live check + Oct 24 morning monitor + Oct 24 sweep; seen by Akshat Oct 21 11:53 AM). No more nudges on this thread; Modal needs a fresh recruiter line (Corin Aguilar / Tom Callahan / Audrey Koh / Erik Bernhardsson invites still pending, none accepted)."
         ]
       }
     ],
@@ -2990,6 +2996,10 @@ const COMPANIES = [
       {
         "date": "2026-10-21",
         "text": "Follow-up sent to Akshat Bubna (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first — Co-Founder & CTO since Aug 2021; Oct 18 note seen, no reply). Awaiting his reply."
+      },
+      {
+        "date": "2026-10-24",
+        "text": "Akshat Bubna marked COLD per one-max rule (follow-up sent Oct 21, no reply in 3 days; verified live). No more nudges; Modal needs a fresh recruiter line."
       }
     ],
     "intel": {
