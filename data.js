@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 25, 2026";
+const BUILD_DATE = "Oct 26, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -1525,7 +1525,8 @@ const COMPANIES = [
         "date": "2026-10-19",
         "history": [
           "2026-10-19 — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification Mon Oct 19, 11:53 AM PT; live-verified twice in the afternoon monitor: Sent invitations 143 -> 141 pending, Connections 7,924 -> 7,926, and he appears in Recently Added connected TODAY). The invite was sent 2026-10-08; he is an ML Recruiting Leader (built ML teams at Reddit & Postmates). His thread already contains Rui's message dated today 11:30 AM PT (the fal generative-media inference note) — Rui is the last sender, so NO thank-you was sent (it would have been a second message in the same thread).",
-          "2026-10-22 10:39 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Senior Technical Recruiter, fal, Apr 2026–present (7 mos at fal; headline 'Machine Learning Recruiting Leader'; prior Reddit recruiting ~4 yrs incl. Talent Acquisition Manager, Postmates Senior Technical Recruiter). Thread verified live first: only Rui's Oct 19 11:30 AM note (fal generative-media inference platform), no reply, no Seen text; Focused/Unread/Other checked. Gist: floated the Oct 19 note back up; asked for a brief chat about a senior/staff ML or inference-platform role, or a pointer to the right person. Confirmed sent in-thread once (10:39 AM). Awaiting his reply."
+          "2026-10-22 10:39 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Senior Technical Recruiter, fal, Apr 2026–present (7 mos at fal; headline 'Machine Learning Recruiting Leader'; prior Reddit recruiting ~4 yrs incl. Talent Acquisition Manager, Postmates Senior Technical Recruiter). Thread verified live first: only Rui's Oct 19 11:30 AM note (fal generative-media inference platform), no reply, no Seen text; Focused/Unread/Other checked. Gist: floated the Oct 19 note back up; asked for a brief chat about a senior/staff ML or inference-platform role, or a pointer to the right person. Confirmed sent in-thread once (10:39 AM). Awaiting his reply.",
+          "2026-10-25 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-10-22 10:39 AM PT) is unanswered after 3 days; verified live in this sweep's formal final report (browser 10:29-10:32 AM PT) — thread opened in full, Rui's Oct 22 follow-up still last, no reply, no Seen indicator; Focused/Unread/Other checked, no new inbound dated Oct 25. No more nudges; fal needs a fresh recruiter line (Batuhan Taskaya / Gorkem Yurtseven / Burkay Gur invites still pending)."
         ]
       },
       {
@@ -1570,6 +1571,10 @@ const COMPANIES = [
       {
         "date": "2026-10-22",
         "text": "Follow-up sent to Jesus Serratos (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first — Senior Technical Recruiter at fal since Apr 2026; Oct 19 note unanswered). Awaiting his reply."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "Jesus Serratos marked COLD per one-max rule (follow-up sent Oct 22, no reply in 3 days; verified live in the Oct 25 sweep — thread opened, follow-up still last, no Seen). No more nudges; fal needs a fresh recruiter line."
       }
     ],
     "intel": {
@@ -4901,7 +4906,8 @@ const COMPANIES = [
         "date": "2026-10-19",
         "history": [
           "2026-10-19 — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification Mon Oct 19, 3:53 PM PT; live-verified twice in the afternoon monitor: Sent invitations 143 -> 141 pending, Connections 7,924 -> 7,926, and he appears in Recently Added connected TODAY). The expansion invite was sent 2026-10-16; he is an employee/referral line (Manager, Solutions Architecture / GTM), not a recruiter. His thread already contains Rui's message dated today 3:27 PM PT (the Vercel roles / AI Gateway / AI SDK note) — Rui is the last sender, so NO thank-you was sent (it would have been a second message in the same thread).",
-          "2026-10-22 10:38 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Manager, Solutions Architecture, Vercel, Jun 2026–present (5 mos at Vercel; prior WP Engine Sr. Manager, Solutions Engineering, 4 yrs 6 mos). Thread verified live first: only Rui's Oct 19 3:27 PM note (Vercel ~70 open roles / AI Gateway / AI SDK / Agent teams), no reply, no Seen text; Focused/Unread/Other checked. Gist: floated the Oct 19 note back up; asked for a brief chat if a senior/staff ML or AI platform role opens, or a pointer to the right hiring person. Confirmed sent in-thread once (10:38 AM). Awaiting his reply."
+          "2026-10-22 10:38 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Manager, Solutions Architecture, Vercel, Jun 2026–present (5 mos at Vercel; prior WP Engine Sr. Manager, Solutions Engineering, 4 yrs 6 mos). Thread verified live first: only Rui's Oct 19 3:27 PM note (Vercel ~70 open roles / AI Gateway / AI SDK / Agent teams), no reply, no Seen text; Focused/Unread/Other checked. Gist: floated the Oct 19 note back up; asked for a brief chat if a senior/staff ML or AI platform role opens, or a pointer to the right hiring person. Confirmed sent in-thread once (10:38 AM). Awaiting his reply.",
+          "2026-10-25 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-10-22 10:38 AM PT) is unanswered after 3 days. Verified live in this sweep's formal final report (browser 10:29-10:32 AM PT): thread opened in full — only Rui's Oct 19 3:27 PM note and Oct 22 10:38 AM follow-up, no reply, no Seen text; Focused/Unread/Other checked, no Oct 25 inbound; counts unchanged (145 pending / 7,927 connections / received 16). No more nudges; Vercel needs a fresh line (Joshua Poore keep-in-touch only; Lydia Cuarezma-Cobette / Kelly Wu invites still pending)."
         ]
       }
     ],
@@ -4937,6 +4943,10 @@ const COMPANIES = [
       {
         "date": "2026-10-22",
         "text": "Follow-up sent to Ryan Hodge (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first — Manager, Solutions Architecture at Vercel since Jun 2026; Oct 19 note unanswered). Awaiting his reply."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "Ryan Hodge marked COLD per one-max rule (follow-up sent Oct 22, no reply in 3 days; verified live in the Oct 25 sweep formal report — thread opened in full, follow-up still last, no Seen). No more nudges; Vercel needs a fresh recruiter line."
       }
     ],
     "intel": {
