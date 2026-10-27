@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 26, 2026";
+const BUILD_DATE = "Oct 27, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -464,7 +464,11 @@ const COMPANIES = [
         "contact_status": "connected",
         "date": "2026-10-23",
         "history": [
-          "2026-10-23 01:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification from invitations@linkedin.com, read in full; live-verified in the afternoon monitor: Sent invitations 146 -> 145 pending, Connections 7,926 -> 7,927, Recently Added shows him connected Fri Oct 23). The wave-3 invite was sent 2026-10-08 as Arize AI Technical Recruiter. His thread already contains Rui's outbound note sent today 1:49 PM PT (Arize ML observability / LLM evals angle; seen by Stefan) — no additional thank-you was sent in the monitor run, as it would have duplicated that note. No inbound from Stefan yet. NOTE: a browser interim claim that he is now at Snowflake was WITHDRAWN — the formal report verified only the headline 'Making the world's AI Work | Technical Recruiter' with no current company confirmed; Arize was acquired by Dynatrace (announced Aug 13, 2026, closed Oct 5, 2026), so his current employer is unverified."
+          "2026-10-23 01:53 PM PT — ACCEPTED Rui's LinkedIn invitation (career-Gmail accept notification from invitations@linkedin.com, read in full; live-verified in the afternoon monitor: Sent invitations 146 -> 145 pending, Connections 7,926 -> 7,927, Recently Added shows him connected Fri Oct 23). The wave-3 invite was sent 2026-10-08 as Arize AI Technical Recruiter. His thread already contains Rui's outbound note sent today 1:49 PM PT (Arize ML observability / LLM evals angle; seen by Stefan) — no additional thank-you was sent in the monitor run, as it would have duplicated that note. No inbound from Stefan yet. NOTE: a browser interim claim that he is now at Snowflake was WITHDRAWN — the formal report verified only the headline 'Making the world's AI Work | Technical Recruiter' with no current company confirmed; Arize was acquired by Dynatrace (announced Aug 13, 2026, closed Oct 5, 2026), so his current employer is unverified.",
+          "2026-10-26 — follow-up sweep: Stefan is the only open thread >2 days with no follow-up ever spent (Rui's Oct 23 1:49 PM note still last, seen, no reply — re-verified by the Oct 26 09:41 LinkedIn monitor). Follow-up HELD, not sent and NOT cold: his current employer has never been verified (Arize acquired by Dynatrace, closed Oct 5, 2026; interim Snowflake claim withdrawn Oct 23), and the sweep's LinkedIn browser tasks never delivered a formal report, so Rui's verify-first profile check could not be completed. Next run MUST read his thread first — the browser tasks carried a conditional-send instruction with an unverified outcome; if an Oct 26 follow-up is present in-thread, his one follow-up counts as spent and no second may be sent.",
+          "2026-10-26 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Talent at Arize AI, full-time, Mar 2026–Present (8 mos, Remote); headline 'Making the world's AI Work | Technical Recruiter'; employer still listed as Arize AI (he reposted Dynatrace's acquisition-complete post but did not change his Experience to Dynatrace or any other company). Prior: Senior Talent Partner via Talentful @ Sierra, Talent Acquisition Manager @ Capgemini Engineering, Senior Technical Recruiter @ Incode / Yandex, Technical Recruiter @ Meta (Oct 2017–May 2023, 5 yrs 8 mos) — passes Rui's verify-first rule. Thread verified first: only Rui's Oct 23 1:49 PM note, seen by Stefan, no reply. Gist: floated the Oct 23 note back up; Arize ML observability / LLM evals fit; asked for a brief chat about a senior/staff ML role or a pointer. Confirmed in-thread once, 'Message sent successfully'.",
+          "2026-10-26 CORRECTION — the same-day 'HELD / not sent' history entry above is SUPERSEDED: it was written before the browser task's formal final report arrived (browser ran 10:30–10:36 AM PT, report delivered late). The formal report governs — see the 10:36 AM sent entry. No second follow-up may be sent on this thread.",
+          "2026-10-26 10:40 AM PT — Stefan SEEN the 10:36 AM follow-up (independently verified by the follow-up sweep's second browser task, 10:41-10:44 AM PT, which found the follow-up already in-thread, confirmed no duplicate was sent, and confirmed the thread holds exactly Rui's Oct 23 note + Oct 26 follow-up, no Stefan reply). His one follow-up is spent; no second follow-up may be sent."
         ]
       },
       {
@@ -483,6 +487,14 @@ const COMPANIES = [
       {
         "date": "2026-10-23",
         "text": "Stefan O. ACCEPTED the Oct 8 wave-3 invite (Fri Oct 23, 1:53 PM PT accept email; live-verified: pending 146 -> 145, Connections 7,927, Recently Added #1). Rui's Arize-angle note is already in his thread (sent 1:49 PM PT today, seen by Stefan); no extra thank-you sent. Current employer unverified (an interim Snowflake claim was withdrawn; Arize was acquired by Dynatrace, closed Oct 5)"
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Follow-up sweep: Stefan O. thread eligible (>2 days, no follow-up spent) but follow-up HELD — current employer unverified (Arize/Dynatrace) and the sweep's browser verification did not return a report. Not cold; next run must read his thread first before any send (conditional-send outcome unverified)."
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Follow-up SENT to Stefan O. (LinkedIn DM, 10:36 AM PT, his thread's one allowed follow-up) after live profile verification: Talent at Arize AI since Mar 2026 (8 mos); prior Meta Technical Recruiter 5 yrs 8 mos. Thread had only Rui's Oct 23 note (seen, no reply). (Supersedes the same-day 'held' timeline entry, which was written before the browser formal report arrived.)"
       }
     ],
     "intel": {
@@ -748,20 +760,29 @@ const COMPANIES = [
     "size": null,
     "location": "SF",
     "rto": null,
-    "status": "outreach",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Catherine Li",
         "role": "Talent",
         "linkedin": "https://www.linkedin.com/in/catherine-li-92460b9b/",
-        "contact_status": "invited",
-        "date": "2026-10-08"
+        "contact_status": "connected",
+        "date": "2026-10-26",
+        "history": [
+          "2026-10-26 — ACCEPTED Rui's LinkedIn invitation (live-verified in the afternoon monitor: Connections 7,927 -> 7,928, Recently Added #1 Catherine Li, connected Oct 26, 2026). The wave-3 invite was sent 2026-10-08. Sent invitations math: 145 morning + 2 midday Ramp invites (Archie Reynolds, Ryan Delgado, both still pending) - 1 Catherine accept = 146 pending.",
+          "2026-10-26 04:40 PM PT — Catherine REPLIED to Rui's connection note: happy to chat, proposed setting up sometime tomorrow (Tue Oct 27) via her Greenhouse scheduling link (https://app9.greenhouse.io/scheduling_link/4407556009/chat-with-catherine-at-browserbase).",
+          "2026-10-26 04:49 PM PT — fallback reply SENT (LinkedIn, verified in thread): the Greenhouse link does not work — it loads the branded request page then fails with 'Catherine Li's connected Google Calendar account doesn't support scheduling pages'; date grid stuck on a spinner, NO slots offered for Tue Oct 27 or any day after 4 loads/retries, so booking through the link is impossible (her-side calendar config) and NO booking was made. Rui's reply told her the link isn't loading a booking page, proposed Tue Oct 27 1:00 PM PT (1:30 PM also works) for a 30-min chat (calendar checked: Tue Oct 27 1:00-2:00 PM PT is FREE — Glean 10-11 AM only), and asked for a calendar invite to rui.huang.jobs@gmail.com or another link. Awaiting her confirmation; no calendar event until she confirms."
+        ]
       }
     ],
     "timeline": [
       {
         "date": "2026-10-08",
         "text": "Wave 3: invite sent to Catherine Li — personal note"
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Catherine Li ACCEPTED the Oct 8 wave-3 invite (live-verified: Connections 7,927 -> 7,928, Recently Added #1) and REPLIED 4:40 PM PT the same day: happy to chat, proposed sometime tomorrow (Tue Oct 27) via her Greenhouse scheduling link. The link is BROKEN on her side (her connected Google Calendar doesn't support scheduling pages; no slots render after 4 loads) — no booking made. Fallback reply SENT 4:49 PM PT proposing Tue Oct 27 1:00 PM PT (1:30 PM also works) for a 30-min chat and asking for a calendar invite to the jobs inbox or another link. Awaiting her confirmation."
       }
     ],
     "intel": {
@@ -3504,6 +3525,55 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "SGLang runs on hundreds of thousands of GPUs generating trillions of tokens/day (Google, Microsoft, NVIDIA, xAI among users). Fit angle for Rui: LLM inference/serving infrastructure adjacent to his Coupang search-ranking + LLM discovery stack."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "ramp",
+    "name": "Ramp",
+    "tagline": "Financial operations platform (corporate cards, expense management, bill pay, procurement) with a growing Applied AI org",
+    "valuation": "~$60B",
+    "valuation_detail": "Series F-1, Oct 2026: $1.85B raised at ~$60B pre-money valuation (announced Oct 15, 2026; co-led by Dragoneer, Thrive Capital, Founders Fund, Sands Capital, Avenir Growth)",
+    "size": "~1,900",
+    "location": "SF / NYC HQ",
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Archie Reynolds",
+        "role": "Head of Talent, Ramp (in role since Apr 2026, verified live before invite)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-26"
+      },
+      {
+        "name": "Ryan Delgado",
+        "role": "Senior Director of Engineering (Data Platform / AI Solutions), Ramp (5 yrs at Ramp, verified live before invite)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-10-26"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-26",
+        "text": "Added to the target list at Rui's direction ('ramp also add it in'). Diligence (brief ~/workspace/job-search/ramp-target-brief-2026-10-26.md): financial operations platform automating >$275B annualized spend for 85,000+ companies; annualized revenue >$2B, free-cash-flow positive, ~1,900 headcount; founded 2019 by Eric Glyman (CEO), Karim Atiyeh (CTO), Gene Lee (repeat founders, Paribus sold to Capital One). Classified a cash + stability play, not an equity-multiple play: at ~$60B it sits above Rui's $3B-$30B sweet spot, offset by strong posted cash bands, FCF-positive status, and a credible IPO path with low near-term acquisition risk (rival Brex was acquired by Capital One). SF office at 353 Sacramento St — not NYC-only."
+      },
+      {
+        "date": "2026-10-26",
+        "text": "APPLICATION SUBMITTED via Ashby: Applied AI Engineer (Applied AI team — AI agents, RAG, structured extraction, LLM inference infrastructure; SF location; $204.4K-$352K base + equity). Page confirmed receipt ('Your application has been received and will be reviewed'); Ashby gave no confirmation number. Submitted with the v6 resume, jobs email, work authorization Yes, and the two Rui-approved open-ended answers (entrepreneurial experience; AI projects / open-source links). The form had no separate location selector — the hybrid 2-3 days/week in NYC or SF question was answered Yes. A second live role, Machine Learning Engineer (Data) (Remote US, $200K-$330K, fraud/identity ML), was NOT applied to."
+      },
+      {
+        "date": "2026-10-26",
+        "text": "LinkedIn invites SENT to Archie Reynolds (Head of Talent, verified in role since Apr 2026) and Ryan Delgado (Senior Director of Engineering, Data Platform / AI Solutions, 5 yrs at Ramp) — both profile-verified first and both confirmed present at the top of Sent invitations, still pending (afternoon monitor). Sonya Yeonas SKIPPED: her LinkedIn shows her Ramp Lead Technical Recruiter role ending Apr 2026 with no later role recorded, so current Ramp employment could not be verified under Rui's verify-first rule. Ramp currently lacks a confirmed current-recruiter line."
+      }
+    ],
+    "intel": {
+      "comp": "$204.4K-$352K base + equity (Applied AI Engineer posting); $200K-$330K base + equity (Machine Learning Engineer, Data posting)",
+      "notes": [
+        "Diligence 2026-10-26: cash + stability play, not an equity-upside play — ~$60B valuation is above Rui's $3B-$30B sweet spot, but posted cash bands are strong, the company is FCF-positive with >$2B annualized revenue, and the IPO path is credible with low near-term acquisition risk — the exit profile that suits a late joiner.",
+        "Fit: no dedicated search/ranking role is posted; the ranking-adjacent work lives in Applied AI (agents/RAG/LLM inference) and fraud/identity ML — both transfer directly from Rui's Coupang search ranking + LLM discovery background."
       ]
     },
     "interviews": []
