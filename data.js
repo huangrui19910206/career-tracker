@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 30, 2026";
+const BUILD_DATE = "Oct 31, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -312,7 +312,8 @@ const COMPANIES = [
           "2026-10-16 — message SENT naming Siri / Information Intelligence / Search interest (existing connection; no invite needed).",
           "2026-10-19 11:58 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; thread verified live first: last sender Rui Oct 16 2:45 PM, no reply): floated the Oct 16 note back up, restated interest in Apple's ML org (Siri / Information Intelligence / Search), asked for a brief chat about senior/staff openings or a pointer to the right hiring team. Awaiting her reply.",
           "2026-10-19 1:09 PM PT — Janelle REPLIED (LinkedIn, to the morning sweep's follow-up; verified in Focused and the opened thread by the afternoon monitor). She asked for: an updated resume; a brief description of Rui's current team/projects/contributions; areas of expertise; GenAI tooling experience and how he uses it; current location; openness to Cupertino and/or Seattle; prior Apple interviews (when/which teams); whether he is currently interviewing with other Apple teams; whether he is actively interviewing with other companies; US work authorization; and future visa sponsorship need.",
-          "2026-10-19 5:26 PM PT — reply SENT in the afternoon monitor (exactly one message, with Resume.pdf attached): thanks, fit summary (Senior Staff MLE, tech lead for Search Ranking at Coupang 2023–present — query rewriting, retrieval, multi-stage ranking incl. LLM-powered product discovery; previously Meta Staff MLE on Feed Recommendation and Pinterest Senior MLE / Tech Lead on Search & Discovery; GenAI work centered on LLM-powered discovery), based in Cupertino and open to hybrid/onsite Bay Area opportunities, offered to chat about roles that could fit. NOT answered (flagged for Rui): work authorization + sponsorship, prior/other Apple interviews, actively interviewing elsewhere, and Seattle openness."
+          "2026-10-19 5:26 PM PT — reply SENT in the afternoon monitor (exactly one message, with Resume.pdf attached): thanks, fit summary (Senior Staff MLE, tech lead for Search Ranking at Coupang 2023–present — query rewriting, retrieval, multi-stage ranking incl. LLM-powered product discovery; previously Meta Staff MLE on Feed Recommendation and Pinterest Senior MLE / Tech Lead on Search & Discovery; GenAI work centered on LLM-powered discovery), based in Cupertino and open to hybrid/onsite Bay Area opportunities, offered to chat about roles that could fit. NOT answered (flagged for Rui): work authorization + sponsorship, prior/other Apple interviews, actively interviewing elsewhere, and Seattle openness.",
+          "2026-10-30 02:25 PM PT — follow-up SENT (LinkedIn, by Rui/main chat during the stuck-lines push; live-verified by the afternoon monitor): followed up on her Oct 19 screening-questions thread, 11 days on. Her work-authorization / sponsorship questions were NOT answered — they await Rui's nod before any answer is given. Awaiting her reply."
         ]
       }
     ],
@@ -328,6 +329,10 @@ const COMPANIES = [
       {
         "date": "2026-10-19",
         "text": "Janelle Saavedra (Senior Sourcing Recruiter, Siri AI / AIML) REPLIED Mon Oct 19, 1:09 PM PT (LinkedIn): asked for Rui's resume, current-team summary, GenAI experience, location / Cupertino-Seattle openness, prior Apple interviews, other Apple teams, other interviews, and work auth/sponsorship. Resume + fit summary SENT 5:26 PM PT (Resume.pdf attached; Cupertino/Bay Area stated) — work auth/sponsorship, prior/other Apple interviews and Seattle were NOT answered and are flagged for Rui"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Follow-up sent to Janelle Saavedra (LinkedIn, 2:25 PM PT, stuck-lines push) on her Oct 19 screening thread. Her work-authorization questions remain unanswered, awaiting Rui's nod. Awaiting her reply."
       }
     ],
     "intel": {
@@ -402,7 +407,8 @@ const COMPANIES = [
           "2026-10-28 10:31 AM PT — the thread's ONE follow-up SENT by the daily sweep (jobs Gmail, in-thread reply to Andy's 2026-10-23 inbound, To verified andy.goff@applied.co): both times offered Oct 23 (Mon Oct 26 2:30 PM / Tue Oct 27 1:00 PM PT) passed with no pick; floated the Sergey Andreev exploratory chat back up and offered Thu Oct 29 1:00–1:30 PM PT or Mon Nov 2 1:00–1:30 PM PT, happy to adjust next week. Awaiting Andy's pick; no more nudges on this thread.",
           "2026-10-28 11:53 AM PT — Andy EMAILED (jobs Gmail): Rui's Oct 23 reply had gone to his spam folder, which is why he had not responded; at 11:58 AM PT he sent the invitation booking the Sergey Andreev exploratory chat for Thu Oct 29, 1:00–1:30 PM PT (Google Meet: meet.google.com/djg-eobi-bom), with Mon Nov 2, 1:00 PM PT as fallback if Sergey must move an optional meeting, and asked Rui to email his impressions after the chat.",
           "2026-10-29 09:32 AM PT — confirmation ack SENT by the email monitor (jobs Gmail, replying to Andy's Oct 28 inbound, To verified andy.goff@applied.co): confirmed receipt of today's Thu Oct 29, 1:00–1:30 PM PT Sergey Andreev chat invite. No prior ack existed.",
-          "2026-10-29 afternoon PT — follow-up SENT at Rui's direction in Andy's thread after the Sergey chat: thanked him, said Rui was very interested after chatting with Sergey (the Data & Compute work fits his Coupang Search & Discovery experience), said Rui is ready to schedule the next interview whenever Andy advances it, and asked about preparation materials for the next round. Awaiting Andy's reply on next steps."
+          "2026-10-29 afternoon PT — follow-up SENT at Rui's direction in Andy's thread after the Sergey chat: thanked him, said Rui was very interested after chatting with Sergey (the Data & Compute work fits his Coupang Search & Discovery experience), said Rui is ready to schedule the next interview whenever Andy advances it, and asked about preparation materials for the next round. Awaiting Andy's reply on next steps.",
+          "2026-10-29 01:43 PM PT — Andy REPLIED by email (jobs Gmail; read in full by the 2026-10-30 email monitor) to Rui's post-chat follow-up: \"That's great to hear! Let me connect with him to see what potential openings and teams might fit your experience, interest, and overall profile, and I'll get back to you as soon as I know what future conversations could look like.\" Ball in Applied Intuition's court; no reply sent by the monitor. (Earlier same-day Andy messages at 09:40 AM and 1:09 PM PT were check-ins about whether the Meet connected.)"
         ]
       },
       {
@@ -458,6 +464,10 @@ const COMPANIES = [
       {
         "date": "2026-10-29",
         "text": "Exploratory chat HELD Thu Oct 29, 1:00–1:30 PM PT with Sergey Andreev (Head of Data & Compute) via Google Meet. Ack to Andy Goff sent 9:32 AM PT (receipt confirmed); after the chat, a follow-up was sent at Rui's direction expressing strong interest and readiness to schedule the next interview, and asking about preparation materials. Awaiting Andy's reply."
+      },
+      {
+        "date": "2026-10-29",
+        "text": "Andy Goff REPLIED 1:43 PM PT after the Sergey Andreev chat: he will connect with Sergey on what potential openings and teams might fit Rui's experience, interest and profile, and get back on what future conversations could look like. Awaiting his update."
       }
     ],
     "intel": {
@@ -507,7 +517,10 @@ const COMPANIES = [
         "role": "GTM Talent Lead",
         "linkedin": "https://www.linkedin.com/in/kristen-wise-4b727919/",
         "contact_status": "invited",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "history": [
+          "2026-10-30 02:24 PM PT — first follow-up SENT (LinkedIn, by Rui/main chat during the stuck-lines push; live-verified by the afternoon monitor): ~21 days after the Oct 8 wave-3 invite, as Arize's fresh line after Stefan O. was marked cold Oct 29. Awaiting her reply."
+        ]
       }
     ],
     "timeline": [
@@ -530,6 +543,10 @@ const COMPANIES = [
       {
         "date": "2026-10-29",
         "text": "Stefan O. marked COLD per one-max rule (follow-up sent Oct 26, no reply in 3 days; verified live in the Oct 29 sweep). No more nudges; Arize AI needs a fresh recruiter line."
+      },
+      {
+        "date": "2026-10-30",
+        "text": "First follow-up sent to Kristen Wise (GTM Talent Lead; LinkedIn, 2:24 PM PT, stuck-lines push) — Arize's fresh line after Stefan O. went cold Oct 29. Awaiting her reply."
       }
     ],
     "intel": {
@@ -576,7 +593,8 @@ const COMPANIES = [
         "date": "2026-10-27",
         "history": [
           "2026-10-27 — ACCEPTED Rui's LinkedIn invitation (live-verified in the afternoon monitor: Sent invitations 146 -> 145 pending, Connections 7,928 -> 7,929, Recently Added #1 Ellie Woodfield, connected Oct 27; career-Gmail accept notification Oct 27 3:53 PM PT). The expansion invite was sent 2026-10-02 (batch 1, mutual Todd Patrick). No prior message thread.",
-          "2026-10-27 04:51 PM PT — thank-you SENT (LinkedIn, confirmed 'Message sent successfully'; thread now tops Focused): thanked her for connecting, gave Rui's background (Senior Staff MLE leading Search Ranking & Discovery at Coupang — query rewriting, retrieval, multi-stage ranking, LLM-powered discovery; ex-Meta/Pinterest), Cupertino-based, offered to chat about senior/staff ML roles at Baseten and to share background. No resume attached (not asked). Awaiting her reply."
+          "2026-10-27 04:51 PM PT — thank-you SENT (LinkedIn, confirmed 'Message sent successfully'; thread now tops Focused): thanked her for connecting, gave Rui's background (Senior Staff MLE leading Search Ranking & Discovery at Coupang — query rewriting, retrieval, multi-stage ranking, LLM-powered discovery; ex-Meta/Pinterest), Cupertino-based, offered to chat about senior/staff ML roles at Baseten and to share background. No resume attached (not asked). Awaiting her reply.",
+          "2026-10-30 11:04 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Technical Recruiter, Baseten, Apr 2026–present (7 mos), San Francisco Bay Area; prior Campus Recruiter at IMC Trading Sep 2020–Apr 2026 (5 yrs 8 mos, incl. Campus Recruitment Team Lead Jan 2023–Aug 2025) and earlier BNP Paribas CIB / Credit Suisse talent roles from 2016 — passes the verify-first rule on total recruiting tenure (~10 yrs). Thread verified first: only Rui's Oct 27 4:51 PM thank-you, no reply, no Seen. Gist: floated the Oct 27 note back up; Baseten inference-platform fit (Senior Staff MLE, Coupang Search Ranking & Discovery, ex-Meta/Pinterest, Bay Area); asked for a brief chat about senior/staff ML roles or a pointer. Confirmed in-thread (verify-only re-read: exactly one Oct 30 follow-up, no duplicate). Awaiting her reply; no second follow-up may be sent. Send-time note: the sending run is harness-measured 11:03–11:05 AM PT with 'Message sent successfully' and an in-thread 'Sent at 10/30/2026, 11:04 AM' tooltip; a later browser report displayed the same single message at 12:34/12:35 PM — display-time variance across sessions, not a second send (verify-only re-read counted exactly one Oct 30 follow-up)."
         ]
       },
       {
@@ -666,6 +684,10 @@ const COMPANIES = [
       {
         "date": "2026-10-27",
         "text": "Ellie Woodfield (Technical Recruitment) ACCEPTED the Oct 2 expansion invite (live-verified: Sent 146 -> 145, Connections 7,928 -> 7,929, Recently Added #1). Thank-you SENT 4:51 PM PT (LinkedIn, confirmed): Coupang Search Ranking & Discovery background, Cupertino-based, brief-chat ask on senior/staff ML roles; no resume attached. A fresh live Baseten line (Tarun Diwan and Ali Taha lines are cold)."
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Follow-up sent to Ellie Woodfield (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first — Technical Recruiter at Baseten since Apr 2026, ~10 yrs total recruiting incl. IMC Trading 5 yrs 8 mos). Awaiting her reply."
       }
     ],
     "intel": {
@@ -703,7 +725,8 @@ const COMPANIES = [
         "history": [
           "2026-10-09 ~1:58 PM — Rui approved the drafted brief-call follow-up DM and it was SENT via LinkedIn (LinkedIn showed delivered); awaiting Chaoyu's reply",
           "2026-10-12 — the 10:30 AM follow-up sweep initially listed Chaoyu as newly eligible, but that was a log error: his one follow-up was already sent 2026-10-09 (Rui-approved brief-call DM, delivered). No further message sent 2026-10-12; still awaiting his reply.",
-          "2026-10-13 — marked COLD per one-max rule: brief-call follow-up sent 2026-10-09, no reply in 4 days (no new message digest as of the 2026-10-13 09:41 monitor triage). No more nudges on this thread."
+          "2026-10-13 — marked COLD per one-max rule: brief-call follow-up sent 2026-10-09, no reply in 4 days (no new message digest as of the 2026-10-13 09:41 monitor triage). No more nudges on this thread.",
+          "2026-10-30 02:23 PM PT — scheduling reply SENT (LinkedIn, by Rui/main chat during the stuck-lines push; seen by Chaoyu at 2:24 PM PT, live-verified by the afternoon monitor): proposed a Tuesday afternoon 1:00–2:00 PM PT brief call. This is a Rui-directed revival of a line marked cold on Oct 13 (not a sweep follow-up). Awaiting his reply."
         ]
       }
     ],
@@ -731,6 +754,10 @@ const COMPANIES = [
       {
         "date": "2026-10-13",
         "text": "Sweep 2026-10-13: Chaoyu Yang marked COLD per one-max rule (brief-call follow-up sent 2026-10-09, no reply since). Modular/BentoML would need a fresh contact if pursued again; BentoML was dropped as a target 2026-10-08 and the only other line (Bo Jiang, invited 2026-10-08) is not being pursued"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Scheduling reply sent to Chaoyu Yang (LinkedIn, 2:23 PM PT; seen 2:24 PM PT): proposed Tuesday 1:00–2:00 PM PT for the brief call — a Rui-directed revival of the line marked cold Oct 13. Awaiting his reply."
       }
     ],
     "intel": {
@@ -818,7 +845,8 @@ const COMPANIES = [
           "2026-10-26 04:50 PM PT — Catherine REPLIED on LinkedIn (verbatim): \"Oh that's so weird! I'll send a manual invite over\" — replying to Rui's 4:49 PM proposal of Tue Oct 27 1:00 PM PT. This arrived just after the Oct 26 afternoon monitor closed and was surfaced by the Oct 27 morning monitor's formal report. It predates and does not reference Rui's evening email postponement.",
           "2026-10-26 07:46 PM PT — Rui EMAILED Catherine postponing the Tue Oct 27 1:00 PM chat (Browserbase): offered Wed Oct 28, Thu Oct 29, or Fri Oct 30 at 1:00 or 1:30 PM PT (30 min) instead, awaiting her pick before a new calendar invitation is created. The automated Greenhouse reminder on Oct 27 01:28 AM PT for the old Oct 27 1:00 PM slot is STALE. As of the Oct 27 afternoon monitor she has NOT picked a Wed-Fri slot on LinkedIn or by email; nothing sent to her Oct 27, no booking.",
           "2026-10-27 01:00 PM PT — intro chat HELD with Catherine Li (per the 2026-10-28 email monitor: she advanced Rui after the Oct 27 13:00 chat). This supersedes the Oct 26 evening postponement framing — the chat went ahead at the originally proposed Tue 1:00 PM slot.",
-          "2026-10-27 01:39 PM PT — Catherine EMAILED (jobs Gmail; read in full by the 2026-10-28 email monitor) advancing Rui to the next step: 'We'd love to move you forward to the next step' and asked him to provide multiple available times via a Greenhouse scheduling link so she could coordinate. Availabilities are prepared but NOT submitted — awaiting Rui's nod (the Tue Nov 3 10:00 AM option must be removed because Harvey now occupies that slot). No LinkedIn Wed–Fri slot pick; ball is in Rui's court."
+          "2026-10-27 01:39 PM PT — Catherine EMAILED (jobs Gmail; read in full by the 2026-10-28 email monitor) advancing Rui to the next step: 'We'd love to move you forward to the next step' and asked him to provide multiple available times via a Greenhouse scheduling link so she could coordinate. Availabilities are prepared but NOT submitted — awaiting Rui's nod (the Tue Nov 3 10:00 AM option must be removed because Harvey now occupies that slot). No LinkedIn Wed–Fri slot pick; ball is in Rui's court.",
+          "2026-10-30 02:23 PM PT — follow-up SENT (LinkedIn, by Rui/main chat during the stuck-lines push; live-verified by the afternoon monitor): nudged her on the manual invite she had offered on Oct 26 (it never arrived) and offered weekdays 1:00–2:00 PM PT. Catherine SEEN it at 2:40 PM PT. The Greenhouse availability submission is still NOT made — it awaits Rui's nod (the Nov 3 10:00 AM slot is to be removed; Harvey occupies it)."
         ]
       }
     ],
@@ -838,6 +866,10 @@ const COMPANIES = [
       {
         "date": "2026-10-27",
         "text": "Intro chat HELD Tue Oct 27, 1:00 PM PT with Catherine Li, and she ADVANCED Rui the same afternoon: email 1:39 PM PT ('We'd love to move you forward to the next step') with a Greenhouse availability link for the next round. Availabilities prepared but NOT submitted — awaiting Rui's nod (Nov 3 10:00 AM option to be removed; Harvey occupies it)."
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Follow-up sent to Catherine Li (LinkedIn, 2:23 PM PT): nudged the manual invite she offered Oct 26 and offered weekdays 1:00–2:00 PM PT; she saw it at 2:40 PM PT. Greenhouse availability submission still awaits Rui's nod."
       }
     ],
     "intel": {
@@ -2316,12 +2348,17 @@ const COMPANIES = [
       {
         "date": "2026-10-20",
         "text": "CORRECTION: Jinming Nian is NOT a Google contact — Rui identified him on Oct 20 as an intern at Rui's own company (Coupang). The Oct 17 intro and the Oct 20 follow-up were mistaken outreach; Rui ordered the messages deleted (deletion dispatched, completion unverified at update time) and the line is VOID. Standing rule added: verify a referral target's profile (employer, level, tenure) before outreach"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Application SUBMITTED for Machine Learning Staff SWE, Search Personalization (Mountain View; Job ID 94644810190594758): filed under Rui's signed-in life Google account at his direction, with rui.huang.jobs@gmail.com as the application's contact email; status confirmed 'Submitted Oct 30'. The resume upload failed, so it went in with the older resume already stored in his Google Careers profile — a submitted application cannot have its attachment changed, so v6 is to be sent to the recruiter at first contact. A second selected role (Senior Staff SWE, Search Platforms, GenAI Content, Mountain View) was NOT submitted: the account had reached Google's 3-applications-in-30-days limit. Later on Oct 30 the Google Careers profile resume was replaced with Resume-Rui-Huang-v6.pdf (66 KB, updated 3:05 PM PT), so future applications default to v6."
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Two Google DeepMind applications under review as of 2026-10-16 (per Rui's outreach pitch to Sam McLeod)."
+        "Two Google DeepMind applications under review as of 2026-10-16 (per Rui's outreach pitch to Sam McLeod).",
+        "2026-10-30: Search Personalization application went in with the OLD profile resume (upload failed; attachments cannot be changed post-submission) — send v6 to the recruiter at first contact. Google Careers profile resume was replaced with v6 on Oct 30, 3:05 PM PT."
       ]
     },
     "interviews": []
@@ -2889,7 +2926,8 @@ const COMPANIES = [
           "2026-10-06 — Raif CANCELLED the Tue Oct 6, 1:30–1:45 PM PT call (last-minute conflict). Rui countered Wed Oct 7 at 10:00 AM or 2:00 PM PT (12:00 PM fallback): two scheduling emails sent from the career Gmail (first proposed 2:15–2:30 PM, then redirected to 10:00 AM / 2:00 PM); awaiting Raif's confirmation; no replacement calendar event yet",
           "2026-10-07 — Raif's 'Updated invitation' email (Oct 6) re-confirmed Wed Oct 7, 12:00–12:15 PM PT. Raif NEVER JOINED — Rui waited alone in the Meet from 12:05 PM PT. Rui asked the agent to ping Raif on LinkedIn + email (send status unverified)",
           "2026-10-13 8:56 AM PT — a SECOND follow-up email SENT in the original career-mailbox thread at Rui's explicit direction (an exception to the one-follow-up-max rule): asked what the next step is and offered weekday afternoons 1:00–2:00 PM PT for a call. Awaiting reply.",
-          "2026-10-16 — the SECOND follow-up email (sent 2026-10-13 at Rui's explicit direction, an exception to the one-max rule) is also unanswered after 3 days; marked COLD again. No more nudges; Mercor needs a fresh recruiter (Michael Bond invite still pending)."
+          "2026-10-16 — the SECOND follow-up email (sent 2026-10-13 at Rui's explicit direction, an exception to the one-max rule) is also unanswered after 3 days; marked COLD again. No more nudges; Mercor needs a fresh recruiter (Michael Bond invite still pending).",
+          "2026-10-30 — THIRD follow-up email SENT (career Gmail, in the original thread; at Rui's explicit direction — a further exception to the one-max rule, after Rui corrected the record: they had talked once, then silence; the nudge follows Rui's version and does not mention the Oct 7 no-show): asked about next steps and whether the role is still open, offered weekdays 1:00–2:00 PM PT. If there is still no reply, Mercor needs a fresh recruiter line (Michael Bond invite still pending since Sep 30). This supersedes the Oct 16 COLD mark for reporting purposes — the line is Rui-directed active again."
         ]
       }
     ],
@@ -2953,6 +2991,10 @@ const COMPANIES = [
       {
         "date": "2026-10-16",
         "text": "Sweep 2026-10-16: Raif Rahal marked COLD again per one-max rule (second follow-up 2026-10-13, Rui-directed exception, no reply in 3 days); Mercor needs a fresh recruiter (Michael Bond invite still pending)"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Third follow-up email sent to Raif Rahal (career Gmail, Rui-directed exception to the one-max rule; written per Rui's corrected record — talked once, then silence): asked for next steps and whether the role is still open, offered weekdays 1:00–2:00 PM PT. No further reply means a fresh Mercor recruiter line is needed."
       }
     ],
     "intel": {
@@ -4237,7 +4279,8 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": "2026-10-23",
         "history": [
-          "2026-10-23 — named in Tyler Ng's confirmation as the interviewer for Rui's Fri Oct 30, 2026, 10:00–10:45 AM PT Coding Screen (Zoom + CoderPad)."
+          "2026-10-23 — named in Tyler Ng's confirmation as the interviewer for Rui's Fri Oct 30, 2026, 10:00–10:45 AM PT Coding Screen (Zoom + CoderPad).",
+          "2026-10-30 10:00 AM PT — Coding Screen HELD as booked: Fri Oct 30, 2026, 10:00–10:45 AM PT with Ryan Wong via Zoom + CoderPad. Outcome pending; no follow-up email from Snorkel as of the Oct 30 early-afternoon email check. The DocuSign NDA still had no signed record as of Oct 30 morning."
         ]
       }
     ],
@@ -4305,6 +4348,10 @@ const COMPANIES = [
       {
         "date": "2026-10-27",
         "text": "Coding Screen CONFIRMED to both Snorkel contacts: Joe Rufino emailed 8:34 AM PT ('Sounds good! Be sure to reply back to Tyler for confirmation as well'); confirmation sent to Tyler Ng 9:31 AM PT and ack sent to Joe 9:32 AM PT (both To verified) for Fri Oct 30, 2026, 10:00-10:45 AM PT with Ryan Wong. DocuSign NDA still unsigned (Rui's action)."
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Coding Screen HELD Fri Oct 30, 2026, 10:00–10:45 AM PT with Ryan Wong (Software Engineer — Operations) via Zoom + CoderPad, as booked Oct 23. Outcome pending — no Snorkel follow-up email as of Oct 30 afternoon; DocuSign NDA still unsigned per the morning brief."
       }
     ],
     "intel": {
@@ -4332,9 +4379,9 @@ const COMPANIES = [
       {
         "date": "2026-10-30",
         "time": "10:00–10:45 AM PT",
-        "title": "Coding Screen (45-min) — CONFIRMED",
+        "title": "Coding Screen (45-min) — HELD",
         "people": "Ryan Wong (Software Engineer — Operations); coordinator Tyler Ng; recruiter Arouj Khan",
-        "notes": "Confirmed by Tyler Ng Oct 23 (invitation sent directly after the ModernLoop link expired; no ModernLoop submission was ever made). Zoom + CoderPad (app.coderpad.io/CM3XZKGD) links in Tyler's Oct 23, 09:56 AM PT confirmation email. Format: live coding in CoderPad, Python suggested, core data structures, NO AI tools allowed. Calendar event created (id j0jj3tfrgk6mt4thg0drl3dh80). DocuSign NDA from Tyler's Oct 22 email still pending Rui's own signature."
+        "notes": "Confirmed by Tyler Ng Oct 23 (invitation sent directly after the ModernLoop link expired; no ModernLoop submission was ever made). Zoom + CoderPad (app.coderpad.io/CM3XZKGD) links in Tyler's Oct 23, 09:56 AM PT confirmation email. Format: live coding in CoderPad, Python suggested, core data structures, NO AI tools allowed. Calendar event created (id j0jj3tfrgk6mt4thg0drl3dh80). DocuSign NDA from Tyler's Oct 22 email still pending Rui's own signature. Held as booked on Oct 30; outcome pending."
       }
     ]
   },
@@ -5363,7 +5410,8 @@ const COMPANIES = [
         "date": "2026-10-12",
         "history": [
           "2026-10-13 ~8:08 PM PT — Rui's wave-5 intro message sent in-thread (his LLM search-agent retrieval work at You.com vs Rui's Search Ranking lead role at Coupang). Abel replied ~8:09 PM PT: 'thanks for reaching out, happy to connect!' — a courtesy greeting only, no pitch or ask. LinkedIn accept notification email arrived 2026-10-14 9:53 AM PT.",
-          "2026-10-14 — thread + profile read in full in a live LinkedIn session: identity confirmed — Senior Research Engineer at You.com (Singapore, remote; Frontier Research API / ARI deep-research agent / DeepConsult benchmark; previously Zoom Hangzhou NLP, ViSenze, NUS). He is an engineer peer, not a recruiter. The earlier assumption that he had cold-messaged Rui was wrong — Rui's side initiated. Peer follow-up draft prepared under the connect-and-chat playbook; awaiting Rui's OK, nothing sent."
+          "2026-10-14 — thread + profile read in full in a live LinkedIn session: identity confirmed — Senior Research Engineer at You.com (Singapore, remote; Frontier Research API / ARI deep-research agent / DeepConsult benchmark; previously Zoom Hangzhou NLP, ViSenze, NUS). He is an engineer peer, not a recruiter. The earlier assumption that he had cold-messaged Rui was wrong — Rui's side initiated. Peer follow-up draft prepared under the connect-and-chat playbook; awaiting Rui's OK, nothing sent.",
+          "2026-10-30 02:22 PM PT — interest DM SENT (LinkedIn, by Rui/main chat during the stuck-lines push; live-verified by the afternoon monitor): Abel had been connected ~17 days with no substantive chat since his Oct 13 courtesy greeting; the DM expressed interest in his search-agent / deep-research work at You.com. Awaiting his reply."
         ]
       },
       {
@@ -5390,6 +5438,10 @@ const COMPANIES = [
       {
         "date": "2026-10-14",
         "text": "Abel Lim connection confirmed (accept email 9:53 AM PT); thread and profile read — Senior Research Engineer at You.com (Singapore, remote; agentic search / deep research), an engineer peer in Rui's search domain. Peer follow-up draft prepared, awaiting Rui's OK; nothing sent"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Interest DM sent to Abel Lim (LinkedIn, 2:22 PM PT, stuck-lines push): first substantive message since his Oct 13 courtesy greeting, expressing interest in his search-agent / deep-research work. Awaiting his reply."
       }
     ],
     "intel": {
