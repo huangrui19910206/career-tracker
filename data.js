@@ -1,4 +1,4 @@
-const BUILD_DATE = "Oct 31, 2026";
+const BUILD_DATE = "Nov 02, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -1460,6 +1460,62 @@ const COMPANIES = [
       ]
     },
     "interviews": []
+  },
+  {
+    "slug": "etsy",
+    "name": "Etsy",
+    "tagline": "E-commerce marketplace — Senior Staff MLE, Search Recommendations and Ads inbound (Brooklyn or Remote US)",
+    "valuation": "~$8B",
+    "valuation_detail": "Public company, ~$8B market cap (backcheck 2026-11-01, reported)",
+    "size": null,
+    "location": "Brooklyn or Remote (US) — per Natasha Kelleher's 2026-10-31 InMail",
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Natasha Kelleher",
+        "role": "Talent Partner (confirmation email lists Principal Technical Sourcer)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-10-31",
+        "history": [
+          "2026-10-31 07:53 PM PT — INBOUND LinkedIn InMail (career-Gmail copy; LinkedIn thread displayed 6:26 PM): 'Hi from Etsy (Remote or Brooklyn based role)' — hiring a Senior Staff Machine Learning Engineer, Search Recommendations and Ads, based in Brooklyn or Remote (US); the role would architect Etsy's next-generation AI/ML ecosystem for 85M+ buyers / 5M sellers, report to the VP of Engineering (Search, Recs, Ads), skip-level CPTO; she cited Rui's Coupang Search & Discovery lead role, query understanding / LLM-powered product discovery, and Meta/Pinterest/AWS background, and asked Rui to send his most updated resume so they can set up a chat. Held under the 2026-10-14 cold-inbound rule: backcheck done, NO reply sent until Rui's go.",
+          "2026-11-01 12:56 PM PT — Rui directed the line forward ('推进'); reply SENT on LinkedIn and verified: expressed interest, attached the v6 resume (Resume.pdf, 66 KB), offered weekday 1:00–2:00 PM PT for an intro call and asked for her scheduling link. No comp mentioned; LinkedIn's share-contact-info prompt declined.",
+          "2026-11-01 01:13 PM PT — Natasha REPLIED (career-Gmail copy + LinkedIn thread verified in full): 'Looking forward to connecting!' with her Rooster scheduling link (link.roosterinc.com/me/3zxe76lv/chat-with-etsy).",
+          "2026-11-01 — Intro call BOOKED via Rooster by the afternoon monitor: Wed Nov 11, 2026, 1:00–1:30 PM PT, Google Meet https://meet.google.com/jgp-wscv-gqz. Nov 2–6 had NO 1:00–2:00 PM slots (Thu Nov 5 only 9:00/10:00/11:00 AM), so Nov 11 was the earliest in-window slot. Confirmation email from Natasha Kelleher <nkelleher@etsy.com> to the jobs inbox at 4:56 PM PT independently verified (Rooster id NPgOjXQMDvP7yzkctBxt); full-context Calendar event created (p1lqnu1djvf5d2e6pishpj424s). No extra LinkedIn message sent (Rooster emailed participants); no phone shared, no comp stated."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-10-31",
+        "text": "Cold inbound: Natasha Kelleher (Talent Partner, Etsy) InMail 7:53 PM PT — Senior Staff MLE, Search Recommendations and Ads, Brooklyn or Remote (US), reporting to VP Eng (Search, Recs, Ads); asked for Rui's updated resume + a chat. Backcheck done; held for Rui's decision under the cold-inbound rule — no reply sent."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Rui directed the line forward; reply SENT on LinkedIn 12:56 PM PT (verified): interest + v6 resume (66 KB) attached + weekday 1:00–2:00 PM PT intro-call times offered, scheduling link requested. Natasha replied 1:13 PM PT with her Rooster scheduling link."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Intro call BOOKED via Rooster: Wed Nov 11, 2026, 1:00–1:30 PM PT with Natasha Kelleher (Google Meet https://meet.google.com/jgp-wscv-gqz; confirmation email to the jobs inbox verified; Calendar event created). Nov 2–6 had no 1:00–2:00 PM slots — Nov 11 was the earliest in-window slot."
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Backcheck 2026-11-01 (email monitor): Etsy is a mature public marketplace (~$8B market cap), not a high-growth private target — equity is liquid RSU rather than high-growth equity. Q3 2026 continuing-operations revenue +10.9% YoY, GMS +8.8%, growth re-accelerating. Caveats: Aug 2026 restructuring cut ~220 roles (mostly product/eng), Depop sold to eBay Jul 2026, CFO departing Mar 2027. Role fit is strong: Senior Staff level in Rui's exact search / recommendations / ads domain.",
+        "Role per Natasha Kelleher's 2026-10-31 InMail: Senior Staff MLE, Search Recommendations and Ads; architect Etsy's next-gen AI/ML ecosystem (85M+ buyers / 5M sellers); reports to VP Eng (Search, Recs, Ads), skip-level CPTO; Brooklyn or Remote (US) — not Bay Area hybrid/onsite."
+      ]
+    },
+    "interviews": [
+      {
+        "date": "2026-11-11",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call — BOOKED",
+        "people": "Natasha Kelleher (Talent Partner / Principal Technical Sourcer, Etsy)",
+        "notes": "Google Meet https://meet.google.com/jgp-wscv-gqz — booked via her Rooster link Nov 1, 2026; confirmation email from nkelleher@etsy.com to the jobs inbox verified; reschedule/cancel via the Rooster link (id NPgOjXQMDvP7yzkctBxt). Role: Senior Staff MLE, Search Recommendations and Ads (Brooklyn or Remote US). Calendar event p1lqnu1djvf5d2e6pishpj424s."
+      }
+    ]
   },
   {
     "slug": "factory",
@@ -4594,7 +4650,8 @@ const COMPANIES = [
         "history": [
           "2026-10-28 — invite sent (Surge expansion batch); Rui's intro was already in-thread 2026-10-28 7:56 PM PT (Senior Staff MLE leading Search Ranking at Coupang, Surge training-data angle, senior ML opportunities).",
           "2026-10-28 09:53 PM PT — ACCEPTED (career-Gmail notification; live-verified 2026-10-29 morning: Recently Added #1, connections 7,929 -> 7,930). The morning monitor sent NO second message (intro already in thread). Awaiting her reply.",
-          "2026-10-29 11:48 AM PT — a SECOND Rui message is in-thread (live-verified by the afternoon monitor): follow-up asking about Senior Staff-level ML, search & ranking, or data platform roles. She had not replied as of the Oct 29 afternoon check."
+          "2026-10-29 11:48 AM PT — a SECOND Rui message is in-thread (live-verified by the afternoon monitor): follow-up asking about Senior Staff-level ML, search & ranking, or data platform roles. She had not replied as of the Oct 29 afternoon check.",
+          "2026-11-01 — marked COLD per one-max rule by the daily sweep: her ONE follow-up (sent 2026-10-29 11:48 AM PT) is unanswered after 3 days; verified live today (thread holds only Rui's Oct 28 intro + Oct 29 follow-up, no message from Marie ever). No more nudges; Surge's live line is now Matt Anger."
         ]
       },
       {
@@ -4655,7 +4712,8 @@ const COMPANIES = [
         "date": "2026-10-29",
         "history": [
           "2026-10-29 — invite sent (profile-verified, Surge parallel push at Rui's direction).",
-          "2026-10-29 01:53 PM PT — ACCEPTED (career-Gmail notification; live-verified the same afternoon: Recently Added #1, connections rose to 7,932). The message-list preview shows the last sender as Rui today 11:54 AM — he appears already messaged today; the thread was not opened in that run, so NO thank-you was sent by the afternoon monitor. Verify the thread content before any thank-you — do not duplicate."
+          "2026-10-29 01:53 PM PT — ACCEPTED (career-Gmail notification; live-verified the same afternoon: Recently Added #1, connections rose to 7,932). The message-list preview shows the last sender as Rui today 11:54 AM — he appears already messaged today; the thread was not opened in that run, so NO thank-you was sent by the afternoon monitor. Verify the thread content before any thank-you — do not duplicate.",
+          "2026-11-01 10:35 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Member of Technical Staff, Surge AI, Jul 2026–present; prior Principal Engineer, Rippling (1 yr 6 mos) and Senior Staff Engineer, DoorDash (5 yrs 1 mo). Thread verified first: only Rui's Oct 29 11:54 AM intro, no reply. Gist: floated the Oct 29 note back up; Surge data-platform fit; asked for a brief chat about a senior/staff ML role or a pointer. Confirmed in-thread ('Message sent successfully'). Awaiting his reply; no second follow-up may be sent."
         ]
       },
       {
@@ -4689,6 +4747,10 @@ const COMPANIES = [
       {
         "date": "2026-10-29",
         "text": "Surge parallel push at Rui's direction ('push harder, more parallel lines'): follow-up sent to Marie Avunjian (in-thread, 11:48 AM PT) pitching Senior Staff ML / search & ranking / data-platform roles, and five new profile-verified invites sent — Maria Clark, Mohammed H, Marija S., Matt Anger and Nick Robin. Matt Anger ACCEPTED the same day, 1:53 PM PT (Recently Added #1); a Rui message already appears in his thread (list preview, 11:54 AM), so no duplicate thank-you is to be sent until the thread is verified. Surge totals per the recruiters file: 11 pending invites plus Marie's connected line (plus Matt's same-day accept)."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Follow-up sweep: Marie Avunjian marked COLD (her Oct 29 follow-up unanswered after 3 days; no message from her ever — verified live). Matt Anger follow-up SENT 10:35 AM PT (LinkedIn DM, his thread's one allowed follow-up; profile + thread verified live first). Surge's live line is now Matt Anger."
       }
     ],
     "intel": {
@@ -5355,7 +5417,8 @@ const COMPANIES = [
         "history": [
           "2026-10-28 — INBOUND LinkedIn InMail (LinkedIn display Wed 11:54 AM; career-Gmail copy 1:53 PM PT): Senior Principal AI/ML Architect, Yahoo Mail Intelligence (100% remote; platform serving 220M+ users; hands-on IC architect role — agentic AI, RAG, LLM serving/inference, personalization/ranking; 12+ years sought). She asked Rui to share his resume for the hiring manager; direct email lindsay.fichter@yahooinc.com. Rui identified her Oct 28 as the recruiter he had reported and directed the resume send; two Oct 28 attempts failed (resume-attachment upload, then a stalled Messaging session) and never landed.",
           "2026-10-29 10:04 AM PT — resume reply SENT and verified in-thread (morning monitor first confirmed NO prior Rui message existed): fit summary + Resume.pdf (66 KB, verified attached in-thread), proposing a weekday recruiter chat 1:00–2:00 PM PT (Thu Oct 29 / Fri Oct 30 / Mon Nov 2 at 1:00 PM PT examples) or her scheduling link. No comp stated, no work-auth answer; contact-info share dialog declined.",
-          "2026-10-29 11:14 AM PT — Lindsay REPLIED: 'Thank you! I will send this over to my hiring manager today and get back with you soon on next steps' — ack only, ball in her court; no reply needed or sent."
+          "2026-10-29 11:14 AM PT — Lindsay REPLIED: 'Thank you! I will send this over to my hiring manager today and get back with you soon on next steps' — ack only, ball in her court; no reply needed or sent.",
+          "2026-11-01 10:37 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Talent Acquisition Manager / Internal Sourcer, Yahoo, Aug 2025–present (1 yr 4 mos); prior recruiting at Alpine Solutions Group, The Intersect Group, and Insight Global (15 yrs 3 mos total) — passes the verify-first rule. Thread verified first: her Oct 29 ack still last, nothing since. Gist: thanked her for forwarding the resume to the HM; offered a weekday 1:00–2:00 PM PT chat if the HM wants to talk. Confirmed in-thread. Awaiting her reply; no second follow-up may be sent."
         ]
       }
     ],
@@ -5367,6 +5430,10 @@ const COMPANIES = [
       {
         "date": "2026-10-29",
         "text": "Resume reply SENT and verified Oct 29, 10:04 AM PT (v6 resume, 66 KB, attached in-thread; weekday 1:00–2:00 PM PT chat proposed). Lindsay replied 11:14 AM PT: she will send it to her hiring manager today and get back on next steps. Awaiting hiring-manager review."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Follow-up sent to Lindsay Fichter (LinkedIn DM, 10:37 AM PT, the thread's one allowed follow-up; profile + thread verified live first): floated up her Oct 29 hiring-manager forwarding; offered a weekday 1:00–2:00 PM PT chat. Awaiting hiring-manager review / her next steps."
       }
     ],
     "intel": {
