@@ -910,7 +910,7 @@ const COMPANIES = [
     "size": null,
     "location": "SF",
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Catherine Li",
@@ -929,7 +929,7 @@ const COMPANIES = [
           "2026-10-30 02:23 PM PT — follow-up SENT (LinkedIn, by Rui/main chat during the stuck-lines push; live-verified by the afternoon monitor): nudged her on the manual invite she had offered on Oct 26 (it never arrived) and offered weekdays 1:00–2:00 PM PT. Catherine SEEN it at 2:40 PM PT. The Greenhouse availability submission is still NOT made — it awaits Rui's nod (the Nov 3 10:00 AM slot is to be removed; Harvey occupies it).",
           "2026-11-01 04:58 PM PT — Catherine REPLIED on LinkedIn (read by the 2026-11-02 morning monitor): apologized that her Greenhouse times request had not actually sent, and proposed Tue Nov 3, 1:00–2:00 PM PT for the next-round call.",
           "2026-11-02 08:03 AM PT — Rui reply SENT in-thread (already present before the morning monitor ran): declined Tue Nov 3 (fully booked) and counter-proposed Wed Nov 4 / Thu Nov 5 / Fri Nov 6 at 10:00 AM or 1:00 PM PT, asking her to send the calendar invite directly. This replaces the Greenhouse availability-submission route — she is scheduling manually, nothing was submitted to Greenhouse.",
-          "2026-11-02 10:18–10:21 AM PT — Catherine REPLIED picking Wed Nov 4 at 10:00 AM PT from Rui's offered slots and said she sent the invite herself (manual scheduling after the Greenhouse issues). Monitor sent nothing further. Her invite had NOT appeared on Google Calendar by ~5:00 PM PT and the slot was free, so a full-context event was created: 'Intro call — Catherine Li (Browserbase)', Wed Nov 4, 2026, 10:00–10:30 AM PT (event et96ke6mto8a967tq3sq3ds694; no guests; meeting link not yet known; delete the duplicate if her invite lands)."
+          "2026-11-02 10:18–10:21 AM PT — Catherine REPLIED picking Wed Nov 4 at 10:00 AM PT from Rui's offered slots and said she sent the invite herself (manual scheduling after the Greenhouse issues). Monitor sent nothing further. Her invite had NOT appeared on Google Calendar by ~5:00 PM PT and the slot was free, so a full-context event was created: 'Intro call — Catherine Li (Browserbase)', Wed Nov 4, 2026, 10:00–10:30 AM PT (event et96ke6mto8a967tq3sq3ds694) — CORRECTED Nov 2 evening: her official invite (jobs inbox, Nov 2 10:20 AM PT) shows a 60-min Technical Screen with Daniel Rousso, 10:00–11:00 AM PT, Zoom link issued; the calendar event was retitled and extended to match."
         ]
       }
     ],
@@ -960,7 +960,7 @@ const COMPANIES = [
       },
       {
         "date": "2026-11-02",
-        "text": "Rui replied Mon Nov 2, 8:03 AM PT declining Tuesday and offering Wed Nov 4 / Thu Nov 5 / Fri Nov 6 at 10:00 AM or 1:00 PM PT (manual scheduling; Greenhouse route dropped). Catherine picked Wed Nov 4, 2026, 10:00 AM PT (replied 10:18–10:21 AM) and said she sent the invite herself; a full-context calendar event was created (et96ke6mto8a967tq3sq3ds694) because her invite had not appeared by ~5:00 PM PT — meeting link still to confirm before the call."
+        "text": "Rui replied Mon Nov 2, 8:03 AM PT declining Tuesday and offering Wed Nov 4 / Thu Nov 5 / Fri Nov 6 at 10:00 AM or 1:00 PM PT (manual scheduling; Greenhouse route dropped). Catherine picked Wed Nov 4, 2026, 10:00 AM PT (replied 10:18–10:21 AM) and said she sent the invite herself; a full-context calendar event was created (et96ke6mto8a967tq3sq3ds694) because her invite had not appeared by ~5:00 PM PT — official invite confirmed it as a Technical Screen with Daniel Rousso (10:00–11:00 AM PT, Zoom link issued)."
       }
     ],
     "intel": {
@@ -973,9 +973,9 @@ const COMPANIES = [
       {
         "date": "2026-11-04",
         "time": "10:00–10:30 AM PT",
-        "title": "Next-round call with Catherine Li — BOOKED (her pick)",
+        "title": "Technical Screen with Daniel Rousso — BOOKED Wed Nov 4, 10:00–11:00 AM PT",
         "people": "Catherine Li (Talent, Browserbase)",
-        "notes": "Picked by Catherine Nov 2 from Rui's Wed–Fri 10 AM / 1 PM offers after her Tue Nov 3 proposal was declined. She said she sent the invite herself (manual, post-Greenhouse issues); it had not appeared on Google Calendar by ~5:00 PM PT Nov 2, so a full-context event was created (et96ke6mto8a967tq3sq3ds694; no guests; 30-min duration assumed; delete if her invite lands). Meeting link not yet known — check inbox before the call."
+        "notes": "Picked by Catherine Nov 2 from Rui's Wed–Fri 10 AM / 1 PM offers. Her official invite (talent@browserbase.com, Nov 2 10:20 AM PT) shows this is a 60-minute Technical Screen with interviewer Daniel Rousso (role: Software Engineer, Core), Zoom link issued. The calendar event originally created as a 30-min intro call was corrected Nov 2 evening: retitled 'Technical screen — Daniel Rousso (Browserbase)', extended to 11:00 AM, Zoom link added. Prep page: https://interview.huangrui.dev/#/browserbase"
       }
     ]
   },
