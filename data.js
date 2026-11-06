@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 05, 2026";
+const BUILD_DATE = "Nov 06, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -632,7 +632,8 @@ const COMPANIES = [
           "2026-11-02 01:56 PM PT — Stefan REPLIED, reviving this thread (it had been marked COLD 2026-10-29; the cold mark is superseded by his reply): apologized for the delay, asked for a quick call, explicitly asked Rui to send his resume, and said he will follow up by email with a scheduling link.",
           "2026-11-02 04:51 PM PT — monitor reply SENT with Resume.pdf attached (66 KB, verified visible in thread): thanked him, gave the Coupang Search Ranking / Arize observability-eval fit line, offered weekday 1:00–2:00 PM PT for an intro call, and asked him to send the scheduling link by email. No comp stated. Awaiting his scheduling link.",
           "2026-11-03 08:30 AM PT — Stefan EMAILED (jobs Gmail) the Greenhouse self-schedule link he promised Nov 2, for a 30-min Preliminary Screening Call, Senior AI Product Engineer, Backend. BOOKED via the link for Wed Nov 4, 2026, 1:00–1:30 PM PT (browser confirmation verified; confirmation email 09:32 PT with Zoom link; full-context calendar event mhirue5il4c2p4p93l7gnt2jbs created). No reply email needed (self-schedule flow).",
-          "2026-11-04 — diligence flag: Rui objected that today's 1:00–1:30 PM PT screen had been booked without a company check — Arize was announced as acquired by Dynatrace (2026-08-13, ~$915M) and the role's public band is $125K–$225K, below his Senior Staff target. No decision to close the Arize line was recorded on Nov 4."
+          "2026-11-04 — diligence flag: Rui objected that today's 1:00–1:30 PM PT screen had been booked without a company check — Arize was announced as acquired by Dynatrace (2026-08-13, ~$915M) and the role's public band is $125K–$225K, below his Senior Staff target. No decision to close the Arize line was recorded on Nov 4.",
+          "2026-11-05 02:13 PM PT — exit email SENT at Rui's instruction, replying in Stefan's confirmation thread (send verified in the daily log): cited level and comp-band mismatch and Rui's focus on later-stage opportunities; the Dynatrace acquisition was NOT mentioned. The Arize line is CLOSED."
         ]
       },
       {
@@ -654,7 +655,8 @@ const COMPANIES = [
         "date": "2026-11-02",
         "history": [
           "2026-11-02 — fresh-line invite SENT (profile-verified first: Head of Talent Acquisition at Arize, ~1 yr 9 mos total tenure at the company). Part of the Nov 2 fresh-lines push after Kristen Wise was marked cold; personalized note (Coupang Search Ranking / ex-Meta / Pinterest; Arize observability/eval angle). Pending.",
-          "2026-11-03 — ACCEPTED Rui's invitation (live-verified in the morning monitor: Connections 7,934 -> 7,935, Recently Added #1; full name Meredith Mende, SPHR — Talent @ Arize AI). Her thread contained no inbound; Rui's intro was already in-thread today 08:06 AM (Senior Staff MLE / Search Ranking at Coupang; Arize observability/evaluation angle), so the monitor sent no duplicate. Awaiting her reply."
+          "2026-11-03 — ACCEPTED Rui's invitation (live-verified in the morning monitor: Connections 7,934 -> 7,935, Recently Added #1; full name Meredith Mende, SPHR — Talent @ Arize AI). Her thread contained no inbound; Rui's intro was already in-thread today 08:06 AM (Senior Staff MLE / Search Ranking at Coupang; Arize observability/evaluation angle), so the monitor sent no duplicate. Awaiting her reply.",
+          "2026-11-05 — line CLOSED with the rest of Arize at Rui's instruction; no reply to her thread and no follow-up sent."
         ]
       },
       {
@@ -665,7 +667,8 @@ const COMPANIES = [
         "date": "2026-11-02",
         "history": [
           "2026-11-02 — fresh-line invite SENT (profile-verified first: Talent Acquisition Specialist at Arize, ~1 yr tenure, Bay Area). Part of the Nov 2 fresh-lines push (Sent 153 -> 159 across Baseten/Arize/You.com).",
-          "2026-11-02 — ACCEPTED the same day (live-verified in the afternoon monitor: Connections 7,933 -> 7,934, Recently Added #1 Sarah Carpenter). A Rui intro message was already in her thread at 3:49 PM PT (part of the fresh-lines push) and marked Seen; the monitor sent NO additional message (one-per-thread rule). Awaiting her reply."
+          "2026-11-02 — ACCEPTED the same day (live-verified in the afternoon monitor: Connections 7,933 -> 7,934, Recently Added #1 Sarah Carpenter). A Rui intro message was already in her thread at 3:49 PM PT (part of the fresh-lines push) and marked Seen; the monitor sent NO additional message (one-per-thread rule). Awaiting her reply.",
+          "2026-11-05 — line CLOSED with the rest of Arize at Rui's instruction. The follow-up that the Nov 5 10:30 AM sweep had HELD (her profile did not clearly clear the verify-first bar, and the Arize closure was then undecided) is void — no follow-up was sent and none will be."
         ]
       }
     ],
@@ -717,13 +720,18 @@ const COMPANIES = [
       {
         "date": "2026-11-04",
         "text": "Diligence flag: Rui's Nov 4 check found Arize was announced as acquired by Dynatrace on 2026-08-13 (~$915M) and the Senior AI Product Engineer, Backend band is $125K–$225K — below his Senior Staff target. Rui ruled that company diligence must precede any future calendar booking; whether the Arize line closes was not decided on Nov 4."
+      },
+      {
+        "date": "2026-11-05",
+        "text": "Line CLOSED Thu Nov 5 at Rui's instruction: exit email sent 2:13 PM PT to Stefan Orsic citing level and comp-band mismatch and Rui's focus on later-stage opportunities (acquisition not mentioned). Sarah Carpenter and Meredith Mende lines closed as well; Sarah's held follow-up is void."
       }
     ],
     "intel": {
       "comp": "Public band for the Senior AI Product Engineer, Backend role (Arize careers page, checked 2026-11-04): $125,000–$225,000 base + equity — a Senior-level band, below Rui's Senior Staff target.",
       "notes": [
         "Reportedly acquired by Dynatrace ~$915M (Aug 2026); hiring may be in flux",
-        "Diligence 2026-11-04 (prompted by Rui after the Nov 4 screen had been booked without it): Arize AI — AI observability / evaluation platform (open-source Phoenix + commercial AX), founded 2020 by Jason Lopatecki (CEO) and Aparna Dhinakaran (CPO); Series C $70M in Feb 2025 (Adams Street Partners led), ~$131M raised in total. Dynatrace announced its acquisition of Arize on 2026-08-13 for ~$915M (~$815M cash + replacement equity), expected to close late this fiscal quarter / early next — under Rui's late-joiner framework, the acquisition-exit case he avoids. Rui flagged the booking as a process failure and set a standing rule: diligence before any interview is booked to his calendar. Whether the Arize line is closed was not decided as of Nov 4."
+        "Diligence 2026-11-04 (prompted by Rui after the Nov 4 screen had been booked without it): Arize AI — AI observability / evaluation platform (open-source Phoenix + commercial AX), founded 2020 by Jason Lopatecki (CEO) and Aparna Dhinakaran (CPO); Series C $70M in Feb 2025 (Adams Street Partners led), ~$131M raised in total. Dynatrace announced its acquisition of Arize on 2026-08-13 for ~$915M (~$815M cash + replacement equity), expected to close late this fiscal quarter / early next — under Rui's late-joiner framework, the acquisition-exit case he avoids. Rui flagged the booking as a process failure and set a standing rule: diligence before any interview is booked to his calendar. Whether the Arize line is closed was not decided as of Nov 4.",
+        "Line CLOSED 2026-11-05 at Rui's instruction: exit email sent to Stefan Orsic citing level and comp-band mismatch and a focus on later-stage opportunities (acquisition not mentioned); Sarah Carpenter and Meredith Mende lines closed at the same time, voiding Sarah's held follow-up."
       ]
     },
     "interviews": [
@@ -1064,7 +1072,10 @@ const COMPANIES = [
           "2026-11-02 08:03 AM PT — Rui reply SENT in-thread (already present before the morning monitor ran): declined Tue Nov 3 (fully booked) and counter-proposed Wed Nov 4 / Thu Nov 5 / Fri Nov 6 at 10:00 AM or 1:00 PM PT, asking her to send the calendar invite directly. This replaces the Greenhouse availability-submission route — she is scheduling manually, nothing was submitted to Greenhouse.",
           "2026-11-02 10:18–10:21 AM PT — Catherine REPLIED picking Wed Nov 4 at 10:00 AM PT from Rui's offered slots and said she sent the invite herself (manual scheduling after the Greenhouse issues). Monitor sent nothing further. Her invite had NOT appeared on Google Calendar by ~5:00 PM PT and the slot was free, so a full-context event was created: 'Intro call — Catherine Li (Browserbase)', Wed Nov 4, 2026, 10:00–10:30 AM PT (event et96ke6mto8a967tq3sq3ds694) — CORRECTED Nov 2 evening: her official invite (jobs inbox, Nov 2 10:20 AM PT) shows a 60-min Technical Screen with Daniel Rousso, 10:00–11:00 AM PT, Zoom link issued; the calendar event was retitled and extended to match.",
           "2026-11-03 10:16 PM PT — Catherine SENT a LinkedIn prep note for the Nov 4 technical screen: a 1-hour session over Zoom — build a proof of concept in a GitHub Codespace (AI coding agent encouraged), Zoom desktop app for the whiteboard design discussion, Codespace link provided at the start. She also clarified the role is fully remote, based in Seattle (HQ); Rui accepted the remote arrangement on Nov 3.",
-          "2026-11-04 09:47 AM PT — ack reply SENT by the morning LinkedIn monitor (verified 'Message sent successfully' in-thread): thanked her for the prep note, confirmed Rui is set for the 10:00 AM interview today, and noted he will have an AI coding agent ready for Codespace and the Zoom desktop app for the whiteboard. No resume attached, no booking."
+          "2026-11-04 09:47 AM PT — ack reply SENT by the morning LinkedIn monitor (verified 'Message sent successfully' in-thread): thanked her for the prep note, confirmed Rui is set for the 10:00 AM interview today, and noted he will have an AI coding agent ready for Codespace and the Zoom desktop app for the whiteboard. No resume attached, no booking.",
+          "2026-11-04 09:52 PM PT — Catherine MESSAGED (LinkedIn, surfaced in the Nov 5 morning monitor as Nov 4 21:52 PT): asked how Rui's Nov 4 technical screen with Daniel Rousso went, said she should have updates on Nov 5, and asked for any feedback on the conversation. No reply was sent that night — feedback needed Rui's own take.",
+          "2026-11-05 (morning) — Rui's feedback SENT in-thread (verified in-thread by the afternoon monitor): he enjoyed the Nov 4 interview and found it fun to work through, is genuinely interested in Browserbase's computer-use direction, and said he often feels he is the bottleneck for his own agents because the tools agents need were built for humans — letting an agent operate the computer directly would be far more efficient.",
+          "2026-11-05 10:46 AM PT — Catherine REPLIED (LinkedIn, verified in-thread; she also reacted to Rui's feedback message): thanked him for the feedback, said it was good to hear he liked the question, and will keep him posted when she hears back. No next steps yet; no reply sent. Awaiting Browserbase's update."
         ]
       }
     ],
@@ -1104,6 +1115,14 @@ const COMPANIES = [
       {
         "date": "2026-11-04",
         "text": "Ack sent to Catherine Li Wed Nov 4, 09:47 AM PT confirming Rui is set for today's 10:00 AM technical screen with Daniel Rousso (AI coding agent + Zoom ready)."
+      },
+      {
+        "date": "2026-11-04",
+        "text": "Technical Screen HELD as booked: Wed Nov 4, 10:00–11:00 AM PT with Daniel Rousso. Catherine Li messaged that evening (9:52 PM PT) asking how it went and for Rui's feedback, saying updates were expected Nov 5."
+      },
+      {
+        "date": "2026-11-05",
+        "text": "Feedback exchange with Catherine Li: Rui's feedback on the Nov 4 screen was sent on the morning of Nov 5 (enjoyed it, interested in Browserbase's computer-use direction); Catherine replied 10:46 AM PT thanking him and saying she will keep him posted when she hears back. Awaiting next steps."
       }
     ],
     "intel": {
@@ -4090,6 +4109,10 @@ const COMPANIES = [
       {
         "date": "2026-11-02",
         "text": "Repeat cold inbound Mon Nov 2, 11:18 PM PT from Dana Leone (recruiter, Qualified Health) pitching a Principal/Staff Applied AI Engineer role in Palo Alto (up to $350k quoted by her). No reply sent: Rui closed Qualified Health on 2026-10-14 and the company stays paused/closed; re-opening is Rui's call only."
+      },
+      {
+        "date": "2026-11-05",
+        "text": "Repeat pushes Thu Nov 5 from Dana Leone (Qualified Health): email 08:24 AM PT (career inbox) asking for resume + a call on the Principal Applied AI Engineer role, and LinkedIn InMail 12:04 PM PT pitching Staff/Principal Applied AI Engineer, Palo Alto hybrid, $300k–$350k base + equity (stated by her). No reply to either: Qualified Health was CLOSED by Rui on 2026-10-14; re-opening is Rui's call only."
       }
     ],
     "intel": {
@@ -4808,12 +4831,14 @@ const COMPANIES = [
         "name": "Arouj Khan",
         "role": "Lead Recruiter",
         "linkedin": null,
-        "contact_status": "existing",
+        "contact_status": "connected",
         "date": "2026-11-02",
         "history": [
           "2026-11-02 03:42 PM PT — named by Joe Rufino (email, jobs Gmail, cc'd) as the Lead Recruiter taking over Rui's process after he cleared the Oct 30 Coding Screen: she will schedule a check-in on the subsequent technical + values rounds and comp / timeline / visa alignment. Rui's reply-all the same day offered Wed Nov 4 – Fri Nov 6, 1:00–2:00 PM PT. Awaiting her scheduling.",
           "2026-11-03 — follow-up SENT at Rui's direct instruction on the thread Joe Rufino handed to her Nov 2 (send id 1a1a291590326d8a, addressed to Joe Rufino): Thu/Fri 1:00–2:00 PM PT offered for her check-in. Awaiting her reply.",
-          "2026-11-04 — Arouj's check-in invite received (jobs Gmail): Thu Nov 5, 2026, 1:00–1:30 PM PT via Google Meet (meet.google.com/thj-ajjh-csi); full-context calendar event created (utjkmfqbime116e2hjlp4ed3kg). She plans to cover comp / timeline / visa on the call — nothing was answered by the agent. DocuSign NDA (sent Oct 22) still unsigned."
+          "2026-11-04 — Arouj's check-in invite received (jobs Gmail): Thu Nov 5, 2026, 1:00–1:30 PM PT via Google Meet (meet.google.com/thj-ajjh-csi); full-context calendar event created (utjkmfqbime116e2hjlp4ed3kg). She plans to cover comp / timeline / visa on the call — nothing was answered by the agent. DocuSign NDA (sent Oct 22) still unsigned.",
+          "2026-11-05 01:00 PM PT — recruiter check-in HELD as booked (Thu Nov 5, 1:00–1:30 PM PT, Google Meet) with Lead Recruiter Arouj Khan. Technical rounds remain Tue Nov 10 (Building with AI, Martin He) and Thu Nov 12 (AI System Design, Mengdie Hu). DocuSign NDA still unsigned.",
+          "2026-11-05 — Arouj ACCEPTED Rui's LinkedIn invitation on Nov 5 (live-verified in the afternoon monitor: Connections 7,942 -> 7,943, Recently Added top Arouj Khan, Connected Nov 5, 2026). No prior LinkedIn thread. Thank-you + interest note SENT 2026-11-05 04:48 PM PT (verified 'Message sent successfully'): Senior Staff MLE leading Search Ranking at Coupang (ex-Meta/Pinterest), interest in Snorkel senior ML roles, offered to chat. Awaiting her reply."
         ]
       }
     ],
@@ -4905,6 +4930,14 @@ const COMPANIES = [
       {
         "date": "2026-11-04",
         "text": "Technical rounds SCHEDULED (Tyler Ng confirmation email Nov 4, 1:02 PM PT): Tue Nov 10, 2026, 10:00–11:00 AM PT — Building with AI with Martin He; Thu Nov 12, 2026, 10:00–11:00 AM PT — AI System Design with Mengdie Hu (both Zoom; HackerRank https://hr.gs/1ec4172). Calendar events created. DocuSign NDA still unsigned."
+      },
+      {
+        "date": "2026-11-05",
+        "text": "Recruiter check-in HELD with Arouj Khan Thu Nov 5, 1:00–1:30 PM PT (Google Meet), as booked. Technical rounds remain Tue Nov 10 and Thu Nov 12. DocuSign NDA still unsigned."
+      },
+      {
+        "date": "2026-11-05",
+        "text": "Arouj Khan ACCEPTED Rui's LinkedIn invitation Thu Nov 5 (Connections 7,943); thank-you + interest note sent 4:48 PM PT and verified in-thread. Awaiting her reply."
       }
     ],
     "intel": {
