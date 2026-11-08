@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 07, 2026";
+const BUILD_DATE = "Nov 08, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -6249,7 +6249,8 @@ const COMPANIES = [
           "2026-11-03 — ACCEPTED Rui's invitation (Connected Nov 3, 2026; reconciled in the Nov 4 morning monitor's live state). She REPLIED Nov 3, 6:10 PM PT: asked for Rui's resume, what kinds of roles he is looking for, and whether he is already working with a Google recruiter.",
           "2026-11-03 evening — reply SENT with the v6 resume attached (10:57 PM PT) plus a fit summary (YouTube large-scale ranking / recommendation Staff roles). The Google-recruiter question was initially left unanswered pending Rui's approval.",
           "2026-11-03 11:06 PM PT — follow-up SENT with Rui's approval: he is not currently working with a Google recruiter (his Oct 30 Google application was a direct website application, no recruiter contact). Both sends were verified landed in-thread by the Nov 4 morning monitor; no duplicate was sent. Awaiting her reply.",
-          "2026-11-06 09:54 AM PT — Su-Lin REPLIED (LinkedIn, found by the follow-up sweep's live thread read): 'I'm going to share your resume with my recruiter, and we'll go from there.' Thread is active; ball is with her / her recruiter. No follow-up was spent and no resume re-sent. Rui's thank-you reply was confirmed delivered in-thread at 10:42 AM PT."
+          "2026-11-06 09:54 AM PT — Su-Lin REPLIED (LinkedIn, found by the follow-up sweep's live thread read): 'I'm going to share your resume with my recruiter, and we'll go from there.' Thread is active; ball is with her / her recruiter. No follow-up was spent and no resume re-sent. Rui's thank-you reply was confirmed delivered in-thread at 10:42 AM PT.",
+          "2026-11-07 12:47 PM PT — Su-Lin REPLIED again (LinkedIn, afternoon monitor): 'I connected with the recruiter, they will let you know if it makes sense for us to start a more formal process. Thanks again for your interest!' This follows her Nov 6 note that she would share Rui's resume with her recruiter. The monitor's thank-you was SENT 4:47 PM PT (one per thread, confirmed in-thread): thanked her for connecting with the recruiter on Rui's behalf and asked to be kept posted. Thread active — awaiting the recruiter's decision on a formal process."
         ]
       },
       {
@@ -6295,6 +6296,10 @@ const COMPANIES = [
       {
         "date": "2026-11-06",
         "text": "Su-Lin Wu replied Fri Nov 6, 9:54 AM PT: she will share Rui's resume with her recruiter and go from there. Rui's thank-you was delivered in-thread 10:42 AM PT. Thread active — awaiting her recruiter."
+      },
+      {
+        "date": "2026-11-07",
+        "text": "Su-Lin Wu replied again Sat Nov 7, 12:47 PM PT: she has connected with her recruiter, who will let Rui know if it makes sense to start a more formal process. Thank-you sent 4:47 PM PT. Thread active — awaiting the recruiter's decision."
       }
     ],
     "intel": {
