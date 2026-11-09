@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 08, 2026";
+const BUILD_DATE = "Nov 09, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -73,10 +73,11 @@ const COMPANIES = [
         "name": "Ravi Kumar C S",
         "role": "Principal Engineer, Amazon Search (Ranking)",
         "linkedin": null,
-        "contact_status": "invited",
-        "date": "2026-11-03",
+        "contact_status": "connected",
+        "date": "2026-11-08",
         "history": [
-          "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Principal Engineer, Amazon Search Ranking). Expansion round of Rui's Nov 3 outreach. Non-HR, no resume attached. Pending."
+          "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Principal Engineer, Amazon Search Ranking). Expansion round of Rui's Nov 3 outreach. Non-HR, no resume attached. Pending.",
+          "2026-11-08 — ACCEPTED Rui's LinkedIn invitation Sun Nov 8 (accept email 00:53 PT; live-verified in the morning monitor: Recently Added #1, Connections 7,944 -> 7,945, Sent invitations 172 -> 171). Rui's outbound was already in-thread at Nov 8, 12:29 AM PT: Senior Staff MLE leading Search Ranking at Coupang (ex-Meta Feed Rec, Pinterest Search), exploring Staff ML roles at Amazon Search, asked about a referral / openings / the right hiring manager, resume offered in text (not attached). The monitor sent NO duplicate. Who sent the 12:29 AM message could not be determined from LinkedIn. Awaiting Ravi's reply."
         ]
       },
       {
@@ -94,6 +95,10 @@ const COMPANIES = [
       {
         "date": "2026-11-03",
         "text": "Big-company hot-ML-group outreach Tue Nov 3 (all profile-verified): invites to Ravi Kumar C S (Principal Engineer, Search Ranking) and, late in the day after Rui approved the alternates, Alan Skelley (Principal Engineer, Amazon Search). Pending."
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Ravi Kumar C S ACCEPTED Sun Nov 8 (live-verified: Recently Added #1, Connections 7,945). Rui's outbound was already in-thread at 12:29 AM PT (Coupang Search Ranking intro, Amazon Search openings/referral ask, resume offered in text) — the monitor sent no duplicate. Awaiting his reply."
       }
     ],
     "intel": {
@@ -4197,6 +4202,10 @@ const COMPANIES = [
       {
         "date": "2026-11-05",
         "text": "Repeat pushes Thu Nov 5 from Dana Leone (Qualified Health): email 08:24 AM PT (career inbox) asking for resume + a call on the Principal Applied AI Engineer role, and LinkedIn InMail 12:04 PM PT pitching Staff/Principal Applied AI Engineer, Palo Alto hybrid, $300k–$350k base + equity (stated by her). No reply to either: Qualified Health was CLOSED by Rui on 2026-10-14; re-opening is Rui's call only."
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Follow-up InMail Sun Nov 8, 12:04 PM PT from Dana Leone (Qualified Health): follow-up pitch for Principal Applied AI Engineer — $155M raised in under 2.5 years, 20 customers, 3 pharma partnerships; base $300,000–$350,000 + equity + benefits + 401k + unlimited PTO (stated by her); onsite Tue–Thu in Palo Alto; asked if Rui wants a call. No reply: Qualified Health is a CLOSED line (Rui passed 2026-10-14); logged only."
       }
     ],
     "intel": {
