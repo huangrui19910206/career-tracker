@@ -516,7 +516,8 @@
         "date": "2026-10-22",
         "history": [
           "2026-11-03 — ACCEPTED Rui's Oct 22 fresh-line invitation (reported in the Nov 3 evening round; live state reconciled in the Nov 4 morning monitor). Rui himself messaged him at 9:32 PM PT that evening; no reply yet as of the Nov 4 afternoon monitor. The monitors sent nothing (Rui's own outbound already in-thread).",
-          "2026-11-06 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Together AI, Technical Lead / Senior Software Engineer (ex-Google), LLM Inference Systems / ML Infrastructure, SF Bay Area, NYU. Thread held only Rui's Nov 3 9:32 PM NYU-alumni message, no reply. Gist: floated the Nov 3 note; Together inference-platform interest; asked for a brief chat on senior/staff ML/inference roles or a pointer. Cold check Nov 9 if still silent."
+          "2026-11-06 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Together AI, Technical Lead / Senior Software Engineer (ex-Google), LLM Inference Systems / ML Infrastructure, SF Bay Area, NYU. Thread held only Rui's Nov 3 9:32 PM NYU-alumni message, no reply. Gist: floated the Nov 3 note; Together inference-platform interest; asked for a brief chat on senior/staff ML/inference roles or a pointer. Cold check Nov 9 if still silent.",
+          "2026-11-09 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-11-06 10:36 AM PT) is unanswered after 3 days; verified live in the 2026-11-09 sweep (follow-up seen by Yuan, no reply). No more nudges on this thread; Together AI needs a fresh line."
         ]
       }
     ],
@@ -552,6 +553,10 @@
       {
         "date": "2026-11-06",
         "text": "Follow-up sent to Yuan ZHANG Fri Nov 6, 10:36 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 9."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Yuan ZHANG marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:36 AM PT, seen by Yuan, no reply in 3 days; verified live). No more nudges; Together AI needs a fresh line."
       }
     ],
     "intel": {
@@ -749,7 +754,8 @@
         "history": [
           "2026-11-02 — fresh-line invite SENT (profile-verified first: Head of Talent Acquisition at Baseten since Jan 2026, ~11 mos). Part of the Nov 2 fresh-lines push after Ellie Woodfield was marked cold; personalized note (Coupang Search Ranking / ex-Meta / Pinterest; Baseten inference-serving angle). Pending.",
           "2026-11-03 — ACCEPTED Rui's Nov 2 fresh-line invitation (live-verified in the afternoon monitor: Recently Added, Connected Nov 3, 2026). Rui's outbound was already in-thread today 10:34 AM (Baseten inference/serving angle), so the monitor sent no duplicate. No inbound reply yet. Awaiting his reply.",
-          "2026-11-06 10:33 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Head of Talent Acquisition, Baseten, Jan 2026–present (11 mos); prior Senior Director, Global Recruiting at Meta, Jul 2013–Jan 2026 (12 yrs 7 mos). Thread held only Rui's Nov 3 10:34 AM intro, no reply. Gist: floated the Nov 3 note; Baseten inference-platform fit; asked for a brief chat on senior/staff ML roles or a pointer. Cold check Nov 9 if still silent."
+          "2026-11-06 10:33 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Head of Talent Acquisition, Baseten, Jan 2026–present (11 mos); prior Senior Director, Global Recruiting at Meta, Jul 2013–Jan 2026 (12 yrs 7 mos). Thread held only Rui's Nov 3 10:34 AM intro, no reply. Gist: floated the Nov 3 note; Baseten inference-platform fit; asked for a brief chat on senior/staff ML roles or a pointer. Cold check Nov 9 if still silent.",
+          "2026-11-09 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-11-06 10:33 AM PT) is unanswered after 3 days; verified live in the 2026-11-09 sweep (follow-up still last, no reply, no Seen). No more nudges on this thread; Baseten needs a fresh recruiter line."
         ]
       },
       {
@@ -827,6 +833,10 @@
       {
         "date": "2026-11-06",
         "text": "Follow-up sent to Lou Zumpano Fri Nov 6, 10:33 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 9."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Lou Zumpano marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:33 AM PT, no reply in 3 days; verified live — follow-up still last, no Seen). No more nudges; Baseten needs a fresh recruiter line."
       }
     ],
     "intel": {
@@ -1288,7 +1298,7 @@
     "size": "~800 → 1,000 by year-end",
     "location": null,
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Tyler Wilson",
@@ -1330,7 +1340,9 @@
           "2026-10-19 ~08:28 AM PT — reply SENT from the jobs Gmail in the same thread: thanked him, noted no calendar link had arrived and asked him to resend it, and offered 10:00–11:00 AM PT mornings as an alternative. Awaiting his resend; pick a slot on the calendar once the link arrives.",
           "2026-10-21 03:33 AM PT — Louis EMAILED (jobs Gmail, read in full by the 2026-10-21 email monitor): apologized for missing Rui's previous reply and sent his Ashby scheduling link for a 1-hour video conversation, asking for availability on Fri Oct 23 or in the week commencing Nov 1 (he is in Berlin the following week with limited predictability).",
           "2026-10-21 — availability SUBMITTED via Louis's Ashby link (corrected record): primary Mon Nov 2, 2026, 10:00–11:00 AM PT; backup Wed Nov 4, 2026, 10:00–11:00 AM PT (Ashby required at least 2 days; Thu Nov 5 and Fri Nov 6 showed not available on his calendar). Ashby status: 'Waiting for Louis Cross to confirm' — this is an availability/interview request, NOT a confirmed booking, and no confirmation or invitation email had arrived as of ~10:15 AM PT. Fri Oct 23 was skipped (Anthropic double-header that day). A primary-calendar HOLD event was created with the corrected status. Awaiting Louis's confirmation.",
-          "2026-10-22 01:57 AM PT — recruiter screen CONFIRMED by email (jobs Gmail; read by the 2026-10-22 email monitor): Mon Nov 2, 2026, 10:00–10:30 AM PT with Louis Cross, Google Meet https://meet.google.com/ofj-cabz-eiu, plus a separate calendar invite; reschedule via careers@clickhouse.com. The final confirmation is a 30-min recruiter screen, not the 1-hour conversation the Oct 21 scheduling email described. The Nov 2 calendar HOLD (10:00–11:00, awaiting confirmation) was updated in place to the confirmed 10:00–10:30 event. A corrected v6 resume resend also reached Louis on 2026-10-22 (he was the one correctly addressed recipient in the first resend batch)."
+          "2026-10-22 01:57 AM PT — recruiter screen CONFIRMED by email (jobs Gmail; read by the 2026-10-22 email monitor): Mon Nov 2, 2026, 10:00–10:30 AM PT with Louis Cross, Google Meet https://meet.google.com/ofj-cabz-eiu, plus a separate calendar invite; reschedule via careers@clickhouse.com. The final confirmation is a 30-min recruiter screen, not the 1-hour conversation the Oct 21 scheduling email described. The Nov 2 calendar HOLD (10:00–11:00, awaiting confirmation) was updated in place to the confirmed 10:00–10:30 event. A corrected v6 resume resend also reached Louis on 2026-10-22 (he was the one correctly addressed recipient in the first resend batch).",
+          "2026-11-09 04:29 AM PT — Louis EMAILED (jobs Gmail; read by the 2026-11-09 email monitor) with a new Ashby link for the next step after the Nov 2 recruiter screen — a 1-hour video conversation, ML Engineer (AI/ML). Availability SUBMITTED via Ashby the same morning: Fri Nov 13 / Mon Nov 16 / Thu Nov 12 / Wed Nov 11, all 10:00–11:00 AM PT. Ashby status: 'Waiting for Louis Cross to confirm' — not yet booked; an unconfirmed calendar HOLD was placed on Fri Nov 13, 10:00–11:00 AM PT.",
+          "2026-11-09 (afternoon, 15:00 PT email review) — HM round CONFIRMED: Louis Cross confirmed Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD (calendar event utaqq252256ph95knt6ijnjdd8) was upgraded in place to confirmed with full context (company brief + questions to ask). Note: the role title is Senior ML Engineer — a level below Senior Staff."
         ]
       },
       {
@@ -1343,6 +1355,16 @@
           "2026-10-16 — expansion-batch invite sent in the morning and ACCEPTED the same day. The invite note became the first message in the thread (09:35), so no duplicate thank-you was sent. ClickHouse now has two live lines: Louis Cross + Kaushik Iska.",
           "2026-10-19 11:56 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; thread verified live first: last sender Rui Oct 16 9:35 AM invite note, no reply): floated the Oct 16 note back up, restated interest in a senior/staff ML or search role at ClickHouse, asked for a brief chat or a pointer to the right hiring team. Awaiting his reply.",
           "2026-10-22 — marked COLD per one-max rule: the thread's one follow-up was sent 2026-10-19 11:56 AM PT and is still unanswered after 3 days; verified live in today's sweep (Rui's Oct 19 follow-up still last, no reply, no Seen text; Focused/Unread/Other checked). Nothing sent today. ClickHouse's live line is Louis Cross (recruiter screen confirmed Mon Nov 2, 10:00 AM PT); Kaushik's thread gets no more nudges."
+        ]
+      },
+      {
+        "name": "Gil Raphaelli",
+        "role": "Director, Engineering (hiring-manager interviewer)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-09",
+        "history": [
+          "2026-11-09 — named by Louis Cross as the interviewer for Rui's confirmed hiring-manager conversation: Fri Nov 13, 2026, 10:00–11:00 AM PT, Google Meet ryj-mtda-oti (see timeline / interviews)."
         ]
       }
     ],
@@ -1414,6 +1436,14 @@
       {
         "date": "2026-10-22",
         "text": "Recruiter screen CONFIRMED: Mon Nov 2, 2026, 10:00–10:30 AM PT with Louis Cross (Google Meet ofj-cabz-eiu; confirmation email Oct 22, 01:57 AM PT). The 30-min screen supersedes the 1-hour conversation described in the Oct 21 scheduling email; the calendar HOLD was updated to the confirmed event"
+      },
+      {
+        "date": "2026-11-09",
+        "text": "ADVANCEMENT: Louis Cross sent a new Ashby link Mon Nov 9, 04:29 AM PT for the next step after the Nov 2 recruiter screen (1-hour video conversation, ML Engineer AI/ML). Availability submitted the same morning (Fri Nov 13 / Mon Nov 16 / Thu Nov 12 / Wed Nov 11, all 10:00–11:00 AM PT); Ashby status 'Waiting for Louis Cross to confirm' — unconfirmed HOLD placed on Fri Nov 13."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "HM conversation CONFIRMED Mon Nov 9 (afternoon): Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD was upgraded in place to a confirmed event with full context. Role title is Senior ML Engineer (a level below Senior Staff)."
       }
     ],
     "intel": {
@@ -1431,6 +1461,13 @@
         "title": "Recruiter screen — CONFIRMED",
         "people": "Louis Cross",
         "notes": "Google Meet https://meet.google.com/ofj-cabz-eiu — confirmed Oct 22, 01:57 AM PT (jobs Gmail); reschedule via careers@clickhouse.com. Supersedes the Oct 21 availability request / calendar HOLD for a 1-hour call."
+      },
+      {
+        "date": "2026-11-13",
+        "time": "10:00–11:00 AM PT",
+        "title": "Hiring-manager conversation — CONFIRMED",
+        "people": "Gil Raphaelli (Director, Engineering); coordinator Louis Cross (Senior Technical Recruiter)",
+        "notes": "Google Meet ryj-mtda-oti — confirmed by Louis Cross Mon Nov 9, 2026 (afternoon) after availability was submitted via his Ashby link that morning (Fri Nov 13 was the first-choice slot). 1-hour video conversation for ML Engineer (AI/ML); role title Senior ML Engineer. Calendar event utaqq252256ph95knt6ijnjdd8 (upgraded in place from the morning unconfirmed HOLD)."
       }
     ]
   },
@@ -4486,7 +4523,8 @@
         "contact_status": "connected",
         "date": "2026-11-06",
         "history": [
-          "2026-11-06 — invite SENT (profile-verified first) as part of Rui's Nov 6 Perplexity outreach round, and ACCEPTED the same day (live-verified in the afternoon monitor: Connections 7,943 -> 7,944, Recently Added #1 Peter Hart, Connected Nov 6, 2026). Rui's outbound message was already in-thread today 2:14 PM PT (Senior Staff MLE leading Search Ranking at Coupang; admirer of Perplexity's AI search work; asked to connect), so the monitor sent no thank-you. Peter has not replied yet. Awaiting his reply."
+          "2026-11-06 — invite SENT (profile-verified first) as part of Rui's Nov 6 Perplexity outreach round, and ACCEPTED the same day (live-verified in the afternoon monitor: Connections 7,943 -> 7,944, Recently Added #1 Peter Hart, Connected Nov 6, 2026). Rui's outbound message was already in-thread today 2:14 PM PT (Senior Staff MLE leading Search Ranking at Coupang; admirer of Perplexity's AI search work; asked to connect), so the monitor sent no thank-you. Peter has not replied yet. Awaiting his reply.",
+          "2026-11-09 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's ONE follow-up; confirmed in-thread, 'Message sent successfully'). Profile verified live first: Tech Lead, File Search Platform @ Perplexity; MTS Oct 2023–present (3 yrs 2 mos, SF); prior ML Engineer at Robust Intelligence; MIT MEng AI. Thread verified first: only Rui's Nov 6, 2:14 PM PT outbound, no reply, no prior follow-up. Gist: floated the Nov 6 note; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), keen on Perplexity AI search / File Search; asked for a brief chat about senior/staff ML/search roles or a pointer. Cold check Nov 12 if silent. No reply as of the Nov 9 afternoon monitor."
         ]
       }
     ],
@@ -4518,6 +4556,10 @@
       {
         "date": "2026-11-06",
         "text": "P1 application approved by Rui but NOT submitted: the two essays were approved verbatim and 4-days-onsite confirmed OK, but the form's Exercise field requires a Perplexity conversation shared while logged in (the share button is disabled for anonymous sessions). Awaiting Rui logging into perplexity.ai with the jobs email so the share link can be generated and P1 submitted."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Follow-up sent to Peter Hart (Tech Lead, File Search Platform) Mon Nov 9, 10:34 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 12."
       }
     ],
     "intel": {
@@ -5189,7 +5231,8 @@
           "2026-11-02 03:58 PM PT — Nick EMAILED (jobs Gmail) after Andy Goff's 3:20 PM handoff, asking for a quick call to arrange Rui's technical coding round. Reply-all SENT the same day offering Wed–Fri 1:00 PM PT for the call and a 10:00 AM PT preference for the coding round. Awaiting his scheduling.",
           "2026-11-03 — follow-up SENT at Rui's direct instruction ('continue pushing'; send id 1a1a29163da829a2, To verified): offered Thu/Fri 1:00 PM PT for the quick scheduling call and Thu/Fri 10:00 AM PT for the technical coding round. Awaiting his scheduling. Applied Intuition NDA (Ashby) still unsigned — Rui's action.",
           "2026-11-03 02:11 PM PT — Nick EMAILED confirming he will call Rui Wed Nov 4, 1:30 PM PT (to Rui's 917 number) to align the coding-round scheduling with the coordination team, targeting Thu/Fri around 10:00 AM; a 30-min placeholder calendar event was created (it sat back-to-back after the 1:00 PM Arize screen).",
-          "2026-11-04 — the 1:30 PM scheduling call was CANCELLED at Rui's direction (Beatrice Wang had already scheduled the coding round directly; the two lines collided). An email was SENT to Nick (nickg@applied.co) cancelling the call and asking to move the coding round to Fri 10:00 AM; the calendar phone event was deleted. Nick replied 2:40 PM PT that the coordination team was arranging it; the round was ultimately confirmed at Fri Nov 6, 10:15–11:00 AM PT via Beatrice (see her entry)."
+          "2026-11-04 — the 1:30 PM scheduling call was CANCELLED at Rui's direction (Beatrice Wang had already scheduled the coding round directly; the two lines collided). An email was SENT to Nick (nickg@applied.co) cancelling the call and asking to move the coding round to Fri 10:00 AM; the calendar phone event was deleted. Nick replied 2:40 PM PT that the coordination team was arranging it; the round was ultimately confirmed at Fri Nov 6, 10:15–11:00 AM PT via Beatrice (see her entry).",
+          "2026-11-09 10:49 AM PT — Nick handed Rui off to Sophia Conn (Technical Recruiter), who now owns next steps and feedback after the Nov 6 coding round with Martin Meinke (see Sophia Conn's contact entry)."
         ]
       },
       {
@@ -5202,6 +5245,16 @@
           "2026-11-03 03:06 PM PT — Beatrice EMAILED (jobs Gmail) proposing the coding round for Fri Nov 6, 2026, 11:00–11:45 AM PT with Martin Meinke (CoderPad + Google Meet) and asking for a Reply-All confirmation. Not confirmed at the time — the 11:00 AM start conflicts with Rui's 10:00 AM coding-round rule.",
           "2026-11-04 — at Rui's direction, an email was SENT to Beatrice (Cc Nick Gutierrez) asking to move the coding round to Fri Nov 6, 10:00–10:45 AM PT; the colliding Nov 4, 1:30 PM scheduling call with Nick Gutierrez was cancelled and its calendar event deleted.",
           "2026-11-04 04:21 PM PT — Beatrice REPLIED: Martin Meinke has a 10:00 AM conflict, so she proposed Fri Nov 6, 10:15–11:00 AM PT instead; a new invite was sent and the old 11:00 AM version cancelled. Rui accepted; a Reply-All confirmation was SENT (To Beatrice, Cc Nick) and the calendar event was created for 10:15–11:00 AM PT."
+        ]
+      },
+      {
+        "name": "Sophia Conn",
+        "role": "Technical Recruiter (current contact for next steps + feedback)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-09",
+        "history": [
+          "2026-11-09 — Nick Gutierrez handed Rui to Sophia Conn (10:49 AM PT); she emailed at 2:30 PM PT asking to schedule a quick call (next steps + feedback after the Nov 6 coding round with Martin Meinke). A reply was SENT the same day in the jobs-Gmail thread (To: Sophia Conn, verified): offered Thu Nov 12 or Mon Nov 16, both 1:00 PM PT (Nov 11 1:00 PM is the Etsy intro call; Nov 13 1:00 PM is an office happy hour). Awaiting her confirmation. NDA still unsigned."
         ]
       }
     ],
@@ -5265,6 +5318,10 @@
       {
         "date": "2026-11-04",
         "text": "Coding round CONFIRMED at Fri Nov 6, 10:15–11:00 AM PT with Martin Meinke: at Rui's direction the Nov 4, 1:30 PM call with Nick Gutierrez was cancelled (calendar event deleted) and a move to Fri 10:00 AM was requested from Nick and Beatrice Wang; Beatrice replied 4:21 PM PT that Martin is busy at 10:00 and proposed 10:15–11:00, which Rui accepted — Reply-All confirmed, calendar event created (CoderPad + Google Meet). The Ashby diversity / EEO survey was also submitted Nov 4 under Rui's auto-fill rule. NDA still unsigned."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Nick Gutierrez handed Rui to Sophia Conn (Technical Recruiter; next steps + feedback) Mon Nov 9; she emailed 2:30 PM PT proposing a quick call. Reply sent the same day offering Thu Nov 12 or Mon Nov 16 at 1:00 PM PT — awaiting her confirmation. NDA still unsigned."
       }
     ],
     "intel": {
@@ -6100,6 +6157,16 @@
         "history": [
           "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: VP Engineering, YouTube Search/Discovery/Main App). Expansion round of Rui's Nov 3 outreach. Non-HR, no resume attached. Pending."
         ]
+      },
+      {
+        "name": "Kyle Richey",
+        "role": "Technical Recruiter, YouTube Engineering (Google)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-09",
+        "history": [
+          "2026-11-09 08:23 AM PT — cold INBOUND email (life Gmail; read by the 2026-11-09 email monitor, id 1a1c11ffa76a8d92; kylerichey@google.com): he found Rui's application and wants to consider him for Senior Engineering Manager, YouTube Recommendations ML; asked for a 30-min call + availability this week. NO reply sent — management-track role + cold-inbound diligence rule — flagged to Rui for his decision. Possibly the recruiter Su-Lin Wu connected Rui with on Nov 7 (unconfirmed). No LinkedIn message from him was found in the Nov 9 monitors."
+        ]
       }
     ],
     "timeline": [
@@ -6118,6 +6185,10 @@
       {
         "date": "2026-11-07",
         "text": "Su-Lin Wu replied again Sat Nov 7, 12:47 PM PT: she has connected with her recruiter, who will let Rui know if it makes sense to start a more formal process. Thank-you sent 4:47 PM PT. Thread active — awaiting the recruiter's decision."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Kyle Richey (Technical Recruiter, YouTube Engineering) cold-emailed Mon Nov 9, 08:23 AM PT (life inbox): wants to consider Rui for Senior Engineering Manager, YouTube Recommendations ML; asked for a 30-min call + availability this week. No reply sent — management-track role, held for Rui's decision under the cold-inbound diligence rule. Possibly the recruiter Su-Lin Wu connected on Nov 7 (unconfirmed)."
       }
     ],
     "intel": {
@@ -6157,7 +6228,8 @@
         "date": "2026-11-03",
         "history": [
           "2026-11-03 — direct message SENT to this existing connection (thread checked first: no earlier message had been sent): self-introduction + openings/referral ask. Expansion round of Rui's Nov 3 outreach. No reply as of the Nov 3 afternoon monitor (outbound 14:42 PT).",
-          "2026-11-06 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Tech lead of Netflix recommendation ranking; Staff AI Research Scientist, Los Gatos. Thread held only Rui's Nov 3 2:42 PM DM, no reply. Gist: floated the Nov 3 note; GenRec / LLM-native ranking alignment; asked for a brief chat about Staff recommendations roles or a pointer to the right team. Cold check Nov 9 if still silent."
+          "2026-11-06 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Tech lead of Netflix recommendation ranking; Staff AI Research Scientist, Los Gatos. Thread held only Rui's Nov 3 2:42 PM DM, no reply. Gist: floated the Nov 3 note; GenRec / LLM-native ranking alignment; asked for a brief chat about Staff recommendations roles or a pointer to the right team. Cold check Nov 9 if still silent.",
+          "2026-11-09 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-11-06 10:36 AM PT) is unanswered after 3 days; verified live in the 2026-11-09 sweep (follow-up still last, no reply, no Seen). No more nudges on this thread; Netflix needs a fresh line (other Netflix invites still pending)."
         ]
       },
       {
@@ -6179,6 +6251,10 @@
       {
         "date": "2026-11-06",
         "text": "Follow-up sent to Ying Li Fri Nov 6, 10:36 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting her reply; cold check Nov 9."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Ying Li marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:36 AM PT, no reply in 3 days; verified live — follow-up still last, no Seen). No more nudges; Netflix needs a fresh line (other Netflix invites still pending)."
       }
     ],
     "intel": {
@@ -6260,7 +6336,9 @@
         "history": [
           "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Director, ML Engineering at PayPal; he had posted hiring for a Staff MLE role, San Jose). Part of Rui's Nov 3 hiring-post outreach round. Non-HR, no resume attached (stated ready to send).",
           "2026-11-03 — ACCEPTED the same day (live-verified in the afternoon monitor: Connected Nov 3, 2026). Rui's outbound was already in-thread today 10:46 AM and marked Seen; the monitor sent no duplicate. No inbound reply yet.",
-          "2026-11-06 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Director, Machine Learning Engineering at PayPal, SF Bay Area. Thread held only Rui's Nov 3 10:46 AM note on his Staff MLE (San Jose) hiring post, no reply. Gist: floated the Nov 3 note; ranking/recs background fit; asked for a brief chat about the role or the right next step. Cold check Nov 9 if still silent."
+          "2026-11-06 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Director, Machine Learning Engineering at PayPal, SF Bay Area. Thread held only Rui's Nov 3 10:46 AM note on his Staff MLE (San Jose) hiring post, no reply. Gist: floated the Nov 3 note; ranking/recs background fit; asked for a brief chat about the role or the right next step. Cold check Nov 9 if still silent.",
+          "2026-11-08 08:23 PM PT — Shravan REPLIED (LinkedIn; read by the 2026-11-09 morning monitor): proposed Tue Nov 10, ~1:00 PM PT for a Staff MLE (San Jose) chat. No scheduling link in the message.",
+          "2026-11-09 09:46 AM PT — reply SENT by the morning monitor accepting Tue Nov 10, ~1:00 PM PT (primary calendar checked free 1:00–2:00 PM PT, Rui's recruiter-screen window), asking him to send a calendar invite / meet link and offering the resume ahead of the call. Seen by Shravan at 09:56 AM PT. NOT booked — awaiting his invite; as of the Nov 9 afternoon monitor no invite/link had arrived and no second message was sent."
         ]
       }
     ],
@@ -6272,6 +6350,10 @@
       {
         "date": "2026-11-06",
         "text": "Follow-up sent to Shravan Sunkada Fri Nov 6, 10:34 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 9."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Shravan Sunkada replied Sun Nov 8, 8:23 PM PT proposing Tue Nov 10, ~1:00 PM PT for a Staff MLE (San Jose) chat. The monitor replied Mon Nov 9, 09:46 AM PT accepting (calendar free), asking for a calendar invite / meet link and offering the resume; seen by him 09:56 AM PT. Not booked yet — awaiting his invite (none had arrived by the Nov 9 afternoon monitor)."
       }
     ],
     "intel": {
