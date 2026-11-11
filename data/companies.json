@@ -5254,7 +5254,8 @@
         "contact_status": "existing",
         "date": "2026-11-09",
         "history": [
-          "2026-11-09 — Nick Gutierrez handed Rui to Sophia Conn (10:49 AM PT); she emailed at 2:30 PM PT asking to schedule a quick call (next steps + feedback after the Nov 6 coding round with Martin Meinke). A reply was SENT the same day in the jobs-Gmail thread (To: Sophia Conn, verified): offered Thu Nov 12 or Mon Nov 16, both 1:00 PM PT (Nov 11 1:00 PM is the Etsy intro call; Nov 13 1:00 PM is an office happy hour). Awaiting her confirmation. NDA still unsigned."
+          "2026-11-09 — Nick Gutierrez handed Rui to Sophia Conn (10:49 AM PT); she emailed at 2:30 PM PT asking to schedule a quick call (next steps + feedback after the Nov 6 coding round with Martin Meinke). A reply was SENT the same day in the jobs-Gmail thread (To: Sophia Conn, verified): offered Thu Nov 12 or Mon Nov 16, both 1:00 PM PT (Nov 11 1:00 PM is the Etsy intro call; Nov 13 1:00 PM is an office happy hour). Awaiting her confirmation. NDA still unsigned.",
+          "2026-11-09 03:43 PM PT — Sophia REPLIED (jobs Gmail; read by the 2026-11-10 email monitor): she is in a meeting Thu Nov 12 at 1:00 PM PT, asked whether another day this week works, and said she can also take a call after 5:00 PM PT. A reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT was prepared and is awaiting Rui's nod — NOT sent (no duplicate send by the Nov 10 monitors)."
         ]
       }
     ],
@@ -5322,6 +5323,10 @@
       {
         "date": "2026-11-09",
         "text": "Nick Gutierrez handed Rui to Sophia Conn (Technical Recruiter; next steps + feedback) Mon Nov 9; she emailed 2:30 PM PT proposing a quick call. Reply sent the same day offering Thu Nov 12 or Mon Nov 16 at 1:00 PM PT — awaiting her confirmation. NDA still unsigned."
+      },
+      {
+        "date": "2026-11-09",
+        "text": "Sophia Conn replied Mon Nov 9, 3:43 PM PT: she cannot do Thu Nov 12, 1:00 PM PT (in a meeting), offered another day this week or a call after 5:00 PM PT. A draft reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT is prepared and awaiting Rui's approval — not sent."
       }
     ],
     "intel": {
@@ -5992,7 +5997,7 @@
     "size": null,
     "location": "100% Remote (per Lindsay Fichter's 2026-10-28 InMail)",
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Lindsay Fichter",
@@ -6005,7 +6010,10 @@
           "2026-10-29 10:04 AM PT — resume reply SENT and verified in-thread (morning monitor first confirmed NO prior Rui message existed): fit summary + Resume.pdf (66 KB, verified attached in-thread), proposing a weekday recruiter chat 1:00–2:00 PM PT (Thu Oct 29 / Fri Oct 30 / Mon Nov 2 at 1:00 PM PT examples) or her scheduling link. No comp stated, no work-auth answer; contact-info share dialog declined.",
           "2026-10-29 11:14 AM PT — Lindsay REPLIED: 'Thank you! I will send this over to my hiring manager today and get back with you soon on next steps' — ack only, ball in her court; no reply needed or sent.",
           "2026-11-01 10:37 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up). Profile verified live first: Talent Acquisition Manager / Internal Sourcer, Yahoo, Aug 2025–present (1 yr 4 mos); prior recruiting at Alpine Solutions Group, The Intersect Group, and Insight Global (15 yrs 3 mos total) — passes the verify-first rule. Thread verified first: her Oct 29 ack still last, nothing since. Gist: thanked her for forwarding the resume to the HM; offered a weekday 1:00–2:00 PM PT chat if the HM wants to talk. Confirmed in-thread. Awaiting her reply; no second follow-up may be sent.",
-          "2026-11-02 11:26 AM PT — Lindsay REPLIED: she is still waiting on the hiring manager's feedback and will relay next steps once she hears back. Monitor sent one acknowledgement at 4:52 PM PT the same day (verified in thread): thanked her for the update and for following up with the HM and asked her to let Rui know once she hears back. No booking. Awaiting hiring-manager feedback."
+          "2026-11-02 11:26 AM PT — Lindsay REPLIED: she is still waiting on the hiring manager's feedback and will relay next steps once she hears back. Monitor sent one acknowledgement at 4:52 PM PT the same day (verified in thread): thanked her for the update and for following up with the HM and asked her to let Rui know once she hears back. No booking. Awaiting hiring-manager feedback.",
+          "2026-11-10 12:38 PM PT — Lindsay REPLIED (LinkedIn; career-Gmail InMail copy 12:39 PM PT, id 1a1c72f890f2c4d3): the hiring manager reviewed Rui's profile and is interested in a first round; she sent her booking link https://yahoo.candidate.fyi/booking/M5cyhx (Google Meet link to come in the invite). Diligence before booking (2026-11-04 rule): Senior Principal AI/ML Architect = IC6 (above Senior Staff mapping), Yahoo Mail Intelligence, 100% remote; public band $160,965–$349,885/yr + bonus (Built In mirror of the Yahoo posting); Yahoo is Apollo-owned since 2021, no pending acquisition, PE equity caveat noted — no disqualifier, proceeded under scheduling pre-authorization.",
+          "2026-11-10 01:46–01:48 PM PT — first round BOOKED by the midday email monitor: Thu Nov 12, 2026, 1:00–1:30 PM PT, 'Initial HR Recruiter Call - Yahoo (Lindsay Fichter)' (booking event 7dabd5f6-8581-46d5-ab66-e3b181340ef1; invite email 1:48 PM PT: Google Meet wna-pqzi-njd, phone +1 478-324-0682 PIN 787370579, audio only; her agenda includes a high-level salary overview — comp rule noted on the calendar event: do not state a number first). Full-context Calendar event a1qbbf6heq6brrvitsr125im1c created (incl. company brief per the 2026-11-06 rule). Thu Nov 12 1:00 PM was free (Wed Nov 11 1:00 PM is the Etsy intro; Fri Nov 13 1:00 PM is an office event). No separate thank-you sent — the booking confirmation is system-generated; the LinkedIn thread was left to the LinkedIn monitor.",
+          "2026-11-10 (afternoon monitor) — DUPLICATE BOOKING ERROR + CORRECTION: not knowing the midday monitor had already booked 1:00 PM, the afternoon monitor booked a second slot Thu Nov 12, 1:30–2:00 PM PT (event 0ed93870-9a20-469f-8299-3d9c103c8b7e, Meet ahw-shkm-sno) and messaged Lindsay at 4:46 PM PT saying 1:30 PM. Correction at 4:51–4:52 PM PT: the duplicate was cancelled via its cancellation link (page confirmed 'Your event has been cancelled') and a correction LinkedIn message was sent clarifying the correct time is Thu Nov 12, 1:00 PM PT, Meet wna-pqzi-njd. Standing booking = the single 1:00 PM call; no new calendar event was created by the afternoon run (the 1:00 PM event already existed, verified, no conflict)."
         ]
       }
     ],
@@ -6025,15 +6033,32 @@
       {
         "date": "2026-11-02",
         "text": "Lindsay Fichter replied Mon Nov 2, 11:26 AM PT: still waiting on the hiring manager's feedback, will relay next steps once she hears back. Acknowledgement sent 4:52 PM PT (verified in thread). Awaiting hiring-manager feedback."
+      },
+      {
+        "date": "2026-11-10",
+        "text": "ADVANCEMENT: Lindsay Fichter replied Tue Nov 10, 12:38 PM PT — the hiring manager reviewed Rui's profile, interested in a first round, booking link sent. Diligence done before booking (Senior Principal AI/ML Architect = IC6, Yahoo Mail Intelligence, 100% remote; public band $160,965–$349,885/yr + bonus; Apollo-owned since 2021, no pending acquisition — no disqualifier)."
+      },
+      {
+        "date": "2026-11-10",
+        "text": "First round BOOKED: Thu Nov 12, 2026, 1:00–1:30 PM PT, Initial HR Recruiter Call with Lindsay Fichter (Google Meet wna-pqzi-njd; full-context calendar event created with company brief). An afternoon duplicate booking for 1:30 PM was made in error, then cancelled the same afternoon with a correction message to Lindsay — the standing booking is the single 1:00 PM call."
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Role per Lindsay Fichter's 2026-10-28 InMail: Yahoo Mail Intelligence platform, 220M+ users; hands-on IC architect — agentic AI, RAG, LLM serving/inference, personalization/ranking; 12+ years sought; 100% remote."
+        "Role per Lindsay Fichter's 2026-10-28 InMail: Yahoo Mail Intelligence platform, 220M+ users; hands-on IC architect — agentic AI, RAG, LLM serving/inference, personalization/ranking; 12+ years sought; 100% remote.",
+        "Public comp band (diligence 2026-11-10, Built In mirror of the Yahoo posting): $160,965–$349,885/yr + bonus for Senior Principal AI/ML Architect (= IC6, above Senior Staff mapping). Yahoo is Apollo-owned since 2021; no pending acquisition; PE equity caveat noted."
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-11-12",
+        "time": "1:00–1:30 PM PT",
+        "title": "Initial HR Recruiter Call — BOOKED",
+        "people": "Lindsay Fichter (Internal Sourcer @ Yahoo)",
+        "notes": "Google Meet wna-pqzi-njd (phone +1 478-324-0682 PIN 787370579, audio only) — booked Tue Nov 10, 2026 via https://yahoo.candidate.fyi/booking/M5cyhx after the hiring manager reviewed Rui's profile and expressed interest in a first round. Calendar event a1qbbf6heq6brrvitsr125im1c with full context + company brief. Her agenda includes a high-level salary overview — do not state a comp number first. A duplicate 1:30 PM booking made in error by the afternoon monitor was cancelled the same day with a correction message; this 1:00 PM booking is the standing one."
+      }
+    ]
   },
   {
     "slug": "etsy",
@@ -6284,7 +6309,8 @@
         "date": "2026-11-08",
         "history": [
           "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Principal Engineer, Amazon Search Ranking). Expansion round of Rui's Nov 3 outreach. Non-HR, no resume attached. Pending.",
-          "2026-11-08 — ACCEPTED Rui's LinkedIn invitation Sun Nov 8 (accept email 00:53 PT; live-verified in the morning monitor: Recently Added #1, Connections 7,944 -> 7,945, Sent invitations 172 -> 171). Rui's outbound was already in-thread at Nov 8, 12:29 AM PT: Senior Staff MLE leading Search Ranking at Coupang (ex-Meta Feed Rec, Pinterest Search), exploring Staff ML roles at Amazon Search, asked about a referral / openings / the right hiring manager, resume offered in text (not attached). The monitor sent NO duplicate. Who sent the 12:29 AM message could not be determined from LinkedIn. Awaiting Ravi's reply."
+          "2026-11-08 — ACCEPTED Rui's LinkedIn invitation Sun Nov 8 (accept email 00:53 PT; live-verified in the morning monitor: Recently Added #1, Connections 7,944 -> 7,945, Sent invitations 172 -> 171). Rui's outbound was already in-thread at Nov 8, 12:29 AM PT: Senior Staff MLE leading Search Ranking at Coupang (ex-Meta Feed Rec, Pinterest Search), exploring Staff ML roles at Amazon Search, asked about a referral / openings / the right hiring manager, resume offered in text (not attached). The monitor sent NO duplicate. Who sent the 12:29 AM message could not be determined from LinkedIn. Awaiting Ravi's reply.",
+          "2026-11-09 09:00 PM PT — Ravi REPLIED (LinkedIn; read by the 2026-11-10 morning monitor): 'Hi Rui, Let me check with some of the hiring managers and get back to you. Thanks for reaching out.' No reply sent (no question to answer). Awaiting his hiring-manager check."
         ]
       },
       {
@@ -6306,6 +6332,10 @@
       {
         "date": "2026-11-08",
         "text": "Ravi Kumar C S ACCEPTED Sun Nov 8 (live-verified: Recently Added #1, Connections 7,945). Rui's outbound was already in-thread at 12:29 AM PT (Coupang Search Ranking intro, Amazon Search openings/referral ask, resume offered in text) — the monitor sent no duplicate. Awaiting his reply."
+      },
+      {
+        "date": "2026-11-10",
+        "text": "Ravi Kumar C S replied Mon Nov 9, 9:00 PM PT: he will check with some hiring managers and get back to Rui. No reply sent. Awaiting his follow-up."
       }
     ],
     "intel": {
@@ -6338,7 +6368,11 @@
           "2026-11-03 — ACCEPTED the same day (live-verified in the afternoon monitor: Connected Nov 3, 2026). Rui's outbound was already in-thread today 10:46 AM and marked Seen; the monitor sent no duplicate. No inbound reply yet.",
           "2026-11-06 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Director, Machine Learning Engineering at PayPal, SF Bay Area. Thread held only Rui's Nov 3 10:46 AM note on his Staff MLE (San Jose) hiring post, no reply. Gist: floated the Nov 3 note; ranking/recs background fit; asked for a brief chat about the role or the right next step. Cold check Nov 9 if still silent.",
           "2026-11-08 08:23 PM PT — Shravan REPLIED (LinkedIn; read by the 2026-11-09 morning monitor): proposed Tue Nov 10, ~1:00 PM PT for a Staff MLE (San Jose) chat. No scheduling link in the message.",
-          "2026-11-09 09:46 AM PT — reply SENT by the morning monitor accepting Tue Nov 10, ~1:00 PM PT (primary calendar checked free 1:00–2:00 PM PT, Rui's recruiter-screen window), asking him to send a calendar invite / meet link and offering the resume ahead of the call. Seen by Shravan at 09:56 AM PT. NOT booked — awaiting his invite; as of the Nov 9 afternoon monitor no invite/link had arrived and no second message was sent."
+          "2026-11-09 09:46 AM PT — reply SENT by the morning monitor accepting Tue Nov 10, ~1:00 PM PT (primary calendar checked free 1:00–2:00 PM PT, Rui's recruiter-screen window), asking him to send a calendar invite / meet link and offering the resume ahead of the call. Seen by Shravan at 09:56 AM PT. NOT booked — awaiting his invite; as of the Nov 9 afternoon monitor no invite/link had arrived and no second message was sent.",
+          "2026-11-09 09:57 PM PT — Shravan REPLIED (LinkedIn; read by the 2026-11-10 morning monitor): 'Sure, what is your email address?' No invite/link yet for the proposed Tue Nov 10 ~1:00 PM PT chat.",
+          "2026-11-10 09:48 AM PT — reply SENT by the morning monitor giving rui.huang.career@gmail.com, confirming today 1:00 PM PT, and asking for a calendar invite / meet link (verified 'Message sent successfully'; one message only). NOT booked — awaiting his invite.",
+          "2026-11-10 12:52 PM PT — Teams invite RECEIVED by direct email (career inbox, id 1a1c73c147cf6ddf): TODAY Tue Nov 10, 2026, 1:10–1:40 PM PT, 'PayPal Staff ML role connect', organizer Shravan Sunkada <ssunkada@paypal.com> (Microsoft Teams). The midday email monitor created full-context calendar event b7pvhetvo30s4ca8ess2epuf1o. LinkedIn follow-ups from Shravan: 12:53 PM 'Sounds good, sent you an invite for 1:10 PM PT'; 1:16 PM 'Looks like you aren't available, should we plan for another day?' — the 1:10–1:40 PM chat did NOT happen.",
+          "2026-11-10 04:47 PM PT — reschedule reply SENT by the afternoon monitor: apology for the missed 1:10 PM chat, proposed Wed Nov 11, 1:00 PM PT or Fri Nov 13, 1:00 PM PT, asked for a fresh invite/link, offered the resume. ⚠️ Parent calendar check AFTER the send: Wed Nov 11 1:00 PM PT conflicts with the Etsy intro call (Natasha Kelleher) and Fri Nov 13 1:00 PM PT conflicts with a recurring Office Happy Hour/Tea Time event — if Shravan picks either, Rui must decide / re-propose. No second message was sent."
         ]
       }
     ],
@@ -6354,6 +6388,14 @@
       {
         "date": "2026-11-09",
         "text": "Shravan Sunkada replied Sun Nov 8, 8:23 PM PT proposing Tue Nov 10, ~1:00 PM PT for a Staff MLE (San Jose) chat. The monitor replied Mon Nov 9, 09:46 AM PT accepting (calendar free), asking for a calendar invite / meet link and offering the resume; seen by him 09:56 AM PT. Not booked yet — awaiting his invite (none had arrived by the Nov 9 afternoon monitor)."
+      },
+      {
+        "date": "2026-11-10",
+        "text": "Shravan Sunkada asked for Rui's email Mon Nov 9, 9:57 PM PT; the monitor replied Tue Nov 10, 09:48 AM PT giving rui.huang.career@gmail.com, confirming today 1:00 PM PT, and asking for an invite/link. His Teams invite arrived 12:52 PM PT for today 1:10–1:40 PM PT ('PayPal Staff ML role connect'; calendar event created)."
+      },
+      {
+        "date": "2026-11-10",
+        "text": "The 1:10 PM Teams chat did NOT happen (Shravan messaged 1:16 PM PT: 'Looks like you aren't available, should we plan for another day?'). Reschedule reply sent 4:47 PM PT proposing Wed Nov 11 or Fri Nov 13 at 1:00 PM PT with a fresh invite — ⚠️ both proposed slots have calendar conflicts (Wed = Etsy intro call; Fri = office happy hour), flagged for Rui if Shravan picks either. Awaiting his reply."
       }
     ],
     "intel": {
@@ -6396,6 +6438,42 @@
       "comp": null,
       "notes": [
         "Outreach direction set by Rui 2026-11-03: message people posting fitting roles at big companies; engineers/managers get a text resume offer first."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "onepay",
+    "name": "OnePay",
+    "tagline": "Consumer-finance app (Walmart + Ribbit Capital JV, formerly ONE) — Applied Scientist, personalization/recommendation inbound",
+    "valuation": "~$4B",
+    "valuation_detail": "~$4B valuation (Jan 2026 tender; $2.5B in 2024); ~6M MAU (diligence 2026-11-10)",
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "engaged",
+    "contacts": [
+      {
+        "name": "Nia Jogopulos",
+        "role": "Recruiting @ OnePay",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-10",
+        "history": [
+          "2026-11-10 10:47 AM PT — cold INBOUND email (career Gmail, id 1a1c6c92ba6b5b0a; read by the 2026-11-10 midday email monitor): Recruiting @ OnePay pitching an Applied Scientist role — personalization/recommendation models, real-time ranking + offer selection; asked for a 10-min chat. No level stated. Diligence done the same day (see intel); NO reply sent — awaiting Rui's go under the cold-inbound rule."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-10",
+        "text": "Cold inbound: Nia Jogopulos (Recruiting @ OnePay) emailed Tue Nov 10, 10:47 AM PT pitching an Applied Scientist role (personalization/recommendation, real-time ranking + offer selection) and asking for a 10-min chat. Diligence: OnePay is the Walmart + Ribbit Capital JV consumer-finance app (formerly ONE), ~$4B valuation (Jan 2026 tender), ~6M MAU. Flags: no level stated vs Rui's Senior Staff target; JV equity illiquid / no clear IPO path. Recommendation: worth a short exploratory chat to pin level + band — pending Rui's go. No reply sent."
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Diligence 2026-11-10: OnePay is the Walmart + Ribbit Capital joint-venture consumer-finance app (formerly ONE), ~$4B valuation at a Jan 2026 tender ($2.5B in 2024), ~6M monthly active users. Flags: the inbound states no level (vs Rui's Senior Staff target) and JV equity is illiquid with no clear IPO path. Worth a short exploratory chat to pin level + comp band, pending Rui's go."
       ]
     },
     "interviews": []
