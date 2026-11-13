@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 11, 2026";
+const BUILD_DATE = "Nov 13, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -90,6 +90,16 @@ const COMPANIES = [
         "history": [
           "2026-11-03 — invite SENT late Nov 3 after Rui approved adding the three alternates (profile verified first: Principal Engineer, Amazon Search). Pending."
         ]
+      },
+      {
+        "name": "Jianhua Lu",
+        "role": "Senior Manager, AGI, Amazon — foundation-model pretraining lead",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -104,6 +114,10 @@ const COMPANIES = [
       {
         "date": "2026-11-10",
         "text": "Ravi Kumar C S replied Mon Nov 9, 9:00 PM PT: he will check with some hiring managers and get back to Rui. No reply sent. Awaiting his follow-up."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Jianhua Lu (Senior Manager, AGI, foundation-model pretraining lead; profile-verified)."
       }
     ],
     "intel": {
@@ -391,6 +405,26 @@ const COMPANIES = [
         "history": [
           "2026-11-03 — invite SENT late Nov 3 after Rui approved adding the three alternates (profile verified first: Senior ML Manager, Siri search ranking, Cupertino). Pending."
         ]
+      },
+      {
+        "name": "William Li",
+        "role": "ML Engineering Manager, Global Siri, Apple (Cupertino; hiring Senior/Staff ML)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
+      },
+      {
+        "name": "Adel Youssef",
+        "role": "Sr ML Manager, Siri Experience, Apple (Seattle)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -413,6 +447,10 @@ const COMPANIES = [
       {
         "date": "2026-11-03",
         "text": "Big-company hot-ML-group outreach Tue Nov 3 (all profile-verified): invites to Sneha Patkar (Senior Staff MLE, video search & recommendations) and, late in the day after Rui approved the alternates, Lu Ren (Senior ML Manager, Siri Search Ranking, Cupertino). Pending."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12 (Apple ML, US only): invites sent to William Li (ML EM, Global Siri, Cupertino — his own post says he is hiring Senior/Staff ML) and Adel Youssef (Sr ML Manager, Siri Experience, Seattle; overlapping AWS-era background with Rui) — both profile-verified."
       }
     ],
     "intel": {
@@ -538,7 +576,8 @@ const COMPANIES = [
         "date": "2026-11-09",
         "history": [
           "2026-11-09 — Nick Gutierrez handed Rui to Sophia Conn (10:49 AM PT); she emailed at 2:30 PM PT asking to schedule a quick call (next steps + feedback after the Nov 6 coding round with Martin Meinke). A reply was SENT the same day in the jobs-Gmail thread (To: Sophia Conn, verified): offered Thu Nov 12 or Mon Nov 16, both 1:00 PM PT (Nov 11 1:00 PM is the Etsy intro call; Nov 13 1:00 PM is an office happy hour). Awaiting her confirmation. NDA still unsigned.",
-          "2026-11-09 03:43 PM PT — Sophia REPLIED (jobs Gmail; read by the 2026-11-10 email monitor): she is in a meeting Thu Nov 12 at 1:00 PM PT, asked whether another day this week works, and said she can also take a call after 5:00 PM PT. A reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT was prepared and is awaiting Rui's nod — NOT sent (no duplicate send by the Nov 10 monitors)."
+          "2026-11-09 03:43 PM PT — Sophia REPLIED (jobs Gmail; read by the 2026-11-10 email monitor): she is in a meeting Thu Nov 12 at 1:00 PM PT, asked whether another day this week works, and said she can also take a call after 5:00 PM PT. A reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT was prepared and is awaiting Rui's nod — NOT sent (no duplicate send by the Nov 10 monitors).",
+          "2026-11-11 11:09 PM PT — the counter-proposal reply was SENT in her original jobs-Gmail thread after Rui approved it (\" 发，就按这个 \"): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 2026 at 1:00 PM PT for a 30-minute call (next steps + feedback after the Nov 6 coding round with Martin Meinke). This supersedes the earlier draft-awaiting-approval status. No reply from her in the Nov 12 morning/midday email runs or LinkedIn monitors — awaiting her pick. NDA remains unsigned."
         ]
       }
     ],
@@ -610,6 +649,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Sophia Conn replied Mon Nov 9, 3:43 PM PT: she cannot do Thu Nov 12, 1:00 PM PT (in a meeting), offered another day this week or a call after 5:00 PM PT. A draft reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT is prepared and awaiting Rui's approval — not sent."
+      },
+      {
+        "date": "2026-11-11",
+        "text": "Counter-proposal reply SENT to Sophia Conn Wed Nov 11, 11:09 PM PT (Rui-approved): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 1:00 PM PT for a 30-min next-steps/feedback call. Awaiting her pick as of Nov 12; NDA still unsigned."
       }
     ],
     "intel": {
@@ -879,6 +922,16 @@ const COMPANIES = [
         "history": [
           "2026-11-02 — fresh-line invite SENT (profile-verified first: Principal Recruiter – FDE at Baseten since Oct 2025, ~1 yr 2 mos). Part of the Nov 2 fresh-lines push after Ellie Woodfield was marked cold. Pending."
         ]
+      },
+      {
+        "name": "Sameer Paranjpye",
+        "role": "SVP Engineering, Baseten",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -949,6 +1002,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Lou Zumpano marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:33 AM PT, no reply in 3 days; verified live — follow-up still last, no Seen). No more nudges; Baseten needs a fresh recruiter line."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Sameer Paranjpye (SVP Engineering; profile-verified). Ellie Woodfield was found to already be a 1st-degree connection (never messaged), so no invite was needed on that line; Hao Wu (2 months in role) was skipped per the verify-first tenure rule."
       }
     ],
     "intel": {
@@ -1275,7 +1332,8 @@ const COMPANIES = [
           "2026-10-21 — availability SUBMITTED via Louis's Ashby link (corrected record): primary Mon Nov 2, 2026, 10:00–11:00 AM PT; backup Wed Nov 4, 2026, 10:00–11:00 AM PT (Ashby required at least 2 days; Thu Nov 5 and Fri Nov 6 showed not available on his calendar). Ashby status: 'Waiting for Louis Cross to confirm' — this is an availability/interview request, NOT a confirmed booking, and no confirmation or invitation email had arrived as of ~10:15 AM PT. Fri Oct 23 was skipped (Anthropic double-header that day). A primary-calendar HOLD event was created with the corrected status. Awaiting Louis's confirmation.",
           "2026-10-22 01:57 AM PT — recruiter screen CONFIRMED by email (jobs Gmail; read by the 2026-10-22 email monitor): Mon Nov 2, 2026, 10:00–10:30 AM PT with Louis Cross, Google Meet https://meet.google.com/ofj-cabz-eiu, plus a separate calendar invite; reschedule via careers@clickhouse.com. The final confirmation is a 30-min recruiter screen, not the 1-hour conversation the Oct 21 scheduling email described. The Nov 2 calendar HOLD (10:00–11:00, awaiting confirmation) was updated in place to the confirmed 10:00–10:30 event. A corrected v6 resume resend also reached Louis on 2026-10-22 (he was the one correctly addressed recipient in the first resend batch).",
           "2026-11-09 04:29 AM PT — Louis EMAILED (jobs Gmail; read by the 2026-11-09 email monitor) with a new Ashby link for the next step after the Nov 2 recruiter screen — a 1-hour video conversation, ML Engineer (AI/ML). Availability SUBMITTED via Ashby the same morning: Fri Nov 13 / Mon Nov 16 / Thu Nov 12 / Wed Nov 11, all 10:00–11:00 AM PT. Ashby status: 'Waiting for Louis Cross to confirm' — not yet booked; an unconfirmed calendar HOLD was placed on Fri Nov 13, 10:00–11:00 AM PT.",
-          "2026-11-09 (afternoon, 15:00 PT email review) — HM round CONFIRMED: Louis Cross confirmed Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD (calendar event utaqq252256ph95knt6ijnjdd8) was upgraded in place to confirmed with full context (company brief + questions to ask). Note: the role title is Senior ML Engineer — a level below Senior Staff."
+          "2026-11-09 (afternoon, 15:00 PT email review) — HM round CONFIRMED: Louis Cross confirmed Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD (calendar event utaqq252256ph95knt6ijnjdd8) was upgraded in place to confirmed with full context (company brief + questions to ask). Note: the role title is Senior ML Engineer — a level below Senior Staff.",
+          "2026-11-12 10:03 AM PT — ClickHouse Hiring Team (Ashby) reminder RECEIVED (jobs Gmail, id 1a1d0ee3aa651f72) for the Fri Nov 13, 2026, 10:00–11:00 AM PT hiring-manager interview with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. Matches the existing confirmed calendar event — info only, no reply or action. A prep brief for the round is ready (~/workspace/job-search/prep/clickhouse-hm-brief-2026-11-13.md)."
         ]
       },
       {
@@ -1377,6 +1435,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "HM conversation CONFIRMED Mon Nov 9 (afternoon): Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD was upgraded in place to a confirmed event with full context. Role title is Senior ML Engineer (a level below Senior Staff)."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Ashby reminder received Thu Nov 12, 10:03 AM PT confirming tomorrow's hiring-manager interview: Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. No action needed."
       }
     ],
     "intel": {
@@ -1817,7 +1879,9 @@ const COMPANIES = [
           "2026-10-31 07:53 PM PT — INBOUND LinkedIn InMail (career-Gmail copy; LinkedIn thread displayed 6:26 PM): 'Hi from Etsy (Remote or Brooklyn based role)' — hiring a Senior Staff Machine Learning Engineer, Search Recommendations and Ads, based in Brooklyn or Remote (US); the role would architect Etsy's next-generation AI/ML ecosystem for 85M+ buyers / 5M sellers, report to the VP of Engineering (Search, Recs, Ads), skip-level CPTO; she cited Rui's Coupang Search & Discovery lead role, query understanding / LLM-powered product discovery, and Meta/Pinterest/AWS background, and asked Rui to send his most updated resume so they can set up a chat. Held under the 2026-10-14 cold-inbound rule: backcheck done, NO reply sent until Rui's go.",
           "2026-11-01 12:56 PM PT — Rui directed the line forward ('推进'); reply SENT on LinkedIn and verified: expressed interest, attached the v6 resume (Resume.pdf, 66 KB), offered weekday 1:00–2:00 PM PT for an intro call and asked for her scheduling link. No comp mentioned; LinkedIn's share-contact-info prompt declined.",
           "2026-11-01 01:13 PM PT — Natasha REPLIED (career-Gmail copy + LinkedIn thread verified in full): 'Looking forward to connecting!' with her Rooster scheduling link (link.roosterinc.com/me/3zxe76lv/chat-with-etsy).",
-          "2026-11-01 — Intro call BOOKED via Rooster by the afternoon monitor: Wed Nov 11, 2026, 1:00–1:30 PM PT, Google Meet https://meet.google.com/jgp-wscv-gqz. Nov 2–6 had NO 1:00–2:00 PM slots (Thu Nov 5 only 9:00/10:00/11:00 AM), so Nov 11 was the earliest in-window slot. Confirmation email from Natasha Kelleher <nkelleher@etsy.com> to the jobs inbox at 4:56 PM PT independently verified (Rooster id NPgOjXQMDvP7yzkctBxt); full-context Calendar event created (p1lqnu1djvf5d2e6pishpj424s). No extra LinkedIn message sent (Rooster emailed participants); no phone shared, no comp stated."
+          "2026-11-01 — Intro call BOOKED via Rooster by the afternoon monitor: Wed Nov 11, 2026, 1:00–1:30 PM PT, Google Meet https://meet.google.com/jgp-wscv-gqz. Nov 2–6 had NO 1:00–2:00 PM slots (Thu Nov 5 only 9:00/10:00/11:00 AM), so Nov 11 was the earliest in-window slot. Confirmation email from Natasha Kelleher <nkelleher@etsy.com> to the jobs inbox at 4:56 PM PT independently verified (Rooster id NPgOjXQMDvP7yzkctBxt); full-context Calendar event created (p1lqnu1djvf5d2e6pishpj424s). No extra LinkedIn message sent (Rooster emailed participants); no phone shared, no comp stated.",
+          "2026-11-11 08:21 AM PT — the Wed Nov 11, 1:00–1:30 PM PT intro call was RESCHEDULED at Rui's direction: Rui emailed Natasha (jobs Gmail, sent 1a1cb69ef67c8321, replying to her Nov 2 inbound thread after +reply to her Oct 28 invitation failed twice) saying he had something come up today, apologising for the short notice, and proposing Tue Nov 17, Wed Nov 18, or Thu Nov 19 at 1:00 PM PT. The Nov 11 calendar event p1lqnu1djvf5d2e6pishpj424s was deleted the same morning.",
+          "2026-11-11 08:35 AM PT — Natasha REPLIED 08:35 AM PT: 'No worries!' with her Rooster reschedule link https://link.roosterinc.com/me/3zxe76lv/chat-with-etsy. The 09:30 email monitor checked the link live (America/Los_Angeles): NO 1:00 PM PT slot exists on any proposed day — Tue Nov 17: 11:00 / 11:30 AM only; Wed Nov 18: 8:00, 9:00, 9:30, 10:30 AM, 12:00, 12:30 PM; Thu Nov 19: 10:00, 10:30, 11:00, 11:30 AM. All alternatives fall outside Rui's 1:00–2:00 PM PT recruiter window (Wed 12:30 PM also hits the 12:00–1:00 PM lunch block). NOTHING was booked and no email was sent — pending Rui's pick of an off-window slot or asking Natasha for more availability. No further news in the Nov 11 midday email run or afternoon LinkedIn monitor."
         ]
       }
     ],
@@ -1833,6 +1897,10 @@ const COMPANIES = [
       {
         "date": "2026-11-01",
         "text": "Intro call BOOKED via Rooster: Wed Nov 11, 2026, 1:00–1:30 PM PT with Natasha Kelleher (Google Meet https://meet.google.com/jgp-wscv-gqz; confirmation email to the jobs inbox verified; Calendar event created). Nov 2–6 had no 1:00–2:00 PM slots — Nov 11 was the earliest in-window slot."
+      },
+      {
+        "date": "2026-11-11",
+        "text": "Intro call RESCHEDULED at Rui's direction Wed Nov 11: Rui emailed Natasha Kelleher 08:21 AM PT (something came up on his leave day) proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00 PM PT; the Nov 11 calendar event was deleted. Natasha replied 08:35 AM PT with her Rooster reschedule link, but the link has NO 1:00 PM slot on any of those days (mornings only — latest Thu Nov 19 11:30 AM, Wed Nov 18 12:30 PM). Nothing rebooked; pending Rui's pick of an off-window slot or asking for more availability."
       }
     ],
     "intel": {
@@ -1846,9 +1914,9 @@ const COMPANIES = [
       {
         "date": "2026-11-11",
         "time": "1:00–1:30 PM PT",
-        "title": "Intro call — BOOKED",
+        "title": "Intro call — RESCHEDULED (not yet rebooked)",
         "people": "Natasha Kelleher (Talent Partner / Principal Technical Sourcer, Etsy)",
-        "notes": "Google Meet https://meet.google.com/jgp-wscv-gqz — booked via her Rooster link Nov 1, 2026; confirmation email from nkelleher@etsy.com to the jobs inbox verified; reschedule/cancel via the Rooster link (id NPgOjXQMDvP7yzkctBxt). Role: Senior Staff MLE, Search Recommendations and Ads (Brooklyn or Remote US). Calendar event p1lqnu1djvf5d2e6pishpj424s."
+        "notes": "Google Meet https://meet.google.com/jgp-wscv-gqz — booked via her Rooster link Nov 1, 2026; confirmation email from nkelleher@etsy.com to the jobs inbox verified; reschedule/cancel via the Rooster link (id NPgOjXQMDvP7yzkctBxt). Role: Senior Staff MLE, Search Recommendations and Ads (Brooklyn or Remote US). Calendar event p1lqnu1djvf5d2e6pishpj424s. RESCHEDULED Nov 11, 2026 at Rui's direction (email sent 08:21 AM PT proposing Nov 17/18/19 at 1:00 PM PT; calendar event deleted). Natasha replied 08:35 AM PT with her Rooster link, which has no 1:00 PM slot on those days (mornings only) — NOT rebooked as of Nov 11; pending Rui's slot pick."
       }
     ]
   },
@@ -2761,6 +2829,36 @@ const COMPANIES = [
         "history": [
           "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Senior Staff MLE at Google Search). Part of the Nov 3 expansion round of Rui's big-company hot-ML-group outreach. Non-HR, no resume attached. Pending."
         ]
+      },
+      {
+        "name": "Alireza Fathi",
+        "role": "Senior Staff Research Scientist / Manager, Google DeepMind (10 yrs at company)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
+      },
+      {
+        "name": "Hanie Sedghi",
+        "role": "Staff Research Scientist, Google DeepMind",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
+      },
+      {
+        "name": "Olexiy Oryeshko",
+        "role": "Staff SWE, Google Search — Ranklab ML TL",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -2787,6 +2885,10 @@ const COMPANIES = [
       {
         "date": "2026-11-03",
         "text": "Big-company hot-ML-group outreach Tue Nov 3 (Rui's new direction; all profile-verified, self-intro + referral ask, no resume to non-HR): invites to Mia Chen (DeepMind, Senior Staff SWE), Venky Manicks (Google Search, Senior Staff), Bhaskar Gurram (Google Search, Staff), and Beidou Wang (Google Search, Senior Staff MLE). Pending."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12 (second hot-group round): invites sent to Alireza Fathi (Senior Staff RS/Manager, DeepMind; 10 years at company), Hanie Sedghi (Staff RS, DeepMind) and Olexiy Oryeshko (Staff SWE, Ranklab ML TL, Google Search) — all profile-verified."
       }
     ],
     "intel": {
@@ -3182,6 +3284,42 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Outreach direction set by Rui 2026-11-03: message people posting fitting roles at big companies; engineers/managers get a text resume offer first."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "intellipro",
+    "name": "IntelliPro (agency)",
+    "tagline": "Agency inbound — PLAUD & OpenArt engineering roles via Nancy (Nanxi) Liu",
+    "valuation": null,
+    "valuation_detail": null,
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Nancy (Nanxi) Liu",
+        "role": "Global Talent Acquisition, IntelliPro",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-11",
+        "history": [
+          "2026-11-11 09:42 PM PT — cold INBOUND LinkedIn InMail (career-Gmail copy Wed Nov 11, 10:53 PM PT, id 1a1ce889387d3525): pitching engineering roles at two client companies — PLAUD (Head of Product Engineering, Head of Platform Engineering, Head of Growth Engineering, Staff Engineer) and OpenArt (Senior SWE Enterprise AI Platform, San Carlos hybrid; Senior/Staff SWE Agent, Bay Area onsite). No comp stated. Contact nancy.liu@intelliprogroup.com. Read + backchecked, NO reply sent (2026-10-14 cold-inbound rule) — flagged to Rui, his call. Diligence: IntelliPro is a legitimate agency (founded 2009, Santa Clara). PLAUD: profitable, $100M software ARR, >$1B valuation (Vertex/Temasek), IPO target 2028 — but the roles are management-heavy / non-ML and the valuation sits below Rui's $3B–$30B ideal band. OpenArt: Series A $30M Jan 2026 (Canaan; ~$35M total), est. $70–100M ARR, profitable but early-stage risk; the Staff Agent role is the closest fit. Both companies are vertical consumer-product companies off Rui's Senior Staff MLE / search-ranking / ML platform infra main line. Recommendation: pass / low-moderate priority — pending Rui's decision. Nothing new in the Nov 12 afternoon monitor."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-11",
+        "text": "Cold inbound: Nancy (Nanxi) Liu (IntelliPro agency) InMail Wed Nov 11, 9:42 PM PT pitching PLAUD & OpenArt engineering roles (Heads of Product/Platform/Growth Eng, Staff Engineer; OpenArt Senior/Staff SWE Agent + Senior SWE Enterprise AI Platform). Read + backchecked, no reply (cold-inbound rule). Diligence: PLAUD profitable, $100M ARR, >$1B valuation but management-heavy non-ML roles below Rui's band; OpenArt early-stage Series A. Recommendation: pass — pending Rui's decision."
+      }
+    ],
+    "intel": {
+      "comp": null,
+      "notes": [
+        "Diligence 2026-11-12: IntelliPro is a legitimate recruiting agency (founded 2009, Santa Clara). PLAUD — profitable AI hardware/software company, $100M software ARR, >$1B valuation (Vertex/Temasek), IPO target 2028; pitched roles are Head-level / management-heavy and non-ML. OpenArt — Series A $30M Jan 2026 (Canaan, ~$35M total raised), est. $70–100M ARR, profitable, early-stage risk; Staff SWE Agent is the closest fit to Rui's profile."
       ]
     },
     "interviews": []
@@ -3856,6 +3994,26 @@ const COMPANIES = [
         "history": [
           "2026-11-03 — invite SENT late Nov 3 after Rui approved adding the three alternates (profile verified first: Netflix AI/ML Director, ex-Pinterest). Caveat recorded at verification time: her profile lists her latest Netflix stint as ending July 2026 while still showing Director — possibly a stale page. Pending."
         ]
+      },
+      {
+        "name": "Sura Elamurugu",
+        "role": "Director, AI Platform, Netflix (10 yrs at company)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
+      },
+      {
+        "name": "Lequn (Luke) Wang",
+        "role": "Senior Research Scientist, Netflix — generative homepage recommendation TL",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -3870,6 +4028,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Ying Li marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:36 AM PT, no reply in 3 days; verified live — follow-up still last, no Seen). No more nudges; Netflix needs a fresh line (other Netflix invites still pending)."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invites sent to Sura Elamurugu (Director, AI Platform; 10 years at Netflix) and Lequn (Luke) Wang (Senior Research Scientist, generative homepage recommendation TL) — both profile-verified. Shaojing Li required an email address to connect and was skipped (no email fabricated)."
       }
     ],
     "intel": {
@@ -4142,7 +4304,8 @@ const COMPANIES = [
         "date": "2026-11-06",
         "history": [
           "2026-11-06 — invite SENT (profile-verified first) as part of Rui's Nov 6 Perplexity outreach round, and ACCEPTED the same day (live-verified in the afternoon monitor: Connections 7,943 -> 7,944, Recently Added #1 Peter Hart, Connected Nov 6, 2026). Rui's outbound message was already in-thread today 2:14 PM PT (Senior Staff MLE leading Search Ranking at Coupang; admirer of Perplexity's AI search work; asked to connect), so the monitor sent no thank-you. Peter has not replied yet. Awaiting his reply.",
-          "2026-11-09 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's ONE follow-up; confirmed in-thread, 'Message sent successfully'). Profile verified live first: Tech Lead, File Search Platform @ Perplexity; MTS Oct 2023–present (3 yrs 2 mos, SF); prior ML Engineer at Robust Intelligence; MIT MEng AI. Thread verified first: only Rui's Nov 6, 2:14 PM PT outbound, no reply, no prior follow-up. Gist: floated the Nov 6 note; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), keen on Perplexity AI search / File Search; asked for a brief chat about senior/staff ML/search roles or a pointer. Cold check Nov 12 if silent. No reply as of the Nov 9 afternoon monitor."
+          "2026-11-09 10:34 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's ONE follow-up; confirmed in-thread, 'Message sent successfully'). Profile verified live first: Tech Lead, File Search Platform @ Perplexity; MTS Oct 2023–present (3 yrs 2 mos, SF); prior ML Engineer at Robust Intelligence; MIT MEng AI. Thread verified first: only Rui's Nov 6, 2:14 PM PT outbound, no reply, no prior follow-up. Gist: floated the Nov 6 note; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), keen on Perplexity AI search / File Search; asked for a brief chat about senior/staff ML/search roles or a pointer. Cold check Nov 12 if silent. No reply as of the Nov 9 afternoon monitor.",
+          "2026-11-12 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-11-09 10:34 AM PT) is unanswered after 3 days. Verified live in the Nov 12 follow-up sweep (read-only browser, 10:30–10:33 AM PT: thread holds only Rui's Nov 6 outbound + Nov 9 follow-up, no message from Peter ever, no Seen; Focused/Unread/Other/InMail checked, exactly one thread; connections 7,945 unchanged). Nothing sent to him today. Perplexity needs a fresh recruiter line (Kevin Kraft / Maita Paik / Jiwon Deng / Haomiao Li are invite-pending only; the approved-but-unsubmitted P1 application is a separate line awaiting Rui's login decision)."
         ]
       }
     ],
@@ -4178,6 +4341,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Follow-up sent to Peter Hart (Tech Lead, File Search Platform) Mon Nov 9, 10:34 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 12."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Peter Hart marked COLD Thu Nov 12 per one-max rule (his ONE follow-up, sent Nov 9, went unanswered for 3 days; verified live — no message from him ever, no Seen). No more nudges; Perplexity needs a fresh line."
       }
     ],
     "intel": {
@@ -4806,7 +4973,7 @@ const COMPANIES = [
     "size": "~600 (early 2026)",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Juan Carlos Troncoso",
@@ -4819,8 +4986,12 @@ const COMPANIES = [
         "name": "Stephanie Pavlov",
         "role": "Senior Technical Recruiter, SWE hiring",
         "linkedin": "https://www.linkedin.com/in/stephanie-pavlov-047479ab/",
-        "contact_status": "invited",
-        "date": "2026-09-30"
+        "contact_status": "connected",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — Stephanie ACCEPTED Rui's wave-2 LinkedIn invitation (sent 2026-09-30; accept notification 12:53 PM PT, id 1a1d189a01317da7; live-verified in the afternoon monitor: Connections 7,945 -> 7,946, Recently Added #1 Stephanie Pavlov, Connected Nov 12, 2026). Earlier the same day she EMAILED at 10:54 AM PT (career Gmail, id 1a1d11cf58145f84, from stephanie.pavlov@ext.sierra.ai) pitching Sierra's Core Engineering team (infra / data platform / dev tools for Sierra's AI agent platform); no role, level or comp stated. Sierra had never actually been talked to before — the Sep 30 wave-2 invites to her and Juan Carlos Troncoso (and Chloe Sutton Oct 2) all stayed pending with no conversation; this email was the first substantive contact. Read + backchecked, no reply at first (inbound-diligence rule). Diligence: Sierra, SF, founded Feb 2023 by Bret Taylor + Clay Bavor; Series E May 2026 $950M at ~$15.8B post-money (Tiger Global / GV; Sequoia, Benchmark, Greenoaks); ~$1.6B raised; company-reported $400M+ ARR Oct 2026; ~50% of Fortune 50. Fits Rui's $3B–$30B high-growth band, IPO-path. Caveats: generic SWE pitch (not ML-specific), level/comp unstated, ext. sender domain. Recommendation: worth an intro call to pin Staff+ ML/platform scope + comp.",
+          "2026-11-12 (~2:1x PM PT) — Reply SENT Thu Nov 12 after Rui approved handling both items (' 都处理下 '): replied in her original email thread (sent 1a1d1daf1d703e24) with the v6 resume attached — fit summary (Coupang Search Ranking & Discovery / Pinterest search / Meta recommendations), asked whether Core Engineering has Staff+ ML/platform scope, and proposed a 30-min intro call on weekdays 1:00–2:00 PM PT or via her scheduling link. The afternoon LinkedIn monitor sent NO LinkedIn message (no duplicate) — she has not replied on LinkedIn. Awaiting her pick."
+        ]
       },
       {
         "name": "Chloe Sutton",
@@ -4871,12 +5042,21 @@ const COMPANIES = [
       {
         "date": "2026-10-12",
         "text": "Wave 5: invites sent to Alice Alvarez (Recruiter, Agent Engineering) and Alishan Hopping (Recruiter, Solutions/Sales Engineering)"
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Stephanie Pavlov ACCEPTED the Sep 30 wave-2 invite Thu Nov 12 (Connections 7,946) and emailed at 10:54 AM PT pitching Sierra Core Engineering (infra / data platform / dev tools) — the first substantive Sierra contact (all Sep 30–Oct 12 invites had stayed pending). Diligence: Bret Taylor + Clay Bavor's AI agent platform, Series E ~$15.8B, $400M+ ARR — inside Rui's target band; pitch is generic SWE with no level/comp, so scope needs pinning."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Reply SENT to Stephanie Pavlov Thu Nov 12 afternoon (Rui-approved, v6 resume attached): fit summary and a 30-min intro proposed (weekdays 1:00–2:00 PM PT or her scheduling link), asking about Staff+ ML/platform scope in Core Engineering. Awaiting her pick."
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
-        "Diligence 2026-10-12: ~75–100x ARR at the $15.8B mark — priced for perfection; no IPO before ~2028 on current signals; Salesforce Agentforce is bundling the category."
+        "Diligence 2026-10-12: ~75–100x ARR at the $15.8B mark — priced for perfection; no IPO before ~2028 on current signals; Salesforce Agentforce is bundling the category.",
+        "Diligence update 2026-11-12 (Stephanie Pavlov inbound): Series E May 2026 $950M at ~$15.8B post-money (Tiger Global / GV; Sequoia, Benchmark, Greenoaks); ~$1.6B raised total; company-reported $400M+ ARR Oct 2026; ~50% of Fortune 50 are customers. Founders Bret Taylor + Clay Bavor (SF, founded Feb 2023)."
       ]
     },
     "interviews": []
@@ -5502,6 +5682,16 @@ const COMPANIES = [
         "history": [
           "2026-10-29 — invite sent (profile-verified, Surge parallel push at Rui's direction); confirmed in the LinkedIn Sent list the same afternoon ('Sent 4 hours ago'). Pending."
         ]
+      },
+      {
+        "name": "Nick Heiner",
+        "role": "Lead, RL Environments, Surge AI",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -5532,6 +5722,10 @@ const COMPANIES = [
       {
         "date": "2026-11-04",
         "text": "Matt Anger marked COLD per one-max rule (his one follow-up, sent Nov 1, went unanswered for 3 days; verified live Nov 4). Both Surge conversation lines (Marie Avunjian and Matt Anger) are now cold; Surge AI needs a fresh recruiter line."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Nick Heiner (Lead, RL Environments; profile-verified). Surge's recruiters were all already pending or connected, so the fresh line is an engineering lead."
       }
     ],
     "intel": {
@@ -5835,6 +6029,16 @@ const COMPANIES = [
           "2026-11-06 10:36 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread). Profile verified live first: Together AI, Technical Lead / Senior Software Engineer (ex-Google), LLM Inference Systems / ML Infrastructure, SF Bay Area, NYU. Thread held only Rui's Nov 3 9:32 PM NYU-alumni message, no reply. Gist: floated the Nov 3 note; Together inference-platform interest; asked for a brief chat on senior/staff ML/inference roles or a pointer. Cold check Nov 9 if still silent.",
           "2026-11-09 — marked COLD per one-max rule: the thread's ONE follow-up (sent 2026-11-06 10:36 AM PT) is unanswered after 3 days; verified live in the 2026-11-09 sweep (follow-up seen by Yuan, no reply). No more nudges on this thread; Together AI needs a fresh line."
         ]
+      },
+      {
+        "name": "Colin Chang",
+        "role": "Senior Staff Engineer, Inference Platform, Together AI",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -5873,6 +6077,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Yuan ZHANG marked COLD Mon Nov 9 per one-max rule (follow-up sent Nov 6, 10:36 AM PT, seen by Yuan, no reply in 3 days; verified live). No more nudges; Together AI needs a fresh line."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Colin Chang (Senior Staff Engineer, Inference Platform; profile-verified, 6 months in role). Aisha Gataani was already pending and was not re-invited. Sent invitations 170 -> 182 across the round."
       }
     ],
     "intel": {
@@ -6220,7 +6428,21 @@ const COMPANIES = [
           "2026-11-02 11:26 AM PT — Lindsay REPLIED: she is still waiting on the hiring manager's feedback and will relay next steps once she hears back. Monitor sent one acknowledgement at 4:52 PM PT the same day (verified in thread): thanked her for the update and for following up with the HM and asked her to let Rui know once she hears back. No booking. Awaiting hiring-manager feedback.",
           "2026-11-10 12:38 PM PT — Lindsay REPLIED (LinkedIn; career-Gmail InMail copy 12:39 PM PT, id 1a1c72f890f2c4d3): the hiring manager reviewed Rui's profile and is interested in a first round; she sent her booking link https://yahoo.candidate.fyi/booking/M5cyhx (Google Meet link to come in the invite). Diligence before booking (2026-11-04 rule): Senior Principal AI/ML Architect = IC6 (above Senior Staff mapping), Yahoo Mail Intelligence, 100% remote; public band $160,965–$349,885/yr + bonus (Built In mirror of the Yahoo posting); Yahoo is Apollo-owned since 2021, no pending acquisition, PE equity caveat noted — no disqualifier, proceeded under scheduling pre-authorization.",
           "2026-11-10 01:46–01:48 PM PT — first round BOOKED by the midday email monitor: Thu Nov 12, 2026, 1:00–1:30 PM PT, 'Initial HR Recruiter Call - Yahoo (Lindsay Fichter)' (booking event 7dabd5f6-8581-46d5-ab66-e3b181340ef1; invite email 1:48 PM PT: Google Meet wna-pqzi-njd, phone +1 478-324-0682 PIN 787370579, audio only; her agenda includes a high-level salary overview — comp rule noted on the calendar event: do not state a number first). Full-context Calendar event a1qbbf6heq6brrvitsr125im1c created (incl. company brief per the 2026-11-06 rule). Thu Nov 12 1:00 PM was free (Wed Nov 11 1:00 PM is the Etsy intro; Fri Nov 13 1:00 PM is an office event). No separate thank-you sent — the booking confirmation is system-generated; the LinkedIn thread was left to the LinkedIn monitor.",
-          "2026-11-10 (afternoon monitor) — DUPLICATE BOOKING ERROR + CORRECTION: not knowing the midday monitor had already booked 1:00 PM, the afternoon monitor booked a second slot Thu Nov 12, 1:30–2:00 PM PT (event 0ed93870-9a20-469f-8299-3d9c103c8b7e, Meet ahw-shkm-sno) and messaged Lindsay at 4:46 PM PT saying 1:30 PM. Correction at 4:51–4:52 PM PT: the duplicate was cancelled via its cancellation link (page confirmed 'Your event has been cancelled') and a correction LinkedIn message was sent clarifying the correct time is Thu Nov 12, 1:00 PM PT, Meet wna-pqzi-njd. Standing booking = the single 1:00 PM call; no new calendar event was created by the afternoon run (the 1:00 PM event already existed, verified, no conflict)."
+          "2026-11-10 (afternoon monitor) — DUPLICATE BOOKING ERROR + CORRECTION: not knowing the midday monitor had already booked 1:00 PM, the afternoon monitor booked a second slot Thu Nov 12, 1:30–2:00 PM PT (event 0ed93870-9a20-469f-8299-3d9c103c8b7e, Meet ahw-shkm-sno) and messaged Lindsay at 4:46 PM PT saying 1:30 PM. Correction at 4:51–4:52 PM PT: the duplicate was cancelled via its cancellation link (page confirmed 'Your event has been cancelled') and a correction LinkedIn message was sent clarifying the correct time is Thu Nov 12, 1:00 PM PT, Meet wna-pqzi-njd. Standing booking = the single 1:00 PM call; no new calendar event was created by the afternoon run (the 1:00 PM event already existed, verified, no conflict).",
+          "2026-11-12 08:10 AM PT — Lindsay REPLIED via LinkedIn: 'Perfect! thank you so much!' — acknowledgement of Rui's correction; today's 1:00–1:30 PM PT intro call stands (Meet wna-pqzi-njd), duplicate cancelled. No reply needed or sent.",
+          "2026-11-12 — Intro call HELD Thu Nov 12, 1:00–1:30 PM PT (Google Meet wna-pqzi-njd), as booked. Lindsay sent a 1:05 PM PT LinkedIn pre-call check-in ('I am connected to the google meet. Just wanted to make sure this time still works for you!') — superseded by the call, no reply sent. She emailed at 1:35 PM PT (direct email, cc Alicia Ciaccia): positive hiring-leadership feedback after the call; handoff to recruiting partner Alicia Ciaccia (alicia.ciaccia@yahooinc.com); Rui asked to submit a Workday application for JR0026993 Senior Principal AI/ML Architect, Yahoo Mail, selecting 'contacted by a Yahoo Recruiter' before next steps proceed.",
+          "2026-11-12 (~2:1x PM PT) — Thank-you SENT Thu Nov 12 after Rui approved handling both Yahoo items (' 都处理下 '): career-Gmail reply to Lindsay, cc Alicia Ciaccia (sent 1a1d1cfe05edb1f2) — thanked her for the conversation and the positive feedback and confirmed the JR0026993 application would be submitted via the link selecting 'contacted by a Yahoo Recruiter'.",
+          "2026-11-12 05:23 PM PT — Workday application SUBMITTED Thu Nov 12: Candidate Home shows Active (1) — Senior Principal AI/ML Architect - Yahoo Mail, JR0026993, status Under Consideration, submitted 2026-11-12. Source selected 'I was contacted by a Yahoo Recruiter'; v6 resume; standard answers (work auth Yes, sponsorship No, availability Immediately; education NYU Master's — Computer Science / Shanghai Jiao Tong University Bachelor's — Computer Science, confirmed by Rui Nov 12; voluntary disclosures filled, the form had no disability field). The submission followed a candidate-account creation + email-verification detour completed by Rui himself. No separate confirmation number — JR0026993 is the identifier. Next step: wait for Alicia Ciaccia to contact Rui."
+        ]
+      },
+      {
+        "name": "Alicia Ciaccia",
+        "role": "Recruiting Partner @ Yahoo (next-steps owner after Lindsay Fichter)",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 01:35 PM PT — named by Lindsay Fichter (cc'd on her next-steps email) as Rui's recruiting partner after the Nov 12 intro call passed with positive hiring-leadership feedback. Rui's JR0026993 Workday application was submitted Nov 12 (Under Consideration); cc'd on Rui's thank-you the same afternoon. Awaiting her contact on next steps. No LinkedIn messages from her (handoff is email-side, verified in the Nov 12 afternoon monitor)."
         ]
       }
     ],
@@ -6248,6 +6470,14 @@ const COMPANIES = [
       {
         "date": "2026-11-10",
         "text": "First round BOOKED: Thu Nov 12, 2026, 1:00–1:30 PM PT, Initial HR Recruiter Call with Lindsay Fichter (Google Meet wna-pqzi-njd; full-context calendar event created with company brief). An afternoon duplicate booking for 1:30 PM was made in error, then cancelled the same afternoon with a correction message to Lindsay — the standing booking is the single 1:00 PM call."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Intro call HELD Thu Nov 12, 1:00–1:30 PM PT and PASSED: Lindsay Fichter emailed 1:35 PM PT with positive hiring-leadership feedback and handed Rui to recruiting partner Alicia Ciaccia; next step was a formal Workday application for JR0026993 (Senior Principal AI/ML Architect, Yahoo Mail). Lindsay's 08:10 AM PT LinkedIn ack confirmed the call stood; her 1:05 PM PT pre-call check-in was superseded by the call."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Thank-you SENT to Lindsay Fichter (cc Alicia Ciaccia) Thu Nov 12 afternoon at Rui's direction, and the Workday application for JR0026993 was SUBMITTED Thu Nov 12, 5:23 PM PT — Candidate Home: Under Consideration (source 'I was contacted by a Yahoo Recruiter', v6 resume, standard answers). Awaiting Alicia Ciaccia's next steps."
       }
     ],
     "intel": {
@@ -6261,9 +6491,9 @@ const COMPANIES = [
       {
         "date": "2026-11-12",
         "time": "1:00–1:30 PM PT",
-        "title": "Initial HR Recruiter Call — BOOKED",
+        "title": "Initial HR Recruiter Call — HELD (passed, advanced)",
         "people": "Lindsay Fichter (Internal Sourcer @ Yahoo)",
-        "notes": "Google Meet wna-pqzi-njd (phone +1 478-324-0682 PIN 787370579, audio only) — booked Tue Nov 10, 2026 via https://yahoo.candidate.fyi/booking/M5cyhx after the hiring manager reviewed Rui's profile and expressed interest in a first round. Calendar event a1qbbf6heq6brrvitsr125im1c with full context + company brief. Her agenda includes a high-level salary overview — do not state a comp number first. A duplicate 1:30 PM booking made in error by the afternoon monitor was cancelled the same day with a correction message; this 1:00 PM booking is the standing one."
+        "notes": "Google Meet wna-pqzi-njd (phone +1 478-324-0682 PIN 787370579, audio only) — booked Tue Nov 10, 2026 via https://yahoo.candidate.fyi/booking/M5cyhx after the hiring manager reviewed Rui's profile and expressed interest in a first round. Calendar event a1qbbf6heq6brrvitsr125im1c with full context + company brief. Her agenda includes a high-level salary overview — do not state a comp number first. A duplicate 1:30 PM booking made in error by the afternoon monitor was cancelled the same day with a correction message; this 1:00 PM booking is the standing one. HELD as booked Thu Nov 12, 2026 — passed with positive hiring-leadership feedback; Lindsay handed Rui to recruiting partner Alicia Ciaccia (1:35 PM PT email). Thank-you sent that afternoon; Workday application for JR0026993 submitted 5:23 PM PT (Under Consideration). Awaiting Alicia's next steps."
       }
     ]
   },
@@ -6447,6 +6677,16 @@ const COMPANIES = [
         "history": [
           "2026-11-09 08:23 AM PT — cold INBOUND email (life Gmail; read by the 2026-11-09 email monitor, id 1a1c11ffa76a8d92; kylerichey@google.com): he found Rui's application and wants to consider him for Senior Engineering Manager, YouTube Recommendations ML; asked for a 30-min call + availability this week. NO reply sent — management-track role + cold-inbound diligence rule — flagged to Rui for his decision. Possibly the recruiter Su-Lin Wu connected Rui with on Nov 7 (unconfirmed). No LinkedIn message from him was found in the Nov 9 monitors."
         ]
+      },
+      {
+        "name": "Baykal Cakici",
+        "role": "Sr Staff / Sr EM, YouTube Discovery & Recommendations (leads ~50-person ML team)",
+        "linkedin": null,
+        "contact_status": "invited",
+        "date": "2026-11-12",
+        "history": [
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
       }
     ],
     "timeline": [
@@ -6469,6 +6709,10 @@ const COMPANIES = [
       {
         "date": "2026-11-09",
         "text": "Kyle Richey (Technical Recruiter, YouTube Engineering) cold-emailed Mon Nov 9, 08:23 AM PT (life inbox): wants to consider Rui for Senior Engineering Manager, YouTube Recommendations ML; asked for a 30-min call + availability this week. No reply sent — management-track role, held for Rui's decision under the cold-inbound diligence rule. Possibly the recruiter Su-Lin Wu connected on Nov 7 (unconfirmed)."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Baykal Cakici (Sr Staff / Sr EM, Discovery & Recommendations, leading a ~50-person ML team; profile-verified)."
       }
     ],
     "intel": {
