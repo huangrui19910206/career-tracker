@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 13, 2026";
+const BUILD_DATE = "Nov 14, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -420,10 +420,11 @@ const COMPANIES = [
         "name": "Adel Youssef",
         "role": "Sr ML Manager, Siri Experience, Apple (Seattle)",
         "linkedin": null,
-        "contact_status": "invited",
+        "contact_status": "connected",
         "date": "2026-11-12",
         "history": [
-          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
+          "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 20:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Luke Wang, Recently Added shows Adel Youssef connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 20:11 PT, ex-AWS overlap + Siri angle, asked about Senior Staff MLE openings + referral) and was seen by Adel. No reply from Adel yet as of the Nov 13 morning and afternoon monitors; the monitors sent NO duplicate message."
         ]
       }
     ],
@@ -451,6 +452,10 @@ const COMPANIES = [
       {
         "date": "2026-11-12",
         "text": "HM/Staff+ expansion Thu Nov 12 (Apple ML, US only): invites sent to William Li (ML EM, Global Siri, Cupertino — his own post says he is hiring Senior/Staff ML) and Adel Youssef (Sr ML Manager, Siri Experience, Seattle; overlapping AWS-era background with Rui) — both profile-verified."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Adel Youssef (Sr ML Manager, Siri Experience) ACCEPTED the Nov 12 expansion invite Thu Nov 12. Rui's 8:11 PM PT intro (ex-AWS overlap + Siri angle) is in-thread and seen; no reply yet as of Nov 13."
       }
     ],
     "intel": {
@@ -577,7 +582,8 @@ const COMPANIES = [
         "history": [
           "2026-11-09 — Nick Gutierrez handed Rui to Sophia Conn (10:49 AM PT); she emailed at 2:30 PM PT asking to schedule a quick call (next steps + feedback after the Nov 6 coding round with Martin Meinke). A reply was SENT the same day in the jobs-Gmail thread (To: Sophia Conn, verified): offered Thu Nov 12 or Mon Nov 16, both 1:00 PM PT (Nov 11 1:00 PM is the Etsy intro call; Nov 13 1:00 PM is an office happy hour). Awaiting her confirmation. NDA still unsigned.",
           "2026-11-09 03:43 PM PT — Sophia REPLIED (jobs Gmail; read by the 2026-11-10 email monitor): she is in a meeting Thu Nov 12 at 1:00 PM PT, asked whether another day this week works, and said she can also take a call after 5:00 PM PT. A reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT was prepared and is awaiting Rui's nod — NOT sent (no duplicate send by the Nov 10 monitors).",
-          "2026-11-11 11:09 PM PT — the counter-proposal reply was SENT in her original jobs-Gmail thread after Rui approved it (\" 发，就按这个 \"): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 2026 at 1:00 PM PT for a 30-minute call (next steps + feedback after the Nov 6 coding round with Martin Meinke). This supersedes the earlier draft-awaiting-approval status. No reply from her in the Nov 12 morning/midday email runs or LinkedIn monitors — awaiting her pick. NDA remains unsigned."
+          "2026-11-11 11:09 PM PT — the counter-proposal reply was SENT in her original jobs-Gmail thread after Rui approved it (\" 发，就按这个 \"): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 2026 at 1:00 PM PT for a 30-minute call (next steps + feedback after the Nov 6 coding round with Martin Meinke). This supersedes the earlier draft-awaiting-approval status. No reply from her in the Nov 12 morning/midday email runs or LinkedIn monitors — awaiting her pick. NDA remains unsigned.",
+          "2026-11-12 04:27 PM PT — Sophia SENT a calendar invite (jobs Gmail, id 1a1d24d839d8cd11; read by the 2026-11-12 evening email monitor): 'Sync w/ Sophia', Mon Nov 16, 2026, 1:00–1:30 PM PT — the Mon 13:00 slot Rui proposed in his Nov 11 reply. This resolves the awaiting-her-pick item. The slot COLLIDES with Sierra / Stephanie Pavlov's Mon Nov 16 1:00 PM PT Models-team intro — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13). NDA still unsigned."
         ]
       }
     ],
@@ -653,6 +659,10 @@ const COMPANIES = [
       {
         "date": "2026-11-11",
         "text": "Counter-proposal reply SENT to Sophia Conn Wed Nov 11, 11:09 PM PT (Rui-approved): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 1:00 PM PT for a 30-min next-steps/feedback call. Awaiting her pick as of Nov 12; NDA still unsigned."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Sophia Conn SENT an invite Thu Nov 12, 4:27 PM PT: 'Sync w/ Sophia', Mon Nov 16, 2026, 1:00–1:30 PM PT (the slot Rui proposed Nov 11). That slot collides with Sierra / Stephanie Pavlov's Mon Nov 16 1:00 PM Models-team intro — Rui's pick, unresolved as of Nov 13. NDA still unsigned."
       }
     ],
     "intel": {
@@ -675,6 +685,13 @@ const COMPANIES = [
         "title": "Technical coding round — CONFIRMED",
         "people": "Martin Meinke (interviewer); coordinator Beatrice Wang; Nick Gutierrez (Technical Sourcer)",
         "notes": "CoderPad https://app.coderpad.io/FXXNHNN7 (Python) + Google Meet https://meet.google.com/tbb-kzgc-eny — confirmed Nov 4 after Beatrice Wang's 4:21 PM PT reply moved it from her original Fri 11:00–11:45 AM proposal (Martin Meinke has a 10:00 AM conflict; Rui accepted 10:15). Reply-All confirmation sent; calendar event created. Prep page: https://interview.huangrui.dev/#/applied-intuition. NDA (Ashby/HelloSign) still unsigned."
+      },
+      {
+        "date": "2026-11-16",
+        "time": "1:00–1:30 PM PT",
+        "title": "Next-steps / feedback call — INVITED (collides with Sierra)",
+        "people": "Sophia Conn (Technical Recruiter)",
+        "notes": "Invite sent by Sophia Thu Nov 12, 4:27 PM PT (jobs Gmail) for the slot Rui proposed Nov 11. NOT added as a confirmed event on Rui's calendar: Sierra / Stephanie Pavlov sent an invite for the same Mon Nov 16, 1:00 PM PT slot. Which call to keep/move is Rui's decision, unresolved as of Nov 13. NDA still unsigned."
       }
     ]
   },
@@ -1355,7 +1372,8 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": "2026-11-09",
         "history": [
-          "2026-11-09 — named by Louis Cross as the interviewer for Rui's confirmed hiring-manager conversation: Fri Nov 13, 2026, 10:00–11:00 AM PT, Google Meet ryj-mtda-oti (see timeline / interviews)."
+          "2026-11-09 — named by Louis Cross as the interviewer for Rui's confirmed hiring-manager conversation: Fri Nov 13, 2026, 10:00–11:00 AM PT, Google Meet ryj-mtda-oti (see timeline / interviews).",
+          "2026-11-13 — HM interview HELD Fri Nov 13, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti, as confirmed Nov 9. No outcome recorded in the Nov 13 monitors — awaiting ClickHouse's next steps."
         ]
       }
     ],
@@ -1439,6 +1457,10 @@ const COMPANIES = [
       {
         "date": "2026-11-12",
         "text": "Ashby reminder received Thu Nov 12, 10:03 AM PT confirming tomorrow's hiring-manager interview: Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. No action needed."
+      },
+      {
+        "date": "2026-11-13",
+        "text": "HM interview HELD Fri Nov 13, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti, as booked. Awaiting outcome / next steps."
       }
     ],
     "intel": {
@@ -1446,7 +1468,8 @@ const COMPANIES = [
       "notes": [
         "Harry Kang leads hiring for DB internals, query engine, K8s, SRE",
         "Diligence 2026-10-12: clearest IPO line in the set (co-founder statements; ex-Snowflake CFO joined the board as audit chair Sep 2026); weakest documented cash of the strong names — negotiate on base; entry multiple ~60x run-rate at the Jan 2026 raise; options, not RSUs.",
-        "Louis Cross intro is for Senior ML Engineer level — below Rui's Senior Staff level; scope/level questions prepared for the call (brief 2026-10-13)."
+        "Louis Cross intro is for Senior ML Engineer level — below Rui's Senior Staff level; scope/level questions prepared for the call (brief 2026-10-13).",
+        "Comp check 2026-11-13 (morning of the HM round): the posting's base band tops at $238K with no cash bonus; at the Senior title the realistic TC is ~$300–400K, well below Rui's ~$500K Senior Staff target — the Nov 13 HM round was therefore framed as verifying Staff level/scope. Comp is now the first diligence item before any future round is booked."
       ]
     },
     "interviews": [
@@ -1460,9 +1483,9 @@ const COMPANIES = [
       {
         "date": "2026-11-13",
         "time": "10:00–11:00 AM PT",
-        "title": "Hiring-manager conversation — CONFIRMED",
+        "title": "Hiring-manager conversation — HELD",
         "people": "Gil Raphaelli (Director, Engineering); coordinator Louis Cross (Senior Technical Recruiter)",
-        "notes": "Google Meet ryj-mtda-oti — confirmed by Louis Cross Mon Nov 9, 2026 (afternoon) after availability was submitted via his Ashby link that morning (Fri Nov 13 was the first-choice slot). 1-hour video conversation for ML Engineer (AI/ML); role title Senior ML Engineer. Calendar event utaqq252256ph95knt6ijnjdd8 (upgraded in place from the morning unconfirmed HOLD)."
+        "notes": "Google Meet ryj-mtda-oti — confirmed by Louis Cross Mon Nov 9, 2026 (afternoon) after availability was submitted via his Ashby link that morning (Fri Nov 13 was the first-choice slot). 1-hour video conversation for ML Engineer (AI/ML); role title Senior ML Engineer. Calendar event utaqq252256ph95knt6ijnjdd8 (upgraded in place from the morning unconfirmed HOLD). HELD Fri Nov 13, 2026, 10:00–11:00 AM PT as booked; awaiting outcome."
       }
     ]
   },
@@ -3904,7 +3927,8 @@ const COMPANIES = [
         "history": [
           "2026-10-15 12:08 PM PT — Ali emailed (via Guide) about Rui's application for Principal Machine Learning Engineer, Data Mining: impressed by the background, invited Rui to a 30-min recruiter screen via the Guide scheduling button. No reply was sent initially — held for backcheck under the inbound-diligence rule and flagged to Rui.",
           "2026-10-16 — Rui first leaned pass, then decided to probe first: an email was SENT to Ali asking for the role's comp range and location (Boston vs Bay Area/remote) before deciding whether to book the screen. Awaiting his reply.",
-          "2026-10-20 02:07 PM PT — Ali REPLIED by email (jobs Gmail, via Guide; read in full by the 2026-10-21 email monitor), answering the comp/location questions Rui sent Oct 16: the Principal MLE (Data Mining) role is open to REMOTE; base salary $240,000–$330,000 plus annual bonus, equity, and refreshers; he invited Rui to schedule if interested. No reply or booking was made — the decision is back with Rui."
+          "2026-10-20 02:07 PM PT — Ali REPLIED by email (jobs Gmail, via Guide; read in full by the 2026-10-21 email monitor), answering the comp/location questions Rui sent Oct 16: the Principal MLE (Data Mining) role is open to REMOTE; base salary $240,000–$330,000 plus annual bonus, equity, and refreshers; he invited Rui to schedule if interested. No reply or booking was made — the decision is back with Rui.",
+          "2026-11-12 04:58 PM PT — Ali EMAILED a REJECTION (jobs Gmail, id 1a1d26a0170e324d; read in full by the 2026-11-12 evening email monitor): Motional decided not to proceed with Rui's application for Principal Machine Learning Engineer, Data Mining at this time; resume kept on file, feedback offered on request. NO reply sent — whether to send a thank-you / ask for feedback is Rui's call. Line CLOSED."
         ]
       }
     ],
@@ -3940,6 +3964,10 @@ const COMPANIES = [
       {
         "date": "2026-10-29",
         "text": "Joel Ferdinand Malala replied Oct 29, 4:02 PM PT, checking whether Rui saw his colleague Ali Edalatpour's call invite (Principal MLE, Data Mining). No reply sent — the Motional decision remains with Rui."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "REJECTED: Ali Edalatpour emailed Thu Nov 12, 4:58 PM PT — Motional is not proceeding with the Principal MLE, Data Mining application; resume kept on file, feedback offered on request. No reply sent; thank-you/feedback-ask is Rui's call. Line closed."
       }
     ],
     "intel": {
@@ -3961,7 +3989,7 @@ const COMPANIES = [
     "size": null,
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Ashish Rastogi",
@@ -4009,10 +4037,13 @@ const COMPANIES = [
         "name": "Lequn (Luke) Wang",
         "role": "Senior Research Scientist, Netflix — generative homepage recommendation TL",
         "linkedin": null,
-        "contact_status": "invited",
+        "contact_status": "connected",
         "date": "2026-11-12",
         "history": [
-          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
+          "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 18:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Adel Youssef, Recently Added shows Luke Wang connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 17:11 PT, GenPage angle, asked about Senior Staff MLE openings + referral).",
+          "2026-11-12 05:17 PM PT — Luke REPLIED (LinkedIn; read by the 2026-11-13 morning monitor): he reported manager roles and probably L6 openings, said L7 is uncertain, and offered to refer Rui if needed. L7 is the Senior Staff equivalent, so the live options he named are manager roles and probably L6 (Staff).",
+          "2026-11-13 09:51 AM PT — reply SENT by the morning monitor (verified in-thread): thanked him for the referral offer, expressed interest in the L6 openings (especially GenPage / homepage personalization), offered to share the resume for a referral, and asked whether the L6 roles are IC-focused on ranking/recommendation modeling and whether the manager roles are on the same team. No resume attached, no comp stated. Seen by Luke 10:07 AM PT (2026-11-13 afternoon monitor); no reply yet as of that monitor. Whether to pursue L6/manager or hold for L7 only is Rui's decision."
         ]
       }
     ],
@@ -4032,6 +4063,14 @@ const COMPANIES = [
       {
         "date": "2026-11-12",
         "text": "HM/Staff+ expansion Thu Nov 12: invites sent to Sura Elamurugu (Director, AI Platform; 10 years at Netflix) and Lequn (Luke) Wang (Senior Research Scientist, generative homepage recommendation TL) — both profile-verified. Shaojing Li required an email address to connect and was skipped (no email fabricated)."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Lequn (Luke) Wang ACCEPTED the Nov 12 expansion invite and REPLIED Thu Nov 12, 5:17 PM PT: manager roles and probably L6 openings, L7 uncertain, happy to refer. Rui's 5:11 PM PT intro (GenPage angle) was already in-thread."
+      },
+      {
+        "date": "2026-11-13",
+        "text": "Reply SENT to Luke Wang Fri Nov 13, 9:51 AM PT: interest in L6 GenPage/personalization openings, resume offered for a referral, asked IC vs manager scope. Seen 10:07 AM PT; awaiting his answer — whether to pursue L6/manager vs hold for L7 is Rui's call."
       }
     ],
     "intel": {
@@ -4139,7 +4178,8 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": "2026-11-10",
         "history": [
-          "2026-11-10 10:47 AM PT — cold INBOUND email (career Gmail, id 1a1c6c92ba6b5b0a; read by the 2026-11-10 midday email monitor): Recruiting @ OnePay pitching an Applied Scientist role — personalization/recommendation models, real-time ranking + offer selection; asked for a 10-min chat. No level stated. Diligence done the same day (see intel); NO reply sent — awaiting Rui's go under the cold-inbound rule."
+          "2026-11-10 10:47 AM PT — cold INBOUND email (career Gmail, id 1a1c6c92ba6b5b0a; read by the 2026-11-10 midday email monitor): Recruiting @ OnePay pitching an Applied Scientist role — personalization/recommendation models, real-time ranking + offer selection; asked for a 10-min chat. No level stated. Diligence done the same day (see intel); NO reply sent — awaiting Rui's go under the cold-inbound rule.",
+          "2026-11-13 09:17 AM PT — Nia FOLLOWED UP by email (career Gmail, id 1a1d5ea0dd65f44f; read in full by the 2026-11-13 morning email monitor): a follow-up to her Nov 10 pitch ('in case it got buried') for the Personalization Models / Applied Scientist role, linking the role and OnePay's Next Best Action model article, asking for a 10-min chat. NO reply sent — same cold-inbound line, diligence unchanged (Walmart+Ribbit JV ~$4B, level unstated, illiquid JV equity). Reply-or-pass decision remains Rui's."
         ]
       }
     ],
@@ -4147,6 +4187,10 @@ const COMPANIES = [
       {
         "date": "2026-11-10",
         "text": "Cold inbound: Nia Jogopulos (Recruiting @ OnePay) emailed Tue Nov 10, 10:47 AM PT pitching an Applied Scientist role (personalization/recommendation, real-time ranking + offer selection) and asking for a 10-min chat. Diligence: OnePay is the Walmart + Ribbit Capital JV consumer-finance app (formerly ONE), ~$4B valuation (Jan 2026 tender), ~6M MAU. Flags: no level stated vs Rui's Senior Staff target; JV equity illiquid / no clear IPO path. Recommendation: worth a short exploratory chat to pin level + band — pending Rui's go. No reply sent."
+      },
+      {
+        "date": "2026-11-13",
+        "text": "Nia Jogopulos FOLLOWED UP Fri Nov 13, 9:17 AM PT on her Nov 10 Personalization Models / Applied Scientist pitch (role link + Next Best Action article; 10-min chat ask). No reply sent — reply-or-pass remains Rui's decision."
       }
     ],
     "intel": {
@@ -4183,7 +4227,8 @@ const COMPANIES = [
           "2026-11-09 09:57 PM PT — Shravan REPLIED (LinkedIn; read by the 2026-11-10 morning monitor): 'Sure, what is your email address?' No invite/link yet for the proposed Tue Nov 10 ~1:00 PM PT chat.",
           "2026-11-10 09:48 AM PT — reply SENT by the morning monitor giving rui.huang.career@gmail.com, confirming today 1:00 PM PT, and asking for a calendar invite / meet link (verified 'Message sent successfully'; one message only). NOT booked — awaiting his invite.",
           "2026-11-10 12:52 PM PT — Teams invite RECEIVED by direct email (career inbox, id 1a1c73c147cf6ddf): TODAY Tue Nov 10, 2026, 1:10–1:40 PM PT, 'PayPal Staff ML role connect', organizer Shravan Sunkada <ssunkada@paypal.com> (Microsoft Teams). The midday email monitor created full-context calendar event b7pvhetvo30s4ca8ess2epuf1o. LinkedIn follow-ups from Shravan: 12:53 PM 'Sounds good, sent you an invite for 1:10 PM PT'; 1:16 PM 'Looks like you aren't available, should we plan for another day?' — the 1:10–1:40 PM chat did NOT happen.",
-          "2026-11-10 04:47 PM PT — reschedule reply SENT by the afternoon monitor: apology for the missed 1:10 PM chat, proposed Wed Nov 11, 1:00 PM PT or Fri Nov 13, 1:00 PM PT, asked for a fresh invite/link, offered the resume. ⚠️ Parent calendar check AFTER the send: Wed Nov 11 1:00 PM PT conflicts with the Etsy intro call (Natasha Kelleher) and Fri Nov 13 1:00 PM PT conflicts with a recurring Office Happy Hour/Tea Time event — if Shravan picks either, Rui must decide / re-propose. No second message was sent."
+          "2026-11-10 04:47 PM PT — reschedule reply SENT by the afternoon monitor: apology for the missed 1:10 PM chat, proposed Wed Nov 11, 1:00 PM PT or Fri Nov 13, 1:00 PM PT, asked for a fresh invite/link, offered the resume. ⚠️ Parent calendar check AFTER the send: Wed Nov 11 1:00 PM PT conflicts with the Etsy intro call (Natasha Kelleher) and Fri Nov 13 1:00 PM PT conflicts with a recurring Office Happy Hour/Tea Time event — if Shravan picks either, Rui must decide / re-propose. No second message was sent.",
+          "2026-11-13 — NO reply / NO pick from Shravan (verified in the Nov 13 morning and afternoon LinkedIn monitors): the Fri Nov 13, 1:00 PM PT slot proposed Nov 10 passed UNCONFIRMED — do not wait on it. Rui remains last sender (Nov 10 4:47 PM PT proposal, seen). No nudge sent (the thread's follow-up was already spent Nov 6)."
         ]
       }
     ],
@@ -4207,6 +4252,10 @@ const COMPANIES = [
       {
         "date": "2026-11-10",
         "text": "The 1:10 PM Teams chat did NOT happen (Shravan messaged 1:16 PM PT: 'Looks like you aren't available, should we plan for another day?'). Reschedule reply sent 4:47 PM PT proposing Wed Nov 11 or Fri Nov 13 at 1:00 PM PT with a fresh invite — ⚠️ both proposed slots have calendar conflicts (Wed = Etsy intro call; Fri = office happy hour), flagged for Rui if Shravan picks either. Awaiting his reply."
+      },
+      {
+        "date": "2026-11-13",
+        "text": "Shravan Sunkada still had not replied by Fri Nov 13 — the Fri Nov 13, 1:00 PM PT slot proposed Nov 10 passed unconfirmed. No nudge sent; do not wait on this slot."
       }
     ],
     "intel": {
@@ -4990,7 +5039,9 @@ const COMPANIES = [
         "date": "2026-11-12",
         "history": [
           "2026-11-12 — Stephanie ACCEPTED Rui's wave-2 LinkedIn invitation (sent 2026-09-30; accept notification 12:53 PM PT, id 1a1d189a01317da7; live-verified in the afternoon monitor: Connections 7,945 -> 7,946, Recently Added #1 Stephanie Pavlov, Connected Nov 12, 2026). Earlier the same day she EMAILED at 10:54 AM PT (career Gmail, id 1a1d11cf58145f84, from stephanie.pavlov@ext.sierra.ai) pitching Sierra's Core Engineering team (infra / data platform / dev tools for Sierra's AI agent platform); no role, level or comp stated. Sierra had never actually been talked to before — the Sep 30 wave-2 invites to her and Juan Carlos Troncoso (and Chloe Sutton Oct 2) all stayed pending with no conversation; this email was the first substantive contact. Read + backchecked, no reply at first (inbound-diligence rule). Diligence: Sierra, SF, founded Feb 2023 by Bret Taylor + Clay Bavor; Series E May 2026 $950M at ~$15.8B post-money (Tiger Global / GV; Sequoia, Benchmark, Greenoaks); ~$1.6B raised; company-reported $400M+ ARR Oct 2026; ~50% of Fortune 50. Fits Rui's $3B–$30B high-growth band, IPO-path. Caveats: generic SWE pitch (not ML-specific), level/comp unstated, ext. sender domain. Recommendation: worth an intro call to pin Staff+ ML/platform scope + comp.",
-          "2026-11-12 (~2:1x PM PT) — Reply SENT Thu Nov 12 after Rui approved handling both items (' 都处理下 '): replied in her original email thread (sent 1a1d1daf1d703e24) with the v6 resume attached — fit summary (Coupang Search Ranking & Discovery / Pinterest search / Meta recommendations), asked whether Core Engineering has Staff+ ML/platform scope, and proposed a 30-min intro call on weekdays 1:00–2:00 PM PT or via her scheduling link. The afternoon LinkedIn monitor sent NO LinkedIn message (no duplicate) — she has not replied on LinkedIn. Awaiting her pick."
+          "2026-11-12 (~2:1x PM PT) — Reply SENT Thu Nov 12 after Rui approved handling both items (' 都处理下 '): replied in her original email thread (sent 1a1d1daf1d703e24) with the v6 resume attached — fit summary (Coupang Search Ranking & Discovery / Pinterest search / Meta recommendations), asked whether Core Engineering has Staff+ ML/platform scope, and proposed a 30-min intro call on weekdays 1:00–2:00 PM PT or via her scheduling link. The afternoon LinkedIn monitor sent NO LinkedIn message (no duplicate) — she has not replied on LinkedIn. Awaiting her pick.",
+          "2026-11-12 02:55 PM PT — Stephanie REPLIED by email (career Gmail, id 1a1d1f9ab5ea17d5; read by the 2026-11-12 evening email monitor): thanked Rui for the resume, said he sounds like a good fit for Sierra's Models team, and said she would send an invite — the role framing shifted from Core Engineering to the Models team / Models Engineering.",
+          "2026-11-12 02:58 PM PT — Stephanie SENT a calendar invite (career Gmail, id 1a1d1fbb03a02b59): 'Rui H / Stephanie - Sierra', Mon Nov 16, 2026, 1:00–1:30 PM PT, Zoom; the invite asks Rui to confirm by accepting. This slot COLLIDES with Applied Intuition / Sophia Conn's Mon Nov 16 1:00 PM PT sync — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13, per the Nov 13 morning/afternoon monitors). No LinkedIn reply from her."
         ]
       },
       {
@@ -5050,6 +5101,10 @@ const COMPANIES = [
       {
         "date": "2026-11-12",
         "text": "Reply SENT to Stephanie Pavlov Thu Nov 12 afternoon (Rui-approved, v6 resume attached): fit summary and a 30-min intro proposed (weekdays 1:00–2:00 PM PT or her scheduling link), asking about Staff+ ML/platform scope in Core Engineering. Awaiting her pick."
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Stephanie Pavlov replied Thu Nov 12, 2:55 PM PT: Rui sounds like a good fit for Sierra's Models team (framing shifted from Core Engineering to Models Engineering), and at 2:58 PM PT she sent an invite for Mon Nov 16, 1:00–1:30 PM PT (Zoom). That slot collides with Applied Intuition / Sophia Conn's Mon Nov 16 1:00 PM sync — Rui's pick, unresolved as of Nov 13."
       }
     ],
     "intel": {
@@ -5059,7 +5114,15 @@ const COMPANIES = [
         "Diligence update 2026-11-12 (Stephanie Pavlov inbound): Series E May 2026 $950M at ~$15.8B post-money (Tiger Global / GV; Sequoia, Benchmark, Greenoaks); ~$1.6B raised total; company-reported $400M+ ARR Oct 2026; ~50% of Fortune 50 are customers. Founders Bret Taylor + Clay Bavor (SF, founded Feb 2023)."
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-11-16",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call — INVITED (Models team; collides with Applied Intuition)",
+        "people": "Stephanie Pavlov (Senior Technical Recruiter)",
+        "notes": "Zoom — invite sent by Stephanie Thu Nov 12, 2:58 PM PT (career Gmail); asks Rui to confirm by accepting. NOT added as a confirmed event on Rui's calendar: the same Mon Nov 16, 1:00 PM PT slot was also picked by Applied Intuition / Sophia Conn. Which call to keep/move is Rui's decision, unresolved as of Nov 13."
+      }
+    ]
   },
   {
     "slug": "skool",
