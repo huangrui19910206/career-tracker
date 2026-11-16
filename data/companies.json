@@ -457,7 +457,7 @@
     "size": "~438",
     "location": null,
     "rto": null,
-    "status": "outreach",
+    "status": "engaged",
     "contacts": [
       {
         "name": "Sydney H.",
@@ -524,10 +524,22 @@
         "name": "Colin Chang",
         "role": "Senior Staff Engineer, Inference Platform, Together AI",
         "linkedin": null,
-        "contact_status": "invited",
+        "contact_status": "connected",
         "date": "2026-11-12",
         "history": [
-          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+          "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
+          "2026-11-15 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation Sun Nov 15 (career-Gmail accept notification 00:53 PT; live-verified in the morning monitor: Connections 7,948 -> 7,949, Sent 180 -> 179, Recently Added top Colin Chang Nov 15). Rui's outbound intro was already in-thread (Nov 15 00:48 PT: Senior Staff MLE Search Ranking at Coupang, Together Inference Platform SLO-driven autoscaling angle, asked about Senior Staff MLE openings / referral).",
+          "2026-11-15 12:49 AM PT — Colin REPLIED Sun Nov 15, 12:49 AM PT (LinkedIn): 'Hi Rui, thanks for the interest. Ted is hiring manager: https://www.linkedin.com/in/tedcui/' — pointing Rui to Ted Cui (ML Platform hiring manager, Together AI). Monitor thank-you SENT Nov 15 09:50 PT (verified 'Message sent successfully', in-thread): thanked Colin, said Rui will reach out to Ted and mention Colin connected them, offered to share resume if helpful. No resume attached (not asked)."
+        ]
+      },
+      {
+        "name": "Ted Cui",
+        "role": "VP Engineering, Inference Platform, Together AI (hiring manager; ex-Apple/Meta/Topsy)",
+        "linkedin": "https://www.linkedin.com/in/tedcui/",
+        "contact_status": "invited",
+        "date": "2026-11-15",
+        "history": [
+          "2026-11-15 — named by Colin Chang (Senior Staff Engineer, Inference Platform) as the hiring manager in his Nov 15 12:49 AM PT LinkedIn reply. At Rui's direction ('you can reply / you judge'), profile verified live first: VP Engineering, Inference Platform at Together AI since Nov 2024 (~2 yrs), headline states he is HIRING; prior Apple/Meta/Topsy. Connection invite SENT Nov 15 mentioning Colin Chang's referral (verified in Sent; Sent invitations rose to 180 in the afternoon monitor). No comp mentioned, no resume attached. Awaiting his acceptance; once connected, chat about openings per the playbook."
         ]
       }
     ],
@@ -571,6 +583,14 @@
       {
         "date": "2026-11-12",
         "text": "HM/Staff+ expansion Thu Nov 12: invite sent to Colin Chang (Senior Staff Engineer, Inference Platform; profile-verified, 6 months in role). Aisha Gataani was already pending and was not re-invited. Sent invitations 170 -> 182 across the round."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Colin Chang ACCEPTED Sun Nov 15 (00:53 PT accept notification; live-verified) and REPLIED 12:49 AM PT pointing Rui to hiring manager Ted Cui (ML Platform, Together AI). Monitor thank-you sent 09:50 PT (verified); no resume attached."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Invite SENT to Ted Cui Sun Nov 15 (VP Engineering, Inference Platform; profile-verified, hiring; Colin Chang referral mentioned; verified in Sent). No comp, no resume. Awaiting acceptance."
       }
     ],
     "intel": {
@@ -2082,7 +2102,8 @@
           "2026-11-12 (~2:1x PM PT) — Reply SENT Thu Nov 12 after Rui approved handling both items (' 都处理下 '): replied in her original email thread (sent 1a1d1daf1d703e24) with the v6 resume attached — fit summary (Coupang Search Ranking & Discovery / Pinterest search / Meta recommendations), asked whether Core Engineering has Staff+ ML/platform scope, and proposed a 30-min intro call on weekdays 1:00–2:00 PM PT or via her scheduling link. The afternoon LinkedIn monitor sent NO LinkedIn message (no duplicate) — she has not replied on LinkedIn. Awaiting her pick.",
           "2026-11-12 02:55 PM PT — Stephanie REPLIED by email (career Gmail, id 1a1d1f9ab5ea17d5; read by the 2026-11-12 evening email monitor): thanked Rui for the resume, said he sounds like a good fit for Sierra's Models team, and said she would send an invite — the role framing shifted from Core Engineering to the Models team / Models Engineering.",
           "2026-11-12 02:58 PM PT — Stephanie SENT a calendar invite (career Gmail, id 1a1d1fbb03a02b59): 'Rui H / Stephanie - Sierra', Mon Nov 16, 2026, 1:00–1:30 PM PT, Zoom; the invite asks Rui to confirm by accepting. This slot COLLIDES with Applied Intuition / Sophia Conn's Mon Nov 16 1:00 PM PT sync — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13, per the Nov 13 morning/afternoon monitors). No LinkedIn reply from her.",
-          "2026-11-14 08:24 AM PT — RESCHEDULE proposed Sat Nov 14, 08:24 AM PT: reply SENT in Stephanie's original career-Gmail thread (To: stephanie.pavlov@ext.sierra.ai verified; sent id 1a1dae0120d7b1c8) explaining the Mon Nov 16 collision, that Rui cannot do the Mon Zoom, and proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any at 1:00–1:30 PM PT (all three checked free on the primary calendar before sending, and none clashes with Etsy's morning options). PROPOSED only — no Sierra calendar event will be created until she picks. No reply from her as of the Nov 14 morning/midday email monitors or the afternoon LinkedIn monitor."
+          "2026-11-14 08:24 AM PT — RESCHEDULE proposed Sat Nov 14, 08:24 AM PT: reply SENT in Stephanie's original career-Gmail thread (To: stephanie.pavlov@ext.sierra.ai verified; sent id 1a1dae0120d7b1c8) explaining the Mon Nov 16 collision, that Rui cannot do the Mon Zoom, and proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any at 1:00–1:30 PM PT (all three checked free on the primary calendar before sending, and none clashes with Etsy's morning options). PROPOSED only — no Sierra calendar event will be created until she picks. No reply from her as of the Nov 14 morning/midday email monitors or the afternoon LinkedIn monitor.",
+          "2026-11-15 01:43 PM PT — SECOND nudge SENT Sun Nov 15, 01:43 PM PT (midday email monitor; replied to Stephanie's own Nov 12 inbound thread, jobs/career Gmail; sent id 1a1e12abeb6c1a40; To: stephanie.pavlov@ext.sierra.ai verified). Trigger: an Ashby reminder arrived Sun Nov 15 01:03 PM PT ('You have an upcoming meeting with Sierra!') showing Ashby still holds the ORIGINAL Mon Nov 16, 1:00–1:30 PM PT slot — the Nov 14 reschedule was never processed on Sierra's side, and that slot now collides with the kept Applied Intuition call. The nudge flagged the reminder, restated Monday no longer works, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00–1:30 PM PT, and asked her to update/cancel the original Monday invite in Ashby. No comp, no resume. Awaiting her pick; no Sierra calendar event until she confirms."
         ]
       },
       {
@@ -2150,6 +2171,10 @@
       {
         "date": "2026-11-14",
         "text": "Reschedule PROPOSED Sat Nov 14, 08:24 AM PT: Rui told Stephanie the Mon Nov 16 slot collides and he cannot do the Mon Zoom, and proposed Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00–1:30 PM PT (all checked free). Awaiting her pick — no calendar event yet; Applied Intuition kept Mon Nov 16."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Second reschedule nudge SENT Sun Nov 15, 01:43 PM PT: an Ashby reminder (01:03 PM PT) showed Sierra still holds the original Mon Nov 16, 1:00 PM PT slot (colliding with the kept Applied call); Rui flagged it, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19, 1:00–1:30 PM PT, and asked Stephanie to update/cancel the Monday invite in Ashby. Awaiting her pick."
       }
     ],
     "intel": {
@@ -6026,7 +6051,8 @@
         "date": "2026-11-12",
         "history": [
           "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
-          "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 20:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Luke Wang, Recently Added shows Adel Youssef connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 20:11 PT, ex-AWS overlap + Siri angle, asked about Senior Staff MLE openings + referral) and was seen by Adel. No reply from Adel yet as of the Nov 13 morning and afternoon monitors; the monitors sent NO duplicate message."
+          "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 20:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Luke Wang, Recently Added shows Adel Youssef connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 20:11 PT, ex-AWS overlap + Siri angle, asked about Senior Staff MLE openings + referral) and was seen by Adel. No reply from Adel yet as of the Nov 13 morning and afternoon monitors; the monitors sent NO duplicate message.",
+          "2026-11-15 10:32 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread, 'Sent at 11/15/2026, 10:32 AM'). Profile verified live first: Sr ML Manager, Siri Experience at Apple, Feb 2020–present (6 yrs 10 mos), Seattle; prior AWS ML/AI manager 2016–2020. Thread held only Rui's Nov 12 08:11 PM PT intro, Seen, no reply, no prior follow-up. Gist: floated the intro back up; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), Bay Area; Siri / Apple ML interest; asked for a brief chat or a pointer. No comp, no resume. Cold check Nov 18 if still silent."
         ]
       }
     ],
@@ -6058,6 +6084,10 @@
       {
         "date": "2026-11-12",
         "text": "Adel Youssef (Sr ML Manager, Siri Experience) ACCEPTED the Nov 12 expansion invite Thu Nov 12. Rui's 8:11 PM PT intro (ex-AWS overlap + Siri angle) is in-thread and seen; no reply yet as of Nov 13."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Follow-up SENT to Adel Youssef Sun Nov 15, 10:32 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 18."
       }
     ],
     "intel": {
@@ -6285,7 +6315,8 @@
           "2026-11-01 01:13 PM PT — Natasha REPLIED (career-Gmail copy + LinkedIn thread verified in full): 'Looking forward to connecting!' with her Rooster scheduling link (link.roosterinc.com/me/3zxe76lv/chat-with-etsy).",
           "2026-11-01 — Intro call BOOKED via Rooster by the afternoon monitor: Wed Nov 11, 2026, 1:00–1:30 PM PT, Google Meet https://meet.google.com/jgp-wscv-gqz. Nov 2–6 had NO 1:00–2:00 PM slots (Thu Nov 5 only 9:00/10:00/11:00 AM), so Nov 11 was the earliest in-window slot. Confirmation email from Natasha Kelleher <nkelleher@etsy.com> to the jobs inbox at 4:56 PM PT independently verified (Rooster id NPgOjXQMDvP7yzkctBxt); full-context Calendar event created (p1lqnu1djvf5d2e6pishpj424s). No extra LinkedIn message sent (Rooster emailed participants); no phone shared, no comp stated.",
           "2026-11-11 08:21 AM PT — the Wed Nov 11, 1:00–1:30 PM PT intro call was RESCHEDULED at Rui's direction: Rui emailed Natasha (jobs Gmail, sent 1a1cb69ef67c8321, replying to her Nov 2 inbound thread after +reply to her Oct 28 invitation failed twice) saying he had something come up today, apologising for the short notice, and proposing Tue Nov 17, Wed Nov 18, or Thu Nov 19 at 1:00 PM PT. The Nov 11 calendar event p1lqnu1djvf5d2e6pishpj424s was deleted the same morning.",
-          "2026-11-11 08:35 AM PT — Natasha REPLIED 08:35 AM PT: 'No worries!' with her Rooster reschedule link https://link.roosterinc.com/me/3zxe76lv/chat-with-etsy. The 09:30 email monitor checked the link live (America/Los_Angeles): NO 1:00 PM PT slot exists on any proposed day — Tue Nov 17: 11:00 / 11:30 AM only; Wed Nov 18: 8:00, 9:00, 9:30, 10:30 AM, 12:00, 12:30 PM; Thu Nov 19: 10:00, 10:30, 11:00, 11:30 AM. All alternatives fall outside Rui's 1:00–2:00 PM PT recruiter window (Wed 12:30 PM also hits the 12:00–1:00 PM lunch block). NOTHING was booked and no email was sent — pending Rui's pick of an off-window slot or asking Natasha for more availability. No further news in the Nov 11 midday email run or afternoon LinkedIn monitor."
+          "2026-11-11 08:35 AM PT — Natasha REPLIED 08:35 AM PT: 'No worries!' with her Rooster reschedule link https://link.roosterinc.com/me/3zxe76lv/chat-with-etsy. The 09:30 email monitor checked the link live (America/Los_Angeles): NO 1:00 PM PT slot exists on any proposed day — Tue Nov 17: 11:00 / 11:30 AM only; Wed Nov 18: 8:00, 9:00, 9:30, 10:30 AM, 12:00, 12:30 PM; Thu Nov 19: 10:00, 10:30, 11:00, 11:30 AM. All alternatives fall outside Rui's 1:00–2:00 PM PT recruiter window (Wed 12:30 PM also hits the 12:00–1:00 PM lunch block). NOTHING was booked and no email was sent — pending Rui's pick of an off-window slot or asking Natasha for more availability. No further news in the Nov 11 midday email run or afternoon LinkedIn monitor.",
+          "2026-11-14 10:30 PM PT — Intro call REBOOKED via Rooster Sat Nov 14, 10:30 PM PT (confirmation in jobs inbox, ids 1a1dde6cd059458a + calendar invite 1a1dde6ee8e2cbc6): Thu Nov 19, 2026, 10:00–10:30 AM PT with Natasha Kelleher, Google Meet https://meet.google.com/cwn-sdgu-zrf. This was Rui's own pick (Thu 10:00, priority 10:00) from the morning-only Rooster options after the Nov 11 reschedule. Full-context Calendar event already exists (gmk249md5v77n7h76lbnkb13jk, created Nov 14 10:31 PM PT, with company brief) — verified by the Nov 15 morning email monitor, no duplicate created, no reply sent. Role: Senior Staff MLE (TC can reach ~$500K per earlier diligence)."
         ]
       }
     ],
@@ -6305,6 +6336,10 @@
       {
         "date": "2026-11-11",
         "text": "Intro call RESCHEDULED at Rui's direction Wed Nov 11: Rui emailed Natasha Kelleher 08:21 AM PT (something came up on his leave day) proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00 PM PT; the Nov 11 calendar event was deleted. Natasha replied 08:35 AM PT with her Rooster reschedule link, but the link has NO 1:00 PM slot on any of those days (mornings only — latest Thu Nov 19 11:30 AM, Wed Nov 18 12:30 PM). Nothing rebooked; pending Rui's pick of an off-window slot or asking for more availability."
+      },
+      {
+        "date": "2026-11-14",
+        "text": "Intro call REBOOKED Sat Nov 14, 10:30 PM PT via Rooster: Thu Nov 19, 2026, 10:00–10:30 AM PT with Natasha Kelleher (Google Meet cwn-sdgu-zrf; jobs-inbox confirmation received). Rui's pick (Thu 10:00 priority). Calendar event with company brief verified (gmk249md5v77n7h76lbnkb13jk); no duplicate."
       }
     ],
     "intel": {
@@ -6320,7 +6355,14 @@
         "time": "1:00–1:30 PM PT",
         "title": "Intro call — RESCHEDULED (not yet rebooked)",
         "people": "Natasha Kelleher (Talent Partner / Principal Technical Sourcer, Etsy)",
-        "notes": "Google Meet https://meet.google.com/jgp-wscv-gqz — booked via her Rooster link Nov 1, 2026; confirmation email from nkelleher@etsy.com to the jobs inbox verified; reschedule/cancel via the Rooster link (id NPgOjXQMDvP7yzkctBxt). Role: Senior Staff MLE, Search Recommendations and Ads (Brooklyn or Remote US). Calendar event p1lqnu1djvf5d2e6pishpj424s. RESCHEDULED Nov 11, 2026 at Rui's direction (email sent 08:21 AM PT proposing Nov 17/18/19 at 1:00 PM PT; calendar event deleted). Natasha replied 08:35 AM PT with her Rooster link, which has no 1:00 PM slot on those days (mornings only) — NOT rebooked as of Nov 11; pending Rui's slot pick."
+        "notes": "Google Meet https://meet.google.com/jgp-wscv-gqz — booked via her Rooster link Nov 1, 2026; confirmation email from nkelleher@etsy.com to the jobs inbox verified; reschedule/cancel via the Rooster link (id NPgOjXQMDvP7yzkctBxt). Role: Senior Staff MLE, Search Recommendations and Ads (Brooklyn or Remote US). Calendar event p1lqnu1djvf5d2e6pishpj424s. RESCHEDULED Nov 11, 2026 at Rui's direction (email sent 08:21 AM PT proposing Nov 17/18/19 at 1:00 PM PT; calendar event deleted). Natasha replied 08:35 AM PT with her Rooster link, which has no 1:00 PM slot on those days (mornings only) — NOT rebooked as of Nov 11; pending Rui's slot pick. REBOOKED Nov 14, 10:30 PM PT for Thu Nov 19, 10:00–10:30 AM PT (see Nov 19 entry)."
+      },
+      {
+        "date": "2026-11-19",
+        "time": "10:00–10:30 AM PT",
+        "title": "Intro call — BOOKED (rebooked via Rooster)",
+        "people": "Natasha Kelleher (Talent Partner / Principal Technical Sourcer, Etsy)",
+        "notes": "Google Meet https://meet.google.com/cwn-sdgu-zrf — rebooked via Rooster Sat Nov 14, 10:30 PM PT after the Nov 11 reschedule; confirmation in jobs inbox (1a1dde6cd059458a). Rui's pick: Thu 10:00 (priority 10:00) from morning-only options. Calendar event gmk249md5v77n7h76lbnkb13jk with full company brief. Role: Senior Staff MLE, Search Recommendations and Ads."
       }
     ]
   },
@@ -6578,7 +6620,8 @@
           "2026-11-03 — invite SENT with a self-introduction + referral ask (profile verified first: Principal Engineer, Amazon Search Ranking). Expansion round of Rui's Nov 3 outreach. Non-HR, no resume attached. Pending.",
           "2026-11-08 — ACCEPTED Rui's LinkedIn invitation Sun Nov 8 (accept email 00:53 PT; live-verified in the morning monitor: Recently Added #1, Connections 7,944 -> 7,945, Sent invitations 172 -> 171). Rui's outbound was already in-thread at Nov 8, 12:29 AM PT: Senior Staff MLE leading Search Ranking at Coupang (ex-Meta Feed Rec, Pinterest Search), exploring Staff ML roles at Amazon Search, asked about a referral / openings / the right hiring manager, resume offered in text (not attached). The monitor sent NO duplicate. Who sent the 12:29 AM message could not be determined from LinkedIn. Awaiting Ravi's reply.",
           "2026-11-09 09:00 PM PT — Ravi REPLIED (LinkedIn; read by the 2026-11-10 morning monitor): 'Hi Rui, Let me check with some of the hiring managers and get back to you. Thanks for reaching out.' No reply sent (no question to answer). Awaiting his hiring-manager check.",
-          "2026-11-14 10:33 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread, 'Sent at 11/14/2026, 10:33 AM'). Profile verified live first: Principal Engineer, Amazon Search, Mountain View, 10 yrs 2 mos at Amazon (Principal Ranking since Jan 2022). Thread held only Rui's Nov 8 outbound + Ravi's Nov 9 21:00 reply ('checking with hiring managers'). Gist: floated the HM check back up, reaffirmed interest in Amazon Search Staff ML/search roles (Senior Staff MLE, Coupang Search Ranking & Discovery, ex-Meta/Pinterest), offered resume / brief chat, asked for a pointer if no fit. No resume attached, no comp. No reply yet as of the Nov 14 afternoon monitor (Rui's follow-up tops Focused). Cold check Nov 17 if still silent."
+          "2026-11-14 10:33 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread, 'Sent at 11/14/2026, 10:33 AM'). Profile verified live first: Principal Engineer, Amazon Search, Mountain View, 10 yrs 2 mos at Amazon (Principal Ranking since Jan 2022). Thread held only Rui's Nov 8 outbound + Ravi's Nov 9 21:00 reply ('checking with hiring managers'). Gist: floated the HM check back up, reaffirmed interest in Amazon Search Staff ML/search roles (Senior Staff MLE, Coupang Search Ranking & Discovery, ex-Meta/Pinterest), offered resume / brief chat, asked for a pointer if no fit. No resume attached, no comp. No reply yet as of the Nov 14 afternoon monitor (Rui's follow-up tops Focused). Cold check Nov 17 if still silent.",
+          "2026-11-15 12:12 PM PT — Ravi REPLIED Sun Nov 15, 12:12 PM PT (LinkedIn, to Rui's Nov 14 follow-up; flagged by the midday email monitor digest 12:28 PT — the Nov 17 cold check is now moot): 'Hi Rui, Please send me your resume at ravics@amazon.com. Happy to talk one of these days and share about different teams as well.' Monitor reply SENT Nov 15 04:49 PM PT (verified 'Message sent successfully', in-thread attachment): thanked him, said Rui is very interested in Senior/Staff MLE scope in Amazon Search, asked for a brief chat and any pointer to the right team. Resume SENT: v6 Resume.pdf (66 KB) attached in the LinkedIn thread per the explicit resume ask. NOTE: Ravi asked for the resume at ravics@amazon.com specifically; the LinkedIn attachment was delivered and verified, but an email copy to that address was NOT sent by the monitor — flagged to Rui / main agent to decide."
         ]
       },
       {
@@ -6622,6 +6665,10 @@
       {
         "date": "2026-11-14",
         "text": "Follow-up SENT to Ravi Kumar C S Sat Nov 14, 10:33 AM PT (LinkedIn DM, the thread's one allowed follow-up): floated his Nov 9 hiring-manager check back up, reaffirmed Amazon Search Staff ML interest, offered resume / brief chat. Awaiting his reply; cold check Nov 17."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Ravi Kumar C S REPLIED Sun Nov 15, 12:12 PM PT: asked Rui to send his resume to ravics@amazon.com and offered to talk and share about different teams. Reply + v6 resume SENT via LinkedIn Nov 15, 04:49 PM PT (verified). Email copy to ravics@amazon.com not sent — flagged for Rui's decision. Cold check Nov 17 moot."
       }
     ],
     "intel": {
