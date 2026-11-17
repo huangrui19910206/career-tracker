@@ -2103,7 +2103,8 @@
           "2026-11-12 02:55 PM PT — Stephanie REPLIED by email (career Gmail, id 1a1d1f9ab5ea17d5; read by the 2026-11-12 evening email monitor): thanked Rui for the resume, said he sounds like a good fit for Sierra's Models team, and said she would send an invite — the role framing shifted from Core Engineering to the Models team / Models Engineering.",
           "2026-11-12 02:58 PM PT — Stephanie SENT a calendar invite (career Gmail, id 1a1d1fbb03a02b59): 'Rui H / Stephanie - Sierra', Mon Nov 16, 2026, 1:00–1:30 PM PT, Zoom; the invite asks Rui to confirm by accepting. This slot COLLIDES with Applied Intuition / Sophia Conn's Mon Nov 16 1:00 PM PT sync — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13, per the Nov 13 morning/afternoon monitors). No LinkedIn reply from her.",
           "2026-11-14 08:24 AM PT — RESCHEDULE proposed Sat Nov 14, 08:24 AM PT: reply SENT in Stephanie's original career-Gmail thread (To: stephanie.pavlov@ext.sierra.ai verified; sent id 1a1dae0120d7b1c8) explaining the Mon Nov 16 collision, that Rui cannot do the Mon Zoom, and proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any at 1:00–1:30 PM PT (all three checked free on the primary calendar before sending, and none clashes with Etsy's morning options). PROPOSED only — no Sierra calendar event will be created until she picks. No reply from her as of the Nov 14 morning/midday email monitors or the afternoon LinkedIn monitor.",
-          "2026-11-15 01:43 PM PT — SECOND nudge SENT Sun Nov 15, 01:43 PM PT (midday email monitor; replied to Stephanie's own Nov 12 inbound thread, jobs/career Gmail; sent id 1a1e12abeb6c1a40; To: stephanie.pavlov@ext.sierra.ai verified). Trigger: an Ashby reminder arrived Sun Nov 15 01:03 PM PT ('You have an upcoming meeting with Sierra!') showing Ashby still holds the ORIGINAL Mon Nov 16, 1:00–1:30 PM PT slot — the Nov 14 reschedule was never processed on Sierra's side, and that slot now collides with the kept Applied Intuition call. The nudge flagged the reminder, restated Monday no longer works, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00–1:30 PM PT, and asked her to update/cancel the original Monday invite in Ashby. No comp, no resume. Awaiting her pick; no Sierra calendar event until she confirms."
+          "2026-11-15 01:43 PM PT — SECOND nudge SENT Sun Nov 15, 01:43 PM PT (midday email monitor; replied to Stephanie's own Nov 12 inbound thread, jobs/career Gmail; sent id 1a1e12abeb6c1a40; To: stephanie.pavlov@ext.sierra.ai verified). Trigger: an Ashby reminder arrived Sun Nov 15 01:03 PM PT ('You have an upcoming meeting with Sierra!') showing Ashby still holds the ORIGINAL Mon Nov 16, 1:00–1:30 PM PT slot — the Nov 14 reschedule was never processed on Sierra's side, and that slot now collides with the kept Applied Intuition call. The nudge flagged the reminder, restated Monday no longer works, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00–1:30 PM PT, and asked her to update/cancel the original Monday invite in Ashby. No comp, no resume. Awaiting her pick; no Sierra calendar event until she confirms.",
+          "2026-11-16 08:40 AM PT — Stephanie CONFIRMED Tue Nov 17, 13:00–1:30 PT Mon Nov 16, 08:40 AM PT (career Gmail, id 1a1e53b2a5e94519: 'Tuesday at 1:00pm PT works for me', re Models Engineering; updated invite id 1a1e53bd826df6e0 carries Tue Nov 17, 2026, 13:00–13:30 PT, Zoom https://sierra-ai.zoom.us/j/87544956500). This answers the Nov 14 reschedule proposal + Nov 15 second nudge and resolves the Mon Nov 16 collision on Sierra's side. Actions by the morning email monitor: (1) confirmation reply SENT 09:31 PT in her inbound thread (id 1a1e569ea8d9d510; To: stephanie.pavlov@ext.sierra.ai verified); (2) briefed calendar event created on primary (life): 'Sierra intro call — Stephanie Pavlov (Models Engineering)', event m59spcufsm07ni29pt9oar1ut4, with company brief, talking points and Zoom link. Stephanie replied 'Thanks for confirming!' at 12:40 PT (no action needed)."
         ]
       },
       {
@@ -2175,6 +2176,10 @@
       {
         "date": "2026-11-15",
         "text": "Second reschedule nudge SENT Sun Nov 15, 01:43 PM PT: an Ashby reminder (01:03 PM PT) showed Sierra still holds the original Mon Nov 16, 1:00 PM PT slot (colliding with the kept Applied call); Rui flagged it, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19, 1:00–1:30 PM PT, and asked Stephanie to update/cancel the Monday invite in Ashby. Awaiting her pick."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "Intro call CONFIRMED Mon Nov 16: Tue Nov 17, 2026, 1:00–1:30 PM PT with Stephanie Pavlov (Models Engineering; Zoom) — her 08:40 AM PT pick from the reschedule options; confirmation reply sent 09:31 PT (To verified) and a briefed calendar event created (m59spcufsm07ni29pt9oar1ut4). The Mon Nov 16 collision is fully resolved."
       }
     ],
     "intel": {
@@ -2190,7 +2195,14 @@
         "time": "1:00–1:30 PM PT",
         "title": "Intro call — RESCHEDULE PROPOSED (Mon Nov 16 moved)",
         "people": "Stephanie Pavlov (Senior Technical Recruiter)",
-        "notes": "Mon Nov 16, 1:00 PM PT slot DECLINED Sat Nov 14, 08:24 AM PT due to the Applied Intuition collision (Applied kept Mon). Reschedule proposed by email (career Gmail, To verified): Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any 1:00–1:30 PM PT. Awaiting Stephanie's pick; no confirmed Sierra calendar event until she picks."
+        "notes": "Mon Nov 16, 1:00 PM PT slot DECLINED Sat Nov 14, 08:24 AM PT due to the Applied Intuition collision (Applied kept Mon). Reschedule proposed by email (career Gmail, To verified): Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any 1:00–1:30 PM PT. Awaiting Stephanie's pick; no confirmed Sierra calendar event until she picks. RESOLVED: Stephanie confirmed Tue Nov 17, 1:00–1:30 PM PT on Mon Nov 16 (see Nov 17 entry)."
+      },
+      {
+        "date": "2026-11-17",
+        "time": "1:00–1:30 PM PT",
+        "title": "Intro call — CONFIRMED",
+        "people": "Stephanie Pavlov (Senior Technical Recruiter)",
+        "notes": "Zoom https://sierra-ai.zoom.us/j/87544956500 (Meeting ID 87544956500) — confirmed by Stephanie Mon Nov 16, 08:40 AM PT (career Gmail) after the Nov 14 reschedule proposal and Nov 15 second nudge; confirmation reply sent 09:31 PT (To verified). Calendar event m59spcufsm07ni29pt9oar1ut4 with company brief + talking points. Topic: Models Engineering intro."
       }
     ]
   },
@@ -5378,7 +5390,8 @@
           "2026-11-09 03:43 PM PT — Sophia REPLIED (jobs Gmail; read by the 2026-11-10 email monitor): she is in a meeting Thu Nov 12 at 1:00 PM PT, asked whether another day this week works, and said she can also take a call after 5:00 PM PT. A reply proposing Thu after 5:00 PM PT or Mon Nov 16, 1:00 PM PT was prepared and is awaiting Rui's nod — NOT sent (no duplicate send by the Nov 10 monitors).",
           "2026-11-11 11:09 PM PT — the counter-proposal reply was SENT in her original jobs-Gmail thread after Rui approved it (\" 发，就按这个 \"): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 2026 at 1:00 PM PT for a 30-minute call (next steps + feedback after the Nov 6 coding round with Martin Meinke). This supersedes the earlier draft-awaiting-approval status. No reply from her in the Nov 12 morning/midday email runs or LinkedIn monitors — awaiting her pick. NDA remains unsigned.",
           "2026-11-12 04:27 PM PT — Sophia SENT a calendar invite (jobs Gmail, id 1a1d24d839d8cd11; read by the 2026-11-12 evening email monitor): 'Sync w/ Sophia', Mon Nov 16, 2026, 1:00–1:30 PM PT — the Mon 13:00 slot Rui proposed in his Nov 11 reply. This resolves the awaiting-her-pick item. The slot COLLIDES with Sierra / Stephanie Pavlov's Mon Nov 16 1:00 PM PT Models-team intro — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13). NDA still unsigned.",
-          "2026-11-14 08:24 AM PT — collision RESOLVED Sat Nov 14, 08:24 AM PT at Rui's direction ('move one of them'): Applied Intuition KEEPS Mon Nov 16. Confirmation reply SENT in Sophia's original jobs-Gmail thread (To: sophia.conn@applied.co verified; sent id 1a1dadff73e70da4) confirming Rui will attend Mon Nov 16, 1:00–1:30 PM PT. Calendar event created: 'Applied Intuition — Feedback / Next Steps Call with Sophia Conn', Mon 2026-11-16 13:00–13:30 PT (event id u971uq9ivu7dnduaohiru3o5a0), with company brief, NDA-still-unsigned reminder (Rui signs himself) and no-comp-first note. Sierra was the call moved (see Sierra entry)."
+          "2026-11-14 08:24 AM PT — collision RESOLVED Sat Nov 14, 08:24 AM PT at Rui's direction ('move one of them'): Applied Intuition KEEPS Mon Nov 16. Confirmation reply SENT in Sophia's original jobs-Gmail thread (To: sophia.conn@applied.co verified; sent id 1a1dadff73e70da4) confirming Rui will attend Mon Nov 16, 1:00–1:30 PM PT. Calendar event created: 'Applied Intuition — Feedback / Next Steps Call with Sophia Conn', Mon 2026-11-16 13:00–13:30 PT (event id u971uq9ivu7dnduaohiru3o5a0), with company brief, NDA-still-unsigned reminder (Rui signs himself) and no-comp-first note. Sierra was the call moved (see Sierra entry).",
+          "2026-11-16 09:17 AM PT — Sophia MOVED the feedback call to Wed Nov 18, 13:30–14:00 PT Mon Nov 16, 09:17 AM PT (jobs Gmail, id 1a1e55ce51af6d15: updated calendar invitation 'Sync w/ Sophia', Mon Nov 16 13:00–13:30 → Wed Nov 18, 2026, 13:30–14:00 PT). Context: Rui reversed his Nov 14 decision on the morning of Nov 16 — YouTube / Kyle Richey was prioritised for Mon 13:00 ('YouTube 更有兴趣'), so reschedule emails were sent to Sophia (09:00, id 1a1e54e08330f631, offering Tue–Fri 13:00 slots; plus a 09:02 supplement, id 1a1e54fc068d7f57, adding today 13:30–14:00 as an option). Her updated invite answers them. Calendar (life primary) checked free Wed 13:30–14:00. Confirmation SENT via +send (id 1a1e56a1ea5cd2ae; To: sophia.conn@applied.co verified). Per Rui's instruction the briefed duplicate event was NOT recreated — he deleted it that morning (u971uq9ivu7dnduaohiru3o5a0) and kept Sophia's organizer invite, which now carries the new time. NDA still unsigned."
         ]
       }
     ],
@@ -5462,6 +5475,10 @@
       {
         "date": "2026-11-14",
         "text": "Collision RESOLVED Sat Nov 14, 08:24 AM PT (Rui directed moving one call): Applied Intuition KEEPS Mon Nov 16, 1:00–1:30 PM PT — confirmation reply sent to Sophia Conn (To verified) and a calendar event with company brief was created (event u971uq9ivu7dnduaohiru3o5a0). Sierra was rescheduled instead. NDA still unsigned."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "Feedback call MOVED Mon Nov 16 to Wed Nov 18, 2026, 1:30–2:00 PM PT: Rui reversed the Nov 14 collision decision that morning (YouTube / Kyle Richey kept Mon 13:00 — 'YouTube 更有兴趣'); reschedule emails sent 09:00/09:02, and Sophia's updated invite (09:17 AM PT) set Wed Nov 18, 13:30–14:00 PT. Confirmation sent (To verified). Sophia's organizer invite is the standing event (Rui deleted the briefed duplicate); NDA still unsigned."
       }
     ],
     "intel": {
@@ -5488,9 +5505,16 @@
       {
         "date": "2026-11-16",
         "time": "1:00–1:30 PM PT",
-        "title": "Next-steps / feedback call — CONFIRMED (Mon Nov 16 kept)",
+        "title": "Next-steps / feedback call — MOVED to Wed Nov 18 (was Mon Nov 16)",
         "people": "Sophia Conn (Technical Recruiter)",
-        "notes": "CONFIRMED Sat Nov 14, 08:24 AM PT: Rui confirmed attendance in Sophia's jobs-Gmail thread (To verified) after Rui directed resolving the collision by moving Sierra. Calendar event created (u971uq9ivu7dnduaohiru3o5a0) with company brief. NDA still unsigned (Rui signs himself)."
+        "notes": "CONFIRMED Sat Nov 14, 08:24 AM PT: Rui confirmed attendance in Sophia's jobs-Gmail thread (To verified) after Rui directed resolving the collision by moving Sierra. Calendar event created (u971uq9ivu7dnduaohiru3o5a0) with company brief. NDA still unsigned (Rui signs himself). MOVED Mon Nov 16: Rui prioritised YouTube / Kyle Richey for Mon 13:00; Sophia's updated invite set Wed Nov 18, 1:30–2:00 PM PT (see Nov 18 entry)."
+      },
+      {
+        "date": "2026-11-18",
+        "time": "1:30–2:00 PM PT",
+        "title": "Next-steps / feedback call — CONFIRMED (moved from Mon Nov 16)",
+        "people": "Sophia Conn (Technical Recruiter)",
+        "notes": "Moved by Sophia's updated invite Mon Nov 16, 09:17 AM PT after Rui prioritised the YouTube call for Mon 13:00 and asked to reschedule (emails 09:00 + 09:02). Confirmation sent via +send (To: sophia.conn@applied.co verified). Standing event is Sophia's organizer invite; the briefed duplicate (u971uq9ivu7dnduaohiru3o5a0) was deleted by Rui and NOT recreated. NDA still unsigned (Rui signs himself)."
       }
     ]
   },
@@ -6237,7 +6261,9 @@
         "contact_status": "existing",
         "date": "2026-11-12",
         "history": [
-          "2026-11-12 01:35 PM PT — named by Lindsay Fichter (cc'd on her next-steps email) as Rui's recruiting partner after the Nov 12 intro call passed with positive hiring-leadership feedback. Rui's JR0026993 Workday application was submitted Nov 12 (Under Consideration); cc'd on Rui's thank-you the same afternoon. Awaiting her contact on next steps. No LinkedIn messages from her (handoff is email-side, verified in the Nov 12 afternoon monitor)."
+          "2026-11-12 01:35 PM PT — named by Lindsay Fichter (cc'd on her next-steps email) as Rui's recruiting partner after the Nov 12 intro call passed with positive hiring-leadership feedback. Rui's JR0026993 Workday application was submitted Nov 12 (Under Consideration); cc'd on Rui's thank-you the same afternoon. Awaiting her contact on next steps. No LinkedIn messages from her (handoff is email-side, verified in the Nov 12 afternoon monitor).",
+          "2026-11-16 10:33 AM PT — Alicia EMAILED Mon Nov 16, 10:33 AM PT (career Gmail, id 1a1e5a3a45063fea): back from OOO, will contact Rui soon re next steps + interview scheduling for JR0026993. Thank-you reply SENT 13:49 PT in her inbound thread (id 1a1e655bf0d00847; To: alicia.ciaccia@yahooinc.com verified). A candidate.fyi portal invite arrived 09:43 PT (+ magic link 09:50 PT, logged only, not opened by the monitor); a later portal sign-in attempt was blocked on Google phone verification, so the in-portal status was NOT verified — the Workday status remains Under Consideration (submitted Nov 12).",
+          "2026-11-16 — Rui picked Fri Nov 20, 2:30–3:00 PM PT for a first interview with Nikhil Gandhi (SVP Engineering, Yahoo Mail), 30-min video, from Alicia's offered options; the pick was REPLIED in her thread and verified in Sent (To correct). Rationale logged: Friday is Rui's preferred day, the afternoon slot sits near his non-technical-round window, and that day's calendar was empty (a Thu 10:30 option sat back-to-back with the Etsy 10:00 intro). Awaiting Alicia's confirmation/invitation; no briefed calendar event until she confirms."
         ]
       }
     ],
@@ -6273,6 +6299,14 @@
       {
         "date": "2026-11-12",
         "text": "Thank-you SENT to Lindsay Fichter (cc Alicia Ciaccia) Thu Nov 12 afternoon at Rui's direction, and the Workday application for JR0026993 was SUBMITTED Thu Nov 12, 5:23 PM PT — Candidate Home: Under Consideration (source 'I was contacted by a Yahoo Recruiter', v6 resume, standard answers). Awaiting Alicia Ciaccia's next steps."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "Alicia Ciaccia emailed Mon Nov 16, 10:33 AM PT (back from OOO): will contact Rui re next steps + scheduling for JR0026993; thank-you reply sent 13:49 PT (To verified). Candidate.fyi portal invite logged (magic link not opened by monitors; a portal sign-in attempt was blocked on Google phone verification, in-portal status unverified)."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "First-interview slot PROPOSED Mon Nov 16: Fri Nov 20, 2:30–3:00 PM PT with Nikhil Gandhi (SVP Eng, Yahoo Mail), 30-min video — Rui's pick, replied in Alicia's thread (Sent verified). Awaiting her confirmation/invitation before a briefed calendar event is created."
       }
     ],
     "intel": {
@@ -6289,6 +6323,13 @@
         "title": "Initial HR Recruiter Call — HELD (passed, advanced)",
         "people": "Lindsay Fichter (Internal Sourcer @ Yahoo)",
         "notes": "Google Meet wna-pqzi-njd (phone +1 478-324-0682 PIN 787370579, audio only) — booked Tue Nov 10, 2026 via https://yahoo.candidate.fyi/booking/M5cyhx after the hiring manager reviewed Rui's profile and expressed interest in a first round. Calendar event a1qbbf6heq6brrvitsr125im1c with full context + company brief. Her agenda includes a high-level salary overview — do not state a comp number first. A duplicate 1:30 PM booking made in error by the afternoon monitor was cancelled the same day with a correction message; this 1:00 PM booking is the standing one. HELD as booked Thu Nov 12, 2026 — passed with positive hiring-leadership feedback; Lindsay handed Rui to recruiting partner Alicia Ciaccia (1:35 PM PT email). Thank-you sent that afternoon; Workday application for JR0026993 submitted 5:23 PM PT (Under Consideration). Awaiting Alicia's next steps."
+      },
+      {
+        "date": "2026-11-20",
+        "time": "2:30–3:00 PM PT",
+        "title": "First interview — PROPOSED (awaiting Alicia's confirmation)",
+        "people": "Nikhil Gandhi (SVP Engineering, Yahoo Mail); coordinator Alicia Ciaccia",
+        "notes": "30-min video first interview for JR0026993 (Senior Principal AI/ML Architect — Yahoo Mail). Slot picked by Rui and replied in Alicia Ciaccia's thread Mon Nov 16 (Sent verified). NOT confirmed — no calendar event until Alicia confirms / sends the invitation."
       }
     ]
   },
@@ -6375,7 +6416,7 @@
     "size": null,
     "location": null,
     "rto": null,
-    "status": "engaged",
+    "status": "interviewing",
     "contacts": [
       {
         "name": "Qian Sun",
@@ -6442,7 +6483,10 @@
         "history": [
           "2026-11-09 08:23 AM PT — cold INBOUND email (life Gmail; read by the 2026-11-09 email monitor, id 1a1c11ffa76a8d92; kylerichey@google.com): he found Rui's application and wants to consider him for Senior Engineering Manager, YouTube Recommendations ML; asked for a 30-min call + availability this week. NO reply sent — management-track role + cold-inbound diligence rule — flagged to Rui for his decision. Possibly the recruiter Su-Lin Wu connected Rui with on Nov 7 (unconfirmed). No LinkedIn message from him was found in the Nov 9 monitors.",
           "2026-11-10 01:47 PM PT — Reply SENT Tue Nov 10, 1:47 PM PT (life Gmail, in-thread; sent id 1a1c76deeed99335, thread 1a1c11ffa76a8d92; To: kylerichey@google.com verified; Rui approved the wording at 11:35 AM PT): expressed strong interest in YouTube Recommendations ML, gave his background (Coupang Senior Staff / Search Ranking, Meta Feed, Pinterest Search & Discover), was candid that his formal management experience is limited as an IC/tech lead so a direct EM loop likely does not match, and proposed starting as a Senior Staff IC and growing into management later; offered a 30-min call that week. Two earlier send attempts failed (confirmation-card timeout, system restart) and were verified NOT sent — no duplicate.",
-          "2026-11-14 10:31 AM PT — follow-up SENT by the daily sweep (email, life Gmail, in-thread reply to his Nov 9 inbound, id 1a1c11ffa76a8d92 — NOT to Rui's own sent mail; sent id 1a1db53ccbc135b1; To: Kyle Richey <kylerichey@google.com> verified after send; subject 'Re: Sr Engineering Manager opportunity at YouTube'). The thread's one allowed follow-up: Rui's Nov 10 counter-proposal was unanswered after 4 days (fresh Gmail check held only his Nov 9 inbound + Rui's Nov 10 reply; no LinkedIn thread exists). Gist: floated the Nov 10 note back up, asked whether a Senior Staff IC start / separate IC opening is realistic on YouTube Recommendations ML, and offered a 30-min call weekdays 1:00–2:00 PM PT. No comp, no resume attached. Cold check Nov 17 if still silent."
+          "2026-11-14 10:31 AM PT — follow-up SENT by the daily sweep (email, life Gmail, in-thread reply to his Nov 9 inbound, id 1a1c11ffa76a8d92 — NOT to Rui's own sent mail; sent id 1a1db53ccbc135b1; To: Kyle Richey <kylerichey@google.com> verified after send; subject 'Re: Sr Engineering Manager opportunity at YouTube'). The thread's one allowed follow-up: Rui's Nov 10 counter-proposal was unanswered after 4 days (fresh Gmail check held only his Nov 9 inbound + Rui's Nov 10 reply; no LinkedIn thread exists). Gist: floated the Nov 10 note back up, asked whether a Senior Staff IC start / separate IC opening is realistic on YouTube Recommendations ML, and offered a 30-min call weekdays 1:00–2:00 PM PT. No comp, no resume attached. Cold check Nov 17 if still silent.",
+          "2026-11-16 08:56 AM PT — Kyle REPLIED Mon Nov 16, 08:56 AM PT (life Gmail, id 1a1e54aa883ddabe): he likes the plan of assessing Rui for an IC L7 role and sent the invite for today — 'Kyle / Rui - Discuss YT interview process', Mon Nov 16, 13:00–13:30 PT (verified on calendar). This answers the Nov 14 follow-up; the Nov 17 cold check is moot. No reply was needed before the call.",
+          "2026-11-16 — Call HELD Mon Nov 16, 1:00–1:30 PM PT; Kyle then sent (12:59 PM PT, life Gmail, id 1a1e628b9f4f050c) an invitation to apply for Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno (10-day window, ≈ Nov 26) and (13:18 PM PT, id 1a1e639f5073f62b) prep materials + loop outline (Phase 1 virtual, Phase 2 in person) plus a request for names of current-Google references. Thank-you reply SENT 13:44 PT in the prep thread (id 1a1e65149613426e; To: kylerichey@google.com verified), saying the application would be submitted promptly and references would follow.",
+          "2026-11-16 2:56 PM PT — Application SUBMITTED Mon Nov 16, 2:56 PM PT (Google Careers, life account): Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno, via Kyle's sourced invitation; Careers page shows 'Submitted Nov 16' and the same role cannot be reapplied to for 90 days; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140. v6 resume newly uploaded (old profile resume deleted); Meta role location filled with the company address Menlo Park, CA at Rui's direction (form field only); all six minimum qualifications answered Yes; standard answers / EEO per archive. The form had no comp, essay, reference or referrer fields. AFTER submission, per Rui's set order ('applied 了再回'), the references reply was SENT and verified in Sent: named Yunsong Guo (Director of Engineering, Search @ Google; LinkedIn https://www.linkedin.com/in/yunsong-guo-3155b741/; Pinterest overlap 2014–2020) as Rui's Google reference. A further email to Kyle (sent + verified) asked for Phase 1 in the second week of December (Dec 7–11), prep after Thanksgiving, technical rounds at 10:00 AM PT — awaiting Kyle. Phase 1 per Kyle's outline: 60-min ML recommendation-system architecture + 45-min Technical Leadership, virtual. GHA: Rui passed the Google Hiring Assessment on 2026-09-10 (valid 24 months, to ≈ Sep 2028); when Kyle asked at 15:10 PT whether a GHA invite had arrived, a reply was SENT (≈ 15:37 PT, verified in Sent) explaining the prior pass and asking him to confirm it is on file."
         ]
       },
       {
@@ -6488,6 +6532,14 @@
       {
         "date": "2026-11-14",
         "text": "Follow-up SENT to Kyle Richey Sat Nov 14, 10:31 AM PT (email, the thread's one allowed follow-up; To verified): floated the Nov 10 IC-start proposal back up, asked whether a Senior Staff IC start / separate IC opening is realistic, offered a 30-min call weekdays 1:00–2:00 PM PT. Awaiting his reply; cold check Nov 17."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "Kyle Richey replied Mon Nov 16, 08:56 AM PT: he likes assessing Rui for an IC L7 role; the 'Discuss YT interview process' call was held Mon Nov 16, 1:00–1:30 PM PT as booked. The Nov 14 follow-up is answered; cold check moot."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "APPLICATION SUBMITTED Mon Nov 16, 2:56 PM PT: Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno (Kyle's 12:59 PM PT sourced invitation, 10-day window; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140; v6 resume; 90-day same-role lock). References reply sent after submission naming Yunsong Guo (Dir Eng, Search @ Google; Pinterest overlap). Phase 1 requested for Dec 7–11 (prep after Thanksgiving; tech rounds 10:00 AM PT) — awaiting Kyle. GHA already passed 2026-09-10 (24-month validity); Kyle asked to confirm it is on file."
       }
     ],
     "intel": {
@@ -6496,7 +6548,15 @@
         "Outreach direction set by Rui 2026-11-03: Staff+ / Senior Manager+ people in hot ML groups; HR/recruiters get the v6 resume directly, engineers/managers get a text offer first."
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-11-16",
+        "time": "1:00–1:30 PM PT",
+        "title": "Discuss YT interview process — HELD",
+        "people": "Kyle Richey (Technical Recruiter, YouTube Engineering)",
+        "notes": "Held as booked Mon Nov 16. Kyle confirmed the IC L7 assessment direction (08:56 AM PT email). After the call he sent the sourced application invitation (12:59 PM PT) and prep/loop materials (13:18 PM PT); the application was submitted the same afternoon (see timeline)."
+      }
+    ]
   },
   {
     "slug": "netflix",
@@ -6561,7 +6621,8 @@
           "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
           "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 18:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Adel Youssef, Recently Added shows Luke Wang connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 17:11 PT, GenPage angle, asked about Senior Staff MLE openings + referral).",
           "2026-11-12 05:17 PM PT — Luke REPLIED (LinkedIn; read by the 2026-11-13 morning monitor): he reported manager roles and probably L6 openings, said L7 is uncertain, and offered to refer Rui if needed. L7 is the Senior Staff equivalent, so the live options he named are manager roles and probably L6 (Staff).",
-          "2026-11-13 09:51 AM PT — reply SENT by the morning monitor (verified in-thread): thanked him for the referral offer, expressed interest in the L6 openings (especially GenPage / homepage personalization), offered to share the resume for a referral, and asked whether the L6 roles are IC-focused on ranking/recommendation modeling and whether the manager roles are on the same team. No resume attached, no comp stated. Seen by Luke 10:07 AM PT (2026-11-13 afternoon monitor); no reply yet as of that monitor. Whether to pursue L6/manager or hold for L7 only is Rui's decision."
+          "2026-11-13 09:51 AM PT — reply SENT by the morning monitor (verified in-thread): thanked him for the referral offer, expressed interest in the L6 openings (especially GenPage / homepage personalization), offered to share the resume for a referral, and asked whether the L6 roles are IC-focused on ranking/recommendation modeling and whether the manager roles are on the same team. No resume attached, no comp stated. Seen by Luke 10:07 AM PT (2026-11-13 afternoon monitor); no reply yet as of that monitor. Whether to pursue L6/manager or hold for L7 only is Rui's decision.",
+          "2026-11-16 05:22 AM PT — Luke REPLIED Mon Nov 16, 05:22 AM PT (LinkedIn): 'if you find any role you are interested in on our careers website, I can refer you.' He linked two roles — a manager role on ranking and page construction (https://explore.jobs.netflix.net/careers/job/790317582272) and a messaging role (https://explore.jobs.netflix.net/careers/job/790319389829) — and said he is not sure Netflix has an L6 opening for homepage. Monitor reply SENT 09:47 PT (verified 'Message sent successfully', in-thread; Luke saw it 10:07 AM PT): thanked him, said the manager role on ranking and page construction sounds right up Rui's alley and he will also look at the messaging role, asked whether the manager role is people-management focused and which team it is on, and asked whether it would help to send his resume for a referral. No L6/L7 commitment, no comp, no resume attached (not asked). Whether to pursue the manager role vs hold for an L6 IC opening remains Rui's decision."
         ]
       }
     ],
@@ -6589,6 +6650,10 @@
       {
         "date": "2026-11-13",
         "text": "Reply SENT to Luke Wang Fri Nov 13, 9:51 AM PT: interest in L6 GenPage/personalization openings, resume offered for a referral, asked IC vs manager scope. Seen 10:07 AM PT; awaiting his answer — whether to pursue L6/manager vs hold for L7 is Rui's call."
+      },
+      {
+        "date": "2026-11-16",
+        "text": "Luke Wang REPLIED Mon Nov 16, 05:22 AM PT: offered a referral and linked two roles — manager, ranking and page construction (job 790317582272) and a messaging role (job 790319389829); unsure whether an L6 homepage opening exists. Monitor reply SENT 09:47 PT (verified; seen 10:07): interest in the manager role, asked people-management focus + team, and whether to send the resume for a referral. Manager-vs-L6 decision remains Rui's."
       }
     ],
     "intel": {
@@ -6876,7 +6941,8 @@
         "date": "2026-11-13",
         "history": [
           "2026-11-13 05:33 PM PT — HM-direct job post surfaced via Linghang/Circle notification (career Gmail, id 1a1d7afd3575eeb2; read in full by the 2026-11-13 evening email monitor): hiring for Principal Data Scientist / Principal ML Engineer (incl. senior-principal level), Santa Clara. Domain: malicious-traffic detection models; SLM/LLM training (pretraining / fine-tuning / distillation), large-scale data + model deployment; security background a plus, not required. Contact oliverhuangchao@gmail.com / LinkedIn. Initially NO outreach — community post, not a direct inbound; flagged to Rui as chat-or-pass.",
-          "2026-11-14 — DM SENT via Linghang Circle (by the daily events scan, per the Linghang rule; verified landed): introduced Rui as Linghang Cohort 11 and asked about scope / team / level / headcount / process for the Principal DS/ML post. No comp mentioned. Awaiting his reply."
+          "2026-11-14 — DM SENT via Linghang Circle (by the daily events scan, per the Linghang rule; verified landed): introduced Rui as Linghang Cohort 11 and asked about scope / team / level / headcount / process for the Principal DS/ML post. No comp mentioned. Awaiting his reply.",
+          "2026-11-14 09:12 AM PT — Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced by the Nov 16 daily events scan — the Nov 15 scan had NOT CHECKED Circle): '好啊！你什么时候有空我们可以电话或者聊聊。我记得我微信好像加过你！' — happy to talk by phone or chat, and thinks he may already have added Rui on WeChat. A reply proposing a weekday 13:00–13:30 PT call was drafted for Rui's approval; as of Nov 16 it is NOT sent — scheduling is Rui's call."
         ]
       },
       {
@@ -6898,12 +6964,52 @@
       {
         "date": "2026-11-14",
         "text": "DM SENT to Huang Chao via Linghang Circle Sat Nov 14 (daily events scan, verified landed): introduced Rui as Cohort 11, asked scope / team / level / headcount / process, no comp mentioned. Awaiting his reply."
+      },
+      {
+        "date": "2026-11-14",
+        "text": "Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced Nov 16 — Circle was NOT CHECKED Nov 15): happy to talk by phone or chat; thinks he may already have Rui on WeChat. A weekday 13:00–13:30 PT call reply is drafted — awaiting Rui's go, not sent."
       }
     ],
     "intel": {
       "comp": null,
       "notes": [
         "Diligence 2026-11-13 (evening email monitor): level + Bay Area match and LLM-training overlap, but the domain is security detection — not Rui's search/recs/AI-platform core — and Palo Alto Networks is a large public company, outside his Series C–F target band."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "tubi",
+    "name": "Tubi",
+    "tagline": "Fox-owned free ad-supported streaming service — Staff & Principal MLE, personalized discovery (TubiFM) inbound",
+    "valuation": null,
+    "valuation_detail": "Division of Fox Corporation (acquired 2020); Fox's proposed $22B Roku acquisition announced Jun 2026 is parent-level and pending (diligence 2026-11-16)",
+    "size": null,
+    "location": null,
+    "rto": null,
+    "status": "outreach",
+    "contacts": [
+      {
+        "name": "Stephanie Canella",
+        "role": "ML Recruiting Lead, Tubi",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-16",
+        "history": [
+          "2026-11-16 01:17 PM PT — cold INBOUND email (career Gmail, id 1a1e6393a31c28fd; read by the 2026-11-16 midday email monitor): pitching Staff & Principal MLE roles for personalized discovery, with a calendar link offered. Per the cold-inbound rule (2026-10-14) + comp-first diligence (2026-11-13): NO reply, NO booking. Diligence: Tubi is a Fox Corp division (2020 acquisition; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU Aug 2026, revenue +35% YoY; Fox proposed $22B Roku acquisition announced Jun 2026 (parent-level, pending). Official posting bands (high-cost markets): Staff base $239–342K, Principal base $292–417K + bonus + LTIP — a ~$500K TC is realistic only at Principal. SF hybrid. Scope fit is strong (recommendations / generative ranking, TubiFM), but as a big-media subsidiary it sits outside Rui's Series C–F target band. Recommendation to Rui: reply only for a Principal-level conversation — awaiting his decision."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-16",
+        "text": "Cold inbound: Stephanie Canella (ML Recruiting Lead, Tubi) emailed Mon Nov 16, 1:17 PM PT pitching Staff & Principal MLE roles for personalized discovery (TubiFM) with a calendar link. Diligence done first (Fox-owned streaming, 110M MAU, +35% YoY revenue; official bands Staff $239–342K / Principal $292–417K base + bonus + LTIP — ~$500K TC realistic only at Principal; big-media subsidiary outside Rui's Series C–F band). NO reply sent — awaiting Rui's go; engage only at Principal level per the recommendation."
+      }
+    ],
+    "intel": {
+      "comp": "Official posting bands (diligence 2026-11-16, high-cost markets): Staff MLE base $239–342K; Principal MLE base $292–417K, plus bonus + LTIP. Realistic ~$500K TC only at Principal level.",
+      "notes": [
+        "Diligence 2026-11-16: Tubi is Fox Corporation's free ad-supported streaming service (acquired 2020; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU (Aug 2026), revenue +35% YoY. Fox's proposed $22B Roku acquisition (announced Jun 2026) is parent-level and pending. Scope fit is strong (personalized discovery / generative ranking — TubiFM) but the company profile (big-media subsidiary) sits outside Rui's Series C–F ~$3B–$30B target band."
       ]
     },
     "interviews": []
