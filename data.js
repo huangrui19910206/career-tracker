@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 17, 2026";
+const BUILD_DATE = "Nov 18, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -1382,7 +1382,8 @@ const COMPANIES = [
           "2026-10-22 01:57 AM PT — recruiter screen CONFIRMED by email (jobs Gmail; read by the 2026-10-22 email monitor): Mon Nov 2, 2026, 10:00–10:30 AM PT with Louis Cross, Google Meet https://meet.google.com/ofj-cabz-eiu, plus a separate calendar invite; reschedule via careers@clickhouse.com. The final confirmation is a 30-min recruiter screen, not the 1-hour conversation the Oct 21 scheduling email described. The Nov 2 calendar HOLD (10:00–11:00, awaiting confirmation) was updated in place to the confirmed 10:00–10:30 event. A corrected v6 resume resend also reached Louis on 2026-10-22 (he was the one correctly addressed recipient in the first resend batch).",
           "2026-11-09 04:29 AM PT — Louis EMAILED (jobs Gmail; read by the 2026-11-09 email monitor) with a new Ashby link for the next step after the Nov 2 recruiter screen — a 1-hour video conversation, ML Engineer (AI/ML). Availability SUBMITTED via Ashby the same morning: Fri Nov 13 / Mon Nov 16 / Thu Nov 12 / Wed Nov 11, all 10:00–11:00 AM PT. Ashby status: 'Waiting for Louis Cross to confirm' — not yet booked; an unconfirmed calendar HOLD was placed on Fri Nov 13, 10:00–11:00 AM PT.",
           "2026-11-09 (afternoon, 15:00 PT email review) — HM round CONFIRMED: Louis Cross confirmed Fri Nov 13, 2026, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. The morning HOLD (calendar event utaqq252256ph95knt6ijnjdd8) was upgraded in place to confirmed with full context (company brief + questions to ask). Note: the role title is Senior ML Engineer — a level below Senior Staff.",
-          "2026-11-12 10:03 AM PT — ClickHouse Hiring Team (Ashby) reminder RECEIVED (jobs Gmail, id 1a1d0ee3aa651f72) for the Fri Nov 13, 2026, 10:00–11:00 AM PT hiring-manager interview with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. Matches the existing confirmed calendar event — info only, no reply or action. A prep brief for the round is ready (~/workspace/job-search/prep/clickhouse-hm-brief-2026-11-13.md)."
+          "2026-11-12 10:03 AM PT — ClickHouse Hiring Team (Ashby) reminder RECEIVED (jobs Gmail, id 1a1d0ee3aa651f72) for the Fri Nov 13, 2026, 10:00–11:00 AM PT hiring-manager interview with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti. Matches the existing confirmed calendar event — info only, no reply or action. A prep brief for the round is ready (~/workspace/job-search/prep/clickhouse-hm-brief-2026-11-13.md).",
+          "2026-11-17 01:35 AM PT — REJECTION received Tue Nov 17, 01:35 AM PT (ClickHouse Hiring Team, no-reply@ashbyhq.com, jobs Gmail, id 1a1e8dce005cf272; read by the 2026-11-17 morning email monitor): template rejection for the Machine Learning Engineer (AI/ML) role after the Fri Nov 13 hiring-manager conversation with Gil Raphaelli — moving forward with other candidates. No reply sent (no-reply sender). Line CLOSED. Context: the Nov 13 comp diligence had already found a realistic TC of ~$300–400K at the Senior title, below Rui's ~$500K Senior Staff target."
         ]
       },
       {
@@ -1493,6 +1494,10 @@ const COMPANIES = [
       {
         "date": "2026-11-13",
         "text": "HM interview HELD Fri Nov 13, 10:00–11:00 AM PT with Gil Raphaelli (Director, Engineering), Google Meet ryj-mtda-oti, as booked. Awaiting outcome / next steps."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "REJECTED Tue Nov 17, 01:35 AM PT: ClickHouse Hiring Team (Ashby no-reply, jobs Gmail) — template rejection for Machine Learning Engineer (AI/ML) after the Nov 13 HM round with Gil Raphaelli; moving forward with other candidates, no feedback. No reply possible/sent. Line CLOSED."
       }
     ],
     "intel": {
@@ -3123,7 +3128,8 @@ const COMPANIES = [
           "2026-10-19 — marked COLD per one-max rule: the Oct 16 follow-up is unanswered after 3 days; verified live in the Oct 19 sweep (thread last sender Rui Oct 16 9:15 AM, no reply in Focused/Unread/Other). No more nudges; Harvey needs a fresh recruiter line (Claire Kaiser invite still pending).",
           "2026-10-20 2:39 PM PT — Andrew REPLIED by email (career Gmail): advanced Rui to a coding interview (data structures & algorithms) for Staff SWE, AI Platform, replacing the system-design tech screen, with a ModernLoop booking link. This SUPERSEDES the 2026-10-19 sweep's COLD mark — the thread is active again. Booking attempted 2026-10-21 was NOT completed (ModernLoop candidate-portal access-code fill failure); needs Rui to paste a fresh code or book himself.",
           "2026-10-27 08:27 PM PT — ModernLoop confirmation email (life Gmail; read by the 2026-10-28 email monitor): the coding interview is BOOKED for Tue Nov 3, 2026, 10:00–11:00 AM PT with Nick Howlett — topic 'Coding - Building a Spreadsheet' (a practical spreadsheet-model exercise, not pure LeetCode), Zoom link in the mail. Calendar event created with full context. This supersedes the earlier blocked ModernLoop booking and the unbooked proposed Thu Oct 29 slot; the fallback email to Andrew was discarded unsent because the booking succeeded.",
-          "2026-11-03 — RESCHEDULED: Andrew emailed that Nick Howlett had a conflict, cancelling the Tue Nov 3, 10:00–11:00 AM PT coding slot. Rebooked via ModernLoop for Mon Nov 9, 2026, 10:00–11:00 AM PT with Kevin Ko (Software Engineer); topic unchanged ('Building a Spreadsheet'). The old Nov 3 calendar event was deleted and replaced with a single full-context Nov 9 event; Andrew was replied to confirming the new time. (ModernLoop slot check: Fri Nov 6 had no 10:00 AM slot and Thu Nov 5 was unbookable, so Mon Nov 9 10:00 AM was the earliest compliant 10–11 AM slot.)"
+          "2026-11-03 — RESCHEDULED: Andrew emailed that Nick Howlett had a conflict, cancelling the Tue Nov 3, 10:00–11:00 AM PT coding slot. Rebooked via ModernLoop for Mon Nov 9, 2026, 10:00–11:00 AM PT with Kevin Ko (Software Engineer); topic unchanged ('Building a Spreadsheet'). The old Nov 3 calendar event was deleted and replaced with a single full-context Nov 9 event; Andrew was replied to confirming the new time. (ModernLoop slot check: Fri Nov 6 had no 10:00 AM slot and Thu Nov 5 was unbookable, so Mon Nov 9 10:00 AM was the earliest compliant 10–11 AM slot.)",
+          "2026-11-17 10:28 AM PT — REJECTION received Tue Nov 17, 10:28 AM PT (Harvey Hiring Team, no-reply@ashbyhq.com, career Gmail, id 1a1eac48bf310cb9; read by the 2026-11-17 midday email monitor; handled in main chat the same day): Harvey decided not to continue after Rui's Mon Nov 9 coding round with Kevin Ko. No reply sent (no-reply sender). Line CLOSED."
         ]
       },
       {
@@ -3230,6 +3236,10 @@ const COMPANIES = [
       {
         "date": "2026-11-03",
         "text": "Coding interview RESCHEDULED: Nick Howlett's conflict cancelled the Tue Nov 3 slot (per Andrew Kim); rebooked via ModernLoop to Mon Nov 9, 2026, 10:00–11:00 AM PT with Kevin Ko, topic 'Building a Spreadsheet' unchanged. Old calendar event deleted, new full-context event created, Andrew Kim replied to."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "REJECTED Tue Nov 17, 10:28 AM PT: Harvey Hiring Team (Ashby no-reply, career Gmail) — Harvey decided not to continue after the Nov 9 coding round (Kevin Ko). No reply sent. Line CLOSED."
       }
     ],
     "intel": {
@@ -4088,7 +4098,9 @@ const COMPANIES = [
           "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 18:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Adel Youssef, Recently Added shows Luke Wang connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 17:11 PT, GenPage angle, asked about Senior Staff MLE openings + referral).",
           "2026-11-12 05:17 PM PT — Luke REPLIED (LinkedIn; read by the 2026-11-13 morning monitor): he reported manager roles and probably L6 openings, said L7 is uncertain, and offered to refer Rui if needed. L7 is the Senior Staff equivalent, so the live options he named are manager roles and probably L6 (Staff).",
           "2026-11-13 09:51 AM PT — reply SENT by the morning monitor (verified in-thread): thanked him for the referral offer, expressed interest in the L6 openings (especially GenPage / homepage personalization), offered to share the resume for a referral, and asked whether the L6 roles are IC-focused on ranking/recommendation modeling and whether the manager roles are on the same team. No resume attached, no comp stated. Seen by Luke 10:07 AM PT (2026-11-13 afternoon monitor); no reply yet as of that monitor. Whether to pursue L6/manager or hold for L7 only is Rui's decision.",
-          "2026-11-16 05:22 AM PT — Luke REPLIED Mon Nov 16, 05:22 AM PT (LinkedIn): 'if you find any role you are interested in on our careers website, I can refer you.' He linked two roles — a manager role on ranking and page construction (https://explore.jobs.netflix.net/careers/job/790317582272) and a messaging role (https://explore.jobs.netflix.net/careers/job/790319389829) — and said he is not sure Netflix has an L6 opening for homepage. Monitor reply SENT 09:47 PT (verified 'Message sent successfully', in-thread; Luke saw it 10:07 AM PT): thanked him, said the manager role on ranking and page construction sounds right up Rui's alley and he will also look at the messaging role, asked whether the manager role is people-management focused and which team it is on, and asked whether it would help to send his resume for a referral. No L6/L7 commitment, no comp, no resume attached (not asked). Whether to pursue the manager role vs hold for an L6 IC opening remains Rui's decision."
+          "2026-11-16 05:22 AM PT — Luke REPLIED Mon Nov 16, 05:22 AM PT (LinkedIn): 'if you find any role you are interested in on our careers website, I can refer you.' He linked two roles — a manager role on ranking and page construction (https://explore.jobs.netflix.net/careers/job/790317582272) and a messaging role (https://explore.jobs.netflix.net/careers/job/790319389829) — and said he is not sure Netflix has an L6 opening for homepage. Monitor reply SENT 09:47 PT (verified 'Message sent successfully', in-thread; Luke saw it 10:07 AM PT): thanked him, said the manager role on ranking and page construction sounds right up Rui's alley and he will also look at the messaging role, asked whether the manager role is people-management focused and which team it is on, and asked whether it would help to send his resume for a referral. No L6/L7 commitment, no comp, no resume attached (not asked). Whether to pursue the manager role vs hold for an L6 IC opening remains Rui's decision.",
+          "2026-11-17 05:46 AM PT — Luke REPLIED Tue Nov 17, 05:46 AM PT (LinkedIn; the message behind the 06:02 PT career-Gmail notification): the manager role is people-management for technical leaders who set technical direction and give technical feedback; the manager will lead the team working on Netflix homepage recommendation algorithms. He asked Rui to share the posting he is interested in, his resume, and fit information so he can refer him. Monitor reply SENT 09:50 PT (verified 'Message sent successfully', in-thread, with v6 Resume.pdf 66 KB attached): picked the homepage ranking / page-construction manager posting (https://explore.jobs.netflix.net/careers/job/790317582272), summarised the Senior Staff Search Ranking at Coupang / ex-Meta Feed / ex-Pinterest Search fit, and asked to be referred. No comp mentioned.",
+          "2026-11-17 — REFERRAL SUBMITTED Tue Nov 17: Netflix Workday confirmation received 11:22 AM PT (jobs Gmail, id 1a1eaf5e8169836d) — Luke referred Rui for Engineering Manager, AI for Member Systems — Page Construction | Ranking Models (posting 790317582272). Luke messaged 11:26 AM PT ('submitted the referral, good luck!') and 11:30 AM PT noting Rui must complete the final application step via the email link ASAP to officially become an applicant. APPLICATION SUBMITTED the same afternoon (~13:52 PT, at Rui's direction 'now fill the Netflix application') via Luke's referral link on Eightfold: Engineering Manager, AI for Member Systems — Page Construction | Ranking Models, Job ID JR41873, v6 resume + standard answers; confirmation page showed the application was received. Monitor thank-you SENT 16:50 PT (verified in-thread): thanked Luke for submitting the referral and confirmed the application is completed. Awaiting Netflix recruiter contact."
         ]
       }
     ],
@@ -4120,6 +4132,14 @@ const COMPANIES = [
       {
         "date": "2026-11-16",
         "text": "Luke Wang REPLIED Mon Nov 16, 05:22 AM PT: offered a referral and linked two roles — manager, ranking and page construction (job 790317582272) and a messaging role (job 790319389829); unsure whether an L6 homepage opening exists. Monitor reply SENT 09:47 PT (verified; seen 10:07): interest in the manager role, asked people-management focus + team, and whether to send the resume for a referral. Manager-vs-L6 decision remains Rui's."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "Luke Wang REPLIED Tue Nov 17, 05:46 AM PT: the manager role is people-management for technical leaders and leads the Netflix homepage recommendation algorithms team; he asked for the posting + resume + fit note to refer Rui. Monitor reply SENT 09:50 PT with v6 resume attached (verified), picking the homepage ranking/page-construction manager posting (790317582272)."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "REFERRAL SUBMITTED + APPLICATION SUBMITTED Tue Nov 17: Workday confirmed Luke's referral at 11:22 AM PT for Engineering Manager, AI for Member Systems — Page Construction | Ranking Models (790317582272); Rui then submitted the formal Eightfold application at his direction (~13:52 PT, Job ID JR41873, v6 resume, confirmation received). Thank-you sent to Luke 16:50 PT confirming completion. Awaiting Netflix recruiter contact."
       }
     ],
     "intel": {
@@ -4270,7 +4290,8 @@ const COMPANIES = [
         "history": [
           "2026-11-13 05:33 PM PT — HM-direct job post surfaced via Linghang/Circle notification (career Gmail, id 1a1d7afd3575eeb2; read in full by the 2026-11-13 evening email monitor): hiring for Principal Data Scientist / Principal ML Engineer (incl. senior-principal level), Santa Clara. Domain: malicious-traffic detection models; SLM/LLM training (pretraining / fine-tuning / distillation), large-scale data + model deployment; security background a plus, not required. Contact oliverhuangchao@gmail.com / LinkedIn. Initially NO outreach — community post, not a direct inbound; flagged to Rui as chat-or-pass.",
           "2026-11-14 — DM SENT via Linghang Circle (by the daily events scan, per the Linghang rule; verified landed): introduced Rui as Linghang Cohort 11 and asked about scope / team / level / headcount / process for the Principal DS/ML post. No comp mentioned. Awaiting his reply.",
-          "2026-11-14 09:12 AM PT — Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced by the Nov 16 daily events scan — the Nov 15 scan had NOT CHECKED Circle): '好啊！你什么时候有空我们可以电话或者聊聊。我记得我微信好像加过你！' — happy to talk by phone or chat, and thinks he may already have added Rui on WeChat. A reply proposing a weekday 13:00–13:30 PT call was drafted for Rui's approval; as of Nov 16 it is NOT sent — scheduling is Rui's call."
+          "2026-11-14 09:12 AM PT — Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced by the Nov 16 daily events scan — the Nov 15 scan had NOT CHECKED Circle): '好啊！你什么时候有空我们可以电话或者聊聊。我记得我微信好像加过你！' — happy to talk by phone or chat, and thinks he may already have added Rui on WeChat. A reply proposing a weekday 13:00–13:30 PT call was drafted for Rui's approval; as of Nov 16 it is NOT sent — scheduling is Rui's call.",
+          "2026-11-17 11:34 AM PT — Huang Chao sent a DIRECT calendar invitation Tue Nov 17, 11:34 AM PT (life Gmail, id 1a1eb01402ee3475, from chahuang@paloaltonetworks.com): 'RUI / Chao', today Tue Nov 17, 16:00–17:00 PT, Zoom 98165451434, re the Principal DS/ML role. The event is on Rui's calendar with no conflict. This supersedes the blocked Circle reply — the approved Circle text was never sent (Circle login/Cloudflare route blocked it) and is now moot because Huang Chao booked the call directly. At Rui's direction, his v6 resume was EMAILED to Huang Chao at 13:55 PT from the life inbox (sent id 1a1eb82220999ed7; To + attachment verified in Sent) as reference ahead of the 16:00 call."
         ]
       },
       {
@@ -4296,6 +4317,10 @@ const COMPANIES = [
       {
         "date": "2026-11-14",
         "text": "Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced Nov 16 — Circle was NOT CHECKED Nov 15): happy to talk by phone or chat; thinks he may already have Rui on WeChat. A weekday 13:00–13:30 PT call reply is drafted — awaiting Rui's go, not sent."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "Huang Chao booked directly Tue Nov 17: call TODAY Tue Nov 17, 16:00–17:00 PT (Zoom) re the Principal DS/ML role — his 11:34 AM PT calendar invitation is on Rui's calendar, no conflict. The unsent Circle reply is moot. Rui's v6 resume was emailed to him at 13:55 PT (life inbox, verified) ahead of the call."
       }
     ],
     "intel": {
@@ -4304,7 +4329,15 @@ const COMPANIES = [
         "Diligence 2026-11-13 (evening email monitor): level + Bay Area match and LLM-training overlap, but the domain is security detection — not Rui's search/recs/AI-platform core — and Palo Alto Networks is a large public company, outside his Series C–F target band."
       ]
     },
-    "interviews": []
+    "interviews": [
+      {
+        "date": "2026-11-17",
+        "time": "4:00–5:00 PM PT",
+        "title": "Call with hiring manager — BOOKED (direct invite)",
+        "people": "Huang Chao (Hiring Manager, Palo Alto Networks)",
+        "notes": "Zoom 98165451434 — direct calendar invitation from Huang Chao received Tue Nov 17, 11:34 AM PT (life Gmail) re the Principal DS/ML role; on Rui's calendar, no conflict. Supersedes the approved-but-unsent Circle reply (blocked by Circle's Cloudflare check). Rui's v6 resume emailed to chahuang@paloaltonetworks.com at 13:55 PT ahead of the call (verified in Sent)."
+      }
+    ]
   },
   {
     "slug": "paypal",
@@ -6690,7 +6723,8 @@ const COMPANIES = [
         "history": [
           "2026-11-12 01:35 PM PT — named by Lindsay Fichter (cc'd on her next-steps email) as Rui's recruiting partner after the Nov 12 intro call passed with positive hiring-leadership feedback. Rui's JR0026993 Workday application was submitted Nov 12 (Under Consideration); cc'd on Rui's thank-you the same afternoon. Awaiting her contact on next steps. No LinkedIn messages from her (handoff is email-side, verified in the Nov 12 afternoon monitor).",
           "2026-11-16 10:33 AM PT — Alicia EMAILED Mon Nov 16, 10:33 AM PT (career Gmail, id 1a1e5a3a45063fea): back from OOO, will contact Rui soon re next steps + interview scheduling for JR0026993. Thank-you reply SENT 13:49 PT in her inbound thread (id 1a1e655bf0d00847; To: alicia.ciaccia@yahooinc.com verified). A candidate.fyi portal invite arrived 09:43 PT (+ magic link 09:50 PT, logged only, not opened by the monitor); a later portal sign-in attempt was blocked on Google phone verification, so the in-portal status was NOT verified — the Workday status remains Under Consideration (submitted Nov 12).",
-          "2026-11-16 — Rui picked Fri Nov 20, 2:30–3:00 PM PT for a first interview with Nikhil Gandhi (SVP Engineering, Yahoo Mail), 30-min video, from Alicia's offered options; the pick was REPLIED in her thread and verified in Sent (To correct). Rationale logged: Friday is Rui's preferred day, the afternoon slot sits near his non-technical-round window, and that day's calendar was empty (a Thu 10:30 option sat back-to-back with the Etsy 10:00 intro). Awaiting Alicia's confirmation/invitation; no briefed calendar event until she confirms."
+          "2026-11-16 — Rui picked Fri Nov 20, 2:30–3:00 PM PT for a first interview with Nikhil Gandhi (SVP Engineering, Yahoo Mail), 30-min video, from Alicia's offered options; the pick was REPLIED in her thread and verified in Sent (To correct). Rationale logged: Friday is Rui's preferred day, the afternoon slot sits near his non-technical-round window, and that day's calendar was empty (a Thu 10:30 option sat back-to-back with the Etsy 10:00 intro). Awaiting Alicia's confirmation/invitation; no briefed calendar event until she confirms.",
+          "2026-11-17 — HM screen RESCHEDULED Tue Nov 17: Alicia EMAILED 11:18 AM PT (career Gmail, id 1a1eaf2c019687cd) that the SVP's calendar shifted and asked Fri Nov 20 15:00 or 16:00 PT instead of 14:30. Rui REPLIED 12:03 PT (sent id 1a1eb1b59fe361b9) accepting 15:00–15:30 PT. Alicia's final CONFIRMED invite arrived 12:28 PT (id 1a1eb32915cdee39, body read in full): Hiring Manager Screen with Nikhil Gandhi (SVP Engineering, Yahoo Mail), Fri Nov 20, 2026, 15:00–15:30 PT, Google Meet https://meet.google.com/ncg-fmrw-qte, Senior Principal AI/ML Architect — Yahoo Mail (JR0026993); the invite notes no AI note-taking/transcription tools during the interview. The midday email monitor verified the briefed calendar event already sits at Fri Nov 20 15:00 PT with the new Meet link — no calendar change needed and no further reply sent."
         ]
       }
     ],
@@ -6734,6 +6768,10 @@ const COMPANIES = [
       {
         "date": "2026-11-16",
         "text": "First-interview slot PROPOSED Mon Nov 16: Fri Nov 20, 2:30–3:00 PM PT with Nikhil Gandhi (SVP Eng, Yahoo Mail), 30-min video — Rui's pick, replied in Alicia's thread (Sent verified). Awaiting her confirmation/invitation before a briefed calendar event is created."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "HM screen RESCHEDULED + CONFIRMED Tue Nov 17: Fri Nov 20, 2026, 3:00–3:30 PM PT with Nikhil Gandhi (SVP Eng, Yahoo Mail) — Alicia asked 11:18 AM PT for 15:00 or 16:00 (SVP calendar shift, was 14:30), Rui accepted 15:00 at 12:03 PT, and her final confirmed invite arrived 12:28 PT (Google Meet ncg-fmrw-qte; JR0026993; no AI note-taking tools). Calendar verified at the new time with the new Meet link."
       }
     ],
     "intel": {
@@ -6753,10 +6791,10 @@ const COMPANIES = [
       },
       {
         "date": "2026-11-20",
-        "time": "2:30–3:00 PM PT",
-        "title": "First interview — PROPOSED (awaiting Alicia's confirmation)",
+        "time": "3:00–3:30 PM PT",
+        "title": "Hiring Manager Screen — CONFIRMED (RESCHEDULED from 2:30 PM)",
         "people": "Nikhil Gandhi (SVP Engineering, Yahoo Mail); coordinator Alicia Ciaccia",
-        "notes": "30-min video first interview for JR0026993 (Senior Principal AI/ML Architect — Yahoo Mail). Slot picked by Rui and replied in Alicia Ciaccia's thread Mon Nov 16 (Sent verified). NOT confirmed — no calendar event until Alicia confirms / sends the invitation."
+        "notes": "Google Meet https://meet.google.com/ncg-fmrw-qte (phone +1 252-376-1465, PIN 892716069) — Hiring Manager Screen with Nikhil Gandhi (SVP Engineering, Yahoo Mail) for JR0026993 (Senior Principal AI/ML Architect — Yahoo Mail), coordinator Alicia Ciaccia. RESCHEDULED Tue Nov 17: Alicia asked 11:18 AM PT for Fri 15:00 or 16:00 PT (SVP calendar shift); Rui accepted 15:00–15:30 PT at 12:03 PT; final confirmed invite 12:28 PT (id 1a1eb32915cdee39). Invite note: no AI note-taking/transcription tools during the interview. Calendar event verified at 15:00 PT with the new Meet link by the midday email monitor."
       }
     ]
   },
@@ -6943,7 +6981,8 @@ const COMPANIES = [
           "2026-11-14 10:31 AM PT — follow-up SENT by the daily sweep (email, life Gmail, in-thread reply to his Nov 9 inbound, id 1a1c11ffa76a8d92 — NOT to Rui's own sent mail; sent id 1a1db53ccbc135b1; To: Kyle Richey <kylerichey@google.com> verified after send; subject 'Re: Sr Engineering Manager opportunity at YouTube'). The thread's one allowed follow-up: Rui's Nov 10 counter-proposal was unanswered after 4 days (fresh Gmail check held only his Nov 9 inbound + Rui's Nov 10 reply; no LinkedIn thread exists). Gist: floated the Nov 10 note back up, asked whether a Senior Staff IC start / separate IC opening is realistic on YouTube Recommendations ML, and offered a 30-min call weekdays 1:00–2:00 PM PT. No comp, no resume attached. Cold check Nov 17 if still silent.",
           "2026-11-16 08:56 AM PT — Kyle REPLIED Mon Nov 16, 08:56 AM PT (life Gmail, id 1a1e54aa883ddabe): he likes the plan of assessing Rui for an IC L7 role and sent the invite for today — 'Kyle / Rui - Discuss YT interview process', Mon Nov 16, 13:00–13:30 PT (verified on calendar). This answers the Nov 14 follow-up; the Nov 17 cold check is moot. No reply was needed before the call.",
           "2026-11-16 — Call HELD Mon Nov 16, 1:00–1:30 PM PT; Kyle then sent (12:59 PM PT, life Gmail, id 1a1e628b9f4f050c) an invitation to apply for Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno (10-day window, ≈ Nov 26) and (13:18 PM PT, id 1a1e639f5073f62b) prep materials + loop outline (Phase 1 virtual, Phase 2 in person) plus a request for names of current-Google references. Thank-you reply SENT 13:44 PT in the prep thread (id 1a1e65149613426e; To: kylerichey@google.com verified), saying the application would be submitted promptly and references would follow.",
-          "2026-11-16 2:56 PM PT — Application SUBMITTED Mon Nov 16, 2:56 PM PT (Google Careers, life account): Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno, via Kyle's sourced invitation; Careers page shows 'Submitted Nov 16' and the same role cannot be reapplied to for 90 days; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140. v6 resume newly uploaded (old profile resume deleted); Meta role location filled with the company address Menlo Park, CA at Rui's direction (form field only); all six minimum qualifications answered Yes; standard answers / EEO per archive. The form had no comp, essay, reference or referrer fields. AFTER submission, per Rui's set order ('applied 了再回'), the references reply was SENT and verified in Sent: named Yunsong Guo (Director of Engineering, Search @ Google; LinkedIn https://www.linkedin.com/in/yunsong-guo-3155b741/; Pinterest overlap 2014–2020) as Rui's Google reference. A further email to Kyle (sent + verified) asked for Phase 1 in the second week of December (Dec 7–11), prep after Thanksgiving, technical rounds at 10:00 AM PT — awaiting Kyle. Phase 1 per Kyle's outline: 60-min ML recommendation-system architecture + 45-min Technical Leadership, virtual. GHA: Rui passed the Google Hiring Assessment on 2026-09-10 (valid 24 months, to ≈ Sep 2028); when Kyle asked at 15:10 PT whether a GHA invite had arrived, a reply was SENT (≈ 15:37 PT, verified in Sent) explaining the prior pass and asking him to confirm it is on file."
+          "2026-11-16 2:56 PM PT — Application SUBMITTED Mon Nov 16, 2:56 PM PT (Google Careers, life account): Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno, via Kyle's sourced invitation; Careers page shows 'Submitted Nov 16' and the same role cannot be reapplied to for 90 days; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140. v6 resume newly uploaded (old profile resume deleted); Meta role location filled with the company address Menlo Park, CA at Rui's direction (form field only); all six minimum qualifications answered Yes; standard answers / EEO per archive. The form had no comp, essay, reference or referrer fields. AFTER submission, per Rui's set order ('applied 了再回'), the references reply was SENT and verified in Sent: named Yunsong Guo (Director of Engineering, Search @ Google; LinkedIn https://www.linkedin.com/in/yunsong-guo-3155b741/; Pinterest overlap 2014–2020) as Rui's Google reference. A further email to Kyle (sent + verified) asked for Phase 1 in the second week of December (Dec 7–11), prep after Thanksgiving, technical rounds at 10:00 AM PT — awaiting Kyle. Phase 1 per Kyle's outline: 60-min ML recommendation-system architecture + 45-min Technical Leadership, virtual. GHA: Rui passed the Google Hiring Assessment on 2026-09-10 (valid 24 months, to ≈ Sep 2028); when Kyle asked at 15:10 PT whether a GHA invite had arrived, a reply was SENT (≈ 15:37 PT, verified in Sent) explaining the prior pass and asking him to confirm it is on file.",
+          "2026-11-17 08:10 AM PT — Google Interview Scheduling Team EMAILED Tue Nov 17, 08:10 AM PT (life Gmail, id 1a1ea461dd6a4cd5): 'We need more information to schedule your Google interviews' (Staff Applied ML SWE, Recommendations). At Rui's direction ('sign it and keep going'), the candidate portal was checked 08:16–08:20 PT: it showed only ONE item under Documents needed — the DocuSign NDA (Employment Application NON-DISCLOSURE AGREEMENT, US NDA.pdf); no Employment Application or Interview Availability form had appeared. The NDA was SIGNED to completion the same morning (initials RH + signature Rui Huang; DocuSign signing_complete; forms page Completed; dashboard status changed to 'Availability submitted'). IMPORTANT: that dashboard label is only Google's post-NDA status — Rui's Dec 7–11 / technical rounds 10:00 AM PT availability was NOT submitted through any portal form, because no such form appeared after signing. Next step is waiting for a coordinator/recruiter to collect times; the Dec 7–11 + 10:00 AM PT preference was already told to Kyle in the Nov 16 email."
         ]
       },
       {
@@ -6997,6 +7036,10 @@ const COMPANIES = [
       {
         "date": "2026-11-16",
         "text": "APPLICATION SUBMITTED Mon Nov 16, 2:56 PM PT: Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno (Kyle's 12:59 PM PT sourced invitation, 10-day window; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140; v6 resume; 90-day same-role lock). References reply sent after submission naming Yunsong Guo (Dir Eng, Search @ Google; Pinterest overlap). Phase 1 requested for Dec 7–11 (prep after Thanksgiving; tech rounds 10:00 AM PT) — awaiting Kyle. GHA already passed 2026-09-10 (24-month validity); Kyle asked to confirm it is on file."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "NDA SIGNED Tue Nov 17: Google Interview Scheduling Team emailed 08:10 AM PT asking for more information; the portal held only the DocuSign NDA, which was signed to completion at Rui's direction (forms Completed). No Employment Application / Interview Availability form appeared after signing, so the Dec 7–11 availability was NOT submitted through the portal despite the dashboard's 'Availability submitted' label. Awaiting a coordinator to collect times."
       }
     ],
     "intel": {
