@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 18, 2026";
+const BUILD_DATE = "Nov 19, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -435,7 +435,8 @@ const COMPANIES = [
         "history": [
           "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending.",
           "2026-11-12 — ACCEPTED Rui's Nov 12 HM/Staff+ expansion invitation (career-Gmail accept notification 2026-11-12 20:53 PT; live-verified in the 2026-11-13 morning monitor: Connections 7,946 -> 7,948 with Luke Wang, Recently Added shows Adel Youssef connected Nov 12). Rui's intro was already in-thread (Thu Nov 12 20:11 PT, ex-AWS overlap + Siri angle, asked about Senior Staff MLE openings + referral) and was seen by Adel. No reply from Adel yet as of the Nov 13 morning and afternoon monitors; the monitors sent NO duplicate message.",
-          "2026-11-15 10:32 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread, 'Sent at 11/15/2026, 10:32 AM'). Profile verified live first: Sr ML Manager, Siri Experience at Apple, Feb 2020–present (6 yrs 10 mos), Seattle; prior AWS ML/AI manager 2016–2020. Thread held only Rui's Nov 12 08:11 PM PT intro, Seen, no reply, no prior follow-up. Gist: floated the intro back up; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), Bay Area; Siri / Apple ML interest; asked for a brief chat or a pointer. No comp, no resume. Cold check Nov 18 if still silent."
+          "2026-11-15 10:32 AM PT — follow-up SENT by the daily sweep (LinkedIn DM, the thread's one allowed follow-up; confirmed in-thread, 'Sent at 11/15/2026, 10:32 AM'). Profile verified live first: Sr ML Manager, Siri Experience at Apple, Feb 2020–present (6 yrs 10 mos), Seattle; prior AWS ML/AI manager 2016–2020. Thread held only Rui's Nov 12 08:11 PM PT intro, Seen, no reply, no prior follow-up. Gist: floated the intro back up; Senior Staff MLE Search Ranking & Discovery at Coupang (ex-Meta/Pinterest), Bay Area; Siri / Apple ML interest; asked for a brief chat or a pointer. No comp, no resume. Cold check Nov 18 if still silent.",
+          "2026-11-18 — Marked COLD Wed Nov 18 per the one-follow-up-max rule: the thread's ONE follow-up (sent 2026-11-15 10:32 AM PT) is unanswered after 3 days; verified live in the Nov 18, 09:41 PT LinkedIn monitor (Rui's Nov 15 follow-up still last, no reply; Focused/Other/Unread/Jobs checked). Nothing was sent to him today. Apple needs a fresh recruiter line (Janelle Saavedra remains a separate thread in Rui's court)."
         ]
       }
     ],
@@ -471,6 +472,10 @@ const COMPANIES = [
       {
         "date": "2026-11-15",
         "text": "Follow-up SENT to Adel Youssef Sun Nov 15, 10:32 AM PT (LinkedIn DM, the thread's one allowed follow-up; profile + thread verified live first). Awaiting his reply; cold check Nov 18."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Adel Youssef marked COLD Wed Nov 18 per the one-max rule (follow-up sent Nov 15, 10:32 AM PT, no reply in 3 days; verified live in the Nov 18 morning monitor). No more nudges on this thread; Apple needs a fresh line."
       }
     ],
     "intel": {
@@ -600,7 +605,9 @@ const COMPANIES = [
           "2026-11-11 11:09 PM PT — the counter-proposal reply was SENT in her original jobs-Gmail thread after Rui approved it (\" 发，就按这个 \"): proposed Thu Nov 12 after 5:00 PM PT or Mon Nov 16, 2026 at 1:00 PM PT for a 30-minute call (next steps + feedback after the Nov 6 coding round with Martin Meinke). This supersedes the earlier draft-awaiting-approval status. No reply from her in the Nov 12 morning/midday email runs or LinkedIn monitors — awaiting her pick. NDA remains unsigned.",
           "2026-11-12 04:27 PM PT — Sophia SENT a calendar invite (jobs Gmail, id 1a1d24d839d8cd11; read by the 2026-11-12 evening email monitor): 'Sync w/ Sophia', Mon Nov 16, 2026, 1:00–1:30 PM PT — the Mon 13:00 slot Rui proposed in his Nov 11 reply. This resolves the awaiting-her-pick item. The slot COLLIDES with Sierra / Stephanie Pavlov's Mon Nov 16 1:00 PM PT Models-team intro — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13). NDA still unsigned.",
           "2026-11-14 08:24 AM PT — collision RESOLVED Sat Nov 14, 08:24 AM PT at Rui's direction ('move one of them'): Applied Intuition KEEPS Mon Nov 16. Confirmation reply SENT in Sophia's original jobs-Gmail thread (To: sophia.conn@applied.co verified; sent id 1a1dadff73e70da4) confirming Rui will attend Mon Nov 16, 1:00–1:30 PM PT. Calendar event created: 'Applied Intuition — Feedback / Next Steps Call with Sophia Conn', Mon 2026-11-16 13:00–13:30 PT (event id u971uq9ivu7dnduaohiru3o5a0), with company brief, NDA-still-unsigned reminder (Rui signs himself) and no-comp-first note. Sierra was the call moved (see Sierra entry).",
-          "2026-11-16 09:17 AM PT — Sophia MOVED the feedback call to Wed Nov 18, 13:30–14:00 PT Mon Nov 16, 09:17 AM PT (jobs Gmail, id 1a1e55ce51af6d15: updated calendar invitation 'Sync w/ Sophia', Mon Nov 16 13:00–13:30 → Wed Nov 18, 2026, 13:30–14:00 PT). Context: Rui reversed his Nov 14 decision on the morning of Nov 16 — YouTube / Kyle Richey was prioritised for Mon 13:00 ('YouTube 更有兴趣'), so reschedule emails were sent to Sophia (09:00, id 1a1e54e08330f631, offering Tue–Fri 13:00 slots; plus a 09:02 supplement, id 1a1e54fc068d7f57, adding today 13:30–14:00 as an option). Her updated invite answers them. Calendar (life primary) checked free Wed 13:30–14:00. Confirmation SENT via +send (id 1a1e56a1ea5cd2ae; To: sophia.conn@applied.co verified). Per Rui's instruction the briefed duplicate event was NOT recreated — he deleted it that morning (u971uq9ivu7dnduaohiru3o5a0) and kept Sophia's organizer invite, which now carries the new time. NDA still unsigned."
+          "2026-11-16 09:17 AM PT — Sophia MOVED the feedback call to Wed Nov 18, 13:30–14:00 PT Mon Nov 16, 09:17 AM PT (jobs Gmail, id 1a1e55ce51af6d15: updated calendar invitation 'Sync w/ Sophia', Mon Nov 16 13:00–13:30 → Wed Nov 18, 2026, 13:30–14:00 PT). Context: Rui reversed his Nov 14 decision on the morning of Nov 16 — YouTube / Kyle Richey was prioritised for Mon 13:00 ('YouTube 更有兴趣'), so reschedule emails were sent to Sophia (09:00, id 1a1e54e08330f631, offering Tue–Fri 13:00 slots; plus a 09:02 supplement, id 1a1e54fc068d7f57, adding today 13:30–14:00 as an option). Her updated invite answers them. Calendar (life primary) checked free Wed 13:30–14:00. Confirmation SENT via +send (id 1a1e56a1ea5cd2ae; To: sophia.conn@applied.co verified). Per Rui's instruction the briefed duplicate event was NOT recreated — he deleted it that morning (u971uq9ivu7dnduaohiru3o5a0) and kept Sophia's organizer invite, which now carries the new time. NDA still unsigned.",
+          "2026-11-18 01:30 PM PT — Feedback call NOT HELD Wed Nov 18, 13:30 PT: Sophia's invitation (email body, .ics DESCRIPTION/LOCATION, and the full thread) contained NO meeting link. At Rui's direction two emails were SENT asking for the link, both leaving Rui's phone +1 917-244-6633 as a direct-call fallback: a 13:31 PT reply in the invite thread (id 1a1f0923a1b80bdd) and a 13:33 PT standalone 'Our 1:30 PM call today — meeting link?' (id 1a1f09457c483ccf). No reply from Sophia was in the jobs inbox as of 13:43 PT and the 13:30–14:00 window passed, so the call is recorded as missed for lack of a link, awaiting her reply or a reschedule. This corrects any earlier 'confirmed' reading of that slot. The Dec 7 onsite (below) is a separate Rui-confirmed matter and is unaffected.",
+          "2026-11-18 — ONSITE CONFIRMED by Rui Wed Nov 18: Mon Dec 7, 2026, 13:00–17:00 PT onsite interview, confirmed by Rui verbally and added to Calendar at his direction (primary event id innge4gbmuq672fqjkvi77ucpc). Venue per public listings: HQ 860 W California Ave, Sunnyvale, CA 94086 (Rui's Sunnyvale recollection verified); the company also has a Mountain View office at 82 Pioneer Way — which building applies is still to be confirmed in Sophia's formal schedule email. Calendar event carries coordinator Sophia Conn, the passed Sergey Andreev stage and Nov 6 coding (Martin Meinke), NDA still unsigned, and detailed schedule / interviewer list still pending. Prep page completed Nov 18 (https://interview.huangrui.dev/#/applied-intuition) and its link added to the event description; research found the newer onsite format (45-min system design, 2-hour hands-on build of a working prototype with AI tools allowed, then a panel demo) may apply, with the older format also still possible pending Sophia's formal confirmation."
         ]
       }
     ],
@@ -688,6 +695,14 @@ const COMPANIES = [
       {
         "date": "2026-11-16",
         "text": "Feedback call MOVED Mon Nov 16 to Wed Nov 18, 2026, 1:30–2:00 PM PT: Rui reversed the Nov 14 collision decision that morning (YouTube / Kyle Richey kept Mon 13:00 — 'YouTube 更有兴趣'); reschedule emails sent 09:00/09:02, and Sophia's updated invite (09:17 AM PT) set Wed Nov 18, 13:30–14:00 PT. Confirmation sent (To verified). Sophia's organizer invite is the standing event (Rui deleted the briefed duplicate); NDA still unsigned."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Feedback call NOT HELD Wed Nov 18, 13:30–14:00 PT: Sophia Conn's invite carried no meeting link (body, .ics and thread all checked). Two emails asking for the link were sent at Rui's direction (13:31 thread reply + 13:33 standalone, phone fallback given); no reply by 13:43 PT and the window passed. Awaiting her reply or a reschedule."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "ONSITE CONFIRMED Wed Nov 18: Mon Dec 7, 2026, 13:00–17:00 PT onsite (Rui-confirmed, Calendar event created with HQ 860 W California Ave, Sunnyvale; prep-page link added). NDA still unsigned; detailed schedule / interviewers pending Sophia's formal confirmation."
       }
     ],
     "intel": {
@@ -721,9 +736,16 @@ const COMPANIES = [
       {
         "date": "2026-11-18",
         "time": "1:30–2:00 PM PT",
-        "title": "Next-steps / feedback call — CONFIRMED (moved from Mon Nov 16)",
+        "title": "Next-steps / feedback call — NOT HELD (no meeting link; moved from Mon Nov 16)",
         "people": "Sophia Conn (Technical Recruiter)",
-        "notes": "Moved by Sophia's updated invite Mon Nov 16, 09:17 AM PT after Rui prioritised the YouTube call for Mon 13:00 and asked to reschedule (emails 09:00 + 09:02). Confirmation sent via +send (To: sophia.conn@applied.co verified). Standing event is Sophia's organizer invite; the briefed duplicate (u971uq9ivu7dnduaohiru3o5a0) was deleted by Rui and NOT recreated. NDA still unsigned (Rui signs himself)."
+        "notes": "NOT HELD Wed Nov 18, 13:30–14:00 PT: Sophia Conn's organizer invite contained no meeting link (email body, .ics DESCRIPTION/LOCATION and thread all verified empty). Two link-request emails sent at Rui's direction (13:31 PT thread reply, id 1a1f0923a1b80bdd; 13:33 PT standalone, id 1a1f09457c483ccf; phone +1 917-244-6633 fallback given); no reply in the jobs inbox as of 13:43 PT and the window passed. Awaiting her reply or a reschedule. NDA still unsigned. Supersedes the earlier CONFIRMED reading of this slot."
+      },
+      {
+        "date": "2026-12-07",
+        "time": "1:00–5:00 PM PT",
+        "title": "Onsite Interview — CONFIRMED (Rui-confirmed Nov 18)",
+        "people": "Coordinator Sophia Conn (Technical Recruiter); interviewers / detailed schedule pending",
+        "notes": "HQ 860 W California Ave, Sunnyvale, CA 94086 (public listings; Mountain View office 82 Pioneer Way is the alternative pending Sophia's formal schedule email). Confirmed by Rui Wed Nov 18 and added to Calendar (primary event innge4gbmuq672fqjkvi77ucpc) with the prep-page link https://interview.huangrui.dev/#/applied-intuition. Follows the passed Sergey Andreev stage and the Nov 6 coding round (Martin Meinke). NDA still unsigned. Format research (Nov 18): newer format may be 45-min system design + 2-hour hands-on prototype build (AI tools allowed) + panel demo; older format also possible until Sophia confirms."
       }
     ]
   },
@@ -4291,7 +4313,9 @@ const COMPANIES = [
           "2026-11-13 05:33 PM PT — HM-direct job post surfaced via Linghang/Circle notification (career Gmail, id 1a1d7afd3575eeb2; read in full by the 2026-11-13 evening email monitor): hiring for Principal Data Scientist / Principal ML Engineer (incl. senior-principal level), Santa Clara. Domain: malicious-traffic detection models; SLM/LLM training (pretraining / fine-tuning / distillation), large-scale data + model deployment; security background a plus, not required. Contact oliverhuangchao@gmail.com / LinkedIn. Initially NO outreach — community post, not a direct inbound; flagged to Rui as chat-or-pass.",
           "2026-11-14 — DM SENT via Linghang Circle (by the daily events scan, per the Linghang rule; verified landed): introduced Rui as Linghang Cohort 11 and asked about scope / team / level / headcount / process for the Principal DS/ML post. No comp mentioned. Awaiting his reply.",
           "2026-11-14 09:12 AM PT — Huang Chao REPLIED Sat Nov 14, 09:12 AM PT (Linghang Circle; surfaced by the Nov 16 daily events scan — the Nov 15 scan had NOT CHECKED Circle): '好啊！你什么时候有空我们可以电话或者聊聊。我记得我微信好像加过你！' — happy to talk by phone or chat, and thinks he may already have added Rui on WeChat. A reply proposing a weekday 13:00–13:30 PT call was drafted for Rui's approval; as of Nov 16 it is NOT sent — scheduling is Rui's call.",
-          "2026-11-17 11:34 AM PT — Huang Chao sent a DIRECT calendar invitation Tue Nov 17, 11:34 AM PT (life Gmail, id 1a1eb01402ee3475, from chahuang@paloaltonetworks.com): 'RUI / Chao', today Tue Nov 17, 16:00–17:00 PT, Zoom 98165451434, re the Principal DS/ML role. The event is on Rui's calendar with no conflict. This supersedes the blocked Circle reply — the approved Circle text was never sent (Circle login/Cloudflare route blocked it) and is now moot because Huang Chao booked the call directly. At Rui's direction, his v6 resume was EMAILED to Huang Chao at 13:55 PT from the life inbox (sent id 1a1eb82220999ed7; To + attachment verified in Sent) as reference ahead of the 16:00 call."
+          "2026-11-17 11:34 AM PT — Huang Chao sent a DIRECT calendar invitation Tue Nov 17, 11:34 AM PT (life Gmail, id 1a1eb01402ee3475, from chahuang@paloaltonetworks.com): 'RUI / Chao', today Tue Nov 17, 16:00–17:00 PT, Zoom 98165451434, re the Principal DS/ML role. The event is on Rui's calendar with no conflict. This supersedes the blocked Circle reply — the approved Circle text was never sent (Circle login/Cloudflare route blocked it) and is now moot because Huang Chao booked the call directly. At Rui's direction, his v6 resume was EMAILED to Huang Chao at 13:55 PT from the life inbox (sent id 1a1eb82220999ed7; To + attachment verified in Sent) as reference ahead of the 16:00 call.",
+          "2026-11-17 04:03 PM PT — Call RESCHEDULED Tue Nov 17, 16:03 PT: Huang Chao sent an update moving the Tue Nov 17, 16:00–17:00 PT Zoom to Wed Nov 18, 16:00–16:45 PT (same Zoom; calendar auto-updated, no conflict). Rui's v6 resume had already been emailed to chahuang@paloaltonetworks.com at 13:55 PT ahead of the original slot (verified in Sent).",
+          "2026-11-18 — Application NOT SUBMITTED Wed Nov 18 (paused, awaiting Rui): after the call Huang Chao asked Rui to submit the application and pointed to his LinkedIn hiring post (posted ~5 days earlier, linkedin.com/in/chao-huang-1466a982). Post verified: Principal Machine Learning Engineer (Advanced Threat Protection), Santa Clara, Ref JR-024724 — LLM/SLM building, fine-tuning, pretraining, distillation and large-scale deployment for malicious-traffic / threat detection, matching Huang Chao's team. Posting base in the post: $163,200–$264,000/yr (base is modest; total comp relies on RSU + bonus, to be detailed at the package stage). Application link: jobs.paloaltonetworks.com/en/job/santa-clara/principal-machine-learning-engineer-advanced-threat-protection/47263/103191336384. The Workday application is stopped at step 1/8 (Create Account): the vault's career-email Workday login was rejected by Workday (wrong email/password or possibly locked) and was NOT used or reset, per rule. A new-account form was left ready with rui.huang.jobs@gmail.com; Rui must set the new password via the secure password card before the application (v6 resume + standard answers) can be completed and submitted. No submission has been made."
         ]
       },
       {
@@ -4321,10 +4345,18 @@ const COMPANIES = [
       {
         "date": "2026-11-17",
         "text": "Huang Chao booked directly Tue Nov 17: call TODAY Tue Nov 17, 16:00–17:00 PT (Zoom) re the Principal DS/ML role — his 11:34 AM PT calendar invitation is on Rui's calendar, no conflict. The unsent Circle reply is moot. Rui's v6 resume was emailed to him at 13:55 PT (life inbox, verified) ahead of the call."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "Call RESCHEDULED Tue Nov 17, 16:03 PT to Wed Nov 18, 16:00–16:45 PT: Huang Chao updated the invite (same Zoom; calendar auto-updated, no conflict). The Nov 17, 16:00–17:00 slot did not take place as originally booked."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Role identified Wed Nov 18: Principal Machine Learning Engineer (Advanced Threat Protection), Santa Clara, Ref JR-024724 (from Huang Chao's LinkedIn hiring post; posting base $163,200–$264,000/yr). Application NOT submitted — Workday Create Account is blocked (old career-email login rejected; new jobs-email account awaits Rui setting a password via the secure card). Paused pending Rui."
       }
     ],
     "intel": {
-      "comp": null,
+      "comp": "Posting base (Huang Chao LinkedIn hiring post, verified Nov 18): $163,200–$264,000/yr for Principal Machine Learning Engineer (Advanced Threat Protection), JR-024724. Total comp relies on RSU + bonus; package detail deferred to the offer stage.",
       "notes": [
         "Diligence 2026-11-13 (evening email monitor): level + Bay Area match and LLM-training overlap, but the domain is security detection — not Rui's search/recs/AI-platform core — and Palo Alto Networks is a large public company, outside his Series C–F target band."
       ]
@@ -4333,9 +4365,16 @@ const COMPANIES = [
       {
         "date": "2026-11-17",
         "time": "4:00–5:00 PM PT",
-        "title": "Call with hiring manager — BOOKED (direct invite)",
+        "title": "Call with hiring manager — RESCHEDULED to Wed Nov 18 (was Tue Nov 17)",
         "people": "Huang Chao (Hiring Manager, Palo Alto Networks)",
-        "notes": "Zoom 98165451434 — direct calendar invitation from Huang Chao received Tue Nov 17, 11:34 AM PT (life Gmail) re the Principal DS/ML role; on Rui's calendar, no conflict. Supersedes the approved-but-unsent Circle reply (blocked by Circle's Cloudflare check). Rui's v6 resume emailed to chahuang@paloaltonetworks.com at 13:55 PT ahead of the call (verified in Sent)."
+        "notes": "Zoom 98165451434 — direct calendar invitation from Huang Chao received Tue Nov 17, 11:34 AM PT (life Gmail) re the Principal DS/ML role. RESCHEDULED by Huang Chao Tue Nov 17, 16:03 PT to Wed Nov 18, 16:00–16:45 PT (same Zoom; calendar auto-updated). Rui's v6 resume was emailed to chahuang@paloaltonetworks.com at 13:55 PT ahead of the original slot (verified in Sent)."
+      },
+      {
+        "date": "2026-11-18",
+        "time": "4:00–4:45 PM PT",
+        "title": "Call with hiring manager — BOOKED (rescheduled from Nov 17)",
+        "people": "Huang Chao (Hiring Manager, Palo Alto Networks)",
+        "notes": "Zoom (same link as the Nov 17 invite) — rescheduled by Huang Chao Tue Nov 17, 16:03 PT from Tue Nov 17, 16:00–17:00 PT; calendar auto-updated, no conflict. Re the Principal DS/ML role (later identified as Principal ML Engineer, Advanced Threat Protection, JR-024724)."
       }
     ]
   },
@@ -6353,7 +6392,8 @@ const COMPANIES = [
         "contact_status": "existing",
         "date": "2026-11-16",
         "history": [
-          "2026-11-16 01:17 PM PT — cold INBOUND email (career Gmail, id 1a1e6393a31c28fd; read by the 2026-11-16 midday email monitor): pitching Staff & Principal MLE roles for personalized discovery, with a calendar link offered. Per the cold-inbound rule (2026-10-14) + comp-first diligence (2026-11-13): NO reply, NO booking. Diligence: Tubi is a Fox Corp division (2020 acquisition; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU Aug 2026, revenue +35% YoY; Fox proposed $22B Roku acquisition announced Jun 2026 (parent-level, pending). Official posting bands (high-cost markets): Staff base $239–342K, Principal base $292–417K + bonus + LTIP — a ~$500K TC is realistic only at Principal. SF hybrid. Scope fit is strong (recommendations / generative ranking, TubiFM), but as a big-media subsidiary it sits outside Rui's Series C–F target band. Recommendation to Rui: reply only for a Principal-level conversation — awaiting his decision."
+          "2026-11-16 01:17 PM PT — cold INBOUND email (career Gmail, id 1a1e6393a31c28fd; read by the 2026-11-16 midday email monitor): pitching Staff & Principal MLE roles for personalized discovery, with a calendar link offered. Per the cold-inbound rule (2026-10-14) + comp-first diligence (2026-11-13): NO reply, NO booking. Diligence: Tubi is a Fox Corp division (2020 acquisition; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU Aug 2026, revenue +35% YoY; Fox proposed $22B Roku acquisition announced Jun 2026 (parent-level, pending). Official posting bands (high-cost markets): Staff base $239–342K, Principal base $292–417K + bonus + LTIP — a ~$500K TC is realistic only at Principal. SF hybrid. Scope fit is strong (recommendations / generative ranking, TubiFM), but as a big-media subsidiary it sits outside Rui's Series C–F target band. Recommendation to Rui: reply only for a Principal-level conversation — awaiting his decision.",
+          "2026-11-18 09:29 AM PT — Follow-up nudge Wed Nov 18, 09:29 AM PT (career Gmail, id 1a1efb4b4e6bb649, same thread as her Nov 16 cold pitch; read in full by the midday email monitor): short nudge adding business context only — fiscal 2026 total viewing time +20%, ~2.2% of all US TV viewing, highest-revenue quarter in Tubi's history, first streamer to launch an app inside ChatGPT (April, built on the same personalization models) — ending 'Open to hearing more?' No new role, level, comp, or scheduling ask. NO reply sent: the Nov 16 diligence stands (only Principal level plausibly reaches Rui's ~$500K target; Staff does not) and the decision remains Rui's."
         ]
       }
     ],
@@ -6361,6 +6401,10 @@ const COMPANIES = [
       {
         "date": "2026-11-16",
         "text": "Cold inbound: Stephanie Canella (ML Recruiting Lead, Tubi) emailed Mon Nov 16, 1:17 PM PT pitching Staff & Principal MLE roles for personalized discovery (TubiFM) with a calendar link. Diligence done first (Fox-owned streaming, 110M MAU, +35% YoY revenue; official bands Staff $239–342K / Principal $292–417K base + bonus + LTIP — ~$500K TC realistic only at Principal; big-media subsidiary outside Rui's Series C–F band). NO reply sent — awaiting Rui's go; engage only at Principal level per the recommendation."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Follow-up nudge Wed Nov 18, 09:29 AM PT from Stephanie Canella: business context only (FY2026 viewing +20%, ~2.2% of US TV viewing, record-revenue quarter, ChatGPT app) — no new role/comp/scheduling content. No reply sent; the Nov 16 diligence (Principal-only fit) stands and the line still awaits Rui's decision."
       }
     ],
     "intel": {
@@ -6982,7 +7026,8 @@ const COMPANIES = [
           "2026-11-16 08:56 AM PT — Kyle REPLIED Mon Nov 16, 08:56 AM PT (life Gmail, id 1a1e54aa883ddabe): he likes the plan of assessing Rui for an IC L7 role and sent the invite for today — 'Kyle / Rui - Discuss YT interview process', Mon Nov 16, 13:00–13:30 PT (verified on calendar). This answers the Nov 14 follow-up; the Nov 17 cold check is moot. No reply was needed before the call.",
           "2026-11-16 — Call HELD Mon Nov 16, 1:00–1:30 PM PT; Kyle then sent (12:59 PM PT, life Gmail, id 1a1e628b9f4f050c) an invitation to apply for Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno (10-day window, ≈ Nov 26) and (13:18 PM PT, id 1a1e639f5073f62b) prep materials + loop outline (Phase 1 virtual, Phase 2 in person) plus a request for names of current-Google references. Thank-you reply SENT 13:44 PT in the prep thread (id 1a1e65149613426e; To: kylerichey@google.com verified), saying the application would be submitted promptly and references would follow.",
           "2026-11-16 2:56 PM PT — Application SUBMITTED Mon Nov 16, 2:56 PM PT (Google Careers, life account): Staff Applied ML Software Engineer, Recommendations, YouTube – San Bruno, via Kyle's sourced invitation; Careers page shows 'Submitted Nov 16' and the same role cannot be reapplied to for 90 days; application id 32bb75a2-bc95-4baa-b7b4-1c82d2151140. v6 resume newly uploaded (old profile resume deleted); Meta role location filled with the company address Menlo Park, CA at Rui's direction (form field only); all six minimum qualifications answered Yes; standard answers / EEO per archive. The form had no comp, essay, reference or referrer fields. AFTER submission, per Rui's set order ('applied 了再回'), the references reply was SENT and verified in Sent: named Yunsong Guo (Director of Engineering, Search @ Google; LinkedIn https://www.linkedin.com/in/yunsong-guo-3155b741/; Pinterest overlap 2014–2020) as Rui's Google reference. A further email to Kyle (sent + verified) asked for Phase 1 in the second week of December (Dec 7–11), prep after Thanksgiving, technical rounds at 10:00 AM PT — awaiting Kyle. Phase 1 per Kyle's outline: 60-min ML recommendation-system architecture + 45-min Technical Leadership, virtual. GHA: Rui passed the Google Hiring Assessment on 2026-09-10 (valid 24 months, to ≈ Sep 2028); when Kyle asked at 15:10 PT whether a GHA invite had arrived, a reply was SENT (≈ 15:37 PT, verified in Sent) explaining the prior pass and asking him to confirm it is on file.",
-          "2026-11-17 08:10 AM PT — Google Interview Scheduling Team EMAILED Tue Nov 17, 08:10 AM PT (life Gmail, id 1a1ea461dd6a4cd5): 'We need more information to schedule your Google interviews' (Staff Applied ML SWE, Recommendations). At Rui's direction ('sign it and keep going'), the candidate portal was checked 08:16–08:20 PT: it showed only ONE item under Documents needed — the DocuSign NDA (Employment Application NON-DISCLOSURE AGREEMENT, US NDA.pdf); no Employment Application or Interview Availability form had appeared. The NDA was SIGNED to completion the same morning (initials RH + signature Rui Huang; DocuSign signing_complete; forms page Completed; dashboard status changed to 'Availability submitted'). IMPORTANT: that dashboard label is only Google's post-NDA status — Rui's Dec 7–11 / technical rounds 10:00 AM PT availability was NOT submitted through any portal form, because no such form appeared after signing. Next step is waiting for a coordinator/recruiter to collect times; the Dec 7–11 + 10:00 AM PT preference was already told to Kyle in the Nov 16 email."
+          "2026-11-17 08:10 AM PT — Google Interview Scheduling Team EMAILED Tue Nov 17, 08:10 AM PT (life Gmail, id 1a1ea461dd6a4cd5): 'We need more information to schedule your Google interviews' (Staff Applied ML SWE, Recommendations). At Rui's direction ('sign it and keep going'), the candidate portal was checked 08:16–08:20 PT: it showed only ONE item under Documents needed — the DocuSign NDA (Employment Application NON-DISCLOSURE AGREEMENT, US NDA.pdf); no Employment Application or Interview Availability form had appeared. The NDA was SIGNED to completion the same morning (initials RH + signature Rui Huang; DocuSign signing_complete; forms page Completed; dashboard status changed to 'Availability submitted'). IMPORTANT: that dashboard label is only Google's post-NDA status — Rui's Dec 7–11 / technical rounds 10:00 AM PT availability was NOT submitted through any portal form, because no such form appeared after signing. Next step is waiting for a coordinator/recruiter to collect times; the Dec 7–11 + 10:00 AM PT preference was already told to Kyle in the Nov 16 email.",
+          "2026-11-18 — Coordinator Sobha Hamsitha Kalavakolanu (cc Kyle) collected Phase 1 availability Nov 17–18: her Nov 17, 14:03 PT request was answered Nov 18, 09:32 AM PT (Dec 7–11 at 10:00 AM PT, Dec 14–15 backups), she acknowledged Nov 18, 13:11 PT, and the proposal was then shifted Nov 18 afternoon to Dec 8–11 at 10:00 AM PT (Dec 7 withdrawn for the Applied Intuition onsite; Dec 14–15 backups unchanged). Still PROPOSED, not booked. See Sobha's contact entry for the full thread."
         ]
       },
       {
@@ -6993,6 +7038,18 @@ const COMPANIES = [
         "date": "2026-11-12",
         "history": [
           "2026-11-12 — invite SENT in Rui's HM/Staff+ expansion round (12 profile-verified invites, Sent 170 -> 182; profile checked live first for current employer, level/seniority and tenure). Pending."
+        ]
+      },
+      {
+        "name": "Sobha Hamsitha Kalavakolanu",
+        "role": "Recruiting Coordinator (xWF, working with Kyle Richey), Google Interview Scheduling",
+        "linkedin": null,
+        "contact_status": "existing",
+        "date": "2026-11-17",
+        "history": [
+          "2026-11-17 02:03 PM PT — Sobha EMAILED Tue Nov 17, 14:03 PT (life Gmail, id 1a1eb89d48530aa1, Kyle Richey cc'd; read in full by the 2026-11-18 morning email monitor): '[Action required] Request for Availability – Google Interview Scheduling - Rui Huang.' As the recruiting coordinator working with Kyle, she asked for at least 5–7 date options, Mon–Fri, over the next 2–3 weeks for the Google/YouTube Phase 1 process (ML Recommender Systems Architecture 60 min + Technical Leadership 45 min, per Kyle's Nov 16 prep email). The email arrived after the Nov 17 midday run and was not logged by the evening run; no reply had been sent (verified in Sent).",
+          "2026-11-18 09:32 AM PT — Availability reply-all SENT Wed Nov 18, 09:32 AM PT (sent id 1a1efb76f39af9af; To sobhah@xwf.google.com, Cc kylerichey@google.com, both verified): proposed Mon Dec 7 – Fri Dec 11, 2026, 10:00 AM PT preferred for the technical sessions, flexible within those days, with Mon Dec 14 / Tue Dec 15 as backups — matching Rui's Nov 16 request to Kyle. Calendar collision check first: all proposed dates were free at 10:00 AM PT. Status: PROPOSED, not confirmed — no interview is booked until Sobha schedules it. Sobha ACKNOWLEDGED Wed Nov 18, 13:11 PT (life Gmail, id 1a1f081016ec6953): 'I will schedule your interview accordingly and send the required information in a separate email thread once finalized.' No reply was sent (none due).",
+          "2026-11-18 — Availability SHIFTED Wed Nov 18 (afternoon, at Rui's direction): because the Applied Intuition onsite was confirmed for Mon Dec 7, Dec 7 is no longer available for Google/YouTube. Rui's side replied to Sobha moving the window back one day: Phase 1 now proposed for Tue Dec 8 – Fri Dec 11, 2026, 10:00 AM PT, with Mon Dec 14 / Tue Dec 15 still as backups. This supersedes the morning Dec 7–11 proposal. Status remains PROPOSED, not booked — awaiting Sobha's scheduling email."
         ]
       }
     ],
@@ -7040,6 +7097,14 @@ const COMPANIES = [
       {
         "date": "2026-11-17",
         "text": "NDA SIGNED Tue Nov 17: Google Interview Scheduling Team emailed 08:10 AM PT asking for more information; the portal held only the DocuSign NDA, which was signed to completion at Rui's direction (forms Completed). No Employment Application / Interview Availability form appeared after signing, so the Dec 7–11 availability was NOT submitted through the portal despite the dashboard's 'Availability submitted' label. Awaiting a coordinator to collect times."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Availability SENT to coordinator Sobha Wed Nov 18, 09:32 AM PT (reply-all, Kyle cc'd): Phase 1 proposed for Mon Dec 7 – Fri Dec 11, 2026, 10:00 AM PT preferred, with Dec 14–15 as backups (Sobha's request was Nov 17, 14:03 PT). Sobha acknowledged 13:11 PT that she will schedule accordingly and send details in a separate thread once finalized. Status: PROPOSED, not booked."
+      },
+      {
+        "date": "2026-11-18",
+        "text": "Availability SHIFTED to Dec 8–11 Wed Nov 18 (afternoon, at Rui's direction): Dec 7 withdrawn because the Applied Intuition onsite is confirmed for Mon Dec 7, 13:00–17:00 PT. Google/YouTube Phase 1 is now proposed for Tue Dec 8 – Fri Dec 11, 2026, 10:00 AM PT, backups Dec 14–15. Still PROPOSED, awaiting Sobha's scheduling email."
       }
     ],
     "intel": {
