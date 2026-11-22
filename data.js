@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 21, 2026";
+const BUILD_DATE = "Nov 22, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -6882,7 +6882,8 @@ const COMPANIES = [
           "2026-11-16 — Rui picked Fri Nov 20, 2:30–3:00 PM PT for a first interview with Nikhil Gandhi (SVP Engineering, Yahoo Mail), 30-min video, from Alicia's offered options; the pick was REPLIED in her thread and verified in Sent (To correct). Rationale logged: Friday is Rui's preferred day, the afternoon slot sits near his non-technical-round window, and that day's calendar was empty (a Thu 10:30 option sat back-to-back with the Etsy 10:00 intro). Awaiting Alicia's confirmation/invitation; no briefed calendar event until she confirms.",
           "2026-11-17 — HM screen RESCHEDULED Tue Nov 17: Alicia EMAILED 11:18 AM PT (career Gmail, id 1a1eaf2c019687cd) that the SVP's calendar shifted and asked Fri Nov 20 15:00 or 16:00 PT instead of 14:30. Rui REPLIED 12:03 PT (sent id 1a1eb1b59fe361b9) accepting 15:00–15:30 PT. Alicia's final CONFIRMED invite arrived 12:28 PT (id 1a1eb32915cdee39, body read in full): Hiring Manager Screen with Nikhil Gandhi (SVP Engineering, Yahoo Mail), Fri Nov 20, 2026, 15:00–15:30 PT, Google Meet https://meet.google.com/ncg-fmrw-qte, Senior Principal AI/ML Architect — Yahoo Mail (JR0026993); the invite notes no AI note-taking/transcription tools during the interview. The midday email monitor verified the briefed calendar event already sits at Fri Nov 20 15:00 PT with the new Meet link — no calendar change needed and no further reply sent.",
           "2026-11-19 12:29 PM PT — Automated candidate.fyi reminder Thu Nov 19, 12:29 PM PT (career Gmail, id 1a1f57fce43f0a6b; read in full by the 2026-11-19 midday email monitor): reconfirms the Hiring Manager Screen Fri Nov 20, 2026, 3:00–3:30 PM PT with Nikhil Gandhi (SVP Eng, Yahoo Mail), Senior Principal AI/ML Architect – Yahoo Mail (JR0026993), recruiter Alicia Ciaccia, Google Meet ncg-fmrw-qte, no AI note-takers. No change; no reply due.",
-          "2026-11-20 03:00 PM PT — HM screen NO-SHOW Fri Nov 20, 3:00 PM PT: Nikhil Gandhi (SVP Eng, Yahoo Mail) did not appear for the confirmed 3:00–3:30 PM PT Hiring Manager Screen (Google Meet ncg-fmrw-qte, JR0026993). Rui joined on time and waited; a sweep of all three mailboxes found no reschedule, link change, or cancellation. At Rui's direction an email was SENT to Alicia Ciaccia at about 3:05 PM PT stating Rui had entered the Meet at 3 PM and was waiting, and asking whether it would proceed or be rescheduled. Awaiting Yahoo's reply / reschedule."
+          "2026-11-20 03:00 PM PT — HM screen NO-SHOW Fri Nov 20, 3:00 PM PT: Nikhil Gandhi (SVP Eng, Yahoo Mail) did not appear for the confirmed 3:00–3:30 PM PT Hiring Manager Screen (Google Meet ncg-fmrw-qte, JR0026993). Rui joined on time and waited; a sweep of all three mailboxes found no reschedule, link change, or cancellation. At Rui's direction an email was SENT to Alicia Ciaccia at about 3:05 PM PT stating Rui had entered the Meet at 3 PM and was waiting, and asking whether it would proceed or be rescheduled. Awaiting Yahoo's reply / reschedule.",
+          "2026-11-20 03:06 PM PT — Alicia REPLIED Fri Nov 20, 3:06 PM PT to Rui's no-show email (reported in the 2026-11-21 daily log / verified extraction and the Nov 21 monitors): she apologized for the wait and said she believed Nikhil Gandhi had joined the Meet. She did NOT propose a reschedule. Whether Nikhil ever actually joined remains unconfirmed. No reply sent — next step is Rui's direction."
         ]
       }
     ],
@@ -6934,6 +6935,10 @@ const COMPANIES = [
       {
         "date": "2026-11-20",
         "text": "HM screen NO-SHOW Fri Nov 20, 3:00–3:30 PM PT: Nikhil Gandhi did not join the confirmed Google Meet (ncg-fmrw-qte); Rui waited on time and no reschedule/cancellation mail existed in any mailbox. At Rui's direction, Alicia Ciaccia was emailed at ~3:05 PM PT noting he was waiting and asking about rescheduling — awaiting Yahoo's reply."
+      },
+      {
+        "date": "2026-11-20",
+        "text": "Alicia Ciaccia REPLIED Fri Nov 20, 3:06 PM PT to the no-show email: apologized for the wait, said she believed Nikhil Gandhi had joined the Meet, and did not propose a reschedule. Whether Nikhil actually joined remains unconfirmed — awaiting Rui's direction on next steps."
       }
     ],
     "intel": {
@@ -6956,7 +6961,7 @@ const COMPANIES = [
         "time": "3:00–3:30 PM PT",
         "title": "Hiring Manager Screen — NO-SHOW by interviewer (was CONFIRMED)",
         "people": "Nikhil Gandhi (SVP Engineering, Yahoo Mail); coordinator Alicia Ciaccia",
-        "notes": "Google Meet https://meet.google.com/ncg-fmrw-qte (phone +1 252-376-1465, PIN 892716069) — Hiring Manager Screen with Nikhil Gandhi (SVP Engineering, Yahoo Mail) for JR0026993 (Senior Principal AI/ML Architect — Yahoo Mail), coordinator Alicia Ciaccia. RESCHEDULED Tue Nov 17: Alicia asked 11:18 AM PT for Fri 15:00 or 16:00 PT (SVP calendar shift); Rui accepted 15:00–15:30 PT at 12:03 PT; final confirmed invite 12:28 PT (id 1a1eb32915cdee39). Invite note: no AI note-taking/transcription tools during the interview. Calendar event verified at 15:00 PT with the new Meet link by the midday email monitor. NO-SHOW Fri Nov 20: Nikhil Gandhi did not join; Rui waited in the Meet on time. Email sent to Alicia Ciaccia at ~3:05 PM PT at Rui's direction stating he was waiting and asking whether it would proceed or be rescheduled — awaiting Yahoo's reply."
+        "notes": "Google Meet https://meet.google.com/ncg-fmrw-qte (phone +1 252-376-1465, PIN 892716069) — Hiring Manager Screen with Nikhil Gandhi (SVP Engineering, Yahoo Mail) for JR0026993 (Senior Principal AI/ML Architect — Yahoo Mail), coordinator Alicia Ciaccia. RESCHEDULED Tue Nov 17: Alicia asked 11:18 AM PT for Fri 15:00 or 16:00 PT (SVP calendar shift); Rui accepted 15:00–15:30 PT at 12:03 PT; final confirmed invite 12:28 PT (id 1a1eb32915cdee39). Invite note: no AI note-taking/transcription tools during the interview. Calendar event verified at 15:00 PT with the new Meet link by the midday email monitor. NO-SHOW Fri Nov 20: Nikhil Gandhi did not join; Rui waited in the Meet on time. Email sent to Alicia Ciaccia at ~3:05 PM PT at Rui's direction stating he was waiting and asking whether it would proceed or be rescheduled — awaiting Yahoo's reply. Alicia replied Fri Nov 20, 3:06 PM PT: apologized, said she believed Nikhil had joined, no reschedule proposed; whether he joined is unconfirmed — awaiting Rui's direction."
       }
     ]
   },
