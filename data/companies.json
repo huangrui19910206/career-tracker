@@ -2109,7 +2109,9 @@
           "2026-11-12 02:58 PM PT — Stephanie SENT a calendar invite (career Gmail, id 1a1d1fbb03a02b59): 'Rui H / Stephanie - Sierra', Mon Nov 16, 2026, 1:00–1:30 PM PT, Zoom; the invite asks Rui to confirm by accepting. This slot COLLIDES with Applied Intuition / Sophia Conn's Mon Nov 16 1:00 PM PT sync — neither invite was added as a confirmed event on Rui's calendar; which to keep/move is Rui's decision (still unresolved as of Nov 13, per the Nov 13 morning/afternoon monitors). No LinkedIn reply from her.",
           "2026-11-14 08:24 AM PT — RESCHEDULE proposed Sat Nov 14, 08:24 AM PT: reply SENT in Stephanie's original career-Gmail thread (To: stephanie.pavlov@ext.sierra.ai verified; sent id 1a1dae0120d7b1c8) explaining the Mon Nov 16 collision, that Rui cannot do the Mon Zoom, and proposing Tue Nov 17 / Wed Nov 18 / Thu Nov 19, any at 1:00–1:30 PM PT (all three checked free on the primary calendar before sending, and none clashes with Etsy's morning options). PROPOSED only — no Sierra calendar event will be created until she picks. No reply from her as of the Nov 14 morning/midday email monitors or the afternoon LinkedIn monitor.",
           "2026-11-15 01:43 PM PT — SECOND nudge SENT Sun Nov 15, 01:43 PM PT (midday email monitor; replied to Stephanie's own Nov 12 inbound thread, jobs/career Gmail; sent id 1a1e12abeb6c1a40; To: stephanie.pavlov@ext.sierra.ai verified). Trigger: an Ashby reminder arrived Sun Nov 15 01:03 PM PT ('You have an upcoming meeting with Sierra!') showing Ashby still holds the ORIGINAL Mon Nov 16, 1:00–1:30 PM PT slot — the Nov 14 reschedule was never processed on Sierra's side, and that slot now collides with the kept Applied Intuition call. The nudge flagged the reminder, restated Monday no longer works, re-offered Tue Nov 17 / Wed Nov 18 / Thu Nov 19 at 1:00–1:30 PM PT, and asked her to update/cancel the original Monday invite in Ashby. No comp, no resume. Awaiting her pick; no Sierra calendar event until she confirms.",
-          "2026-11-16 08:40 AM PT — Stephanie CONFIRMED Tue Nov 17, 13:00–1:30 PT Mon Nov 16, 08:40 AM PT (career Gmail, id 1a1e53b2a5e94519: 'Tuesday at 1:00pm PT works for me', re Models Engineering; updated invite id 1a1e53bd826df6e0 carries Tue Nov 17, 2026, 13:00–13:30 PT, Zoom https://sierra-ai.zoom.us/j/87544956500). This answers the Nov 14 reschedule proposal + Nov 15 second nudge and resolves the Mon Nov 16 collision on Sierra's side. Actions by the morning email monitor: (1) confirmation reply SENT 09:31 PT in her inbound thread (id 1a1e569ea8d9d510; To: stephanie.pavlov@ext.sierra.ai verified); (2) briefed calendar event created on primary (life): 'Sierra intro call — Stephanie Pavlov (Models Engineering)', event m59spcufsm07ni29pt9oar1ut4, with company brief, talking points and Zoom link. Stephanie replied 'Thanks for confirming!' at 12:40 PT (no action needed)."
+          "2026-11-16 08:40 AM PT — Stephanie CONFIRMED Tue Nov 17, 13:00–1:30 PT Mon Nov 16, 08:40 AM PT (career Gmail, id 1a1e53b2a5e94519: 'Tuesday at 1:00pm PT works for me', re Models Engineering; updated invite id 1a1e53bd826df6e0 carries Tue Nov 17, 2026, 13:00–13:30 PT, Zoom https://sierra-ai.zoom.us/j/87544956500). This answers the Nov 14 reschedule proposal + Nov 15 second nudge and resolves the Mon Nov 16 collision on Sierra's side. Actions by the morning email monitor: (1) confirmation reply SENT 09:31 PT in her inbound thread (id 1a1e569ea8d9d510; To: stephanie.pavlov@ext.sierra.ai verified); (2) briefed calendar event created on primary (life): 'Sierra intro call — Stephanie Pavlov (Models Engineering)', event m59spcufsm07ni29pt9oar1ut4, with company brief, talking points and Zoom link. Stephanie replied 'Thanks for confirming!' at 12:40 PT (no action needed).",
+          "2026-11-23 10:30 AM PT — follow-up SENT by the daily sweep Mon Nov 23, 10:30 AM PT (email, career Gmail, in-thread reply to her 2026-11-16 12:40 PT message; sent id 1a209ac1eac67a38; To: stephanie.pavlov@ext.sierra.ai verified). This is the thread's ONE post-intro follow-up, per the Nov 20–22 sweeps' Mon Nov 23 revisit plan (intro held Tue Nov 17, Models Engineering; ~6 days silent since). Gist: thanked her for the intro, re-stated interest in the Models team, asked about next steps. Cold check Nov 26 if still silent.",
+          "2026-11-23 10:30 PT — OOO auto-reply Mon Nov 23, 10:30 PT (career Gmail, id 1a209ac91032e643; read by the 2026-11-23 midday email monitor) to today's follow-up: Stephanie is out of office Nov 23–27; urgent contact is Tooba@ext.sierra.ai, otherwise she will respond on return. No message was sent to Tooba; the follow-up is parked until her return Nov 28+."
         ]
       },
       {
@@ -2185,6 +2187,14 @@
       {
         "date": "2026-11-16",
         "text": "Intro call CONFIRMED Mon Nov 16: Tue Nov 17, 2026, 1:00–1:30 PM PT with Stephanie Pavlov (Models Engineering; Zoom) — her 08:40 AM PT pick from the reschedule options; confirmation reply sent 09:31 PT (To verified) and a briefed calendar event created (m59spcufsm07ni29pt9oar1ut4). The Mon Nov 16 collision is fully resolved."
+      },
+      {
+        "date": "2026-11-17",
+        "text": "Intro call HELD Tue Nov 17, 2026, 1:00–1:30 PM PT with Stephanie Pavlov (Models Engineering), as confirmed Nov 16. No next step had been recorded as of the Nov 23 follow-up sweep (~6 days silent since the intro)."
+      },
+      {
+        "date": "2026-11-23",
+        "text": "Follow-up SENT to Stephanie Pavlov Mon Nov 23, 10:30 AM PT (email, career Gmail, in-thread; the thread's ONE post-intro follow-up, per the Nov 20–22 revisit plan; intro held Nov 17, ~6 days silent). Her OOO auto-reply (10:30 PT) says she is out Nov 23–27 (urgent contact Tooba@ext.sierra.ai) — no message sent to Tooba; follow-up parked until her return. Cold check Nov 26 per the sweep."
       }
     ],
     "intel": {
@@ -2207,7 +2217,7 @@
         "time": "1:00–1:30 PM PT",
         "title": "Intro call — CONFIRMED",
         "people": "Stephanie Pavlov (Senior Technical Recruiter)",
-        "notes": "Zoom https://sierra-ai.zoom.us/j/87544956500 (Meeting ID 87544956500) — confirmed by Stephanie Mon Nov 16, 08:40 AM PT (career Gmail) after the Nov 14 reschedule proposal and Nov 15 second nudge; confirmation reply sent 09:31 PT (To verified). Calendar event m59spcufsm07ni29pt9oar1ut4 with company brief + talking points. Topic: Models Engineering intro."
+        "notes": "Zoom https://sierra-ai.zoom.us/j/87544956500 (Meeting ID 87544956500) — confirmed by Stephanie Mon Nov 16, 08:40 AM PT (career Gmail) after the Nov 14 reschedule proposal and Nov 15 second nudge; confirmation reply sent 09:31 PT (To verified). Calendar event m59spcufsm07ni29pt9oar1ut4 with company brief + talking points. Topic: Models Engineering intro. HELD as booked Tue Nov 17, 2026 (per the 2026-11-23 follow-up sweep)."
       }
     ]
   },
@@ -7206,7 +7216,8 @@
         "date": "2026-11-18",
         "history": [
           "2026-11-18 05:12 PM PT — cold INBOUND email (career Gmail, id 1a1f15d22c399e19; read in full by the 2026-11-18 evening email monitor): Staff Machine Learning Engineer at Ethos (life-insurance tech), remote, to own ML infrastructure — deployment pipelines, feature stores, monitoring — for product models (coverage recommendations, routing, agent assignment) and marketing models (attribution, incrementality, media mix). She offered a quick chat this/next week via a Nylas booking link. No comp in the email. Diligence done first (cold-inbound + comp-first rules); NO reply sent, NO call booked — awaiting Rui.",
-          "2026-11-19 01:52 PM PT — PASSED by Rui Thu Nov 19, 13:52 PT: Rui replied 'pass' for both the Ethos and Babylist cold inbounds. Line CLOSED as a pass; no rejection letter was sent (a cold pitch is treated as passed by not replying; a polite decline can be sent later if Rui asks)."
+          "2026-11-19 01:52 PM PT — PASSED by Rui Thu Nov 19, 13:52 PT: Rui replied 'pass' for both the Ethos and Babylist cold inbounds. Line CLOSED as a pass; no rejection letter was sent (a cold pitch is treated as passed by not replying; a polite decline can be sent later if Rui asks).",
+          "2026-11-23 11:00 AM PT — Toni Lopez sent a follow-up nudge Mon Nov 23, 11:00 AM PT (career Gmail, id 1a209c8ede84c965, thread 1a1f15d22c399e19; read by the 2026-11-23 midday email monitor): 'One more thing on the ML side at Ethos…' — adding that their underwriting engine makes ~95% of decisions instantly vs 20–30% industry average, pitching the same Staff MLE (ML infra) role. This line was already PASSED by Rui on 2026-11-19 and stays CLOSED; no reply was sent (cold-pitch pass convention)."
         ]
       }
     ],
@@ -7218,6 +7229,10 @@
       {
         "date": "2026-11-19",
         "text": "PASSED by Rui Thu Nov 19, 1:52 PM PT: the Ethos cold inbound was passed (together with Babylist). Line closed; no reply / rejection letter sent."
+      },
+      {
+        "date": "2026-11-23",
+        "text": "Toni Lopez follow-up nudge Mon Nov 23, 11:00 AM PT on the Staff MLE thread (underwriting-engine pitch). The line was already PASSED by Rui on Nov 19 and stays closed — no reply sent."
       }
     ],
     "intel": {
