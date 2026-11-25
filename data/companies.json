@@ -7084,7 +7084,8 @@
           "2026-11-17 11:34 AM PT — Huang Chao sent a DIRECT calendar invitation Tue Nov 17, 11:34 AM PT (life Gmail, id 1a1eb01402ee3475, from chahuang@paloaltonetworks.com): 'RUI / Chao', today Tue Nov 17, 16:00–17:00 PT, Zoom 98165451434, re the Principal DS/ML role. The event is on Rui's calendar with no conflict. This supersedes the blocked Circle reply — the approved Circle text was never sent (Circle login/Cloudflare route blocked it) and is now moot because Huang Chao booked the call directly. At Rui's direction, his v6 resume was EMAILED to Huang Chao at 13:55 PT from the life inbox (sent id 1a1eb82220999ed7; To + attachment verified in Sent) as reference ahead of the 16:00 call.",
           "2026-11-17 04:03 PM PT — Call RESCHEDULED Tue Nov 17, 16:03 PT: Huang Chao sent an update moving the Tue Nov 17, 16:00–17:00 PT Zoom to Wed Nov 18, 16:00–16:45 PT (same Zoom; calendar auto-updated, no conflict). Rui's v6 resume had already been emailed to chahuang@paloaltonetworks.com at 13:55 PT ahead of the original slot (verified in Sent).",
           "2026-11-18 — Application NOT SUBMITTED Wed Nov 18 (paused, awaiting Rui): after the call Huang Chao asked Rui to submit the application and pointed to his LinkedIn hiring post (posted ~5 days earlier, linkedin.com/in/chao-huang-1466a982). Post verified: Principal Machine Learning Engineer (Advanced Threat Protection), Santa Clara, Ref JR-024724 — LLM/SLM building, fine-tuning, pretraining, distillation and large-scale deployment for malicious-traffic / threat detection, matching Huang Chao's team. Posting base in the post: $163,200–$264,000/yr (base is modest; total comp relies on RSU + bonus, to be detailed at the package stage). Application link: jobs.paloaltonetworks.com/en/job/santa-clara/principal-machine-learning-engineer-advanced-threat-protection/47263/103191336384. The Workday application is stopped at step 1/8 (Create Account): the vault's career-email Workday login was rejected by Workday (wrong email/password or possibly locked) and was NOT used or reset, per rule. A new-account form was left ready with rui.huang.jobs@gmail.com; Rui must set the new password via the secure password card before the application (v6 resume + standard answers) can be completed and submitted. No submission has been made.",
-          "2026-11-19 — Application STILL NOT SUBMITTED Thu Nov 19 (final blocked state, superseding the earlier password-card description): on the evening of Nov 18 Rui twice updated the jobs-email Workday password via the secure card — the first version was rejected by Workday for missing a special character (requires 8+ chars with upper/lower, digit and special character), the second was compliant. But the vault autofill repeatedly grabbed the wrong identity — first career, then, even after the jobs login was locked, twice life — and the browser task stopped after about 2 hours 19 minutes per instructions: no account was created with any email, no resume was uploaded, no form was filled, Workday did not indicate a jobs account already exists, and the page remains at Create Account step 1/8. Two paths were given to Rui and await his choice: A) Rui takes over the browser for about a minute to type the password and create the account himself, then the agent finishes the remaining steps; B) Rui self-submits via the JR-024724 job link. No reply from Rui on A/B as of this flush."
+          "2026-11-19 — Application STILL NOT SUBMITTED Thu Nov 19 (final blocked state, superseding the earlier password-card description): on the evening of Nov 18 Rui twice updated the jobs-email Workday password via the secure card — the first version was rejected by Workday for missing a special character (requires 8+ chars with upper/lower, digit and special character), the second was compliant. But the vault autofill repeatedly grabbed the wrong identity — first career, then, even after the jobs login was locked, twice life — and the browser task stopped after about 2 hours 19 minutes per instructions: no account was created with any email, no resume was uploaded, no form was filled, Workday did not indicate a jobs account already exists, and the page remains at Create Account step 1/8. Two paths were given to Rui and await his choice: A) Rui takes over the browser for about a minute to type the password and create the account himself, then the agent finishes the remaining steps; B) Rui self-submits via the JR-024724 job link. No reply from Rui on A/B as of this flush.",
+          "2026-11-23 — Application SUBMITTED Mon Nov 23, 2026 for Principal Machine Learning Engineer (Advanced Threat Protection), JR-024724, Santa Clara, using only the jobs email (rui.huang.jobs@gmail.com). Rui himself clicked the Workday verification link in the jobs inbox (~22:36 PT; email verification links cannot be relayed by the agent), after which the submission was completed the same evening. Candidate Home verified: Active (1), status Under Review, Date Submitted November 23, 2026. Workday confirmation email received 2026-11-23 22:52 PT (jobs Gmail, id 1a20c5370b40b320; surfaced by the 2026-11-24 morning email monitor). This supersedes the Nov 18–19 blocked state (Workday login mix-ups). Next step: Rui to ping Huang Chao on WeChat that the submission is done (reminded; not sent by the agent)."
         ]
       },
       {
@@ -7126,6 +7127,10 @@
       {
         "date": "2026-11-19",
         "text": "Application STILL NOT SUBMITTED Thu Nov 19: Rui updated the jobs Workday password twice via the secure card Nov 18 evening (second version compliant), but vault autofill kept grabbing the career/life logins instead of jobs; the browser task stopped after ~2h19 with no account created, no resume uploaded, page at Create Account step 1/8 for JR-024724. Paths A (Rui takeover ~1 min to create the account, agent finishes) / B (Rui self-submits via the job link) await Rui's choice."
+      },
+      {
+        "date": "2026-11-23",
+        "text": "Application SUBMITTED Mon Nov 23, 2026 — Principal Machine Learning Engineer (Advanced Threat Protection), JR-024724, Santa Clara (jobs email only). Rui clicked the Workday verification link himself (~22:36 PT), the submission completed that evening, and Candidate Home shows status Under Review (Date Submitted November 23, 2026); Workday confirmation email 22:52 PT. Supersedes the Nov 18–19 blocked state. Next: Rui's WeChat ping to Huang Chao."
       }
     ],
     "intel": {
@@ -7171,7 +7176,8 @@
         "history": [
           "2026-11-16 01:17 PM PT — cold INBOUND email (career Gmail, id 1a1e6393a31c28fd; read by the 2026-11-16 midday email monitor): pitching Staff & Principal MLE roles for personalized discovery, with a calendar link offered. Per the cold-inbound rule (2026-10-14) + comp-first diligence (2026-11-13): NO reply, NO booking. Diligence: Tubi is a Fox Corp division (2020 acquisition; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU Aug 2026, revenue +35% YoY; Fox proposed $22B Roku acquisition announced Jun 2026 (parent-level, pending). Official posting bands (high-cost markets): Staff base $239–342K, Principal base $292–417K + bonus + LTIP — a ~$500K TC is realistic only at Principal. SF hybrid. Scope fit is strong (recommendations / generative ranking, TubiFM), but as a big-media subsidiary it sits outside Rui's Series C–F target band. Recommendation to Rui: reply only for a Principal-level conversation — awaiting his decision.",
           "2026-11-18 09:29 AM PT — Follow-up nudge Wed Nov 18, 09:29 AM PT (career Gmail, id 1a1efb4b4e6bb649, same thread as her Nov 16 cold pitch; read in full by the midday email monitor): short nudge adding business context only — fiscal 2026 total viewing time +20%, ~2.2% of all US TV viewing, highest-revenue quarter in Tubi's history, first streamer to launch an app inside ChatGPT (April, built on the same personalization models) — ending 'Open to hearing more?' No new role, level, comp, or scheduling ask. NO reply sent: the Nov 16 diligence stands (only Principal level plausibly reaches Rui's ~$500K target; Staff does not) and the decision remains Rui's.",
-          "2026-11-20 10:33 AM PT — Second nudge Fri Nov 20, 10:33 AM PT (career Gmail, id 1a1fa3bce8a707c3, same thread as her Nov 16 pitch; read in full by the 2026-11-20 midday email monitor): linked a Tubi engineering blog post ('Beyond Discovery: Teaching Recommenders to Resume the Story' — ranking models for resume-vs-new viewing), repeated offices SF/LA/NYC + remote option, linked the full job description, and offered her booking link for a quick chat. Still NO Principal-vs-Staff scope or comp content. No reply sent — the Principal-only stance still awaits Rui's decision."
+          "2026-11-20 10:33 AM PT — Second nudge Fri Nov 20, 10:33 AM PT (career Gmail, id 1a1fa3bce8a707c3, same thread as her Nov 16 pitch; read in full by the 2026-11-20 midday email monitor): linked a Tubi engineering blog post ('Beyond Discovery: Teaching Recommenders to Resume the Story' — ranking models for resume-vs-new viewing), repeated offices SF/LA/NYC + remote option, linked the full job description, and offered her booking link for a quick chat. Still NO Principal-vs-Staff scope or comp content. No reply sent — the Principal-only stance still awaits Rui's decision.",
+          "2026-11-24 10:20 AM PT — Stephanie sent 'one final note' Tue Nov 24, 10:20 AM PT (career Gmail, same thread 1a1e6393a31c28fd as her Nov 16 cold pitch; read by the 2026-11-24 midday email monitor). Rui then approved sending the $800K+ version as a filter, and the reply was SENT Tue Nov 24, 12:57 PT (career Gmail, sent id 1a20f59a9c1480a4): it states Rui's total-comp expectation is $800K+. Diligence completed 2026-11-24 first: official Principal base band is $292–417K and, with Tubi's all-cash bonus structure, realistic target TC is ~$467–667K — an $800K+ expectation would require base ~$500K, ~20% above the band top, so the message functions as a filter that likely ends the line. Awaiting her response, if any."
         ]
       }
     ],
@@ -7187,12 +7193,17 @@
       {
         "date": "2026-11-20",
         "text": "Stephanie Canella nudged a second time Fri Nov 20, 10:33 AM PT: recommender blog post + full job-description link + her booking link. Still no Principal-vs-Staff scope or comp — no reply sent; Principal-only question still awaiting Rui."
+      },
+      {
+        "date": "2026-11-24",
+        "text": "$800K+ filter reply SENT to Stephanie Canella Tue Nov 24, 12:57 PT (career Gmail), after her 10:20 AM 'one final note' nudge and with Rui's explicit approval. Diligence (2026-11-24): Principal base $292–417K, realistic target TC ~$467–667K — $800K+ is above what the Principal role can reach, so the reply acts as a filter. Awaiting any response."
       }
     ],
     "intel": {
       "comp": "Official posting bands (diligence 2026-11-16, high-cost markets): Staff MLE base $239–342K; Principal MLE base $292–417K, plus bonus + LTIP. Realistic ~$500K TC only at Principal level.",
       "notes": [
-        "Diligence 2026-11-16: Tubi is Fox Corporation's free ad-supported streaming service (acquired 2020; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU (Aug 2026), revenue +35% YoY. Fox's proposed $22B Roku acquisition (announced Jun 2026) is parent-level and pending. Scope fit is strong (personalized discovery / generative ranking — TubiFM) but the company profile (big-media subsidiary) sits outside Rui's Series C–F ~$3B–$30B target band."
+        "Diligence 2026-11-16: Tubi is Fox Corporation's free ad-supported streaming service (acquired 2020; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU (Aug 2026), revenue +35% YoY. Fox's proposed $22B Roku acquisition (announced Jun 2026) is parent-level and pending. Scope fit is strong (personalized discovery / generative ranking — TubiFM) but the company profile (big-media subsidiary) sits outside Rui's Series C–F ~$3B–$30B target band.",
+        "Realistic target TC at Principal (diligence 2026-11-24): ~$467–667K given the $292–417K base band and all-cash bonus structure; ~$500K sits low-to-mid in the Principal range. $800K+ would require base ~$500K (above the band top) and is not supported by any data point."
       ]
     },
     "interviews": []
@@ -7280,6 +7291,47 @@
       "comp": "Official JD (US-based Staff, Greenhouse job 6211274004; diligence 2026-11-19): base $233,500–$290,700 + 20% target bonus = target cash ~$280,200–$348,840, plus unspecified private-company equity and 401(k) match. Well below Rui's ~$500K Senior Staff TC anchor.",
       "notes": [
         "Diligence 2026-11-19: Babylist, founded 2011 by Natalie Gordon, Emeryville, CA, is the #1 baby registry; $750M+ revenue in 2025 (+45% YoY), profitable 8 years, only ~$50M raised total (last round Series C Nov 2021, Norwest / RRE / FirstMark). Forge secondary valuation ~$498.6M (updated 2026-11-18). Founder-led and independent with illiquid equity and no clear IPO path; narrow baby/family consumer vertical, far below Rui's $3B–$30B high-growth platform band. Tech fit (search + recommendations personalization) is genuinely strong."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "third-moment-research",
+    "name": "Third Moment Research",
+    "tagline": "Applied AI lab for RL environments / post-training / managed inference (founding-team stage) — cold inbound via Quantum recruiter",
+    "valuation": null,
+    "valuation_detail": "Reportedly ~$250M valuation out of stealth (unverified, third-party RL directory; diligence 2026-11-24). Founded 2026, team 1–10.",
+    "size": "1–10 (founding team)",
+    "location": null,
+    "rto": null,
+    "status": "researching",
+    "contacts": [
+      {
+        "name": "Rob Kaufman",
+        "role": "Recruiting Manager / Principal Recruiter, Quantum (agency recruiter)",
+        "linkedin": null,
+        "contact_status": "inbound_pending",
+        "date": "2026-11-23",
+        "history": [
+          "2026-11-23 09:34 PM PT — cold INBOUND LinkedIn InMail Mon Nov 23 (LinkedIn timestamp 9:34 PM; career-Gmail copy 22:53 PT, id 1a20c54df2531538; verified live by the 2026-11-24 morning LinkedIn monitor), plus a LinkedIn connection invitation 2026-11-24 00:53 PT (left pending). Subject: 'Rui Huang - $0 → $75M+ in 8 Months with a 4-Person AI Team'. Pitch: Founding Staff ML Engineer / founding Applied Researcher at Third Moment Research — RL environments / post-training lab; recruiter claims $0→$75M+ run rate in ~6–8 months with ~5 people and $300K–$1M salary + significant equity (both unverified); founders named in the pitch: Jeffrey Yan (ex-HRT) and Adam Khakhar (ex-Hebbia). Per the 2026-10-14 cold-inbound rule, diligence was done first and NO reply was sent — awaiting Rui's decision.",
+          "2026-11-24 — Diligence (2026-11-24 morning email monitor, web check): company founded 2026, team 1–10, reportedly out of stealth at ~$250M valuation (unverified); revenue claim unverified. Assessment vs Rui's criteria: very early stage, far below his $3B–$30B Series C–F target band; a founding RL researcher role is adjacent to ML but off his search / recommendations / platform leadership core; the headline cash range is recruiter-stated and early-stage equity counts as a lottery ticket under his 2026-10-12 exit rule. Recommendation: pass. No reply sent; the connection invitation was left pending. Awaiting Rui's call."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-23",
+        "text": "Cold inbound: Rob Kaufman (Quantum) pitched a founding Applied Researcher / Founding Staff ML Engineer role at Third Moment Research via LinkedIn InMail Mon Nov 23, 9:34 PM PT (connection invite followed Nov 24, 00:53 PT, left pending). Recruiter claims $0→$75M+ run rate and $300K–$1M salary + equity — both unverified. No reply sent."
+      },
+      {
+        "date": "2026-11-24",
+        "text": "Diligence completed Tue Nov 24: founded 2026, team 1–10, reported ~$250M valuation (unverified) — far below Rui's $3B–$30B Series C–F target band, and the founding RL-researcher scope is off his search/rec/platform core. Flagged to Rui with a pass recommendation; no reply sent, awaiting his decision."
+      }
+    ],
+    "intel": {
+      "comp": "Recruiter-stated only (unverified): $300K–$1M salary + significant equity for the founding role (LinkedIn InMail, 2026-11-23).",
+      "notes": [
+        "Diligence 2026-11-24: very early stage (founded 2026, 1–10 people); reported ~$250M valuation is unverified and the $0→$75M+ run-rate claim is recruiter-stated. Founders per the pitch: Jeffrey Yan (ex-HRT) and Adam Khakhar (ex-Hebbia). Backers named in the pitch (Neo, Marco Mascorro, Adam D'Angelo) are also unverified."
       ]
     },
     "interviews": []
