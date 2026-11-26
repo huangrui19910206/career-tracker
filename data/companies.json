@@ -7177,7 +7177,8 @@
           "2026-11-16 01:17 PM PT — cold INBOUND email (career Gmail, id 1a1e6393a31c28fd; read by the 2026-11-16 midday email monitor): pitching Staff & Principal MLE roles for personalized discovery, with a calendar link offered. Per the cold-inbound rule (2026-10-14) + comp-first diligence (2026-11-13): NO reply, NO booking. Diligence: Tubi is a Fox Corp division (2020 acquisition; founders Farhad Massoudi / Thomas Ahn Hicks, ex-AdRise); 110M MAU Aug 2026, revenue +35% YoY; Fox proposed $22B Roku acquisition announced Jun 2026 (parent-level, pending). Official posting bands (high-cost markets): Staff base $239–342K, Principal base $292–417K + bonus + LTIP — a ~$500K TC is realistic only at Principal. SF hybrid. Scope fit is strong (recommendations / generative ranking, TubiFM), but as a big-media subsidiary it sits outside Rui's Series C–F target band. Recommendation to Rui: reply only for a Principal-level conversation — awaiting his decision.",
           "2026-11-18 09:29 AM PT — Follow-up nudge Wed Nov 18, 09:29 AM PT (career Gmail, id 1a1efb4b4e6bb649, same thread as her Nov 16 cold pitch; read in full by the midday email monitor): short nudge adding business context only — fiscal 2026 total viewing time +20%, ~2.2% of all US TV viewing, highest-revenue quarter in Tubi's history, first streamer to launch an app inside ChatGPT (April, built on the same personalization models) — ending 'Open to hearing more?' No new role, level, comp, or scheduling ask. NO reply sent: the Nov 16 diligence stands (only Principal level plausibly reaches Rui's ~$500K target; Staff does not) and the decision remains Rui's.",
           "2026-11-20 10:33 AM PT — Second nudge Fri Nov 20, 10:33 AM PT (career Gmail, id 1a1fa3bce8a707c3, same thread as her Nov 16 pitch; read in full by the 2026-11-20 midday email monitor): linked a Tubi engineering blog post ('Beyond Discovery: Teaching Recommenders to Resume the Story' — ranking models for resume-vs-new viewing), repeated offices SF/LA/NYC + remote option, linked the full job description, and offered her booking link for a quick chat. Still NO Principal-vs-Staff scope or comp content. No reply sent — the Principal-only stance still awaits Rui's decision.",
-          "2026-11-24 10:20 AM PT — Stephanie sent 'one final note' Tue Nov 24, 10:20 AM PT (career Gmail, same thread 1a1e6393a31c28fd as her Nov 16 cold pitch; read by the 2026-11-24 midday email monitor). Rui then approved sending the $800K+ version as a filter, and the reply was SENT Tue Nov 24, 12:57 PT (career Gmail, sent id 1a20f59a9c1480a4): it states Rui's total-comp expectation is $800K+. Diligence completed 2026-11-24 first: official Principal base band is $292–417K and, with Tubi's all-cash bonus structure, realistic target TC is ~$467–667K — an $800K+ expectation would require base ~$500K, ~20% above the band top, so the message functions as a filter that likely ends the line. Awaiting her response, if any."
+          "2026-11-24 10:20 AM PT — Stephanie sent 'one final note' Tue Nov 24, 10:20 AM PT (career Gmail, same thread 1a1e6393a31c28fd as her Nov 16 cold pitch; read by the 2026-11-24 midday email monitor). Rui then approved sending the $800K+ version as a filter, and the reply was SENT Tue Nov 24, 12:57 PT (career Gmail, sent id 1a20f59a9c1480a4): it states Rui's total-comp expectation is $800K+. Diligence completed 2026-11-24 first: official Principal base band is $292–417K and, with Tubi's all-cash bonus structure, realistic target TC is ~$467–667K — an $800K+ expectation would require base ~$500K, ~20% above the band top, so the message functions as a filter that likely ends the line. Awaiting her response, if any.",
+          "2026-11-24 03:14 PM PT — Stephanie REPLIED Tue Nov 24, 3:14 PM PT (career Gmail, id 1a20fd7216e3413b, thread 1a20f59a9c1480a4; read by the 2026-11-24 evening email monitor) to Rui's 12:57 PM $800K+ filter message: 'Thanks for being so transparent! Our total compensation package is highly competitive. We could be within the ballpark if your feedback comes through at the Principal level. I'd be happy to discuss this further on a call.' She sent a Guide scheduling link for a Tubi recruiter video interview (Staff & Principal MLE). NO reply sent, NO booking made: her ballpark claim is unverified and contradicts the verified diligence (official Principal base $292–417K, realistic target TC ~$467–667K; $800K+ would require base ~$500K, ~20% above the band top). Flagged to Rui per the pre-booking diligence rule — he decides whether to take the call to test the claim or pass. Line remains open, in Rui's court (confirmed again in the 2026-11-25 follow-up sweep)."
         ]
       }
     ],
@@ -7197,6 +7198,10 @@
       {
         "date": "2026-11-24",
         "text": "$800K+ filter reply SENT to Stephanie Canella Tue Nov 24, 12:57 PT (career Gmail), after her 10:20 AM 'one final note' nudge and with Rui's explicit approval. Diligence (2026-11-24): Principal base $292–417K, realistic target TC ~$467–667K — $800K+ is above what the Principal role can reach, so the reply acts as a filter. Awaiting any response."
+      },
+      {
+        "date": "2026-11-24",
+        "text": "Stephanie Canella REPLIED Tue Nov 24, 3:14 PM PT to the $800K+ filter: Tubi could be 'within the ballpark' if feedback comes through at Principal level, and she sent a booking link for a recruiter video call. NO reply sent, NO call booked — the claim is unverified and contradicts verified diligence (Principal realistic TC ~$467–667K, well below $800K). Flagged to Rui; line open in his court."
       }
     ],
     "intel": {
@@ -7273,7 +7278,8 @@
         "date": "2026-11-19",
         "history": [
           "2026-11-19 01:16 PM PT — cold INBOUND email (career Gmail, id 1a1f5ab1f5c8d2ba; read in full by the 2026-11-19 midday email monitor): Staff MLE, Discovery team — own the personalization domain (homepage feed, add-next recommendations, search personalization, custom embeddings), set roadmap, own training→monitoring lifecycle, define evals. Remote-first US/Canada. Asked for a 15-min conversation. JD: Greenhouse job 6211274004 (linked in email). Sender verified legitimate (Senior Technical Recruiter at Babylist; the JD states official outreach only comes from @babylist.com). Diligence done first (cold-inbound + comp-first rules); NO reply sent, NO call booked — awaiting Rui.",
-          "2026-11-19 01:52 PM PT — PASSED by Rui Thu Nov 19, 13:52 PT: Rui replied 'pass' for both the Babylist and Ethos cold inbounds. Line CLOSED as a pass; no rejection letter was sent (a cold pitch is treated as passed by not replying; a polite decline can be sent later if Rui asks)."
+          "2026-11-19 01:52 PM PT — PASSED by Rui Thu Nov 19, 13:52 PT: Rui replied 'pass' for both the Babylist and Ethos cold inbounds. Line CLOSED as a pass; no rejection letter was sent (a cold pitch is treated as passed by not replying; a polite decline can be sent later if Rui asks).",
+          "2026-11-25 01:10 PM PT — Follow-up Wed Nov 25, 1:10 PM PT (career Gmail, id 1a2148b6e4dcb158; read by the 2026-11-25 midday email monitor) on the Staff MLE personalization thread: added day-to-day detail — domain-specific embeddings from raw data, Rails monolith / MySQL, Claude Code / Devin / SageMaker / MLflow — and asked if Rui wants to hear more. NO reply sent: Rui passed Babylist on 2026-11-19 (comp target cash ~$280–349K, well below the ~$500K anchor; narrow vertical) and the pass was by not replying — line remains closed."
         ]
       }
     ],
@@ -7285,6 +7291,10 @@
       {
         "date": "2026-11-19",
         "text": "PASSED by Rui Thu Nov 19, 1:52 PM PT: the Babylist cold inbound was passed (together with Ethos). Line closed; no reply / rejection letter sent."
+      },
+      {
+        "date": "2026-11-25",
+        "text": "Tiffany Saria followed up Wed Nov 25, 1:10 PM PT with day-to-day detail on the Staff MLE personalization role (domain-specific embeddings, Rails/MySQL, SageMaker/MLflow) and asked if Rui wants to hear more. No reply sent — Rui passed Babylist on Nov 19 and the line remains closed."
       }
     ],
     "intel": {
