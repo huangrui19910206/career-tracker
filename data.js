@@ -1,4 +1,4 @@
-const BUILD_DATE = "Nov 26, 2026";
+const BUILD_DATE = "Nov 27, 2026";
 const COMPANIES = [
   {
     "slug": "airbyte",
@@ -1368,6 +1368,43 @@ const COMPANIES = [
     ]
   },
   {
+    "slug": "button",
+    "name": "Button",
+    "tagline": "Mobile commerce optimization / creator & affiliate platform — Senior MLE inbound via agency recruiter",
+    "valuation": "~$226M",
+    "valuation_detail": "Last reported valuation ~$226M; total raised ~$64.3M (Seed 2014 → Series C $30M 2019, Icon Ventures); strategic PE growth investment from PSG in Jun 2025 (diligence 2026-11-25)",
+    "size": "~107–123 employees",
+    "location": "New York, NY; role 100% remote",
+    "rto": null,
+    "status": "researching",
+    "contacts": [
+      {
+        "name": "Charanya Neelakanthan",
+        "role": "Recruiting Manager, Prime Team Partners (agency recruiter)",
+        "linkedin": null,
+        "contact_status": "inbound_pending",
+        "date": "2026-11-25",
+        "history": [
+          "2026-11-25 03:35 PM PT — cold INBOUND email (career Gmail, id 1a215101b56f28d0; read by the 2026-11-25 evening email monitor): Senior Machine Learning Engineer at Button — own the full ML lifecycle, feature pipelines/store, ranking/recommender systems, AdTech/commerce platform, 100% remote. Base up to $198K + equity, Calendly link offered. Recruiter verified legitimate (Prime Team Partners, Seattle tech staffing est. 2005; Charanya is a Recruiting Manager there, ex-software engineer, 7 yrs at Goldman Sachs). Per the cold-inbound rule, diligence was done first and NO reply was sent — awaiting Rui's decision.",
+          "2026-11-25 — Diligence (2026-11-25 evening email monitor): Button is a mobile commerce optimization / creator & affiliate platform, founded 2013/14, NYC, ~107–123 employees, ~$64.3M raised, last reported valuation ~$226M, PE growth investment from PSG (Jun 2025); 2025 App GMS $2.9B (+91% YoY). Assessment: Senior (not Staff/Senior Staff) title, base ceiling $198K — realistic TC well below Rui's ~$500K Senior Staff target; scale far below his $3B–$30B band; narrow commerce/AdTech vertical, PE-backed. Recommendation: PASS. No reply sent."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-25",
+        "text": "Cold inbound: Charanya Neelakanthan (Prime Team Partners) emailed Wed Nov 25, 3:35 PM PT pitching a Senior MLE role at Button (full ML lifecycle, ranking/recommender, AdTech/commerce, 100% remote; base up to $198K + equity). Diligence: ~110 people, ~$64.3M raised, ~$226M valuation, PE-backed (PSG, Jun 2025) — well below Rui's $3B–$30B band, with title and comp ceiling well below his ~$500K Senior Staff target. Recommendation PASS; no reply sent, awaiting Rui's decision."
+      }
+    ],
+    "intel": {
+      "comp": "Recruiter-stated in the pitch (2026-11-25): base up to $198K + equity for the Senior MLE role. Realistic TC well below Rui's ~$500K Senior Staff target.",
+      "notes": [
+        "Diligence 2026-11-25: Button, founded 2013/14, NYC, mobile commerce optimization / creator & affiliate platform; ~$64.3M raised (Series C $30M in 2019, Icon Ventures), last reported valuation ~$226M, strategic PE growth investment from PSG in Jun 2025; 2025 App GMS $2.9B, +91% YoY."
+      ]
+    },
+    "interviews": []
+  },
+  {
     "slug": "chandler-song-hk",
     "name": "Chandler Song (HK recruiter)",
     "tagline": "Inbound — off-target China-market roles",
@@ -2011,7 +2048,8 @@ const COMPANIES = [
         "history": [
           "2026-11-18 05:12 PM PT — cold INBOUND email (career Gmail, id 1a1f15d22c399e19; read in full by the 2026-11-18 evening email monitor): Staff Machine Learning Engineer at Ethos (life-insurance tech), remote, to own ML infrastructure — deployment pipelines, feature stores, monitoring — for product models (coverage recommendations, routing, agent assignment) and marketing models (attribution, incrementality, media mix). She offered a quick chat this/next week via a Nylas booking link. No comp in the email. Diligence done first (cold-inbound + comp-first rules); NO reply sent, NO call booked — awaiting Rui.",
           "2026-11-19 01:52 PM PT — PASSED by Rui Thu Nov 19, 13:52 PT: Rui replied 'pass' for both the Ethos and Babylist cold inbounds. Line CLOSED as a pass; no rejection letter was sent (a cold pitch is treated as passed by not replying; a polite decline can be sent later if Rui asks).",
-          "2026-11-23 11:00 AM PT — Toni Lopez sent a follow-up nudge Mon Nov 23, 11:00 AM PT (career Gmail, id 1a209c8ede84c965, thread 1a1f15d22c399e19; read by the 2026-11-23 midday email monitor): 'One more thing on the ML side at Ethos…' — adding that their underwriting engine makes ~95% of decisions instantly vs 20–30% industry average, pitching the same Staff MLE (ML infra) role. This line was already PASSED by Rui on 2026-11-19 and stays CLOSED; no reply was sent (cold-pitch pass convention)."
+          "2026-11-23 11:00 AM PT — Toni Lopez sent a follow-up nudge Mon Nov 23, 11:00 AM PT (career Gmail, id 1a209c8ede84c965, thread 1a1f15d22c399e19; read by the 2026-11-23 midday email monitor): 'One more thing on the ML side at Ethos…' — adding that their underwriting engine makes ~95% of decisions instantly vs 20–30% industry average, pitching the same Staff MLE (ML infra) role. This line was already PASSED by Rui on 2026-11-19 and stays CLOSED; no reply was sent (cold-pitch pass convention).",
+          "2026-11-26 09:19 AM PT — Toni Lopez sent a soft-close follow-up Thu Nov 26, 09:19 AM PT (career Gmail, id 1a218debbb92f4fc, thread 1a1f15d22c399e19; read by the 2026-11-26 morning email monitor): 'Completely understand if the timing is off, no worries at all! I'd be glad to reconnect further down the road. And if you'd like the details on the Staff Machine Learning Engineer role in the meantime, just reply and I'll send them over.' NO reply sent — this line was PASSED by Rui on 2026-11-19 and stays CLOSED, same as the Nov 23 nudge."
         ]
       }
     ],
@@ -2027,6 +2065,10 @@ const COMPANIES = [
       {
         "date": "2026-11-23",
         "text": "Toni Lopez follow-up nudge Mon Nov 23, 11:00 AM PT on the Staff MLE thread (underwriting-engine pitch). The line was already PASSED by Rui on Nov 19 and stays closed — no reply sent."
+      },
+      {
+        "date": "2026-11-26",
+        "text": "Toni Lopez soft-close follow-up Thu Nov 26, 09:19 AM PT on the Staff MLE thread — offered to reconnect later or send role details on request. No reply sent — Rui passed Ethos on Nov 19 and the line stays closed."
       }
     ],
     "intel": {
@@ -4275,6 +4317,43 @@ const COMPANIES = [
       "comp": null,
       "notes": [
         "Outreach direction set by Rui 2026-11-03: Staff+ / Senior Manager+ people in hot ML groups; engineers/managers get a text resume offer first."
+      ]
+    },
+    "interviews": []
+  },
+  {
+    "slug": "nexttoken",
+    "name": "NextToken",
+    "tagline": "Post-training / RL infra for deep web research (NextSearch-1 open-weights models) — ML Systems inbound via agency recruiter",
+    "valuation": null,
+    "valuation_detail": "Early/seed stage; ~$7M raised per job-listing aggregators (diligence 2026-11-26). Small early-stage team, Mountain View.",
+    "size": null,
+    "location": "Mountain View / San Francisco, CA",
+    "rto": null,
+    "status": "researching",
+    "contacts": [
+      {
+        "name": "Nadeem Shaikh",
+        "role": "Talent Partner, Saria Belmont (agency recruiter; signed 'Nadeem R')",
+        "linkedin": null,
+        "contact_status": "inbound_pending",
+        "date": "2026-11-26",
+        "history": [
+          "2026-11-26 11:50 AM PT — cold INBOUND email (career Gmail, id 1a2196891044116e; read by the 2026-11-26 midday email monitor): pitching an ML Systems Engineer role (post-training & RL infra — distributed rollout execution, post-training/RL, checkpoint evals, serving; vLLM/SGLang, GPU profiling, distributed training) at an unnamed early-stage AI company in Mountain View/SF that turns agent deployment data into evals/reward signals and post-trains models; recently released NextSearch-1 open-weights models. Asked for a quick call this week. No title level or comp band in the pitch. Per the cold-inbound rule, diligence was done first and NO reply was sent — awaiting Rui's decision.",
+          "2026-11-26 — Diligence (2026-11-26 midday email monitor, web check): company identified via NextSearch-1 as NextToken (nexttoken.co). Founders Nitish Kulkarni and Alankar Jain led search infrastructure and RL post-training for Google's AI Overviews and AI Mode. NextSearch-1 (Aug 2026) is a family of post-trained open-weights models for deep web research. ~$7M raised, small early-stage team, Mountain View. Comparable NextToken MTS postings list base $200K–$350K/yr. Assessment: tech fit is genuinely strong (search + post-training/RL infra maps directly to Rui's Coupang search ranking / discovery background, founders are search-infra peers), but the company is seed/early-stage — far below Rui's Series C–F / $3B–$30B target band, equity is lottery-value per his exit-path rule, and level/comp are undisclosed. Recommendation: likely pass on stage/comp grounds unless Rui wants an exploratory call for the tech fit. No reply sent."
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2026-11-26",
+        "text": "Cold inbound: Nadeem Shaikh (Saria Belmont) emailed Thu Nov 26, 11:50 AM PT pitching an ML Systems role (post-training & RL infra) at an unnamed early-stage Mountain View/SF company behind NextSearch-1. Diligence identified the company as NextToken (founders Nitish Kulkarni & Alankar Jain, ex-Google AI Overviews search infra / RL post-training; ~$7M raised; comparable MTS postings base $200K–$350K, no level/comp in the pitch). Strong tech fit but seed-stage, far below Rui's $3B–$30B / Series C–F band. Flagged to Rui, awaiting his decision; no reply sent."
+      }
+    ],
+    "intel": {
+      "comp": "No comp band in the pitch (2026-11-26). Comparable NextToken MTS postings list base $200K–$350K/yr (diligence 2026-11-26).",
+      "notes": [
+        "Diligence 2026-11-26: NextToken (nexttoken.co), Mountain View; founders Nitish Kulkarni and Alankar Jain led search infrastructure and RL post-training for Google's AI Overviews and AI Mode; NextSearch-1 (Aug 2026) is a family of post-trained open-weights models for deep web research; ~$7M raised per job-listing aggregators."
       ]
     },
     "interviews": []
